@@ -1,0 +1,86 @@
+{
+  "id": "abdullah_al_arif_dubai_tv_2724b6c9c507803b90ffc3c2fce9e7de",
+  "country_region": "UAE",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\\\UAE 2724b6c9c5078095b140c365b579e119\\\\Abdullah Al Arif_Dubai TV 2724b6c9c507803b90ffc3c2fce9e7de.md",
+  "created_at": "2025-09-19T10:38:06.531360",
+  "updated_at": "2025-09-19T10:38:06.531360",
+  "organization": "Dubai Media Incorporated (Dubai TV)",
+  "role": "Director of Content Strategy",
+  "commissioner_type": "editorial_director",
+  "email": "abdullah.arif@dmi.ae",
+  "location": "Dubai, UAE",
+  "name": "Abdullah Al Arif",
+  "background": "As Director of Content Strategy for Dubai TV, Abdullah Al Arif oversees documentary and factual commissioning aligned with UAE state media objectives. His priorities include showcasing Emirati culture, innovation and heritage while reinforcing national identity and values. DMI acts as a key government-affiliated broadcaster, with approvals often aligned to the UAE\u00199s National Media Council.",
+  "thematic_priorities": [
+    "Emirati culture, customs and oral history",
+    "National development, innovation and Expo legacy",
+    "Environmental sustainability in the Gulf",
+    "Family, religion and social cohesion"
+  ],
+  "themes": [
+    "arts_culture",
+    "history",
+    "science_tech",
+    "international",
+    "climate_environment",
+    "religion_philosophy",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Content that conflicts with UAE cultural or religious values",
+    "Projects lacking national identity or relevance"
+  ],
+  "target_audience": [
+    "Domestic UAE audiences",
+    "Regional viewers via satellite distribution"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "30-60 min one-offs",
+    "Series (2-34 episodes)"
+  ],
+  "formats": [
+    "one_off_special",
+    "series"
+  ],
+  "duration_categories": [
+    "standard",
+    "event_series"
+  ],
+  "budget_parameters": "AED 100,000–350,000 per hour",
+  "min_budget_usd": 27000,
+  "max_budget_usd": 94500,
+  "budget_range": "low",
+  "languages": [
+    "arabic",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K; Arabic or bilingual delivery",
+    "Approval by National Media Council may be required"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "hd",
+    "4k",
+    "cross_platform"
+  ],
+  "current_calls": [
+    "National development stories and Expo legacy projects",
+    "Heritage preservation documentaries"
+  ],
+  "submission_process": [
+    "Proposal in Arabic or English with synopsis, format and societal value"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

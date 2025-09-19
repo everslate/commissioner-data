@@ -86,12 +86,25 @@ class CommissionerConverter:
         return processed
     
     def _validate_converted_data(self, data: Dict[str, Any]) -> bool:
-        """Validate the converted data against the schema."""
+        """Validate the converted data against the original schema."""
         try:
             validate(instance=data, schema=self.validation_schema)
             return True
         except jsonschema.ValidationError as e:
             logger.error(f"Schema validation failed: {e.message}")
+            logger.error(f"Failed at path: {' -> '.join(str(p) for p in e.absolute_path)}")
+            return False
+        except Exception as e:
+            logger.error(f"Unexpected validation error: {e}")
+            return False
+    
+    def _validate_converted_data_structured(self, data: Dict[str, Any]) -> bool:
+        """Validate the converted data against the structured schema."""
+        try:
+            validate(instance=data, schema=self.structured_schema)
+            return True
+        except jsonschema.ValidationError as e:
+            logger.error(f"Structured schema validation failed: {e.message}")
             logger.error(f"Failed at path: {' -> '.join(str(p) for p in e.absolute_path)}")
             return False
         except Exception as e:
@@ -211,8 +224,8 @@ Ensure all required fields are populated and all enum values match exactly."""
                     results["failed"].append(commissioner_id)
                     continue
                 
-                # Validate converted data
-                if not self._validate_converted_data(converted_data):
+                # Validate converted data using the structured schema (since that's what we used for generation)
+                if not self._validate_converted_data_structured(converted_data):
                     logger.error(f"Validation failed for {commissioner_id}")
                     results["failed"].append(commissioner_id)
                     continue
@@ -251,7 +264,7 @@ Ensure all required fields are populated and all enum values match exactly."""
                 logger.error(f"Failed to convert {commissioner_id}")
                 return False
             
-            if not self._validate_converted_data(converted_data):
+            if not self._validate_converted_data_structured(converted_data):
                 logger.error(f"Validation failed for {commissioner_id}")
                 return False
             

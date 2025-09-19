@@ -24,3 +24,13 @@
 2025-09-19 11:35:58,035 - ERROR - Schema validation failed: 'Original data preserved from source; sanitized fields included for platform, commissioner_type, themes, and audience segments.' is not of type 'object'
 2025-09-19 11:35:58,036 - ERROR - Failed at path: additional_info
 2025-09-19 11:35:58,036 - ERROR - Validation failed for Abdullah_Al_Arif_UAE
+2025-09-19 11:37:24,179 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:37:24,180 - INFO - Converting single file: Abdullah_Al_Arif_UAE
+2025-09-19 11:38:06,442 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:38:06,543 - INFO - Successfully converted and saved Abdullah_Al_Arif_UAE
+2025-09-19 11:38:19,018 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:38:19,018 - INFO - Starting conversion process...
+2025-09-19 11:38:19,020 - INFO - Found 253 parsed files to process
+2025-09-19 11:38:19,020 - INFO - Already processed: 1 files
+2025-09-19 11:38:19,020 - INFO - Skipping Abdullah_Al_Arif_UAE - already processed
+2025-09-19 11:38:19,020 - INFO - Processing Abigail_Priddle_UK...

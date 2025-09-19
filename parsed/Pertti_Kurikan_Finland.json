@@ -1,0 +1,41 @@
+{
+  "id": "yle_pertti_kurikan_full_2724b6c9c50781adb2bad78d88fbc87f",
+  "country_region": "Finland",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Finland 2724b6c9c507807ba00cc3734f34a93d\\Yle_Pertti_Kurikan_FULL 2724b6c9c50781adb2bad78d88fbc87f.md",
+  "created_at": "2025-09-19T10:57:00.018435",
+  "updated_at": "2025-09-19T10:57:00.018441",
+  "organization": "Yle (Yleisradio)",
+  "role": "Commissioning Editor, Specialist Factual",
+  "email": "pertti.kurikan@yle.fi",
+  "location": "Helsinki, Finland",
+  "background": "Focuses on specialist factual programming across science, history and environment; seeks accessible storytelling with urgency and contemporary resonance.",
+  "thematic_priorities": [
+    "Engaging science storytelling",
+    "Historical narratives with modern relevance",
+    "Environmental themes with urgency"
+  ],
+  "content_not_wanted": [
+    "Dry, overly academic content with limited public appeal",
+    "Topics lacking strong visual storytelling or relevance"
+  ],
+  "target_audience": [
+    "Finnish general public with curiosity for science/history",
+    "Global co-pro partners for specialist factual themes"
+  ],
+  "format_specifications": [
+    "1-hour documentaries and series (2–6 episodes)"
+  ],
+  "budget_parameters": "Range: €30K–€150K per hour",
+  "technical_requirements": [
+    "Rigorous fact-checking; broadcast standards",
+    "Visualisation tools (CGI, archive) cleared for rights"
+  ],
+  "current_calls": [
+    "Environmental urgency docs",
+    "Science/tech explained with strong characters"
+  ],
+  "submission_process": [
+    "One-page outline + treatment with relevance and impact"
+  ],
+  "name": "Pertti Kurikan"
+}

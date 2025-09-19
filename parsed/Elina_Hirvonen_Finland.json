@@ -1,0 +1,42 @@
+{
+  "id": "mtv3_elina_hirvonen_full_2724b6c9c507810baccdc73ee85763ad",
+  "country_region": "Finland",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Finland 2724b6c9c507807ba00cc3734f34a93d\\MTV3_Elina_Hirvonen_FULL 2724b6c9c507810baccdc73ee85763ad.md",
+  "created_at": "2025-09-19T10:57:00.015785",
+  "updated_at": "2025-09-19T10:57:00.015787",
+  "organization": "MTV3 Finland",
+  "role": "Head of Factual",
+  "email": "elina.hirvonen@mtv.fi",
+  "location": "Helsinki, Finland",
+  "background": "Seeks broad-appeal factual entertainment and emotionally resonant series for mainstream Finnish audiences, emphasising accessibility and character-led storytelling.",
+  "thematic_priorities": [
+    "Factual entertainment formats and returnable series",
+    "True crime and mystery with Finnish relevance",
+    "Presenter or celebrity-driven factual formats",
+    "Family and community-focused series"
+  ],
+  "content_not_wanted": [
+    "Overly niche or artistic projects with limited commercial appeal",
+    "One-offs without potential for broad audience reach"
+  ],
+  "target_audience": [
+    "Mainstream Finnish audience, mass-market appeal",
+    "Core demo: families, 25–54 viewers"
+  ],
+  "format_specifications": [
+    "Returnable series; presenter-led or celebrity-driven"
+  ],
+  "budget_parameters": "Range: €25K–€100K per hour",
+  "technical_requirements": [
+    "Broadcast quality production",
+    "Clear episodic structures; adaptable for MTV Katsomo (streaming)"
+  ],
+  "current_calls": [
+    "High-profile true crime series",
+    "Family/community factual with emotional resonance"
+  ],
+  "submission_process": [
+    "One-page pitch with audience rationale"
+  ],
+  "name": "Elina Hirvonen"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "france24_marc_saikali_full_2724b6c9c50781b29530ea7f0ab25c17",
+  "country_region": "France 24",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 24 2724b6c9c507807bb244ed979e5f1919\\France24_Marc_Saikali_FULL 2724b6c9c50781b29530ea7f0ab25c17.md",
+  "created_at": "2025-09-19T10:57:00.021917",
+  "updated_at": "2025-09-19T10:57:00.021919",
+  "organization": "France 24 (France Médias Monde)",
+  "role": "Director",
+  "email": "marc.saikali@france24.com",
+  "location": "Paris, France",
+  "background": "Leads France 24’s global editorial and commissioning strategy. Focuses on factual programming that reflects French and European perspectives on global issues, with integrity and cross-border relevance.",
+  "thematic_priorities": [
+    "International conflict, diplomacy and current affairs",
+    "Environmental crises, migration and global justice",
+    "Human rights and underreported regions",
+    "French foreign policy and cross-cultural perspectives"
+  ],
+  "content_not_wanted": [
+    "Partisan or advocacy-only content",
+    "Projects without clear international impact"
+  ],
+  "target_audience": [
+    "Global France 24 audiences across French, English, Arabic and Spanish services",
+    "International viewers seeking European editorial perspective"
+  ],
+  "format_specifications": [
+    "13–26 min short docs",
+    "45–52 min one-offs"
+  ],
+  "budget_parameters": "Range: €10K–€120K per film",
+  "technical_requirements": [
+    "Broadcast + digital delivery",
+    "Multilingual subtitling (FR, EN, AR, ES)"
+  ],
+  "current_calls": [
+    "Docs on migration, climate and underreported regions",
+    "Projects linking French perspectives to global issues"
+  ],
+  "submission_process": [
+    "Editorially clear synopsis with narrative arc"
+  ],
+  "name": "Marc Saikali"
+}

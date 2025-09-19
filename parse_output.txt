@@ -1,0 +1,349 @@
+Found 267 profile files
+Parsing: AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727.md
+Parsing: AJE_Diarmuid_Jeffreys_FULL 2724b6c9c50781589077fd82745a8ee6.md
+Parsing: AJE_Felicity_Arbuthnot_FULL 2724b6c9c507817fa447f89420f9946a.md
+Parsing: AJplus_Commissioner_FULL 2724b6c9c50781b28246d21e27aa315c.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf\AJplus_Commissioner_FULL 2724b6c9c50781b28246d21e27aa315c.md
+Parsing: Amazon_Fozia_Khan_FULL 2724b6c9c507818b8a1dcf8bfa4a88b0.md
+Parsing: Amazon_Georgia_Brown_FULL 2724b6c9c50781de8794d7d7b2333a49.md
+Parsing: AppleTV_Alison_Kirkham_FULL 2724b6c9c50781edbdeaea866f5d1936.md
+Parsing: AppleTV_Jay_Hunt_FULL 2724b6c9c5078100a9cdef11459d6268.md
+Parsing: ABC_Kalita_Corrigan_FULL 2724b6c9c50781bc9979ce40235e97d0.md
+Parsing: ABC_Stephen_Oliver_FULL 2724b6c9c507811c9adfc3660be35fee.md
+Parsing: Foxtel_Wendy_Moore_FULL 2724b6c9c507810b8224d3e5ef8ad7ee.md
+Parsing: NITV_Tanya_Orman_FULL 2724b6c9c507812b9e71e9b6b3297dae.md
+Parsing: SBS_Joseph_Maxwell_FULL 2724b6c9c50781c6b919e2db1a1a3bd1.md
+Parsing: BBC_Christopher_Mitchell_FULL 2724b6c9c50781ee91ade95b99c57823.md
+Parsing: BBC_Mary_Wilkinson_FULL 2724b6c9c5078132a52be787cf307583.md
+Parsing: BBC_Nisha_Kapur_FULL 2724b6c9c50781c58990fa5649cc9c82.md
+Parsing: BBC_Sadeq_Saba_FULL 2724b6c9c5078157b269ea46575eea0f.md
+Parsing: BBC_Samir_Farah_FULL 2724b6c9c507816fbaa3c2cba370d55b.md
+Parsing: BBC_Solomon_Mugera_FULL 2724b6c9c5078121b452e232687773bd.md
+Parsing: AJB_Commissioner_FULL 2724b6c9c507817ca6e7e2a1da1ff0a4.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Bosnia 2724b6c9c50780208264def0d67988b4\AJB_Commissioner_FULL 2724b6c9c507817ca6e7e2a1da1ff0a4.md
+Parsing: BHRT_Amra_Sabic_El_Rayess_FULL 2724b6c9c50781a9ae96f63939b9901b.md
+Parsing: BHRT_Boris_Lalic_FULL 2724b6c9c5078194bd94f796d77747d8.md
+Parsing: Bell_Crave_Commissioning_FULL 2724b6c9c50781e681efdcfebc289e6d.md
+Parsing: Bell_DiscoveryCanada_Commissioning_FULL 2724b6c9c50781a183d1ccea2975c2d5.md
+Parsing: CBC_Jennifer_Dettman_FULL 2724b6c9c5078145bcf2f5e10fb8b8e4.md
+Parsing: HistoryCanada_Commissioning_FULL 2724b6c9c507818a93abcb7e2087471b.md
+Parsing: Rogers_Sportsnet_Commissioning_FULL 2724b6c9c50781a893fbf488ec2ef0c1.md
+Parsing: HRT_Ksenija_Foretic_FULL 2724b6c9c50781399264cfa73429ead6.md
+Parsing: HRT_Mislav_Togonal_FULL 2724b6c9c507816e87c4fe5d228f8aec.md
+Parsing: NovaTV_Commissioner_FULL 2724b6c9c50781399bc0de03eae62f95.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Croatia 2724b6c9c50780438279f8638f65ea78\NovaTV_Commissioner_FULL 2724b6c9c50781399bc0de03eae62f95.md
+Parsing: RTL_Croatia_Commissioner_FULL 2724b6c9c50781dfbf8cc89f4e05e95f.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Croatia 2724b6c9c50780438279f8638f65ea78\RTL_Croatia_Commissioner_FULL 2724b6c9c50781dfbf8cc89f4e05e95f.md
+Parsing: CT_Jan_Maxa_FULL 2724b6c9c50781d18dfbf46ac95d4bdd.md
+Parsing: CT_Kamila_Zlatuskova_FULL 2724b6c9c50781c5a5b1c9da5e87716f.md
+Parsing: Nova_Silvia_Majeska_FULL 2724b6c9c5078194a86dd1e80c5cabfc.md
+Parsing: Prima_Lenka_Hornova_FULL 2724b6c9c50781f199dec17fd9b3bcad.md
+Parsing: DR_Anders_Bruus_FULL 2724b6c9c50781618e8ed775599d1056.md
+Warning: Missing required field 'organization' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Anders_Bruus_FULL 2724b6c9c50781618e8ed775599d1056.md
+Warning: Missing required field 'role' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Anders_Bruus_FULL 2724b6c9c50781618e8ed775599d1056.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Anders_Bruus_FULL 2724b6c9c50781618e8ed775599d1056.md
+Warning: Missing required field 'location' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Anders_Bruus_FULL 2724b6c9c50781618e8ed775599d1056.md
+Parsing: DR_Anders_Riis-Hansen_FULL 2724b6c9c5078168a5d2d3f9de55efc7.md
+Warning: Missing required field 'organization' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Anders_Riis-Hansen_FULL 2724b6c9c5078168a5d2d3f9de55efc7.md
+Warning: Missing required field 'role' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Anders_Riis-Hansen_FULL 2724b6c9c5078168a5d2d3f9de55efc7.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Anders_Riis-Hansen_FULL 2724b6c9c5078168a5d2d3f9de55efc7.md
+Warning: Missing required field 'location' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Anders_Riis-Hansen_FULL 2724b6c9c5078168a5d2d3f9de55efc7.md
+Parsing: DR_Lasse_Bjoerch_FULL 2724b6c9c50781b7b672fecb7a36863a.md
+Warning: Missing required field 'organization' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Lasse_Bjoerch_FULL 2724b6c9c50781b7b672fecb7a36863a.md
+Warning: Missing required field 'role' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Lasse_Bjoerch_FULL 2724b6c9c50781b7b672fecb7a36863a.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Lasse_Bjoerch_FULL 2724b6c9c50781b7b672fecb7a36863a.md
+Warning: Missing required field 'location' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Lasse_Bjoerch_FULL 2724b6c9c50781b7b672fecb7a36863a.md
+Parsing: DR_Lotte_Mik-Meyer_FULL 2724b6c9c507815db4f6d212aad7b2b2.md
+Warning: Missing required field 'organization' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Lotte_Mik-Meyer_FULL 2724b6c9c507815db4f6d212aad7b2b2.md
+Warning: Missing required field 'role' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Lotte_Mik-Meyer_FULL 2724b6c9c507815db4f6d212aad7b2b2.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Lotte_Mik-Meyer_FULL 2724b6c9c507815db4f6d212aad7b2b2.md
+Warning: Missing required field 'location' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\DR_Lotte_Mik-Meyer_FULL 2724b6c9c507815db4f6d212aad7b2b2.md
+Parsing: TV2_Caroline_Una_Henningsen_FULL 2724b6c9c50781d48bbfefef460e8db8.md
+Warning: Missing required field 'organization' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Caroline_Una_Henningsen_FULL 2724b6c9c50781d48bbfefef460e8db8.md
+Warning: Missing required field 'role' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Caroline_Una_Henningsen_FULL 2724b6c9c50781d48bbfefef460e8db8.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Caroline_Una_Henningsen_FULL 2724b6c9c50781d48bbfefef460e8db8.md
+Warning: Missing required field 'location' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Caroline_Una_Henningsen_FULL 2724b6c9c50781d48bbfefef460e8db8.md
+Parsing: TV2_Henriette_Ladegaard-Pedersen_FULL 2724b6c9c507812d90a5d38b472481ab.md
+Warning: Missing required field 'organization' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Henriette_Ladegaard-Pedersen_FULL 2724b6c9c507812d90a5d38b472481ab.md
+Warning: Missing required field 'role' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Henriette_Ladegaard-Pedersen_FULL 2724b6c9c507812d90a5d38b472481ab.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Henriette_Ladegaard-Pedersen_FULL 2724b6c9c507812d90a5d38b472481ab.md
+Warning: Missing required field 'location' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Henriette_Ladegaard-Pedersen_FULL 2724b6c9c507812d90a5d38b472481ab.md
+Parsing: TV2_Kasper_Moeller_Jensen_FULL 2724b6c9c50781f08edfc799674ca616.md
+Warning: Missing required field 'organization' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Kasper_Moeller_Jensen_FULL 2724b6c9c50781f08edfc799674ca616.md
+Warning: Missing required field 'role' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Kasper_Moeller_Jensen_FULL 2724b6c9c50781f08edfc799674ca616.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Kasper_Moeller_Jensen_FULL 2724b6c9c50781f08edfc799674ca616.md
+Warning: Missing required field 'location' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Kasper_Moeller_Jensen_FULL 2724b6c9c50781f08edfc799674ca616.md
+Parsing: TV2_Tina_Gilsdorf_FULL 2724b6c9c5078118b8c9deab546a70f7.md
+Warning: Missing required field 'organization' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Tina_Gilsdorf_FULL 2724b6c9c5078118b8c9deab546a70f7.md
+Warning: Missing required field 'role' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Tina_Gilsdorf_FULL 2724b6c9c5078118b8c9deab546a70f7.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Tina_Gilsdorf_FULL 2724b6c9c5078118b8c9deab546a70f7.md
+Warning: Missing required field 'location' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\TV2_Tina_Gilsdorf_FULL 2724b6c9c5078118b8c9deab546a70f7.md
+Parsing: DW_Africa_FULL 2724b6c9c50781e99863ecc845339be5.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\DW_Africa_FULL 2724b6c9c50781e99863ecc845339be5.md
+Parsing: DW_Arabic_FULL 2724b6c9c5078148a708f3bfff7582ab.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\DW_Arabic_FULL 2724b6c9c5078148a708f3bfff7582ab.md
+Parsing: DW_Asia_FULL 2724b6c9c507814ba510e504cbc389bc.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\DW_Asia_FULL 2724b6c9c507814ba510e504cbc389bc.md
+Parsing: DW_Ines_Pohl_FULL 2724b6c9c5078198bc14f7ff839ecb14.md
+Parsing: DW_LatinAmerica_FULL 2724b6c9c507810fbb6cfb2749b002c5.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\DW_LatinAmerica_FULL 2724b6c9c507810fbb6cfb2749b002c5.md
+Parsing: DW_Miodrag_Soric_FULL 2724b6c9c507815f9b61dd75dc4ee689.md
+Parsing: DW_Sabine_Bohland_FULL 2724b6c9c50781aaa569f4d22b866c6c.md
+Parsing: AlHayah_Tamer_Morsi_FULL 2724b6c9c507819391dfd2c47b484cda.md
+Parsing: CBC_Head_Programming_FULL 2724b6c9c5078155a63dd66d79120369.md
+Parsing: DMC_Nadine_El_Sayed_FULL 2724b6c9c507811e9ee3cf38e4c458c5.md
+Parsing: ERTU_Mohamed_El_Beheiry_FULL 2724b6c9c50781ad9131d4e4efd84f4b.md
+Parsing: ERR_Krista_Lensin_FULL 2724b6c9c507813293f7d349e5f5c848.md
+Parsing: ERR_Tiina_Kaalep_FULL 2724b6c9c507812caf29deff93631aa3.md
+Parsing: ETVplus_Irina_Mihhailova_FULL 2724b6c9c50781de8febf9251b697b76.md
+Parsing: TV3_Anu_Valba_FULL 2724b6c9c5078109bbd7de5386410baa.md
+Parsing: AlfaTV_Local_FULL 2724b6c9c507815b9285ef07de4b7085.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Finland 2724b6c9c507807ba00cc3734f34a93d\AlfaTV_Local_FULL 2724b6c9c507815b9285ef07de4b7085.md
+Parsing: MTV3_Elina_Hirvonen_FULL 2724b6c9c507810baccdc73ee85763ad.md
+Parsing: Nordic_Streaming_FIN_FULL 2724b6c9c507819d8c0cf28205f6cb31.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\Finland 2724b6c9c507807ba00cc3734f34a93d\Nordic_Streaming_FIN_FULL 2724b6c9c507819d8c0cf28205f6cb31.md
+Parsing: Yle_Kaisa_Rastimo_FULL 2724b6c9c50781c38b0dc94413ee0da4.md
+Parsing: Yle_Pertti_Kurikan_FULL 2724b6c9c50781adb2bad78d88fbc87f.md
+Parsing: France24_Arabic_FULL 2724b6c9c507814b9c9aeb206133ab4e.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\France 24 2724b6c9c507807bb244ed979e5f1919\France24_Arabic_FULL 2724b6c9c507814b9c9aeb206133ab4e.md
+Parsing: France24_English_FULL 2724b6c9c5078188ac58e21f4736e412.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\France 24 2724b6c9c507807bb244ed979e5f1919\France24_English_FULL 2724b6c9c5078188ac58e21f4736e412.md
+Parsing: France24_French_FULL 2724b6c9c5078161b39bc18df8584ffc.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\France 24 2724b6c9c507807bb244ed979e5f1919\France24_French_FULL 2724b6c9c5078161b39bc18df8584ffc.md
+Parsing: France24_Marc_Saikali_FULL 2724b6c9c50781b29530ea7f0ab25c17.md
+Parsing: France24_Spanish_FULL 2724b6c9c50781709b9cdb84b46211d9.md
+Warning: Missing required field 'email' in notion\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\France 24 2724b6c9c507807bb244ed979e5f1919\France24_Spanish_FULL 2724b6c9c50781709b9cdb84b46211d9.md
+Parsing: Anne-Laure_Pauty_Netflix_France 2724b6c9c507818b8aaad62139f066e5.md
+Parsing: Ara_Aprikian_TF1 2724b6c9c5078137afafe852c2295196.md
+Parsing: Boris_Razon_ARTE_France 2724b6c9c507815ca41ef407e249c797.md
+Parsing: Catherine_Alvaresse_France_Tlvisions 2724b6c9c507819db843ed091fd0e2d3.md
+Parsing: Christine_Cauquelin_Canal 2724b6c9c50781ed9dfcf5ce4a55f832.md
+Parsing: Christine_Cauquelin_Plante 2724b6c9c507813cbb11f6fbf8d85f45.md
+Parsing: Emmanuel_Migeot_France_Tlvisions 2724b6c9c5078172b594dc83a7c70086.md
+Parsing: Fabrice_Puchault_ARTE_France 2724b6c9c5078187a369c3a37f2a95be.md
+Parsing: Florence_Duhayot_M6 2724b6c9c50781c6af00fcd656423e54.md
+Parsing: Frdric_Vergneres_France_Tlvisions 2724b6c9c507818f8358f99b5092cd50.md
+Parsing: Grald-Brice_Viret_Canal 2724b6c9c50781718a3ac5c1ad044875.md
+Parsing: Guillaume_Charles_M6 2724b6c9c5078127b30acb1b3b1ef89a.md
+Parsing: Hlne_Coldefy_ARTE_France 2724b6c9c50781d39c72c93b273845d1.md
+Parsing: Laurence_Honnorat_ARTE_France 2724b6c9c5078129a9e7c4512cd029da.md
+Parsing: Marc_Corstiaans_RMC_Dcouverte 2724b6c9c50781a7b10fd137c9abed45.md
+Parsing: Marie-Laure_Daridan_Amazon_Prime_Video_France 2724b6c9c50781b5bc08ea1156e65bc0.md
+Parsing: Marie-Pierre_Gracedieu_Canal 2724b6c9c5078177a2c0e9b47d676b7b.md
+Parsing: Mark_Edwards_ARTE_France 2724b6c9c5078100861ddbb59bbd6ce1.md
+Parsing: Matthieu_Porte_TF1 2724b6c9c50781989573c5f00605f064.md
+Parsing: Michel_Field_France_Tlvisions 2724b6c9c50781c7803dd39b638a8b31.md
+Parsing: Olivier_Agogu_Plante 2724b6c9c50781039806ef40dc0504b2.md
+Parsing: Pascal_Golomer_France_24 2724b6c9c507814aaabcc54d38ae1323.md
+Parsing: Pauline_Dauvin_Disney_France 2724b6c9c50781aba5b0da6bd31f4671.md
+Parsing: Pierre-Guillaume_Ledan_M6 2724b6c9c50781b6999ccb9ccc533620.md
+Parsing: Pierre_Block_de_Friberg_France_Tlvisions 2724b6c9c5078144b553f7dbfcd4e9ba.md
+Parsing: Renaud_Allilaire_Canal 2724b6c9c50781a99e6ee50fb6042cbe.md
+Parsing: Sara_May_Netflix_France 2724b6c9c50781cfb015cb1f3c82c5a4.md
+Parsing: Sophie_Chegaray_France_Tlvisions 2724b6c9c50781aab040e5d9b1161b6c.md
+Parsing: Sylvie_Braibant_France_24 2724b6c9c50781d7b1eed07b6f5839b2.md
+Parsing: Thierry_Mino_France_Tlvisions 2724b6c9c50781c6915adb86229c4b6f.md
+Parsing: Thomas_Dubois_Amazon_Prime_Video_France 2724b6c9c50781708e6afd759bc813c4.md
+Parsing: Vincent_Broussard_RMC_Dcouverte 2724b6c9c507813698c7fdb937d200ca.md
+Parsing: Xavier_Gandon_TF1 2724b6c9c5078148b361e26d1e4bec01.md
+Parsing: Anja_Wobken_Sky_Deutschland 2724b6c9c50781bda62bebf62fc0fd82.md
+Parsing: Bernd_Mtter_ARTE 2724b6c9c50781318276ea3947f5c816.md
+Parsing: Christian Deick, Terra X 2724b6c9c507805392fcd76c0a18c234.md
+Parsing: Christian_Asanger_Sky_Deutschland 2724b6c9c50781699783cefb68426039.md
+Parsing: Christoph Schneider, Das Erste 2724b6c9c507803cb355df70fdb8eeff.md
+Parsing: Hannes Hiller_ProSiebenSat 1 û Factual 2724b6c9c50780008b1bde83092b03b2.md
+Parsing: Hannes_Hiller_ProSiebenSat 1 2724b6c9c50781b4821bf8de8de527ec.md
+Parsing: Inga Leschek_RTL Deutschland 2724b6c9c50780c08178ce4c2f9279d4.md
+Parsing: Inga Lesche_Netflix Germany û Factual 2724b6c9c50780f199ded13d99ecb4d3.md
+Parsing: Jana Kaun_ProSiebenSat 1 û Factual 2724b6c9c5078083bb8bd147f393ade7.md
+Parsing: Jana_Kaun_ProSiebenSat 1 2724b6c9c50781ea9ae2f1c2687efa03.md
+Parsing: Kaspar Pfl³ger_Amazon Prime Video Germany û Factua 2724b6c9c50780558716e8231587feaa.md
+Parsing: Kathrin Brinkmann_ZDF û Factual 2724b6c9c50780cf93dbd8a4ecd56144.md
+Parsing: Katja Wildermuth_3sat û Factual 2724b6c9c507809fbdc2dfedbb86d8ef.md
+Parsing: Klaus Levendecker_ARD (Das Erste) 2724b6c9c5078066b68ce012f4f509b7.md
+Parsing: Marcus Ammon_Netflix Germany û Factual 2724b6c9c5078054bce8e64e933b402a.md
+Parsing: Marcus_Ammon_Netflix_Germany 2724b6c9c50781b0aa72d7dd86e5157d.md
+Parsing: Maria Weber_ARD (Das Erste) 2724b6c9c507803fb508cc7fea49cef4.md
+Parsing: Markus K³ttner_RTL 2724b6c9c507804c8180daa42919126d.md
+Parsing: Martin Pieper_ARTE û Factual 2724b6c9c50780459cacfe0e97e9dc45.md
+Parsing: Martin Thumm_ZDF 2724b6c9c5078074aae7d3f72f7b959e.md
+Parsing: Martin_Pieper_ARTE 2724b6c9c50781159c02dbf7ed58fd69.md
+Parsing: Michaela Kolster_PHOENIX 2724b6c9c50780c2843bcb6b6e81f8ea.md
+Parsing: Michaela Pilters_Deutsche Welle (DW) 2724b6c9c507808facd9d170a885bcf3.md
+Parsing: Michaela_Pilters_Deutsche_Welle_DW 2724b6c9c50781218293c23ca9a4e1a7.md
+Parsing: Peter Arens_ZDF 2724b6c9c50780748162d812a7046ba7.md
+Parsing: Philip Pratt_Amazon Prime Video Germany 2724b6c9c5078056bccfd294c3351e44.md
+Parsing: Rainer Baumgartner_3Sat 2724b6c9c507807c882fe93700abbcb0.md
+Parsing: Rainer_Baumgartner_3sat 2724b6c9c507818e8e75df8cfebf1e0b.md
+Parsing: Sebastian Arlt_RTL 2724b6c9c50780438805c200cead733d.md
+Parsing: Thomas Schreiber_ARD 2724b6c9c5078009b3d4cf59e1d46aec.md
+Parsing: Thomas_Stdter_PHOENIX 2724b6c9c507812d9d90daf262422214.md
+Parsing: Thorsten Karg_Deutsche Welle (DW) 2724b6c9c50780e589edeb27233c8411.md
+Parsing: Volker Heise_ZDF 2724b6c9c50780b29b26ec67679b8d9a.md
+Parsing: Wolfgang Link_ProSiebenSat 1 û Factual 2724b6c9c50780c8b879f3a096f8ac9c.md
+Parsing: Smaragda Kallitsi_ERT1 2724b6c9c50780cd98d1dc067fa16f22.md
+Parsing: Yiannis Papadopoulos_ERT 2724b6c9c5078058aab4d556d386a62f.md
+Parsing: Colm OÆCallaghan_RT╔ 2724b6c9c5078027a2bed66f1e702317.md
+Parsing: David Harvey_RT╔ 2724b6c9c5078072a841d2de7a467be1.md
+Parsing: Mßire NÝ Chonlßin_TG4 2724b6c9c5078011a462d8e23288d329.md
+Parsing: Guy Lavie_Yes Docu 2724b6c9c50780449052f43c76ba7ebe.md
+Parsing: Naomi Kaplowitz_HOT 8 2724b6c9c507809a9494d7f61b184fff.md
+Parsing: Orna Ben Dor_KAN 11 2724b6c9c507802db982e949b54abbac.md
+Parsing: Andrea Salerno_La Sept 2724b6c9c507801bbef8f8a40ecdc313.md
+Parsing: Chiara Cipolletta_Sky Italia 2724b6c9c507809ab999dfdf758bf9f4.md
+Parsing: Duilio Giammaria_RAI 2724b6c9c50780c4a6f7ff66cd5e657c.md
+Parsing: Laura Casarotto_Mediaset 2724b6c9c5078015bdacfdd34c973537.md
+Parsing: Keiko Bang_NHK 2724b6c9c50780229af8cf4643cb7eaf.md
+Parsing: Shigenori Aoyama_NHK Documentary Programs 2724b6c9c50780d39a2ec4807bd7c08f.md
+Parsing: Toru Shimada_NHK World-Japan (International Servic 2724b6c9c50780bb8d9bc54008215130.md
+Parsing: Yasushi Shiina_WOWOW 2724b6c9c50780d08ec6c8f549f3e204.md
+Parsing: [Unicode filename]
+Parsing: Ieva Benefelde_LTV 2724b6c9c50780e981b0e2c6ccb92656.md
+Parsing: [Unicode filename]
+Parsing: [Unicode filename]
+Parsing: [Unicode filename]
+Parsing: [Unicode filename]
+Parsing: [Unicode filename]
+Parsing: [Unicode filename]
+Parsing: Khadija Boujanoui_2M 2724b6c9c5078087a678d86a10237c0e.md
+Parsing: Rachid Bouksim_SNRT (Tamazight TV) 2724b6c9c50780f199c3c11e9f704396.md
+Parsing: Salwa Belkeziz_SNRT (Al Aoula û Channel 1) 2724b6c9c50780efb594ff5e6e94be91.md
+Parsing: Diego Bu±uel_Netflix Europe 2724b6c9c5078027b1d7f16397581598.md
+Parsing: Kate Townsend_Netflix Europe 2724b6c9c50780a5b0d4ede902dbccf7.md
+Parsing: Agnieszka Olejkowska_Polsat 2724b6c9c50780b7b3d0eebb131cb543.md
+Parsing: [Unicode filename]
+Parsing: Katarzyna Kieli_Discovery Poland 2724b6c9c507805ba781c782bf25ac6a.md
+Parsing: Krzysztof Noworyta_TVP 2724b6c9c507802cac0fd6a5061af7a7.md
+Parsing: Daniel Oliveira_SIC 2724b6c9c5078058b40fd8473f74789d.md
+Parsing: Helder Fragueiro_TVI 2724b6c9c5078009aaf5c6de751c5d89.md
+Parsing: JosÚ Fragoso_RTP 2724b6c9c50780b4b0efe9110b6df833.md
+Parsing: Miguel Sommer_RTP 2724b6c9c5078032bea8e6e3bebfb5c8.md
+Parsing: Dan Popescu_TVR 2724b6c9c507808f80eef6f24eaea1e1.md
+Parsing: [Unicode filename]
+Parsing: Fadel Zahreddine_MBC 2724b6c9c507802fbe51e7a9f7a05e65.md
+Parsing: Fahad Al Harbi_SBA 2724b6c9c50780c8a3dce4be0402fb94.md
+Parsing: Mohammed Alghamdi_ITHRA 2724b6c9c50780b19fd5f5ee02c8c76b.md
+Parsing: [Unicode filename]
+Parsing: [Unicode filename]
+Parsing: Tamara Skrozza_Nova S United Media 2724b6c9c50780d6be93cafeef3c8396.md
+Parsing: Carmen Ferreiro_Atresmedia (Antena 3, laSexta) 2724b6c9c50780019107c46c893dce41.md
+Parsing: Montserrat Iglesias_RTVE (Radio Televisi¾n Espa±ol 2724b6c9c50780759977db470a1b2511.md
+Parsing: Paolo Vasile_Mediaset Espa±a (Telecinco Cuatro) 2724b6c9c50780f08874e3800b962eba.md
+Parsing: Susana Herreras_Movistar Plus+ 2724b6c9c507809aac60e21d8812430b.md
+Parsing: Axel Arn÷_SVT 2724b6c9c50780acbb14e887073bcbf9.md
+Parsing: Eva Beckman_UR (Swedish Educational Broadcasting) 2724b6c9c50780ce9680ef7529a550be.md
+Parsing: Gunnar Rehlin_SVT 2724b6c9c507806ab6b7e87b320a3790.md
+Parsing: Magnus Vatn_Discovery Sweden (Warner Bros Discover 2724b6c9c50780168985ca94f50c7f34.md
+Parsing: ┼sa Sj÷berg_TV4 Sweden 2724b6c9c50780db91bddbaf122dc9b5.md
+Parsing: Andreas Bossard_Blue+ MySports (Swisscom) 2724b6c9c507805f8348c87d59d1ff9f.md
+Parsing: Monica Piffaretti_RSI 2724b6c9c50780c8b141d2c7750da2cd.md
+Parsing: Pierre-Adrian IrlÚ_RTS 2724b6c9c50780b089d7f256261778fb.md
+Parsing: Urs Augstburger_SRF 2724b6c9c507806bb631e32a56626016.md
+Parsing: [Unicode filename]
+Parsing: Esra Eren_Kanal D 2724b6c9c5078072bbe6f4d569450407.md
+Parsing: Fahrettin Altun_TRT 2724b6c9c5078051a2e6ebfc63a45973.md
+Parsing: Mehmet Demirhan_TRT Belgesel 2724b6c9c5078073a493fe9e9c4948d5.md
+Parsing: Abdullah Al Arif_Dubai TV 2724b6c9c507803b90ffc3c2fce9e7de.md
+Parsing: Fadel Zahreddine_MBC 2724b6c9c5078027afb2e262f50cb43b.md
+Parsing: Saeed Al Kaabi+_National Geographic Abu Dhabi 2724b6c9c50780f38bcbfc346e8fc52f.md
+Parsing: Abigail_Priddle_BBC 2734b6c9c50781ed9256d822dbd7f8e7.md
+Parsing: Adrian_Padmore_Channel_5 2734b6c9c507816ca8c5d0b83903f81a.md
+Parsing: Alisa_Pomeroy_Channel_4 2734b6c9c5078180a634cf089b5535f2.md
+Parsing: Amanda_Stavri_ITV 2734b6c9c507817aa4e5d630a3efe6f9.md
+Parsing: Amy_Flanagan_Channel_4 2734b6c9c50781459f6adedb64faa693.md
+Parsing: Beejal_Patel_BBC 2734b6c9c50781a183a8d635f0d15e75.md
+Parsing: Ben_Frow_Channel_5 2734b6c9c50781258524f61adf7e32dc.md
+Parsing: Bernadette_McDaid_National_Geographic_UK 2734b6c9c50781d3a31ad95b42f24d1d.md
+Parsing: Catherine_Catton_BBC 2734b6c9c507814b8c0cec73d03dbf4d.md
+Parsing: Charlotte_Reid_Discovery_UK 2734b6c9c50781d88380faed0714cfa9.md
+Parsing: Clare_Sillery_BBC 2734b6c9c50781f4a116dc9e1abe6e47.md
+Parsing: Danny_Horan_Channel_4 2734b6c9c50781b8a32fea721dbe90af.md
+Parsing: Dan_Grabiner_Amazon_Prime_Video_UK 2734b6c9c50781ff8191e045631d61db.md
+Parsing: David_Royle_Smithsonian_Channel_UK 2734b6c9c50781759f4cecfb8894d076.md
+Parsing: Diego_Buuel_Netflix_UK 2734b6c9c50781de8fc9e5056a9efb94.md
+Parsing: Guy_Davies_Channel_5 2734b6c9c5078111902ce3809ea4c931.md
+Parsing: Hayley_Reynolds_Sky 2734b6c9c50781309bf3eeeeddeb962c.md
+Parsing: Hilary_Rosen_UKTV_BBC_Studios 2734b6c9c50781f691b1c40054287c4b.md
+Parsing: Jack_Bootle_BBC 2734b6c9c507817ea9e3c171c6fda6b3.md
+Parsing: Jack_Bootle_BBC 2734b6c9c50781c8b40cf9cff13c89ad.md
+Parsing: Jonah_Weston_Channel_4 2734b6c9c50781ae936ef1baecf8572f.md
+Parsing: Jo_Clinton-Davis_ITV 2734b6c9c50781c3b727d97a4769e0da.md
+Parsing: Kate_Townsend_Netflix_UK 2734b6c9c5078153a2c5c4f45caec0e9.md
+Parsing: Kate_Townsend_Netflix_UK 2734b6c9c50781c080f4e75200b6ef85.md
+Parsing: Lucy_Willis_Channel_5 2734b6c9c507813b9939f7ae490dfef0.md
+Parsing: Molly_Thompson_Apple_TV_UK 2734b6c9c507817b8f0edc072cf7fdc1.md
+Parsing: Nasfim_Haque_BBC 2734b6c9c507810095e4dcd7de2598d9.md
+Parsing: Nasfim_Haque_BBC 2734b6c9c50781898d0ae5a5c345749d.md
+Parsing: Nicola_Lloyd_ITV 2734b6c9c507818cb08bd2b954a4c8ec.md
+Parsing: Patrick_Holland_BBC 2734b6c9c507819f8c8ad1a8a88a1570.md
+Parsing: Poppy_Dixon_Sky 2734b6c9c507813faf5be1c89167c824.md
+Parsing: Richard_Kingsbury_PBS_America_UK 2734b6c9c5078173822edcd6483348b6.md
+Parsing: Richard_Watsham_UKTV_BBC_Studios 2734b6c9c50781d882a5e1091165304d.md
+Parsing: Rita_Daniels_Channel_4 2734b6c9c50781909734fd684ee59856.md
+Parsing: Satmohan_Panesar_ITV 2734b6c9c507817892cdecbcef2baad4.md
+Parsing: Shaminder_Nahal_Channel_4 2734b6c9c50781d8b828c9e2978e76bd.md
+Parsing: Simon_Downing_Discovery_UK 2734b6c9c5078100abd1f4895af47a65.md
+Parsing: Simon_Young_BBC 2734b6c9c50781aaa1b1c279166402a5.md
+Parsing: Tom_Barry_Sky 2734b6c9c5078116acbee4259d9e2211.md
+Parsing: Victoria_Noble_Discovery_UK 2734b6c9c507814da334e300675c61d9.md
+Parsing: Dmytro Tkachenko_Suspilne (UA PBC û Public Broadca 2724b6c9c507807cb13ccc6a47a653be.md
+Parsing: Olga Nechaeva_ICTV 2724b6c9c507801e9a59e264dc68a96d.md
+Parsing: Tetiana Pushnova_1+1 Media 2724b6c9c50780239d9df2621f2a3445.md
+Parsing: ABCNews_Studios_Commissioning_FULL 2734b6c9c50781deaedfc3996a98e0ee.md
+Parsing: CBSNews_Commissioning_FULL 2734b6c9c50781458ce5c4e95aca3139.md
+Parsing: CBSNews_Commissioning_FULL 2734b6c9c50781dc8bddee89de7fa1b0.md
+Parsing: CNN_Films_Commissioning_FULL 2734b6c9c507816597b7df75f9a2e338.md
+Parsing: Discovery_US_Commissioning_FULL 2734b6c9c5078118b6d0f9cfff4477f8.md
+Parsing: HBO_DocumentaryFilms_Commissioning_FULL 2734b6c9c50781199858e51b38c32a23.md
+Parsing: NatGeo_US_Commissioning_FULL 2734b6c9c507817a8ba6e90d79587592.md
+Parsing: NBCNews_Studios_Commissioning_FULL 2734b6c9c507817d9516f7138af277b8.md
+Parsing: PBS_AmericanMasters_Commissioning_FULL 2734b6c9c50781bc95f0d15f6a4d1b60.md
+Parsing: PBS_Frontline_Commissioning_FULL 2734b6c9c507813bbe4fc14ac06617c0.md
+Parsing: PBS_Frontline_Commissioning_FULL 2734b6c9c50781d18524ca15153dea33.md
+Parsing: PBS_IndependentLens_Commissioning_FULL 2734b6c9c507818c81aaff673a5e45fd.md
+Parsing: PBS_POV_Commissioning_FULL 2734b6c9c50781c7ac07c58f38865ab4.md
+Parsing: Showtime_DocumentaryFilms_Commissioning_FULL 2734b6c9c5078102bb07ec31664638ca.md
+Parsing: Showtime_DocumentaryFilms_Commissioning_FULL 2734b6c9c5078153a271eee13cfc1886.md
+Parsing: Smithsonian_Commissioning_FULL 2734b6c9c50781cfada7f545128359b9.md
+Parsing: Amazon_US_Dan_Grabiner_FULL 2734b6c9c5078134a1d8f368ba814a35.md
+Parsing: AppleTV_US_Molly_Thompson_FULL 2734b6c9c50781588eb3d66f0f1a1c94.md
+Parsing: CuriosityStream_US_Rob_Burk_FULL 2734b6c9c5078159866dea89a64d6ca5.md
+Parsing: DisneyPlus_US_Kristen_Finney_FULL 2734b6c9c50781baa399daab5816850b.md
+Parsing: Hulu_US_Belisa_Balaban_FULL 2734b6c9c5078171ae93c80ed1cddb57.md
+Parsing: Netflix_US_Brandon_Riegg_FULL 2734b6c9c50781bf8dd4d229a0a6f258.md
+Parsing: Peacock_US_Rod_Aissa_FULL 2734b6c9c50781dab3a9fc8d3521d137.md
+Saved 267 commissioner profiles to commissioners_data.json
+
+=== PARSING STATISTICS ===
+Total commissioners: 267
+Countries/regions: 40
+Organizations: 158
+
+Countries/regions: Al Jazeera, Amazon Prime Europe, Apple TV Europe, Australia, BBC World News, Bosnia, Canada, Croatia, Czechia, Denmark, Deutsche Welle, Egypt, Estonia, Finland, France, France 24, Germany, Greece, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Morocco, Netflix Europe, Poland, Portugal, Romania, Saudi Arabia, Serbia, Spain, Sweden, Switzerland, Turkey, UAE, UK, USA Broadcasters, USA Streamers, Ukraine
+
+Field coverage:
+  additional_info: 108/267 (40.4%)
+  background: 183/267 (68.5%)
+  budget_parameters: 158/267 (59.2%)
+  content_not_wanted: 266/267 (99.6%)
+  country_region: 267/267 (100.0%)
+  created_at: 267/267 (100.0%)
+  current_calls: 158/267 (59.2%)
+  department: 109/267 (40.8%)
+  email: 245/267 (91.8%)
+  format_specifications: 158/267 (59.2%)
+  full_name: 109/267 (40.8%)
+  id: 267/267 (100.0%)
+  job_title: 109/267 (40.8%)
+  location: 259/267 (97.0%)
+  name: 267/267 (100.0%)
+  organization: 259/267 (97.0%)
+  professional_contact: 109/267 (40.8%)
+  reporting_structure: 109/267 (40.8%)
+  role: 259/267 (97.0%)
+  source_file: 267/267 (100.0%)
+  submission_process: 158/267 (59.2%)
+  target_audience: 266/267 (99.6%)
+  technical_requirements: 158/267 (59.2%)
+  thematic_priorities: 266/267 (99.6%)
+  updated_at: 267/267 (100.0%)

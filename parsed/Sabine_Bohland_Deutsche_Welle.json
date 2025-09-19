@@ -1,0 +1,43 @@
+{
+  "id": "dw_sabine_bohland_full_2724b6c9c50781aaa569f4d22b866c6c",
+  "country_region": "Deutsche Welle",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\\DW_Sabine_Bohland_FULL 2724b6c9c50781aaa569f4d22b866c6c.md",
+  "created_at": "2025-09-19T10:57:00.007508",
+  "updated_at": "2025-09-19T10:57:00.007511",
+  "organization": "Deutsche Welle (DW Documentary)",
+  "role": "Head of Documentaries & Reportage",
+  "email": "sabine.bohland@dw.com",
+  "location": "Bonn/Berlin, Germany",
+  "background": "Directs DW Documentary’s commissioning strategy, focusing on investigative, environmental, and human rights films with global impact and cinematic quality.",
+  "thematic_priorities": [
+    "Investigative storytelling",
+    "Climate change, environment and sustainability",
+    "Human rights and social justice issues"
+  ],
+  "content_not_wanted": [
+    "Projects lacking strong access or investigative depth",
+    "Content not globally relevant"
+  ],
+  "target_audience": [
+    "Global DW Documentary audiences",
+    "Festival circuits and digital-first viewers"
+  ],
+  "format_specifications": [
+    "TV hour (42–52 mins)",
+    "Short docs (12–30 mins)",
+    "Digital/mobile-first films (5–15 mins)"
+  ],
+  "budget_parameters": "Range: €5K–€80K per film",
+  "technical_requirements": [
+    "High-quality broadcast + online delivery",
+    "Multilingual adaptation required"
+  ],
+  "current_calls": [
+    "Human rights-focused projects",
+    "Climate and sustainability investigations"
+  ],
+  "submission_process": [
+    "Pitch deck with summary, access and intended audience"
+  ],
+  "name": "Sabine Bohland"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ajplus_commissioner_full_2724b6c9c50781b28246d21e27aa315c",
+  "country_region": "Al Jazeera",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf\\AJplus_Commissioner_FULL 2724b6c9c50781b28246d21e27aa315c.md",
+  "created_at": "2025-09-19T10:56:59.964245",
+  "updated_at": "2025-09-19T10:56:59.964249",
+  "organization": "Al Jazeera Digital",
+  "role": "Commissioning Editor, AJ+",
+  "email": "",
+  "location": "Doha, Qatar / San Francisco, USA",
+  "background": "AJ+ is Al Jazeera’s digital-first, youth-focused platform, commissioning short-form documentaries and social videos tailored for online audiences. AJ+ prioritises bold, progressive storytelling with emphasis on human rights, climate justice and social movements.",
+  "thematic_priorities": [
+    "Youth-led social justice movements",
+    "Climate justice and environmental activism",
+    "Human rights and civil society globally",
+    "Stories connecting local activism to global trends"
+  ],
+  "content_not_wanted": [
+    "Long-form content unsuitable for digital platforms",
+    "Projects without strong social media resonance"
+  ],
+  "target_audience": [
+    "Global digital-native audiences (18–35)",
+    "Social media users engaged with activism and justice"
+  ],
+  "format_specifications": [
+    "Short-form docs (5–15 mins)",
+    "Digital series with returnability"
+  ],
+  "budget_parameters": "USD $5K–$30K per short doc",
+  "technical_requirements": [
+    "Digital-first formats; mobile-optimised",
+    "Subtitling and social cutdowns required"
+  ],
+  "current_calls": [
+    "Youth-led climate and justice docs",
+    "Stories with viral/binge potential on social platforms"
+  ],
+  "submission_process": [
+    "Pitch via AJ+ editorial teams"
+  ],
+  "name": "AJ+"
+}

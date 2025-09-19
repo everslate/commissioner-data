@@ -1,0 +1,42 @@
+{
+  "id": "fahrettin_altun_trt_2724b6c9c5078051a2e6ebfc63a45973",
+  "country_region": "Turkey",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Turkey 2724b6c9c5078047a5fbd2fa0fb5dda8\\Fahrettin Altun_TRT 2724b6c9c5078051a2e6ebfc63a45973.md",
+  "created_at": "2025-09-19T10:57:00.160373",
+  "updated_at": "2025-09-19T10:57:00.160376",
+  "organization": "TRT (Turkish Radio and Television Corporation)",
+  "role": "Head of Strategic Communications",
+  "email": "fahrettin.altun@trt.net.tr",
+  "location": "Ankara, Turkey",
+  "background": "Leads TRT’s strategic communications and documentary commissioning aligned with state priorities. Focuses on projects reflecting Turkish national history, Islamic civilisation and cultural diplomacy.",
+  "thematic_priorities": [
+    "Ottoman and Islamic history",
+    "Turkish culture, migration and diaspora",
+    "Turkish soft power, diplomacy and regional narratives"
+  ],
+  "content_not_wanted": [
+    "Projects without alignment to Turkish cultural/political goals",
+    "Docs lacking historical or diplomatic resonance"
+  ],
+  "target_audience": [
+    "Turkish national audiences",
+    "International co-production partners aligned with TRT’s vision"
+  ],
+  "format_specifications": [
+    "Single docs (30–60 mins)",
+    "Series (3–6 parts)"
+  ],
+  "budget_parameters": "· Range: TRY 100,000–600,000 per hour",
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "RTÜK compliance and state-aligned protocols"
+  ],
+  "current_calls": [
+    "Projects highlighting Ottoman/Islamic history",
+    "Docs supporting Turkey’s cultural diplomacy"
+  ],
+  "submission_process": [
+    "Synopsis with political and cultural relevance"
+  ],
+  "name": "Fahrettin Altun"
+}

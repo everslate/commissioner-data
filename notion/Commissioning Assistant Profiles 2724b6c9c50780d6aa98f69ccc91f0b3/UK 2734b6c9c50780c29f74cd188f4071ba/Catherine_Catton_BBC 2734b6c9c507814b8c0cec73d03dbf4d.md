@@ -1,0 +1,130 @@
+# Catherine_Catton_BBC
+
+# Basic Information
+
+**Full Name:** Catherine Catton
+
+**Job Title:** Head of Commissioning, Popular Factual and Factual Entertainment
+
+**Department:** BBC – Factual
+
+**Organization:** BBC
+
+**Professional Contact:** catherine.catton@bbc.co.uk
+
+**Reporting Structure:** Not publicly specified
+
+**Location:** United Kingdom
+
+# Background & Programming Philosophy
+
+Catherine Catton serves as Head of Commissioning, Popular Factual and Factual Entertainment at BBC. Focus areas: Factual formats, popular factual. They are looking for: Returnable factual formats with broad appeal; factual series that can build into successful brands. Overall network strategy: The BBC seeks distinctive, authored documentary and specialist factual content that offers depth, intelligence and fresh perspectives while reflecting the diversity of UK audiences.
+
+# 📄 Commissioning Brief
+
+**Official Commissioning Brief**
+
+**URL:** TBC – see broadcaster's commissioning portal/contact
+
+**Last Updated:** May 2025
+
+**Thematic Priorities**
+
+- Commissioner-specific: Returnable factual formats with broad appeal; factual series that can build into successful brands
+- Landmark series (3–6 episodes) that can define BBC Two's factual offering
+- Single documentaries (60–90 minutes) with strong authorial voices
+- Access-led series with institutions or communities rarely seen on television
+- Character-driven documentary series featuring extraordinary individuals or professions
+- Contemporary social issues explored through personal stories
+- Strong emphasis on diversity both on-screen and in production teams
+- Natural history programming with innovative visual approaches and storytelling techniques
+- Science programming that makes complex topics accessible without oversimplification
+- History documentaries that connect past events to contemporary issues
+- Arts programming that celebrates British cultural excellence
+- Religion and ethics documentaries exploring faith in the modern world
+- Mixed-media approaches combining archive, animation and dramatic reconstruction
+- Preferred format: 3-part series for weekday 9pm slots
+
+**Content Not Wanted**
+
+Not publicly specified
+
+**Target Audience**
+
+Broad UK audiences across BBC channels and iPlayer
+
+# 📺 Format Specifications
+
+**Preferred Lengths:** Singles 60–90'; series 3–6×60' (features 90' where noted)
+
+**Series vs. One-off:** Both, depending on story and slot
+
+**Scheduling:** Primetime where applicable; platform premieres for streamers
+
+**Platforms:** Linear broadcast and/or streaming platform
+
+**Co-production:** Open to international co-productions where aligned
+
+**Typical Episode Counts:** 3–10 for series, depending on strand
+
+# 💷 Budget Parameters
+
+**Budget Ranges:** Documentary: £150K–£350K per hour (higher for landmark series with international appeal); Specialist Factual: £180K–£350K per hour
+
+**Co-financing Expectations:** Co-productions encouraged where appropriate
+
+**Development Funding:** Not publicly specified
+
+**Rights Requirements:** Varies by broadcaster/platform; align with public service/commercial remit
+
+**Production Budget Tiers:** Not publicly specified
+
+# 🛠️ Technical Requirements
+
+**Delivery Specifications:** Broadcast/streaming standards; details provided upon commissioning
+
+**Platform Requirements:** Broadcaster/platform-specific deliverables
+
+**Accessibility:** Subtitles/captions; audio description per broadcaster requirements
+
+**Graphics & Branding:** Adherence to broadcaster branding guidelines
+
+**Language & Subtitles:** English; multilingual where applicable
+
+# 📢 Current Specific Calls
+
+Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included.
+
+# 📤 Submission Process
+
+- Indicate channel and slot
+- One-page outline with premise, format, and episode breakdown
+- Details of secured or potential access
+- Key talent and production team credentials
+- Comparable successful examples
+- Potential for digital/multiplatform extensions
+- Submit via BBC Pitch: www.bbc.co.uk/commissioning
+
+# 🎬 Recent Representative Commissions
+
+TBC – add individual’s recent commissions after external research.
+
+# 🔍 Focus on Specialist Areas
+
+- Factual formats, popular factual
+
+# 📅 Additional Information
+
+**Commissioning Cycles:** Ongoing; submissions accepted year-round unless strand-specific
+
+**Strategic Shifts:** Increasing focus on distinctive voices and cross-platform reach
+
+**Organizational Changes:** Not publicly specified
+
+**Diversity & Inclusion:** Emphasis on diverse voices on- and off-screen
+
+**Sustainability:** Encouragement of sustainable production practices
+
+**Regional Production:** Support for projects across the UK (where applicable)
+
+**Independent Production:** Open to pitches from independent producers/companies

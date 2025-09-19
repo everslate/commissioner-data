@@ -1,0 +1,42 @@
+{
+  "id": "historycanada_commissioning_full_2724b6c9c507818a93abcb7e2087471b",
+  "country_region": "Canada",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Canada 2724b6c9c50780bf8638e2db620d6a93\\HistoryCanada_Commissioning_FULL 2724b6c9c507818a93abcb7e2087471b.md",
+  "created_at": "2025-09-19T10:56:59.984485",
+  "updated_at": "2025-09-19T10:56:59.984488",
+  "organization": "Corus (History Channel Canada)",
+  "role": "Factual Programming",
+  "email": "history.commissioning@corusent.com",
+  "location": "Toronto, Canada",
+  "background": "History Channel Canada commissions factual content focused on Canadian history, military heritage and true crime. Content must have both Canadian relevance and international sales potential.",
+  "thematic_priorities": [
+    "Canadian history and heritage",
+    "Military history",
+    "True crime"
+  ],
+  "content_not_wanted": [
+    "Projects without Canadian angle",
+    "Weak access"
+  ],
+  "target_audience": [
+    "Canadian specialty audiences",
+    "Global history buyers"
+  ],
+  "format_specifications": [
+    "Series (3–6 parts)",
+    "One-offs"
+  ],
+  "budget_parameters": "CAD $150K–$500K per hour",
+  "technical_requirements": [
+    "Broadcast HD/4K",
+    "Archive clearance required"
+  ],
+  "current_calls": [
+    "Docs on Canadian military history",
+    "True crime franchises"
+  ],
+  "submission_process": [
+    "Submit via Corus specialty content team"
+  ],
+  "name": "History Channel Canada Commissioning Team"
+}

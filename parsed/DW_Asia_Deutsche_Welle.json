@@ -1,0 +1,42 @@
+{
+  "id": "dw_asia_full_2724b6c9c507814ba510e504cbc389bc",
+  "country_region": "Deutsche Welle",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\\DW_Asia_FULL 2724b6c9c507814ba510e504cbc389bc.md",
+  "created_at": "2025-09-19T10:57:00.003517",
+  "updated_at": "2025-09-19T10:57:00.003521",
+  "organization": "Deutsche Welle (DW Language Services)",
+  "role": "Regional Commissioning (Asia Service)",
+  "email": "",
+  "location": "Asia (regional hubs)",
+  "background": "DW Asia produces factual content across Hindi, Urdu, Bengali, Indonesian, Mandarin and other languages, focusing on democracy, technology, health and development in Asia.",
+  "thematic_priorities": [
+    "Democracy and governance",
+    "Technology and innovation",
+    "Health and development challenges"
+  ],
+  "content_not_wanted": [
+    "Projects without Asian resonance",
+    "Content lacking youth or societal focus"
+  ],
+  "target_audience": [
+    "Asian audiences via local languages",
+    "DW global audiences via subtitled versions"
+  ],
+  "format_specifications": [
+    "Short-form (5–15 mins)",
+    "Digital/mobile-first projects"
+  ],
+  "budget_parameters": "Range: €5K–€25K per film",
+  "technical_requirements": [
+    "Local language delivery",
+    "Subtitles for wider reach"
+  ],
+  "current_calls": [
+    "Youth and innovation projects",
+    "Docs on democracy in Asia"
+  ],
+  "submission_process": [
+    "Submit in regional languages with local production partner"
+  ],
+  "name": "DW Asia"
+}

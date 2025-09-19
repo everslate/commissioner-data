@@ -1,0 +1,129 @@
+# Xavier_Gandon_TF1
+
+# Basic Information
+
+**Full Name:** Xavier Gandon
+
+**Job Title:** Programming Director
+
+**Department:** TF1 – Factual
+
+**Organization:** TF1
+
+**Professional Contact:** xgandon@tf1.fr
+
+**Reporting Structure:** Not publicly specified
+
+**Location:** France
+
+# Background & Programming Philosophy
+
+Xavier Gandon serves as Programming Director at TF1. Focus areas: Overall programming strategy. They are looking for: Prime-time factual specials with event potential; high-impact documentary series for key slots. Overall network strategy: TF1 seeks broadly accessible factual content with high entertainment value and commercial appeal, focusing on familiar institutions, engaging personalities, and relatable stories that connect with mainstream French audiences.
+
+# 📄 Commissioning Brief
+
+**Official Commissioning Brief**
+
+**URL:** TBC – see broadcaster's commissioning portal/contact
+
+**Last Updated:** May 2025
+
+**Thematic Priorities**
+
+- Commissioner-specific: Prime-time factual specials with event potential; high-impact documentary series for key slots
+- Broadly accessible factual content with high entertainment value
+- Access-led documentary series with strong personalities
+- Behind-the-scenes at familiar French institutions
+- Character-driven factual series with relatable individuals
+- Social experiments / reality-based formats with documentary elements
+- Event documentaries tied to significant national occasions
+- Crime documentaries with emotional impact and resolution
+- Preferred format: Series (4–8 episodes) with return potential
+- Limited interest in singles unless tied to major events
+- Very limited specialist factual commissioning
+- History docs with strong narrative storytelling and broad appeal
+- Science programming accessible to mainstream audiences
+- Preferred format: Event specials (90–120') or limited series (2–3 episodes)
+
+**Content Not Wanted**
+
+Not publicly specified
+
+**Target Audience**
+
+Broad mainstream French audiences; younger-skewing where applicable
+
+# 📺 Format Specifications
+
+**Preferred Lengths:** Series-led (4–8×52–60'); singles only for events
+
+**Series vs. One-off:** Both, depending on story and slot
+
+**Scheduling:** Primetime/flagship slots where applicable; platform premieres for streamers
+
+**Platforms:** Linear broadcast and/or streaming platform
+
+**Co-production:** Open to international co-productions where aligned
+
+**Typical Episode Counts:** 3–10 for series, depending on strand
+
+# 💷 Budget Parameters
+
+**Budget Ranges:** Documentary: €120K–€300K per hour; Specialist Factual: €150K–€350K per hour
+
+**Co-financing Expectations:** Co-productions encouraged where appropriate
+
+**Development Funding:** Not publicly specified
+
+**Rights Requirements:** Varies by broadcaster/platform; align with public service/commercial remit
+
+**Production Budget Tiers:** Not publicly specified
+
+# 🛠️ Technical Requirements
+
+**Delivery Specifications:** Broadcast/streaming standards; details provided upon commissioning
+
+**Platform Requirements:** Broadcaster/platform-specific deliverables
+
+**Accessibility:** Subtitles/captions; audio description per broadcaster requirements
+
+**Graphics & Branding:** Adherence to broadcaster branding guidelines
+
+**Language & Subtitles:** French and/or English; multilingual where applicable
+
+# 📢 Current Specific Calls
+
+Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included.
+
+# 📤 Submission Process
+
+- One-page outline with headline, premise and format
+- Explanation of mainstream appeal elements
+- Secured or potential access/contributors
+- Talent attachments or suggestions
+- Comparable successful TF1 examples
+- Submit via TF1 portal: www.tf1pro.com
+
+# 🎬 Recent Representative Commissions
+
+TBC – add individual’s recent commissions after external research.
+
+# 🔍 Focus on Specialist Areas
+
+- Overall programming strategy
+
+# 📅 Additional Information
+
+**Commissioning Cycles:** Ongoing; submissions accepted year-round unless strand-specific
+
+**Strategic Shifts:** Increasing focus on distinctive voices and cross-platform reach
+
+**Organizational Changes:** Not publicly specified
+
+**Diversity & Inclusion:** Emphasis on diverse voices on- and off-screen
+
+**Sustainability:** Encouragement of sustainable production practices
+
+**Regional Production:** Support for projects across French regions (where applicable)
+
+**Independent Production:** Open to pitches from independent producers/companies

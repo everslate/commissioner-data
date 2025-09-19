@@ -1,0 +1,39 @@
+{
+  "id": "france24_french_full_2724b6c9c5078161b39bc18df8584ffc",
+  "country_region": "France 24",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 24 2724b6c9c507807bb244ed979e5f1919\\France24_French_FULL 2724b6c9c5078161b39bc18df8584ffc.md",
+  "created_at": "2025-09-19T10:57:00.021273",
+  "updated_at": "2025-09-19T10:57:00.021276",
+  "organization": "France 24 (France Médias Monde)",
+  "role": "Commissioning Editor, French Service",
+  "email": "",
+  "location": "Paris, France",
+  "background": "France 24’s French-language commissioning team focuses on Francophone audiences worldwide. Prioritises French perspectives on diplomacy, culture and global affairs.",
+  "thematic_priorities": [
+    "French foreign policy",
+    "Francophone Africa and global development",
+    "European diplomacy and culture"
+  ],
+  "content_not_wanted": [
+    "Projects without Francophone or French perspective"
+  ],
+  "target_audience": [
+    "Francophone global audiences"
+  ],
+  "format_specifications": [
+    "13–26 min short docs",
+    "45–52 min one-offs"
+  ],
+  "budget_parameters": "Range: €10K–€120K per film",
+  "technical_requirements": [
+    "Broadcast standards",
+    "Subtitling (FR/EN/AR/ES)"
+  ],
+  "current_calls": [
+    "Projects aligned with service-specific audiences"
+  ],
+  "submission_process": [
+    "Proposals relevant to language service audiences"
+  ],
+  "name": "France 24 French Service"
+}

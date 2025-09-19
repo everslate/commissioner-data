@@ -1,0 +1,5 @@
+# Amazon Prime Europe
+
+[Amazon_Georgia_Brown_FULL](Amazon%20Prime%20Europe%202724b6c9c507805eaf17c4233207e469/Amazon_Georgia_Brown_FULL%202724b6c9c50781de8794d7d7b2333a49.md)
+
+[Amazon_Fozia_Khan_FULL](Amazon%20Prime%20Europe%202724b6c9c507805eaf17c4233207e469/Amazon_Fozia_Khan_FULL%202724b6c9c507818b8a1dcf8bfa4a88b0.md)

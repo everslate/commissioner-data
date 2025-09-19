@@ -1,0 +1,42 @@
+{
+  "id": "smaragda_kallitsi_ert1_2724b6c9c50780cd98d1dc067fa16f22",
+  "country_region": "Greece",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Greece 2724b6c9c50780ecb3e4cfcb879eac37\\Smaragda Kallitsi_ERT1 2724b6c9c50780cd98d1dc067fa16f22.md",
+  "created_at": "2025-09-19T10:57:00.118642",
+  "updated_at": "2025-09-19T10:57:00.118645",
+  "organization": "ERT (Hellenic Broadcasting Corporation)",
+  "role": "Head of Documentaries, ERT1",
+  "email": "smaragda.kallitsi@ert.gr",
+  "location": "Athens, Greece",
+  "background": "Oversees documentary commissioning for ERT1. Focuses on cultural heritage, democracy and social issues told through compelling, author-driven storytelling.",
+  "thematic_priorities": [
+    "Greek history, archaeology and mythology",
+    "Democracy and civil society",
+    "Migration and social transformation"
+  ],
+  "content_not_wanted": [
+    "Projects without Greek or European cultural context",
+    "Superficial stories without strong narrative arc"
+  ],
+  "target_audience": [
+    "Greek public service audiences",
+    "European co-production partners"
+  ],
+  "format_specifications": [
+    "26–52 min films",
+    "2–4 part series"
+  ],
+  "budget_parameters": "· Range: €10K–€80K per hour · Higher for co-productions",
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Greek/English delivery"
+  ],
+  "current_calls": [
+    "Cultural heritage projects",
+    "Docs on democracy and social change"
+  ],
+  "submission_process": [
+    "Proposal in Greek/English with story outline"
+  ],
+  "name": "Smaragda Kallitsi"
+}

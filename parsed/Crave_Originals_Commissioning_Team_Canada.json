@@ -1,0 +1,42 @@
+{
+  "id": "bell_crave_commissioning_full_2724b6c9c50781e681efdcfebc289e6d",
+  "country_region": "Canada",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Canada 2724b6c9c50780bf8638e2db620d6a93\\Bell_Crave_Commissioning_FULL 2724b6c9c50781e681efdcfebc289e6d.md",
+  "created_at": "2025-09-19T10:56:59.982351",
+  "updated_at": "2025-09-19T10:56:59.982355",
+  "organization": "Bell Media (Crave)",
+  "role": "Documentary Originals",
+  "email": "crave.originals@bellmedia.ca",
+  "location": "Toronto, Canada",
+  "background": "Crave Originals commissions premium documentary features and event series with international potential. Content must be cinematic, distinctive and brand-defining.",
+  "thematic_priorities": [
+    "True crime and scandal",
+    "Arts, music and celebrity",
+    "Political and social investigations"
+  ],
+  "content_not_wanted": [
+    "Low-budget factual entertainment",
+    "Projects without festival potential"
+  ],
+  "target_audience": [
+    "Crave subscribers in Canada",
+    "International audiences via Bell Media distribution"
+  ],
+  "format_specifications": [
+    "Feature-length docs (90 mins)",
+    "Event series (3–6 parts)"
+  ],
+  "budget_parameters": "CAD $250K–$1M per hour",
+  "technical_requirements": [
+    "Cinematic 4K delivery",
+    "Festival-ready"
+  ],
+  "current_calls": [
+    "Premium crime docs",
+    "Music/celebrity event series"
+  ],
+  "submission_process": [
+    "Pitch via Crave commissioning team"
+  ],
+  "name": "Crave Originals Commissioning Team"
+}

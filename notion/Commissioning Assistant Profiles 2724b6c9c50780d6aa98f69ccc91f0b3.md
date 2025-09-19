@@ -1,0 +1,81 @@
+# Commissioning Assistant Profiles
+
+[Al Jazeera](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Al%20Jazeera%202724b6c9c5078026b2b5e871da72fbbf.md)
+
+[Amazon Prime Europe](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Amazon%20Prime%20Europe%202724b6c9c507805eaf17c4233207e469.md)
+
+[Apple TV Europe](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Apple%20TV%20Europe%202724b6c9c50780e5a76de4d2b4c6ae6d.md)
+
+[Australia](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Australia%202724b6c9c50780149be7d2c1ef663456.md)
+
+[BBC World News](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/BBC%20World%20News%202724b6c9c507809fbd5fc254590b3def.md)
+
+[Bosnia](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Bosnia%202724b6c9c50780208264def0d67988b4.md)
+
+[Canada](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Canada%202724b6c9c50780bf8638e2db620d6a93.md)
+
+[Croatia](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Croatia%202724b6c9c50780438279f8638f65ea78.md)
+
+[Czechia](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Czechia%202724b6c9c50780cfb3c1dc1ce541f06e.md)
+
+[Denmark](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Denmark%202724b6c9c50780d29db3c39c2c1bfd58.md)
+
+[Deutsche Welle](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Deutsche%20Welle%202724b6c9c50780038736c8dc0cf47173.md)
+
+[Egypt](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Egypt%202724b6c9c50780cba64ffc4ed637547a.md)
+
+[Estonia](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Estonia%202724b6c9c50780d1891adfafdd2842fa.md)
+
+[Finland](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Finland%202724b6c9c507807ba00cc3734f34a93d.md)
+
+[France 24](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/France%2024%202724b6c9c507807bb244ed979e5f1919.md)
+
+[France](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/France%202724b6c9c50780e69c7ef22205451312.md)
+
+[Germany](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Germany%202724b6c9c50780b584c2e5268f3d3b7b.md)
+
+[Greece](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Greece%202724b6c9c50780ecb3e4cfcb879eac37.md)
+
+[Ireland](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Ireland%202724b6c9c507807faec5f3d43d21d5a3.md)
+
+[Israel](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Israel%202724b6c9c5078064a4dfc54704d3e78b.md)
+
+[Italy](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Italy%202724b6c9c50780f988fde49d9755f91e.md)
+
+[Japan](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Japan%202724b6c9c507806a9dd4c1d6efeaafb6.md)
+
+[Latvia](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Latvia%202724b6c9c50780559dd1fb5ce8c30252.md)
+
+[Lithuania](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Lithuania%202724b6c9c507807ca083e4e491ee46d8.md)
+
+[Morocco](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Morocco%202724b6c9c507803780e0e0447bc78e2d.md)
+
+[Netflix Europe](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Netflix%20Europe%202724b6c9c50780dbb54ffae20964dbf7.md)
+
+[Poland](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Poland%202724b6c9c507806bb7bbce61c8d54aaf.md)
+
+[Portugal](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Portugal%202724b6c9c50780788043d1865abf110c.md)
+
+[Romania](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Romania%202724b6c9c5078077bf09e3e204d8d118.md)
+
+[Saudi Arabia](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Saudi%20Arabia%202724b6c9c507806abcd8c823c5fdd4df.md)
+
+[Serbia](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Serbia%202724b6c9c5078082851fca8f06d4f81c.md)
+
+[Spain](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Spain%202724b6c9c50780c188eadc3017783eb5.md)
+
+[Sweden](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Sweden%202724b6c9c50780a8953ae65d9ebe8508.md)
+
+[Switzerland](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Switzerland%202724b6c9c50780deb4dcf97d16c22ace.md)
+
+[Turkey](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Turkey%202724b6c9c5078047a5fbd2fa0fb5dda8.md)
+
+[UAE](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/UAE%202724b6c9c5078095b140c365b579e119.md)
+
+[Ukraine](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/Ukraine%202724b6c9c507806dae59de758a0ffde2.md)
+
+[UK](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/UK%202734b6c9c50780c29f74cd188f4071ba.md)
+
+[USA Broadcasters](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/USA%20Broadcasters%202734b6c9c507809eb608e85ec173de4b.md)
+
+[USA Streamers](Commissioning%20Assistant%20Profiles%202724b6c9c50780d6aa98f69ccc91f0b3/USA%20Streamers%202734b6c9c5078071960ac349221c2060.md)

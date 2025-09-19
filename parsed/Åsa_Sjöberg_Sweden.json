@@ -1,0 +1,42 @@
+{
+  "id": "sa_sj_berg_tv4_sweden_2724b6c9c50780db91bddbaf122dc9b5",
+  "country_region": "Sweden",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Sweden 2724b6c9c50780a8953ae65d9ebe8508\\Åsa Sjöberg_TV4 Sweden 2724b6c9c50780db91bddbaf122dc9b5.md",
+  "created_at": "2025-09-19T10:57:00.155521",
+  "updated_at": "2025-09-19T10:57:00.155525",
+  "organization": "TV4 Sweden",
+  "role": "Head of Content",
+  "email": "asa.sjoberg@tv4.se",
+  "location": "Stockholm, Sweden",
+  "background": "Oversees factual and entertainment commissioning; seeks mass appeal, emotional resonance, relatable characters and accessible formats for Swedish mainstream audiences.",
+  "thematic_priorities": [
+    "Family, health and social issue documentaries",
+    "Crime and justice series with unique access",
+    "Returnable factual entertainment formats",
+    "Celebrity or presenter-led explorations"
+  ],
+  "content_not_wanted": [
+    "Formats lacking broad audience relevance",
+    "Overly experimental projects with limited scalability"
+  ],
+  "target_audience": [
+    "Mass Swedish audience across demographics",
+    "Core 25–54 viewers with family and lifestyle interest"
+  ],
+  "format_specifications": [
+    "Series formats; feature-length singles where impactful"
+  ],
+  "budget_parameters": "· Range: SEK 250K–1M per hour",
+  "technical_requirements": [
+    "Broadcast standard production quality",
+    "Content adaptable for TV4 linear and streaming"
+  ],
+  "current_calls": [
+    "Broad appeal emotional documentaries",
+    "Crime with exclusive access or new perspective"
+  ],
+  "submission_process": [
+    "One-pager or deck with premise, emotional hooks and format"
+  ],
+  "name": "Åsa Sjöberg"
+}

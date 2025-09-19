@@ -1,0 +1,40 @@
+{
+  "id": "showtime_documentaryfilms_commissioning_full_2734b6c9c5078153a271eee13cfc1886",
+  "country_region": "USA Broadcasters",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\Showtime_DocumentaryFilms_Commissioning_FULL 2734b6c9c5078153a271eee13cfc1886.md",
+  "created_at": "2025-09-19T10:57:00.232443",
+  "updated_at": "2025-09-19T10:57:00.232446",
+  "organization": "Showtime Documentary Films",
+  "role": "Executive VP, Nonfiction Programming",
+  "email": "showtime.docs@paramount.com",
+  "location": "Los Angeles, USA",
+  "background": "Showtime commissions provocative, politically charged and socially relevant documentaries with bold voices and cinematic style.",
+  "thematic_priorities": [
+    "Politics and justice",
+    "Culture and music",
+    "Contemporary US society"
+  ],
+  "content_not_wanted": [
+    "Projects without strong political/cultural edge"
+  ],
+  "target_audience": [
+    "Showtime subscribers",
+    "Politically engaged audiences"
+  ],
+  "format_specifications": [
+    "Feature docs",
+    "Mini-series"
+  ],
+  "budget_parameters": "USD $400K–$1.2M per film/hour",
+  "technical_requirements": [
+    "Broadcast HD/4K"
+  ],
+  "current_calls": [
+    "Docs on US politics",
+    "High-profile music and culture docs"
+  ],
+  "submission_process": [
+    "Pitches via Showtime documentary division, through established producers"
+  ],
+  "name": "Vinnie Malhotra"
+}

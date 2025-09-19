@@ -1,0 +1,42 @@
+{
+  "id": "axel_arn_svt_2724b6c9c50780acbb14e887073bcbf9",
+  "country_region": "Sweden",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Sweden 2724b6c9c50780a8953ae65d9ebe8508\\Axel Arnö_SVT 2724b6c9c50780acbb14e887073bcbf9.md",
+  "created_at": "2025-09-19T10:57:00.153020",
+  "updated_at": "2025-09-19T10:57:00.153023",
+  "organization": "SVT (Sveriges Television)",
+  "role": "Commissioning Editor, Documentaries",
+  "email": "axel.arno@svt.se",
+  "location": "Stockholm, Sweden",
+  "background": "Promotes society and current affairs documentaries with strong authorial voices; passionate about international co-productions and films that contribute to the democratic conversation in Sweden.",
+  "thematic_priorities": [
+    "Society and current affairs documentaries",
+    "Investigative and access-driven narratives",
+    "International co-productions with journalistic strength"
+  ],
+  "content_not_wanted": [
+    "Superficial treatments without depth or access",
+    "Content not relevant to Swedish/Nordic audiences"
+  ],
+  "target_audience": [
+    "Swedish general audience interested in democracy, justice and society",
+    "International co-production partners for broader reach"
+  ],
+  "format_specifications": [
+    "1-hour documentaries",
+    "Series (2–6 episodes)"
+  ],
+  "budget_parameters": "· Range: SEK 300K–1.5M per hour",
+  "technical_requirements": [
+    "Broadcast quality HD/4K; subtitles for international co-pros",
+    "Fact-checked, legally sound investigations"
+  ],
+  "current_calls": [
+    "Timely docs on Swedish and international affairs",
+    "Access-led films with strong character focus"
+  ],
+  "submission_process": [
+    "One-page synopsis with premise, societal relevance, and intended impact"
+  ],
+  "name": "Axel Arnö"
+}

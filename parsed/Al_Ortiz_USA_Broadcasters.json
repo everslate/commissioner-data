@@ -1,0 +1,39 @@
+{
+  "id": "cbsnews_commissioning_full_2734b6c9c50781dc8bddee89de7fa1b0",
+  "country_region": "USA Broadcasters",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\CBSNews_Commissioning_FULL 2734b6c9c50781dc8bddee89de7fa1b0.md",
+  "created_at": "2025-09-19T10:57:00.224892",
+  "updated_at": "2025-09-19T10:57:00.224896",
+  "organization": "CBS News / CBS Reports",
+  "role": "Exec Producer, CBS Reports",
+  "email": "cbsreports@cbsnews.com",
+  "location": "New York, USA",
+  "background": "CBS News commissions long-form investigative reports and documentaries under CBS Reports, focusing on in-depth journalism and American society.",
+  "thematic_priorities": [
+    "Investigative journalism",
+    "US politics and society",
+    "Health and environment"
+  ],
+  "content_not_wanted": [
+    "Light factual content"
+  ],
+  "target_audience": [
+    "CBS primetime and streaming audiences"
+  ],
+  "format_specifications": [
+    "1-hour docs",
+    "Mini-series"
+  ],
+  "budget_parameters": "USD $150K–$500K per hour",
+  "technical_requirements": [
+    "Broadcast HD"
+  ],
+  "current_calls": [
+    "In-depth US politics/social issues",
+    "Docs for CBS News streaming"
+  ],
+  "submission_process": [
+    "Submit via CBS News editorial team"
+  ],
+  "name": "Al Ortiz"
+}

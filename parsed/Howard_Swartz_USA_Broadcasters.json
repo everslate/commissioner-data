@@ -1,0 +1,40 @@
+{
+  "id": "discovery_us_commissioning_full_2734b6c9c5078118b6d0f9cfff4477f8",
+  "country_region": "USA Broadcasters",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\Discovery_US_Commissioning_FULL 2734b6c9c5078118b6d0f9cfff4477f8.md",
+  "created_at": "2025-09-19T10:57:00.226119",
+  "updated_at": "2025-09-19T10:57:00.226123",
+  "organization": "Discovery Channel (US, Warner Bros. Discovery)",
+  "role": "SVP, Docs & Specials",
+  "email": "discovery.docs@wbd.com",
+  "location": "Silver Spring, USA",
+  "background": "Discovery commissions factual and specialist factual content that combines entertainment with knowledge, focusing on science, adventure, and true crime.",
+  "thematic_priorities": [
+    "Science and engineering",
+    "Adventure and survival",
+    "True crime"
+  ],
+  "content_not_wanted": [
+    "Projects without broad audience appeal"
+  ],
+  "target_audience": [
+    "US cable audiences",
+    "Global Discovery platforms"
+  ],
+  "format_specifications": [
+    "Series (6–10 parts)",
+    "One-offs (60–90 mins)"
+  ],
+  "budget_parameters": "USD $200K–$800K per hour",
+  "technical_requirements": [
+    "Broadcast HD/4K"
+  ],
+  "current_calls": [
+    "Returnable true crime formats",
+    "Adventure/survival series"
+  ],
+  "submission_process": [
+    "Pitches via Warner Bros. Discovery commissioning team"
+  ],
+  "name": "Howard Swartz"
+}

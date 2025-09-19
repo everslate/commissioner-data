@@ -1,0 +1,42 @@
+{
+  "id": "mehmet_demirhan_trt_belgesel_2724b6c9c5078073a493fe9e9c4948d5",
+  "country_region": "Turkey",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Turkey 2724b6c9c5078047a5fbd2fa0fb5dda8\\Mehmet Demirhan_TRT Belgesel 2724b6c9c5078073a493fe9e9c4948d5.md",
+  "created_at": "2025-09-19T10:57:00.161018",
+  "updated_at": "2025-09-19T10:57:00.161021",
+  "organization": "TRT Belgesel",
+  "role": "Director of Documentaries",
+  "email": "mehmet.demirhan@trtbelgesel.net",
+  "location": "Istanbul, Turkey",
+  "background": "Directs TRT Belgesel’s factual programming. Seeks access-led and culturally aligned stories reflecting society, religion and Turkey’s regional role, with bold storytelling.",
+  "thematic_priorities": [
+    "Turkish society and religion",
+    "Environmental issues, technology and innovation in Turkey",
+    "International co-productions with cultural alignment"
+  ],
+  "content_not_wanted": [
+    "Content not aligned with national/cultural values",
+    "Superficial or entertainment-only projects"
+  ],
+  "target_audience": [
+    "Domestic TRT Belgesel viewers",
+    "International co-pro partners"
+  ],
+  "format_specifications": [
+    "Single docs (30–60 mins)",
+    "Series (3–6 parts)"
+  ],
+  "budget_parameters": "· Range: TRY 100,000–600,000 per hour",
+  "technical_requirements": [
+    "Broadcast HD quality",
+    "Compliance with RTÜK regulations"
+  ],
+  "current_calls": [
+    "Bold society/religion docs",
+    "Tech/innovation projects framed in Turkish context"
+  ],
+  "submission_process": [
+    "Synopsis with theme and relevance"
+  ],
+  "name": "Mehmet Demirhan"
+}

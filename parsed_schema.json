@@ -1,0 +1,220 @@
+{
+  "commissioner_profile": {
+    "description": "Firebase Firestore schema for commissioner profiles",
+    "collection_name": "commissioners",
+    "fields": {
+      "core_fields": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier (generated from filename)",
+          "required": true,
+          "example": "aje_diarmuid_jeffreys"
+        },
+        "name": {
+          "type": "string",
+          "description": "Commissioner's name",
+          "required": true,
+          "example": "Diarmuid Jeffreys"
+        },
+        "organization": {
+          "type": "string",
+          "description": "Organization/broadcaster name",
+          "required": true,
+          "example": "Al Jazeera English"
+        },
+        "role": {
+          "type": "string",
+          "description": "Job title/role",
+          "required": true,
+          "example": "Head of Documentaries"
+        },
+        "email": {
+          "type": "string",
+          "description": "Professional contact email",
+          "required": true,
+          "example": "djeffreys@aljazeera.net"
+        },
+        "location": {
+          "type": "string",
+          "description": "Geographic location",
+          "required": true,
+          "example": "Doha, Qatar / London, UK"
+        },
+        "country_region": {
+          "type": "string",
+          "description": "Country/region extracted from folder structure",
+          "required": true,
+          "example": "Al Jazeera"
+        },
+        "background": {
+          "type": "string",
+          "description": "Background & programming philosophy",
+          "required": true,
+          "example": "As Head of Documentaries at AJE, Diarmuid Jeffreys commissions bold investigative and socially significant films..."
+        },
+        "thematic_priorities": {
+          "type": "array",
+          "items": "string",
+          "description": "List of thematic priorities",
+          "required": true,
+          "example": ["Investigative journalism and accountability", "Human rights, conflict, migration and social justice"]
+        },
+        "content_not_wanted": {
+          "type": "array",
+          "items": "string",
+          "description": "Content they don't want",
+          "required": true,
+          "example": ["Projects without international resonance", "Superficial coverage lacking depth or access"]
+        },
+        "target_audience": {
+          "type": "array",
+          "items": "string",
+          "description": "Target audience information",
+          "required": true,
+          "example": ["Global audiences across Al Jazeera English platforms", "Policy, activist and human rights communities"]
+        },
+        "format_specifications": {
+          "type": "array",
+          "items": "string",
+          "description": "Format requirements and specifications",
+          "required": true,
+          "example": ["25–50 min strand films (Witness, People & Power, Fault Lines)", "1-hour features"]
+        },
+        "budget_parameters": {
+          "type": "string",
+          "description": "Budget information (kept as string due to varied formats and currencies)",
+          "required": true,
+          "example": "USD $25K–$150K per film"
+        },
+        "technical_requirements": {
+          "type": "array",
+          "items": "string",
+          "description": "Technical delivery requirements",
+          "required": true,
+          "example": ["Broadcast HD; English delivery", "Ethical standards for investigative content"]
+        },
+        "current_calls": {
+          "type": "array",
+          "items": "string",
+          "description": "Current specific calls or focus areas",
+          "required": true,
+          "example": ["Docs on global injustice and accountability", "Author-led investigative films from underreported regions"]
+        },
+        "submission_process": {
+          "type": "array",
+          "items": "string",
+          "description": "How to submit proposals",
+          "required": true,
+          "example": ["One-page synopsis or treatment with key characters and narrative arc", "Submit via AJE commissioning portal or directly to a commissioning editor"]
+        }
+      },
+      "extended_fields": {
+        "full_name": {
+          "type": "string",
+          "description": "Full formal name (when different from name field)",
+          "required": false,
+          "example": "Marcus Ammon"
+        },
+        "department": {
+          "type": "string",
+          "description": "Specific department within organization",
+          "required": false,
+          "example": "Netflix Germany – Factual"
+        },
+        "reporting_structure": {
+          "type": "string",
+          "description": "Who they report to",
+          "required": false,
+          "example": "Not publicly specified"
+        },
+        "commissioning_brief_url": {
+          "type": "string",
+          "description": "URL to official commissioning brief",
+          "required": false,
+          "example": "www.bbc.co.uk/commissioning"
+        },
+        "last_updated": {
+          "type": "string",
+          "description": "When the information was last updated",
+          "required": false,
+          "example": "May 2025"
+        },
+        "recent_commissions": {
+          "type": "string",
+          "description": "Recent representative commissions",
+          "required": false,
+          "example": "TBC – add individual's recent commissions after external research"
+        },
+        "specialist_areas": {
+          "type": "array",
+          "items": "string",
+          "description": "Areas of specialization",
+          "required": false,
+          "example": ["Original series", "documentaries"]
+        },
+        "additional_info": {
+          "type": "object",
+          "description": "Additional structured information",
+          "required": false,
+          "properties": {
+            "commissioning_cycles": {
+              "type": "string",
+              "example": "Ongoing; submissions accepted year-round unless strand-specific"
+            },
+            "strategic_shifts": {
+              "type": "string",
+              "example": "Increasing focus on distinctive voices and cross-platform reach"
+            },
+            "diversity_inclusion": {
+              "type": "string",
+              "example": "Emphasis on diverse voices on- and off-screen"
+            },
+            "sustainability": {
+              "type": "string",
+              "example": "Encouragement of sustainable production practices"
+            },
+            "regional_production": {
+              "type": "string",
+              "example": "Support for projects from across German regions"
+            },
+            "independent_production": {
+              "type": "string",
+              "example": "Open to pitches from independent producers/companies"
+            }
+          }
+        }
+      },
+      "metadata_fields": {
+        "created_at": {
+          "type": "timestamp",
+          "description": "When the record was created",
+          "required": true
+        },
+        "updated_at": {
+          "type": "timestamp",
+          "description": "When the record was last updated",
+          "required": true
+        },
+        "source_file": {
+          "type": "string",
+          "description": "Original markdown file path",
+          "required": true,
+          "example": "Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf/AJE_Diarmuid_Jeffreys_FULL 2724b6c9c50781589077fd82745a8ee6.md"
+        }
+      }
+    },
+    "data_types_summary": {
+      "strings": ["id", "name", "organization", "role", "email", "location", "country_region", "background", "budget_parameters", "full_name", "department", "reporting_structure", "commissioning_brief_url", "last_updated", "recent_commissions", "source_file"],
+      "arrays_of_strings": ["thematic_priorities", "content_not_wanted", "target_audience", "format_specifications", "technical_requirements", "current_calls", "submission_process", "specialist_areas"],
+      "objects": ["additional_info"],
+      "timestamps": ["created_at", "updated_at"]
+    },
+    "notes": {
+      "country_extraction": "Country/region will be extracted from folder names (e.g., 'Al Jazeera', 'Australia', 'Germany', 'Netflix Europe', etc.)",
+      "budget_handling": "Budget kept as string due to varied currencies (USD, EUR, AUD, EGP, etc.) and formats",
+      "format_flexibility": "Schema accommodates both simple and extended profile formats",
+      "array_parsing": "Bullet points and list items will be converted to string arrays",
+      "text_cleaning": "Markdown formatting will be cleaned and converted to plain text"
+    }
+  }
+}

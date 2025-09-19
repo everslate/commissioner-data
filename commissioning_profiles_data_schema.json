@@ -1,0 +1,427 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Commissioning Profiles Data Schema",
+    "version": "1.0.0",
+    "description": "Data structure schema for broadcasting commissioning profiles with structured and searchable fields"
+  },
+  "components": {
+    "schemas": {
+      "CommissioningProfile": {
+        "title": "CommissioningProfile",
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "ID",
+            "description": "Unique identifier for the profile"
+          },
+          "country_region": {
+            "type": "string",
+            "title": "Country/Region",
+            "description": "Country or region where the commissioner operates"
+          },
+          "platform_type": {
+            "type": "string",
+            "enum": [
+              "traditional_broadcaster",
+              "public_broadcaster",
+              "commercial_broadcaster",
+              "streaming_platform",
+              "cable_network",
+              "news_network",
+              "international_broadcaster",
+              "regional_broadcaster",
+              "specialty_channel",
+              "production_company",
+              "digital_platform"
+            ],
+            "title": "Platform Type",
+            "description": "Type of broadcasting/streaming platform or organization"
+          },
+          "source_file": {
+            "type": "string",
+            "title": "Source File",
+            "description": "Original source file path"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Created At",
+            "description": "Timestamp when profile was created"
+          },
+          "updated_at": {
+            "type": "string",
+            "format": "date-time",
+            "title": "Updated At",
+            "description": "Timestamp when profile was last updated"
+          },
+          "organization": {
+            "type": "string",
+            "title": "Organization",
+            "description": "Broadcasting organization or network"
+          },
+          "role": {
+            "type": "string",
+            "title": "Role",
+            "description": "Original role description"
+          },
+          "commissioner_type": {
+            "type": "string",
+            "enum": [
+              "documentary_originals",
+              "factual_programming",
+              "editorial_director",
+              "strand_commissioner",
+              "independent_regional",
+              "investigative_documentaries",
+              "natural_history",
+              "arts_culture",
+              "premium_factual",
+              "specialist_content"
+            ],
+            "title": "Commissioner Type",
+            "description": "Sanitized commissioner role category"
+          },
+          "email": {
+            "type": "string",
+            "format": "email",
+            "title": "Email",
+            "description": "Contact email address"
+          },
+          "location": {
+            "type": "string",
+            "title": "Location",
+            "description": "Physical location or office"
+          },
+          "name": {
+            "type": "string",
+            "title": "Name",
+            "description": "Commissioner's full name"
+          },
+          "background": {
+            "type": "string",
+            "title": "Background",
+            "description": "Commissioner's background and approach"
+          },
+          "thematic_priorities": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "title": "Thematic Priorities",
+            "description": "Original list of thematic priorities"
+          },
+          "themes": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "climate_environment",
+                "social_issues",
+                "arts_culture",
+                "true_crime",
+                "history",
+                "science_tech",
+                "lifestyle",
+                "local_community",
+                "international",
+                "politics",
+                "investigative",
+                "natural_history",
+                "celebrity_music",
+                "religion_philosophy",
+                "sports",
+                "health_medical",
+                "business_economics",
+                "travel",
+                "food_cooking",
+                "education"
+              ]
+            },
+            "title": "Themes",
+            "description": "Sanitized thematic categories"
+          },
+          "content_not_wanted": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "title": "Content Not Wanted",
+            "description": "Types of content explicitly not wanted"
+          },
+          "target_audience": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "title": "Target Audience",
+            "description": "Original target audience descriptions"
+          },
+          "audience_segments": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "mainstream",
+                "adults_25_60",
+                "premium_subscribers",
+                "niche_cultural",
+                "international",
+                "regional_local",
+                "young_adults_18_35",
+                "families",
+                "professionals",
+                "seniors_60_plus",
+                "children_teens"
+              ]
+            },
+            "title": "Audience Segments",
+            "description": "Sanitized audience segment categories"
+          },
+          "geographic_scope": {
+            "type": "string",
+            "enum": [
+              "local",
+              "regional",
+              "national",
+              "international",
+              "european",
+              "global"
+            ],
+            "title": "Geographic Scope",
+            "description": "Geographic reach of target audience"
+          },
+          "format_specifications": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "title": "Format Specifications",
+            "description": "Original format requirements and specifications"
+          },
+          "formats": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "feature_doc",
+                "series",
+                "short_form",
+                "returnable_series",
+                "event_series",
+                "mini_series",
+                "one_off_special",
+                "factual_entertainment",
+                "investigative_series",
+                "lifestyle_format"
+              ]
+            },
+            "title": "Formats",
+            "description": "Sanitized format categories"
+          },
+          "duration_categories": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "short_form",
+                "standard",
+                "feature_length",
+                "event_series",
+                "extended_feature"
+              ]
+            },
+            "title": "Duration Categories",
+            "description": "Content duration categories"
+          },
+          "budget_parameters": {
+            "type": "string",
+            "title": "Budget Parameters",
+            "description": "Original budget description"
+          },
+          "min_budget_usd": {
+            "type": "integer",
+            "minimum": 0,
+            "title": "Minimum Budget USD",
+            "description": "Minimum budget in US dollars"
+          },
+          "max_budget_usd": {
+            "type": "integer",
+            "minimum": 0,
+            "title": "Maximum Budget USD",
+            "description": "Maximum budget in US dollars"
+          },
+          "budget_range": {
+            "type": "string",
+            "enum": [
+              "micro",
+              "low",
+              "medium",
+              "high",
+              "premium",
+              "variable",
+              "co_production"
+            ],
+            "title": "Budget Range",
+            "description": "Budget category - micro: <$25K, low: $25K-$100K, medium: $100K-$500K, high: $500K-$1M, premium: $1M+"
+          },
+          "languages": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "english",
+                "german",
+                "french",
+                "spanish",
+                "danish",
+                "finnish",
+                "swedish",
+                "norwegian",
+                "dutch",
+                "italian",
+                "portuguese",
+                "polish",
+                "czech",
+                "russian",
+                "chinese",
+                "japanese",
+                "korean",
+                "arabic",
+                "hebrew",
+                "turkish",
+                "greek",
+                "romanian",
+                "bulgarian",
+                "croatian",
+                "hungarian",
+                "slovenian",
+                "slovak",
+                "catalan",
+                "ukrainian",
+                "vietnamese",
+                "thai",
+                "hindi",
+                "malay",
+                "indonesian",
+                "afrikaans"
+              ]
+            },
+            "title": "Languages",
+            "description": "Languages supported or preferred"
+          },
+          "technical_requirements": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "title": "Technical Requirements",
+            "description": "Original technical requirements description"
+          },
+          "production_values": {
+            "type": "string",
+            "enum": [
+              "lightweight",
+              "broadcast_standard",
+              "high",
+              "cinematic",
+              "premium"
+            ],
+            "title": "Production Values",
+            "description": "Required production quality level"
+          },
+          "delivery_requirements": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "broadcast_standard",
+                "4k",
+                "hd",
+                "festival_ready",
+                "cross_platform",
+                "hdr",
+                "streaming_optimized",
+                "cinema_quality",
+                "mobile_optimized",
+                "vr_360"
+              ]
+            },
+            "title": "Delivery Requirements",
+            "description": "Technical delivery specifications"
+          },
+          "current_calls": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "title": "Current Calls",
+            "description": "Current open calls or priority projects"
+          },
+          "submission_process": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "title": "Submission Process",
+            "description": "How to submit pitches or applications"
+          },
+          "additional_info": {
+            "type": "object",
+            "title": "Additional Info",
+            "description": "Any additional structured information",
+            "additionalProperties": true
+          },
+          "commissioning_cycles": {
+            "type": "string",
+            "enum": [
+              "ongoing",
+              "quarterly",
+              "biannual",
+              "annual",
+              "seasonal",
+              "project_based",
+              "strand_specific"
+            ],
+            "title": "Commissioning Cycles",
+            "description": "Timing of commissioning rounds"
+          },
+          "co_production_openness": {
+            "type": "string",
+            "enum": [
+              "highly_encouraged",
+              "open",
+              "selective",
+              "not_preferred",
+              "domestic_only"
+            ],
+            "title": "Co-production Openness",
+            "description": "Attitude towards international co-productions"
+          },
+          "diversity_focus": {
+            "type": "boolean",
+            "title": "Diversity Focus",
+            "description": "Whether diversity and inclusion is explicitly prioritized"
+          },
+          "sustainability_focus": {
+            "type": "boolean",
+            "title": "Sustainability Focus",
+            "description": "Whether sustainable production practices are encouraged"
+          },
+          "festival_potential_required": {
+            "type": "boolean",
+            "title": "Festival Potential Required",
+            "description": "Whether content must have festival screening potential"
+          }
+        },
+        "required": [
+          "id",
+          "country_region",
+          "created_at",
+          "updated_at"
+        ]
+      }
+    }
+  }
+}

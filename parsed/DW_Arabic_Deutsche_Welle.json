@@ -1,0 +1,42 @@
+{
+  "id": "dw_arabic_full_2724b6c9c5078148a708f3bfff7582ab",
+  "country_region": "Deutsche Welle",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\\DW_Arabic_FULL 2724b6c9c5078148a708f3bfff7582ab.md",
+  "created_at": "2025-09-19T10:57:00.002676",
+  "updated_at": "2025-09-19T10:57:00.002681",
+  "organization": "Deutsche Welle (DW Language Services)",
+  "role": "Regional Commissioning (Arabic Service)",
+  "email": "",
+  "location": "Global/MENA",
+  "background": "DW Arabic commissions factual stories for Arabic-speaking audiences, focusing on cultural shifts, civil society, climate change, and youth issues across the MENA region.",
+  "thematic_priorities": [
+    "Cultural shifts in MENA",
+    "Civil society and youth voices",
+    "Climate and environment challenges"
+  ],
+  "content_not_wanted": [
+    "Projects without Arabic cultural relevance",
+    "Content not suitable for civil society discussion"
+  ],
+  "target_audience": [
+    "Arabic-speaking MENA audiences",
+    "Youth and civil society groups"
+  ],
+  "format_specifications": [
+    "Short-form (5–15 mins)",
+    "Mobile-first and digital docs"
+  ],
+  "budget_parameters": "Range: €5K–€20K per short film",
+  "technical_requirements": [
+    "Arabic-language production",
+    "Digital/mobile-first delivery"
+  ],
+  "current_calls": [
+    "Youth-led projects",
+    "Climate justice in MENA"
+  ],
+  "submission_process": [
+    "Pitch in Arabic with cultural/social relevance"
+  ],
+  "name": "DW Arabic"
+}

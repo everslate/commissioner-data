@@ -1,0 +1,42 @@
+{
+  "id": "bbc_sadeq_saba_full_2724b6c9c5078157b269ea46575eea0f",
+  "country_region": "BBC World News",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\BBC World News 2724b6c9c507809fbd5fc254590b3def\\BBC_Sadeq_Saba_FULL 2724b6c9c5078157b269ea46575eea0f.md",
+  "created_at": "2025-09-19T10:56:59.977656",
+  "updated_at": "2025-09-19T10:56:59.977660",
+  "organization": "BBC Persian (TV & Digital)",
+  "role": "Editor, Documentaries",
+  "email": "sadeq.saba@bbc.co.uk",
+  "location": "London, UK / Persian-speaking regions",
+  "background": "Commissions documentaries on Iranian and Persian-speaking life, diaspora stories and regional affairs, emphasising author-led and access-based storytelling.",
+  "thematic_priorities": [
+    "Iranian history, politics and culture",
+    "Personal stories reflecting wider social trends",
+    "Diaspora voices and regional change"
+  ],
+  "content_not_wanted": [
+    "Projects without Persian cultural context",
+    "Superficial international perspectives without local voice"
+  ],
+  "target_audience": [
+    "Persian-speaking audiences in Iran, Afghanistan and diaspora",
+    "BBC Persian’s global digital viewers"
+  ],
+  "format_specifications": [
+    "Documentary specials",
+    "Typical range: 24–52 mins"
+  ],
+  "budget_parameters": "Range: £10K–£60K per film",
+  "technical_requirements": [
+    "Persian-language delivery",
+    "English subtitling for wider use"
+  ],
+  "current_calls": [
+    "Author-led Iranian stories",
+    "Docs exploring Persian diaspora"
+  ],
+  "submission_process": [
+    "Proposals in Persian or English"
+  ],
+  "name": "Sadeq Saba"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "natgeo_us_commissioning_full_2734b6c9c507817a8ba6e90d79587592",
+  "country_region": "USA Broadcasters",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\NatGeo_US_Commissioning_FULL 2734b6c9c507817a8ba6e90d79587592.md",
+  "created_at": "2025-09-19T10:57:00.227362",
+  "updated_at": "2025-09-19T10:57:00.227365",
+  "organization": "National Geographic (US, Disney)",
+  "role": "President, National Geographic Content",
+  "email": "natgeo.docs@disney.com",
+  "location": "Washington, DC, USA",
+  "background": "National Geographic US commissions premium factual content with cinematic visuals, focusing on exploration, science, nature, and global cultures.",
+  "thematic_priorities": [
+    "Wildlife and nature",
+    "Science and exploration",
+    "Adventure and human achievement"
+  ],
+  "content_not_wanted": [
+    "Low production values",
+    "Projects without global relevance"
+  ],
+  "target_audience": [
+    "National Geographic audiences worldwide"
+  ],
+  "format_specifications": [
+    "Feature docs",
+    "Series (3–8 parts)"
+  ],
+  "budget_parameters": "USD $400K–$1.5M per hour",
+  "technical_requirements": [
+    "Cinematic 4K",
+    "Festival/Disney+ ready"
+  ],
+  "current_calls": [
+    "Landmark wildlife series",
+    "Docs with global exploration themes"
+  ],
+  "submission_process": [
+    "Submissions via Disney/NatGeo commissioning pipeline"
+  ],
+  "name": "Courteney Monroe"
+}

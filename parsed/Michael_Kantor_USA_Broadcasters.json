@@ -1,0 +1,38 @@
+{
+  "id": "pbs_americanmasters_commissioning_full_2734b6c9c50781bc95f0d15f6a4d1b60",
+  "country_region": "USA Broadcasters",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\PBS_AmericanMasters_Commissioning_FULL 2734b6c9c50781bc95f0d15f6a4d1b60.md",
+  "created_at": "2025-09-19T10:57:00.228503",
+  "updated_at": "2025-09-19T10:57:00.228506",
+  "organization": "PBS (American Masters)",
+  "role": "Executive Producer",
+  "email": "americanmasters@pbs.org",
+  "location": "New York, USA",
+  "background": "American Masters produces in-depth biographical documentaries on artists, writers, musicians and cultural icons, exploring creativity and legacy.",
+  "thematic_priorities": [
+    "Arts and culture",
+    "Biographies of significant figures",
+    "American creativity"
+  ],
+  "content_not_wanted": [
+    "Non-biographical projects",
+    "Purely entertainment-led content"
+  ],
+  "target_audience": [
+    "PBS cultural/arts audiences"
+  ],
+  "format_specifications": [
+    "One-offs (60–120 mins)"
+  ],
+  "budget_parameters": "USD $250K–$600K per film",
+  "technical_requirements": [
+    "Broadcast HD/4K; archival rights clearance required"
+  ],
+  "current_calls": [
+    "Biographies of major 20th/21st-century American cultural icons"
+  ],
+  "submission_process": [
+    "Submit proposals via WNET/American Masters office"
+  ],
+  "name": "Michael Kantor"
+}

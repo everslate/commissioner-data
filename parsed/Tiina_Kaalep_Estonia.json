@@ -1,0 +1,43 @@
+{
+  "id": "err_tiina_kaalep_full_2724b6c9c507812caf29deff93631aa3",
+  "country_region": "Estonia",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Estonia 2724b6c9c50780d1891adfafdd2842fa\\ERR_Tiina_Kaalep_FULL 2724b6c9c507812caf29deff93631aa3.md",
+  "created_at": "2025-09-19T10:57:00.012521",
+  "updated_at": "2025-09-19T10:57:00.012525",
+  "organization": "ERR (Eesti Rahvusringhääling)",
+  "role": "Head of Factual Programming",
+  "email": "tiina.kaalep@err.ee",
+  "location": "Tallinn, Estonia",
+  "background": "Oversees ERR’s factual slate, commissioning documentaries on Estonian culture, society and history. Supports content with strong public interest, cultural relevance and European co-production potential.",
+  "thematic_priorities": [
+    "Estonian identity, heritage and language",
+    "Contemporary societal change and regional issues",
+    "Historical documentaries, especially 20th-century events",
+    "Arts, nature and environmental topics"
+  ],
+  "content_not_wanted": [
+    "Projects without clear Estonian or regional relevance",
+    "Pure entertainment without factual/public value"
+  ],
+  "target_audience": [
+    "Estonian public service viewers",
+    "European co-production audiences"
+  ],
+  "format_specifications": [
+    "26–58 minute single docs",
+    "Short series (2–3 parts)"
+  ],
+  "budget_parameters": "Range: €10K–€80K per hour Higher with co-productions",
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Multilingual subtitling for international use"
+  ],
+  "current_calls": [
+    "Projects on Estonian heritage and identity",
+    "Co-productions with strong European dimension"
+  ],
+  "submission_process": [
+    "Proposal including theme, format, public value and target audience"
+  ],
+  "name": "Tiina Kaalep"
+}

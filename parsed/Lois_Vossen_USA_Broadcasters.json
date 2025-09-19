@@ -1,0 +1,40 @@
+{
+  "id": "pbs_independentlens_commissioning_full_2734b6c9c507818c81aaff673a5e45fd",
+  "country_region": "USA Broadcasters",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\PBS_IndependentLens_Commissioning_FULL 2734b6c9c507818c81aaff673a5e45fd.md",
+  "created_at": "2025-09-19T10:57:00.230567",
+  "updated_at": "2025-09-19T10:57:00.230572",
+  "organization": "PBS (Independent Lens)",
+  "role": "Executive Producer",
+  "email": "independentlens@itvs.org",
+  "location": "San Francisco, USA",
+  "background": "Independent Lens commissions and presents independent nonfiction films with strong artistic voice and public interest value.",
+  "thematic_priorities": [
+    "American identity",
+    "Civil rights",
+    "Contemporary social issues"
+  ],
+  "content_not_wanted": [
+    "Projects without strong POV",
+    "Light factual content"
+  ],
+  "target_audience": [
+    "PBS independent film audiences",
+    "US cultural discourse"
+  ],
+  "format_specifications": [
+    "Feature docs",
+    "Occasional limited series"
+  ],
+  "budget_parameters": "USD $150K–$400K per film",
+  "technical_requirements": [
+    "Broadcast HD; filmmaker-led projects"
+  ],
+  "current_calls": [
+    "Docs on race, democracy, and justice"
+  ],
+  "submission_process": [
+    "Apply via ITVS Open Call"
+  ],
+  "name": "Lois Vossen"
+}

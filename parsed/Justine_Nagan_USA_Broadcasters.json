@@ -1,0 +1,39 @@
+{
+  "id": "pbs_pov_commissioning_full_2734b6c9c50781c7ac07c58f38865ab4",
+  "country_region": "USA Broadcasters",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\PBS_POV_Commissioning_FULL 2734b6c9c50781c7ac07c58f38865ab4.md",
+  "created_at": "2025-09-19T10:57:00.231211",
+  "updated_at": "2025-09-19T10:57:00.231214",
+  "organization": "PBS (POV)",
+  "role": "Executive Producer",
+  "email": "pov@pov.org",
+  "location": "New York, USA",
+  "background": "POV (Point of View) is PBS’s longest-running independent documentary strand, showcasing bold, character-driven stories with strong social impact.",
+  "thematic_priorities": [
+    "Social justice",
+    "Marginalised voices",
+    "Global human rights"
+  ],
+  "content_not_wanted": [
+    "Commercial entertainment formats",
+    "Projects without social relevance"
+  ],
+  "target_audience": [
+    "PBS national audiences",
+    "Independent film/festival viewers"
+  ],
+  "format_specifications": [
+    "Feature-length docs (52–90 mins)"
+  ],
+  "budget_parameters": "USD $150K–$400K per film",
+  "technical_requirements": [
+    "Broadcast HD; accessibility compliance"
+  ],
+  "current_calls": [
+    "Independent, auteur-driven documentaries"
+  ],
+  "submission_process": [
+    "Submit via POV Open Call or PBS co-production agreements"
+  ],
+  "name": "Justine Nagan"
+}

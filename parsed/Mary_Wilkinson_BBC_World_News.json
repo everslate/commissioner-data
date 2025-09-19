@@ -1,0 +1,41 @@
+{
+  "id": "bbc_mary_wilkinson_full_2724b6c9c5078132a52be787cf307583",
+  "country_region": "BBC World News",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\BBC World News 2724b6c9c507809fbd5fc254590b3def\\BBC_Mary_Wilkinson_FULL 2724b6c9c5078132a52be787cf307583.md",
+  "created_at": "2025-09-19T10:56:59.976218",
+  "updated_at": "2025-09-19T10:56:59.976223",
+  "organization": "BBC World News",
+  "role": "Commissioning Editor",
+  "email": "mary.wilkinson@bbc.co.uk",
+  "location": "London, UK",
+  "background": "Oversees international current affairs commissioning for BBC World News. Focuses on journalistically robust, access-driven stories with broad cross-border relevance and editorial impact.",
+  "thematic_priorities": [
+    "International affairs and global politics",
+    "Geopolitical and innovation stories",
+    "Cross-border current affairs"
+  ],
+  "content_not_wanted": [
+    "Projects without strong global angle",
+    "Content lacking journalistic robustness"
+  ],
+  "target_audience": [
+    "Global audiences across BBC World News distribution",
+    "International policy and current affairs viewers"
+  ],
+  "format_specifications": [
+    "23–26 min half-hours",
+    "47–52 min single hours"
+  ],
+  "budget_parameters": "Range: £15K–£120K per half-hour",
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Subtitles for international distribution"
+  ],
+  "current_calls": [
+    "Timely, access-driven narratives with global scope"
+  ],
+  "submission_process": [
+    "Pitch via BBC Studios or approved prodcos"
+  ],
+  "name": "Mary Wilkinson"
+}

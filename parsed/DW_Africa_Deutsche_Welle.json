@@ -1,0 +1,42 @@
+{
+  "id": "dw_africa_full_2724b6c9c50781e99863ecc845339be5",
+  "country_region": "Deutsche Welle",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\\DW_Africa_FULL 2724b6c9c50781e99863ecc845339be5.md",
+  "created_at": "2025-09-19T10:57:00.001567",
+  "updated_at": "2025-09-19T10:57:00.001573",
+  "organization": "Deutsche Welle (DW Language Services)",
+  "role": "Regional Commissioning (Africa Service)",
+  "email": "",
+  "location": "Africa (regional hubs)",
+  "background": "DW Africa commissions stories in English, Hausa, Amharic, Swahili, and French, focusing on governance, women’s rights, climate justice, and innovation for African audiences.",
+  "thematic_priorities": [
+    "Governance and democracy",
+    "Women’s rights and youth activism",
+    "Climate justice and innovation"
+  ],
+  "content_not_wanted": [
+    "Stories without African local context",
+    "Non-character-driven formats"
+  ],
+  "target_audience": [
+    "African youth and civil society audiences",
+    "DW Africa multilingual audiences"
+  ],
+  "format_specifications": [
+    "Short docs (5–15 mins)",
+    "Digital-first character-led films"
+  ],
+  "budget_parameters": "Range: €5K–€25K per film",
+  "technical_requirements": [
+    "Local language production",
+    "Mobile-first formats encouraged"
+  ],
+  "current_calls": [
+    "Women’s rights projects",
+    "Youth-led governance stories"
+  ],
+  "submission_process": [
+    "Submit in local languages (EN, FR, HA, AM, SW)"
+  ],
+  "name": "DW Africa"
+}

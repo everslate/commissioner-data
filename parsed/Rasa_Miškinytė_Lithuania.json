@@ -1,0 +1,42 @@
+{
+  "id": "rasa_mi_kinyt_lrt_2724b6c9c50780cf8b32e33be8f51a44",
+  "country_region": "Lithuania",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Lithuania 2724b6c9c507807ca083e4e491ee46d8\\Rasa Miškinytė_LRT 2724b6c9c50780cf8b32e33be8f51a44.md",
+  "created_at": "2025-09-19T10:57:00.134638",
+  "updated_at": "2025-09-19T10:57:00.134640",
+  "organization": "LRT (Lithuanian National Radio and Television)",
+  "role": "Head of Documentaries",
+  "email": "rasa.miskinyte@lrt.lt",
+  "location": "Vilnius, Lithuania",
+  "background": "Oversees LRT’s documentary output, supporting author-led films that reflect Lithuanian history, culture and contemporary issues, with emphasis on civic relevance and European co-productions.",
+  "thematic_priorities": [
+    "Lithuanian heritage, language and identity",
+    "20th-century history and national memory",
+    "Societal transformation and civic relevance"
+  ],
+  "content_not_wanted": [
+    "Projects lacking Lithuanian relevance",
+    "Entertainment-driven factual formats without depth"
+  ],
+  "target_audience": [
+    "Lithuanian public service audiences",
+    "Regional and European co-production markets"
+  ],
+  "format_specifications": [
+    "Single docs (26–58 mins)",
+    "Short series"
+  ],
+  "budget_parameters": "· Range: €10K–€80K per hour · Higher for co-productions",
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Subtitles for international markets"
+  ],
+  "current_calls": [
+    "Issue-based docs with strong Lithuanian identity",
+    "European co-productions with Lithuanian perspective"
+  ],
+  "submission_process": [
+    "Project synopsis with theme, structure and national relevance"
+  ],
+  "name": "Rasa Miškinytė"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "Christopher_Mitchell_BBC",
+  "country_region": "UK",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\BBC World News 2724b6c9c507809fbd5fc254590b3def\\BBC_Christopher_Mitchell_FULL 2724b6c9c50781ee91ade95b99c57823.md",
+  "created_at": "2025-09-19T11:23:38.641945+00:00",
+  "updated_at": "2025-09-19T11:23:38.641945+00:00",
+  "organization": "British Broadcasting Corporation (BBC)",
+  "role": "Executive Producer, BBC World Service Eye Investigations",
+  "commissioner_type": "investigative_documentaries",
+  "email": "christopher.mitchell01@bbc.co.uk",
+  "location": "London, UK",
+  "name": "Christopher Mitchell",
+  "background": "Christopher Mitchell leads BBC World Service Eye Investigations, a strand focused on investigative documentaries in the Arabic-speaking world. His remit covers BBC Arabic (linear TV), BBC iPlayer (English-language versions), and wider BBC digital platforms including YouTube.",
+  "thematic_priorities": [
+    "Investigative documentaries with political or social depth",
+    "Access-led films from the MENA region, particularly Gulf states and Algeria/North Africa",
+    "Occasional environmental or historical subjects",
+    "Stories with strong journalistic credibility and regional resonance"
+  ],
+  "themes": [
+    "investigative",
+    "politics",
+    "social_issues",
+    "history"
+  ],
+  "content_not_wanted": [
+    "Fact-entertainment, profiles, or celebrity-driven content",
+    "Presenter-led formats with non-Arabic-speaking hosts",
+    "Projects lacking access or clear editorial purpose"
+  ],
+  "target_audience": [
+    "Arabic-speaking audiences across the MENA region",
+    "International audiences via BBC iPlayer and English-language versions"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Preferred Lengths: 26’ or 52’ films",
+    "Series vs. One-off: Weekly doc series format with singles",
+    "Scheduling: Regular broadcast on BBC Arabic and World Service Eye slots",
+    "Platforms: BBC Arabic TV, BBC iPlayer, wider BBC World Service platforms, YouTube",
+    "Co-production: Open to pre-sales, acquisitions, and international co-productions",
+    "Typical Episode Counts: Weekly slot, singles-based"
+  ],
+  "formats": [
+    "series",
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "15-30_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Budgets not publicly specified; dependent on access, scope, and international partnerships. Open to pre-sales and acquisitions in addition to original commissions.",
+  "min_budget_usd": 25000,
+  "max_budget_usd": 1000000,
+  "budget_range": "variable",
+  "languages": [
+    "arabic",
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery to BBC broadcast standards",
+    "Arabic versions essential; English-language/subtitled versions for iPlayer and other platforms",
+    "Accessibility (subtitling) required"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "mobile_optimized"
+  ],
+  "current_calls": [
+    "Investigations with access in hard-to-report regions (e.g., Gulf, Algeria)",
+    "Stories with regional significance and global relevance",
+    "Fresh takes on untold stories in the Arabic-speaking world"
+  ],
+  "submission_process": [
+    "Pitch Materials: Brief synopsis (max 1–2 pages initially)",
+    "Development: If interested, further treatment requested",
+    "Editorial Support: Hands-on feedback and notes after greenlight",
+    "Decision Timelines: Varies depending on story urgency and context",
+    "Evaluation Criteria: Originality, relevance to Arabic-speaking audiences, editorial strength, access/feasibility, freshness and timing"
+  ],
+  "additional_info": "Commissioning Cycles: Rolling; projects considered year-round. Diversity & Inclusion: Preference for filmmakers based in the Arab world. Sustainability: Encourages disciplined production practices (avoiding overshoot, efficient edits). Independent Production: Welcomes pitches from independent producers with regional access.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

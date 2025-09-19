@@ -1,0 +1,84 @@
+{
+  "id": "Pascal_Golomer_France_24",
+  "country_region": "France",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Pascal_Golomer_France_24 2724b6c9c507814aaabcc54d38ae1323.md",
+  "created_at": "2025-09-19T11:27:24.273151+00:00",
+  "updated_at": "2025-09-19T11:27:24.273151+00:00",
+  "organization": "France 24",
+  "role": "Deputy Director for Television",
+  "commissioner_type": "editorial_director",
+  "email": "pascal.golomer@france24.com",
+  "location": "France",
+  "name": "Pascal Golomer",
+  "background": "Pascal Golomer serves as Deputy Director for Television at France 24. Focus areas: News and current affairs documentaries.",
+  "thematic_priorities": [
+    "Current affairs docs with international focus",
+    "geopolitical analysis from a French perspective",
+    "Cultural documentaries showcasing French influence globally"
+  ],
+  "themes": [
+    "politics",
+    "international",
+    "social_issues",
+    "celebrity_music",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "international audiences (multi-language)"
+  ],
+  "audience_segments": [
+    "international",
+    "young_adults_18_35",
+    "families"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Singles (26–52 minutes)"
+  ],
+  "formats": [
+    "returnable_series",
+    "factual_entertainment"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €60K–€120K per hour; Specialist Factual: €70K–€150K per hour",
+  "min_budget_usd": 65000,
+  "max_budget_usd": 130000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english",
+    "arabic",
+    "spanish"
+  ],
+  "technical_requirements": [
+    "Subtitles/captions; audio description as per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities & commissioner-specific interests"
+  ],
+  "submission_process": [
+    "Two-page treatment with premise and international relevance",
+    "Language versioning potential",
+    "Key production team credentials",
+    "International co-production elements",
+    "Submit via email: documentaries@france24.com"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; Support for projects across French regions (where applicable).",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

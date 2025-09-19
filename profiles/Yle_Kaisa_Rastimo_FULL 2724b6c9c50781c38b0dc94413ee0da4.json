@@ -1,0 +1,84 @@
+{
+  "id": "Kaisa_Rastimo_Yle",
+  "country_region": "Finland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Finland 2724b6c9c507807ba00cc3734f34a93d\\Yle_Kaisa_Rastimo_FULL 2724b6c9c50781c38b0dc94413ee0da4.md",
+  "created_at": "2025-09-19T11:25:51.043744+00:00",
+  "updated_at": "2025-09-19T11:25:51.043744+00:00",
+  "organization": "Yle (Yleisradio)",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "kaisa.rastimo@yle.fi",
+  "location": "Helsinki, Finland",
+  "name": "Kaisa Rastimo",
+  "background": "Supports author-driven documentaries that reflect Finnish society and underrepresented voices, highlighting democratic and cultural values through strong narratives and access-based storytelling.",
+  "thematic_priorities": [
+    "Pressing social issues or personal transformation",
+    "Access-driven character documentaries",
+    "Finnish identity, history or cultural shifts"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "history"
+  ],
+  "content_not_wanted": [
+    "Superficial observational docs without strong narrative",
+    "Projects without clear Finnish or Nordic resonance"
+  ],
+  "target_audience": [
+    "Finnish audiences seeking cultural, social and democratic reflection",
+    "International co-production partners for Nordic/global relevance"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour films or series (2–6 episodes)"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €30K–€150K per hour",
+  "min_budget_usd": 32000,
+  "max_budget_usd": 160000,
+  "budget_range": "medium",
+  "languages": [
+    "finnish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast-ready HD/4K; subtitles for co-productions",
+    "Full rights clearances; accessibility compliance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Social docs spotlighting marginalised voices",
+    "Nordic co-pros with strong character focus"
+  ],
+  "submission_process": [
+    "One-page outline with premise, societal relevance and format",
+    "Details of access and confirmed contributors",
+    "Team track record",
+    "Submission via Yle Producer Portal or recognised prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

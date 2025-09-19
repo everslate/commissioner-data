@@ -1,0 +1,97 @@
+{
+  "id": "Christine_Cauquelin_Canal_Canal+",
+  "country_region": "France",
+  "platform_type": "traditional_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Christine_Cauquelin_Canal 2724b6c9c50781ed9dfcf5ce4a55f832.md",
+  "created_at": "2025-09-19T11:26:23.848360+00:00",
+  "updated_at": "2025-09-19T11:26:23.848360+00:00",
+  "organization": "Canal+",
+  "role": "Head of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "christine.cauquelin@canal-plus.com",
+  "location": "France",
+  "name": "Christine Cauquelin",
+  "background": "Christine Cauquelin serves as Head of Documentaries at Canal+. Focus areas: Overall documentary strategy. They are looking for: Premium, distinctive documentary content with entertainment value and commercial appeal. Overall network strategy: Canal+ seeks premium, distinctive documentary content with strong entertainment value and commercial appeal, focusing on exclusive access, high-profile subjects, and cinematic execution that adds value to their subscription offering.",
+  "thematic_priorities": [
+    "Premium, distinctive documentary content with entertainment value and commercial appeal",
+    "High-end documentary series with strong narrative drive (typically 4–6 episodes)",
+    "True crime series with unique access or perspective",
+    "Feature-length documentaries about cinema and filmmakers",
+    "Sports documentaries featuring high-profile athletes or events",
+    "Celebrity-focused documentaries with exclusive access",
+    "Music documentaries focused on major French or international artists",
+    "Limited specialist factual commissioning, primarily for Canal+ Docs",
+    "Science and technology focused on innovation and future trends",
+    "History documentaries with strong narrative storytelling and commercial appeal",
+    "Cultural documentaries featuring high-profile artists or institutions"
+  ],
+  "themes": [
+    "true_crime",
+    "history",
+    "science_tech",
+    "arts_culture",
+    "social_issues",
+    "lifestyle"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred format: Series (4–6 episodes) or feature-length (90')",
+    "Both series and one-off depending on story and slot",
+    "Primetime/flagship slots where applicable; platform premieres for streamers",
+    "Linear broadcast and/or streaming platform",
+    "Open to international co-productions where aligned",
+    "3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "feature_length",
+    "standard"
+  ],
+  "content_lengths": [
+    "90-120_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €200K–€450K per hour; Specialist Factual: €180K–€400K per hour",
+  "min_budget_usd": 215000,
+  "max_budget_usd": 490000,
+  "budget_range": "high",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized",
+    "mobile_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come via an established production company",
+    "Detailed treatment with premise, format and narrative structure",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Comparable successful Canal+ examples",
+    "Exclusivity elements clearly defined",
+    "Submit via Canal+ portal: www.canalplusgroupe.com/producteurs"
+  ],
+  "additional_info": "Strategic Shifts: Increasing focus on distinctive voices and cross-platform reach; Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects across French regions (where applicable); Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

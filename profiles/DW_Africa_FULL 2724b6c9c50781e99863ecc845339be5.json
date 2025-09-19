@@ -1,0 +1,85 @@
+{
+  "id": "DW_Africa_Deutsche_Welle",
+  "country_region": "Africa",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\\DW_Africa_FULL 2724b6c9c50781e99863ecc845339be5.md",
+  "created_at": "2025-09-19T11:24:56.285084+00:00",
+  "updated_at": "2025-09-19T11:24:56.285084+00:00",
+  "organization": "Deutsche Welle (DW Language Services)",
+  "role": "Regional Commissioning (Africa Service)",
+  "commissioner_type": "independent_regional",
+  "email": "/path/to/contact@example.com",
+  "location": "Africa (regional hubs)",
+  "name": "DW Africa",
+  "background": "DW Africa commissions stories in English, Hausa, Amharic, Swahili, and French, focusing on governance, women’s rights, climate justice, and innovation for African audiences.",
+  "thematic_priorities": [
+    "Governance and democracy",
+    "Women’s rights and youth activism",
+    "Climate justice and innovation"
+  ],
+  "themes": [
+    "politics",
+    "social_issues",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Stories without African local context",
+    "Non-character-driven formats"
+  ],
+  "target_audience": [
+    "African youth and civil society audiences",
+    "DW Africa multilingual audiences"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "regional_local"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Short docs (5–15 mins)",
+    "Digital-first character-led films"
+  ],
+  "formats": [
+    "short_form"
+  ],
+  "duration_categories": [
+    "short_form"
+  ],
+  "content_lengths": [
+    "5-15_minutes"
+  ],
+  "budget_parameters": "Range: €5K–€25K per film",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 25000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "french",
+    "hindi",
+    "swedish",
+    "arabic"
+  ],
+  "technical_requirements": [
+    "Local language production",
+    "Mobile-first formats encouraged"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "mobile_optimized",
+    "cross_platform"
+  ],
+  "current_calls": [
+    "Women’s rights projects",
+    "Youth-led governance stories"
+  ],
+  "submission_process": [
+    "Submit in local languages (EN, FR, HA, AM, SW)",
+    "Proposals via DW Africa editorial hubs"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

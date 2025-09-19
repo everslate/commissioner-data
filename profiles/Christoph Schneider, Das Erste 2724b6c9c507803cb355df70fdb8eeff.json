@@ -1,0 +1,103 @@
+{
+  "id": "christoph_schneider_ard_das_erste",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Christoph Schneider, Das Erste 2724b6c9c507803cb355df70fdb8eeff.md",
+  "created_at": "2025-09-19T11:28:37.462337+00:00",
+  "updated_at": "2025-09-19T11:28:37.462337+00:00",
+  "organization": "ARD (Das Erste)",
+  "role": "Head of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "christoph.schneider@ard.de",
+  "location": "Germany",
+  "name": "Christoph Schneider",
+  "background": "Christoph Schneider serves as Head of Documentaries at ARD (Das Erste). Focus areas: Documentary films, investigative reporting. They are looking for: Investigative documentaries on social/political issues; feature-length (45–90') with cinematic quality. Overall network strategy: ARD seeks high-quality documentary and specialist factual content that explores important social, political, and cultural topics with depth and journalistic integrity while reflecting the diversity of German society.",
+  "thematic_priorities": [
+    "Investigative documentaries on social/political issues",
+    "feature-length (45–90') with cinematic quality",
+    "Investigative documentaries uncovering important social and political issues",
+    "Social documentaries reflecting diverse perspectives on contemporary German society",
+    "Character-driven documentary series that illuminate broader social issues",
+    "Strong emphasis on diverse voices both on-screen and in production teams",
+    "Historical documentaries connecting Germany's past to present issues",
+    "Science documentaries that make complex topics accessible to broad audiences",
+    "Cultural documentaries exploring German arts, music, and literature",
+    "Environmental documentaries with solutions-focused approach"
+  ],
+  "themes": [
+    "investigative",
+    "social_issues",
+    "history",
+    "science_tech",
+    "arts_culture",
+    "climate_environment"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "families",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 60–90'; series 3–6×60' (features 90+' where noted)",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime where applicable; platform-specific premieres",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Co-production: Open to co-productions where aligned",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard",
+    "extended_feature"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €150K–€300K per hour; Specialist Factual: €120K–€280K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 300000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery Specifications: Broadcast/streaming standards; details provided upon commissioning",
+    "Platform Requirements: Broadcaster/platform-specific deliverables",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Graphics & Branding: Adherence to broadcaster branding guidelines",
+    "Language & Subtitles: German and/or English; multilingual where applicable"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Clear indication of target ARD slot (e.g., 'Dokumentarfilm,' 'Die Story,' etc.)",
+    "Two-page treatment with premise, approach, and narrative structure",
+    "Director's vision and research methodology",
+    "Key production team credentials",
+    "Comparable successful examples",
+    "Submit via email to the relevant commissioning editor"
+  ],
+  "additional_info": "Commissioning Cycles: Ongoing; submissions accepted year-round unless strand-specific. Strategic Shifts: Increasing focus on distinctive voices and cross-platform reach. Diversity & Inclusion: Emphasis on diverse voices on- and off-screen. Sustainability: Encouragement of sustainable production practices. Regional Production: Support for projects from across German regions (where applicable). Independent Production: Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

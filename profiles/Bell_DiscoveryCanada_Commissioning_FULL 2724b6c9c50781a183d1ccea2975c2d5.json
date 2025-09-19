@@ -1,0 +1,83 @@
+{
+  "id": "Bell Media (Discovery Channel Canada)",
+  "country_region": "Canada",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Canada 2724b6c9c50780bf8638e2db620d6a93\\Bell_DiscoveryCanada_Commissioning_FULL 2724b6c9c50781a183d1ccea2975c2d5.md",
+  "created_at": "2025-09-19T11:23:57.187232+00:00",
+  "updated_at": "2025-09-19T11:23:57.187232+00:00",
+  "organization": "Bell Media (Discovery Channel Canada)",
+  "role": "Factual & Specialist Factual",
+  "commissioner_type": "factual_programming",
+  "email": "discovery.commissioning@bellmedia.ca",
+  "location": "Toronto, Canada",
+  "name": "Discovery Channel Canada Commissioning Team",
+  "background": "Discovery Channel Canada commissions factual and specialist factual series across science, engineering, environment and true crime. Focus on high-energy, accessible storytelling with Canadian relevance.",
+  "thematic_priorities": [
+    "science_tech",
+    "environment",
+    "true_crime"
+  ],
+  "themes": [
+    "science_tech",
+    "natural_history",
+    "climate_environment",
+    "true_crime"
+  ],
+  "content_not_wanted": [
+    "overly academic science content",
+    "projects without Canadian relevance"
+  ],
+  "target_audience": [
+    "Discovery Channel viewers in Canada",
+    "international factual audiences"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (6–10 eps)",
+    "One-offs (44–60 mins)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "CAD $100K–$350K per hour",
+  "min_budget_usd": 75000,
+  "max_budget_usd": 262500,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K",
+    "Science advisors where relevant"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Canadian-led science/innovation docs",
+    "Returnable true crime formats"
+  ],
+  "submission_process": [
+    "Submit via Discovery Canada content division",
+    "Outline scientific advisors and visual approach"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

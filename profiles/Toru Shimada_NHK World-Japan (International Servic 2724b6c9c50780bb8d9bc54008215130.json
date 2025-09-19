@@ -1,0 +1,86 @@
+{
+  "id": "Toru Shimada_NHK World-Japan (International Service)",
+  "country_region": "Japan",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Japan 2724b6c9c507806a9dd4c1d6efeaafb6\\Toru Shimada_NHK World-Japan (International Servic 2724b6c9c50780bb8d9bc54008215130.md",
+  "created_at": "2025-09-19T11:30:58.253990+00:00",
+  "updated_at": "2025-09-19T11:30:58.253990+00:00",
+  "organization": "NHK World-Japan (International Service)",
+  "role": "Executive Producer",
+  "commissioner_type": "premium_factual",
+  "email": "toru.shimada@nhk.jp",
+  "location": "Tokyo, Japan",
+  "name": "Toru Shimada",
+  "background": "Leads NHK World-Japan’s English-language output, commissioning documentaries that showcase Japan to global audiences, with focus on innovation, sustainability and cultural identity.",
+  "thematic_priorities": [
+    "Innovation, sustainability and global impact",
+    "Japanese traditions and modern identity",
+    "Profiles of individuals shaping change in Asia"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "international",
+    "natural_history"
+  ],
+  "content_not_wanted": [
+    "Projects too local without global appeal",
+    "Content lacking translation/subtitle readiness"
+  ],
+  "target_audience": [
+    "International NHK World-Japan audiences",
+    "Global documentary and news audiences"
+  ],
+  "audience_segments": [
+    "international",
+    "mainstream"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "1-hour international docs",
+    "Series (2–3 parts)"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: ¥1M–¥7M per hour",
+  "min_budget_usd": 67000,
+  "max_budget_usd": 470000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "japanese"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K quality",
+    "English-language or subtitled delivery"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Docs on sustainability and innovation",
+    "Global-facing Japanese culture stories"
+  ],
+  "submission_process": [
+    "Global-facing synopsis and treatment",
+    "Access info and cultural sensitivity",
+    "Submit via NHK World-Japan commissioning or co-production channels"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "Lasse Bjørch_DR",
+  "country_region": "Denmark",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\\DR_Lasse_Bjoerch_FULL 2724b6c9c50781b7b672fecb7a36863a.md",
+  "created_at": "2025-09-19T11:24:40.007643+00:00",
+  "updated_at": "2025-09-19T11:24:40.007643+00:00",
+  "organization": "DR (Danmarks Radio)",
+  "role": "Commissioning Editor",
+  "commissioner_type": "documentary_originals",
+  "email": "/not_provided/denmark@dr.dk",
+  "location": "Denmark",
+  "name": "Lasse Bjørch",
+  "background": "Authored, access‑led documentaries for DR’s factual portfolio with clear public value and strong storytelling craft.",
+  "thematic_priorities": [
+    "Character‑driven Danish stories; social and cultural themes",
+    "International stories with a strong Danish angle"
+  ],
+  "themes": [
+    "social_issues",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Projects lacking verified access",
+    "Ideas without a clear editorial USP for DR audiences"
+  ],
+  "target_audience": [
+    "Mainstream Danish viewers seeking distinctive documentaries"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Singles and limited series; festival‑friendly projects welcomed"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Aligned with DR doc ranges; co‑financing encouraged when scope expands",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 500000,
+  "budget_range": "medium",
+  "languages": [
+    "danish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast‑standard production; legal/rights fully cleared"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Projects with confirmed access comparable to 'Revir' (2023)"
+  ],
+  "submission_process": [
+    "Pitch via recognised production companies; concise treatment and sizzle",
+    "Outline access, timeline, budget, deliverables"
+  ],
+  "additional_info": "Hammer Film / Bullitt Film pages crediting DR commissioning editor Lasse Bjørch",
+  "commissioning_cycles": "project_based",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

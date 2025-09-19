@@ -1,0 +1,81 @@
+{
+  "id": "yasushi_shiina_wowow",
+  "country_region": "Japan",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Japan 2724b6c9c507806a9dd4c1d6efeaafb6\\Yasushi Shiina_WOWOW 2724b6c9c50780d08ec6c8f549f3e204.md",
+  "created_at": "2025-09-19T11:31:00.749280+00:00",
+  "updated_at": "2025-09-19T11:31:00.749280+00:00",
+  "organization": "WOWOW",
+  "role": "Head of Programming, Documentaries",
+  "commissioner_type": "premium_factual",
+  "email": "yasushi.shiina@wowow.co.jp",
+  "location": "Tokyo, Japan",
+  "name": "Yasushi Shiina",
+  "background": "Directs WOWOW’s documentary commissioning, focusing on bold, stylish nonfiction across arts, society and cultural themes with premium quality.",
+  "thematic_priorities": [
+    "Artist profiles and performing arts",
+    "Japanese society and evolving cultural values",
+    "Global trends seen through Japanese perspectives"
+  ],
+  "themes": [
+    "arts_culture",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Projects lacking sophistication or stylistic ambition",
+    "Low production value documentaries"
+  ],
+  "target_audience": [
+    "WOWOW premium subscribers",
+    "Culturally engaged Japanese and international audiences"
+  ],
+  "audience_segments": [
+    "premium_subscribers",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "High-profile arts and society documentaries",
+    "Feature-length nonfiction"
+  ],
+  "formats": [
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: ¥2M–¥10M per hour",
+  "min_budget_usd": 15000,
+  "max_budget_usd": 75000,
+  "budget_range": "medium",
+  "languages": [
+    "japanese"
+  ],
+  "technical_requirements": [
+    "Premium cinematic visuals",
+    "High-quality access or unique narrative framing"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "hdr",
+    "cinema_quality"
+  ],
+  "current_calls": [
+    "Artist and cultural profiles",
+    "Stylish docs on contemporary Japanese society"
+  ],
+  "submission_process": [
+    "Visual and concept treatment",
+    "High-quality access or unique framing",
+    "Submit via WOWOW content development team"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

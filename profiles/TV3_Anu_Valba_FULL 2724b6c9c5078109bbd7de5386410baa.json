@@ -1,0 +1,82 @@
+{
+  "id": "anu_valba_tv3_estonia",
+  "country_region": "Estonia",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Estonia 2724b6c9c50780d1891adfafdd2842fa\\TV3_Anu_Valba_FULL 2724b6c9c5078109bbd7de5386410baa.md",
+  "created_at": "2025-09-19T11:25:38.349266+00:00",
+  "updated_at": "2025-09-19T11:25:38.349266+00:00",
+  "organization": "TV3 Estonia / Duo Media Networks",
+  "role": "Head of Content",
+  "commissioner_type": "factual_programming",
+  "email": "anu.valba@tv3.ee",
+  "location": "Tallinn, Estonia",
+  "name": "Anu Välba",
+  "background": "Directs TV3 Estonia’s content, commissioning commercially appealing factual and lifestyle programming with human interest and emotional storytelling.",
+  "thematic_priorities": [
+    "Family stories and real-life journeys",
+    "Health, relationships and community series",
+    "Lifestyle and factual entertainment"
+  ],
+  "themes": [
+    "lifestyle",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Arthouse projects without commercial potential",
+    "Content lacking family or lifestyle connection"
+  ],
+  "target_audience": [
+    "Mainstream Estonian audiences",
+    "TV3’s commercial viewership"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series and one-offs",
+    "Returnable lifestyle/factual formats"
+  ],
+  "formats": [
+    "returnable_series",
+    "factual_entertainment"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €5K–€40K per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 40000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "finnish",
+    "swedish"
+  ],
+  "technical_requirements": [
+    "Broadcast commercial standards",
+    "Adaptable for linear and digital platforms"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Family and lifestyle factual entertainment",
+    "Emotionally resonant human interest projects"
+  ],
+  "submission_process": [
+    "Short treatment or format pitch",
+    "Audience fit and tone must be defined",
+    "Submit via TV3 programming or partner prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

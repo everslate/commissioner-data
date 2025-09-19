@@ -1,0 +1,85 @@
+{
+  "id": "Jana_Kaun_ProSiebenSat.1_ProSiebenSat.1",
+  "country_region": "Germany",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Jana_Kaun_ProSiebenSat 1 2724b6c9c50781ea9ae2f1c2687efa03.md",
+  "created_at": "2025-09-19T11:28:53.912072+00:00",
+  "updated_at": "2025-09-19T11:28:53.912072+00:00",
+  "organization": "ProSiebenSat.1",
+  "role": "Commissioning Editor, Factual Entertainment",
+  "commissioner_type": "factual_programming",
+  "email": "jana.kaun@prosiebensat1.com",
+  "location": "Germany",
+  "name": "Jana Kaun",
+  "background": "Jana Kaun serves as Commissioning Editor, Factual Entertainment at ProSiebenSat.1. Focus areas: Factual entertainment, social experiments. They are looking for: Social experiment formats about contemporary German society; character-driven factual series with young appeal. Overall network strategy is to seek entertaining factual content with strong formats, relatable characters and commercial potential that appeals to younger audiences while delivering high production values.",
+  "thematic_priorities": [
+    "Social experiment formats about contemporary German society; character-driven factual with young appeal",
+    "Young-skewing documentaries targeting 14–49 demographic",
+    "Social experiment formats revealing insights about contemporary German society",
+    "Character-driven factual series with compelling personalities",
+    "Access documentaries into institutions or communities with young appeal",
+    "True crime series with unique storytelling approach",
+    "Focus on spectacle and entertainment value over educational content",
+    "Science programming with experimental elements and young presenter"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "true_crime"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream audiences; younger-skewing 14–49 where applicable"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Series-led (3–8×45–60'); limited interest in singles",
+    "Both Series vs. One-off depending on story and slot",
+    "Primetime scheduling where applicable; platform-specific premieres",
+    "Open to co-productions where aligned",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [],
+  "budget_parameters": "Documentary: €80K–€200K per hour; Specialist Factual: €100K–€200K per hour",
+  "min_budget_usd": 80000,
+  "max_budget_usd": 200000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Clear indication of target audience (14–49)",
+    "Access/contributors details",
+    "Talent attachments focused on younger presenters",
+    "Digital/social strategy",
+    "Submit via ProSiebenSat.1 portal: www.prosiebensat1.de/produzenten"
+  ],
+  "additional_info": "Ongoing commissioning cycles; submissions accepted year-round unless strand-specific. Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects from across German regions.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

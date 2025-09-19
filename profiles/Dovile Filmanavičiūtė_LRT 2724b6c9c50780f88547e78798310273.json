@@ -1,0 +1,83 @@
+{
+  "id": "Dovile_Filmanavičiūtė_LRT",
+  "country_region": "Lithuania",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Lithuania 2724b6c9c507807ca083e4e491ee46d8\\Dovile Filmanavičiūtė_LRT 2724b6c9c50780f88547e78798310273.md",
+  "created_at": "2025-09-19T11:31:22.851396+00:00",
+  "updated_at": "2025-09-19T11:31:22.851396+00:00",
+  "organization": "LRT (Lithuanian National Radio and Television)",
+  "role": "Commissioning Editor, Factual and Culture",
+  "commissioner_type": "factual_programming",
+  "email": "dovile.filmanaviciute@lrt.lt",
+  "location": "Vilnius, Lithuania",
+  "name": "Dovile Filmanavičiūtė",
+  "background": "Commissioning editor for LRT’s factual and cultural output, focusing on youth, innovation and contemporary Lithuanian life. Encourages new voices and experimental storytelling.",
+  "thematic_priorities": [
+    "Youth, innovation and digital life in Lithuania",
+    "Contemporary culture and social change",
+    "Nature, environment and rural life"
+  ],
+  "themes": [
+    "lifestyle",
+    "social_issues",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Conventional or formulaic formats",
+    "Projects not accessible to younger or diverse audiences"
+  ],
+  "target_audience": [
+    "Younger Lithuanian audiences",
+    "Cultural and civic-minded viewers"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docs (26–58 mins)",
+    "Short series"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €10K–€80K per hour",
+  "min_budget_usd": 10000,
+  "max_budget_usd": 80000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "french"
+  ],
+  "technical_requirements": [
+    "Broadcast standards; subtitles for wider reach",
+    "Creative visual approach encouraged"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Innovative formats with new Lithuanian voices",
+    "Youth and digital life projects"
+  ],
+  "submission_process": [
+    "Proposal with theme, audience and creative vision",
+    "Director’s vision or experimental treatment",
+    "Submit via LRT commissioning or Baltic pitching events"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "Raney Aronson-Rath-PBS Frontline",
+  "country_region": "USA",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\PBS_Frontline_Commissioning_FULL 2734b6c9c507813bbe4fc14ac06617c0.md",
+  "created_at": "2025-09-19T11:36:22.251622+00:00",
+  "updated_at": "2025-09-19T11:36:22.251622+00:00",
+  "organization": "PBS (Frontline)",
+  "role": "Editor-in-Chief & Executive Producer",
+  "commissioner_type": "investigative_documentaries",
+  "email": "frontline@pbs.org",
+  "location": "Boston, USA",
+  "name": "Raney Aronson-Rath",
+  "background": "Frontline is PBS’s flagship investigative documentary strand. Raney Aronson-Rath commissions deep investigative reporting and long-form journalism with global and national significance.",
+  "thematic_priorities": [
+    "Investigative journalism",
+    "Politics, democracy, justice",
+    "War, conflict and global issues"
+  ],
+  "themes": [
+    "investigative",
+    "politics",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Light entertainment",
+    "Non-investigative factual"
+  ],
+  "target_audience": [
+    "PBS primetime audiences",
+    "Policy and global affairs audiences"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour docs",
+    "Feature-length investigations"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "USD $200K–$600K per hour",
+  "min_budget_usd": 200000,
+  "max_budget_usd": 600000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD; strong editorial compliance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "US democracy and elections",
+    "Global conflict and accountability"
+  ],
+  "submission_process": [
+    "Submit via PBS Frontline editorial office",
+    "Proposals from experienced investigative teams only"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,84 @@
+{
+  "id": "Mislav_Togonal_HRT",
+  "country_region": "Croatia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Croatia 2724b6c9c50780438279f8638f65ea78\\HRT_Mislav_Togonal_FULL 2724b6c9c507816e87c4fe5d228f8aec.md",
+  "created_at": "2025-09-19T11:24:14.796081+00:00",
+  "updated_at": "2025-09-19T11:24:14.796081+00:00",
+  "organization": "HRT (Hrvatska radiotelevizija)",
+  "role": "Editor-in-Chief, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "mislav.togonal@hrt.hr",
+  "location": "Zagreb, Croatia",
+  "name": "Mislav Togonal",
+  "background": "Leads HRT’s documentary programming. Focuses on public interest films that explore Croatian history, culture, politics, and contemporary social relevance.",
+  "thematic_priorities": [
+    "Croatian national history and cultural heritage",
+    "Post-war identity, EU integration and regional development",
+    "Contemporary social issues and human interest stories"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects without Croatian or regional relevance",
+    "Superficial treatments lacking educational value"
+  ],
+  "target_audience": [
+    "National Croatian audiences",
+    "Regional co-production and festival viewers"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min one-offs",
+    "2–3 part series"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Range: €10K–€70K per hour, higher for co-productions",
+  "min_budget_usd": 10700,
+  "max_budget_usd": 74800,
+  "budget_range": "medium",
+  "languages": [
+    "croatian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Subtitles for co-production distribution"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Docs on EU integration",
+    "Social change and national identity"
+  ],
+  "submission_process": [
+    "Proposal in Croatian/English with topic summary",
+    "Must outline cultural value and originality",
+    "Submit via HRT commissioning or ZagrebDox/HAVC forums"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

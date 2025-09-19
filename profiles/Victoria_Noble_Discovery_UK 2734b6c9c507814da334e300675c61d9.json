@@ -1,0 +1,88 @@
+{
+  "id": "Victoria_Noble_Discovery_UK",
+  "country_region": "UK",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Victoria_Noble_Discovery_UK 2734b6c9c507814da334e300675c61d9.md",
+  "created_at": "2025-09-19T11:35:48.006826+00:00",
+  "updated_at": "2025-09-19T11:35:48.006826+00:00",
+  "organization": "Discovery UK",
+  "role": "VP Original Content, Factual",
+  "commissioner_type": "natural_history",
+  "email": "victoria_noble@discovery.com",
+  "location": "United Kingdom",
+  "name": "Victoria Noble",
+  "background": "Victoria Noble serves as VP Original Content, Factual at Discovery UK. Focus areas: Natural history, science, adventure.",
+  "thematic_priorities": [
+    "Natural history (predators/extremes)",
+    "science with practical applications",
+    "adventure and survival documentaries",
+    "engineering and mega-structures programming",
+    "factual series with clear format",
+    "character-driven factual with authentic expertise"
+  ],
+  "themes": [
+    "natural_history",
+    "science_tech",
+    "lifestyle"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Male-skewing audiences with international appeal"
+  ],
+  "audience_segments": [
+    "international",
+    "young_adults_18_35",
+    "families"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Series-led (6–10×45–60')",
+    "limited interest in singles",
+    "both series and one-off formats"
+  ],
+  "formats": [
+    "returnable_series",
+    "factual_entertainment"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "episodic_60_min"
+  ],
+  "budget_parameters": "Documentary: £100K–£250K per hour; Specialist Factual: £120K–£300K per hour",
+  "min_budget_usd": 125000,
+  "max_budget_usd": 375000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "subtitles/captions; audio description",
+    "adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with premise, format and international appeal",
+    "Access/contributors details",
+    "Key talent and production team credentials",
+    "Comparable successful Discovery examples",
+    "Commercial partnerships or brand integration potential",
+    "Submit via commissioning@discovery.com"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

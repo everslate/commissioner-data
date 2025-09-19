@@ -1,0 +1,75 @@
+{
+  "id": "Wendy_Moore_Foxtel",
+  "country_region": "Australia",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Australia 2724b6c9c50780149be7d2c1ef663456\\Foxtel_Wendy_Moore_FULL 2724b6c9c507810b8224d3e5ef8ad7ee.md",
+  "created_at": "2025-09-19T11:23:28.509541+00:00",
+  "updated_at": "2025-09-19T11:23:28.509541+00:00",
+  "organization": "Foxtel",
+  "role": "Group General Manager, LifeStyle and Factual",
+  "commissioner_type": "premium_factual",
+  "email": "wendy.moore@foxtel.com.au",
+  "location": "Sydney, Australia",
+  "name": "Wendy Moore",
+  "background": "Directs Foxtel’s factual slate across Showcase, CI and DocPlay. Commissions premium true crime, biographies and cultural documentaries with strong commercial potential.",
+  "thematic_priorities": [
+    "True crime, criminal justice and mystery",
+    "Profiles of iconic Australians",
+    "Social and cultural shifts in Australia"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Low-budget projects without commercial scope",
+    "Projects not visually polished"
+  ],
+  "target_audience": [
+    "Foxtel broadcast and DocPlay audiences",
+    "Australian and international commercial markets"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docuseries",
+    "Feature-length documentaries"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Range: AUD $150K–$500K per hour",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 500000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Visually polished, cinematic HD/4K",
+    "Rights cleared for multi-platform distribution"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [],
+  "current_calls": [
+    "High-end true crime",
+    "Biographies of Australian icons"
+  ],
+  "submission_process": [
+    "Strong treatment with visuals, access and commercial potential",
+    "Submit via Foxtel content team or production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

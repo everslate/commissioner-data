@@ -1,0 +1,90 @@
+{
+  "id": "Amanda_Stavri_ITV",
+  "country_region": "UK",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Amanda_Stavri_ITV 2734b6c9c507817aa4e5d630a3efe6f9.md",
+  "created_at": "2025-09-19T11:33:42.004292+00:00",
+  "updated_at": "2025-09-19T11:33:42.004292+00:00",
+  "organization": "ITV",
+  "role": "Commissioning Editor, Factual Entertainment",
+  "commissioner_type": "factual_programming",
+  "email": "amanda.stavri@itv.com",
+  "location": "United Kingdom",
+  "name": "Amanda Stavri",
+  "background": "Amanda Stavri serves as Commissioning Editor, Factual Entertainment at ITV. Focus areas: Factual entertainment. They are looking for returnable formats with strong hooks; presenter-led factual with established talent. ITV seeks accessible factual content with broad mainstream appeal that connects with viewers across the UK through relatable characters, compelling storytelling and familiar institutions.",
+  "thematic_priorities": [
+    "High-impact, accessible documentaries with broad mainstream appeal",
+    "Crime documentaries with unique access or perspective",
+    "Character-driven factual series with relatable individuals",
+    "Access-led documentary series into British institutions or communities",
+    "'Authentic Britain' documentaries reflecting contemporary life",
+    "Presenter-led documentary series with established talent",
+    "History docs with strong narrative storytelling and broad appeal",
+    "Science and natural history accessible to mainstream audiences",
+    "Medical documentaries with dramatic storytelling and emotional impact"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "science_tech",
+    "true_crime",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream UK audiences"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (3–4 episodes) with return potential",
+    "Primetime scheduling where applicable; platform premieres for streamers",
+    "Both series and one-off formats depending on story and slot"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "episodic_60_min"
+  ],
+  "budget_parameters": "Documentary: £100K–£250K per hour; Specialist Factual: £120K–£280K per hour",
+  "min_budget_usd": 125000,
+  "max_budget_usd": 325000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate target slot (usually 9pm)",
+    "One-page outline with headline, premise and format",
+    "Explain mainstream appeal elements",
+    "Access/contributors details",
+    "Talent attachments or suggestions",
+    "Comparable successful examples",
+    "Submit via ITV portal: www.itv.com/commissioning"
+  ],
+  "additional_info": "Increased focus on distinctive voices and cross-platform reach; emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects across the UK; open to pitches from independent producers.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

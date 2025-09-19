@@ -1,0 +1,94 @@
+{
+  "id": "Diego Buñuel_Netflix Europe",
+  "country_region": "France",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Netflix Europe 2724b6c9c50780dbb54ffae20964dbf7\\Diego Buñuel_Netflix Europe 2724b6c9c5078027b1d7f16397581598.md",
+  "created_at": "2025-09-19T11:31:37.424691+00:00",
+  "updated_at": "2025-09-19T11:31:37.424691+00:00",
+  "organization": "Netflix Europe",
+  "role": "Director of Original Documentaries, EMEA",
+  "commissioner_type": "documentary_originals",
+  "email": "diego.bunuel@netflix.com",
+  "location": "Paris, France (EMEA HQ)",
+  "name": "Diego Buñuel",
+  "background": "Oversees Netflix’s pan-European documentary commissioning. Focuses on bold narratives, international co-productions, and globally relevant themes with cinematic execution.",
+  "thematic_priorities": [
+    "True crime series with international potential",
+    "Investigative or access-driven storytelling",
+    "Arts, music or sports docs with major names",
+    "Cultural phenomena and identity politics",
+    "Social justice, technology and geopolitical themes"
+  ],
+  "themes": [
+    "true_crime",
+    "investigative",
+    "arts_culture",
+    "social_issues",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects lacking global resonance",
+    "Low production value factual content"
+  ],
+  "target_audience": [
+    "Global Netflix subscribers",
+    "Festival and awards-focused audiences"
+  ],
+  "audience_segments": [
+    "international",
+    "premium_subscribers"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Festival-quality feature documentaries (90+ minutes)",
+    "Series: 3–8 episodes, 30–60 mins each"
+  ],
+  "formats": [
+    "feature_doc",
+    "series"
+  ],
+  "duration_categories": [
+    "feature_length",
+    "standard"
+  ],
+  "content_lengths": [
+    "90-120_minutes",
+    "episodic_30_min",
+    "episodic_60_min"
+  ],
+  "budget_parameters": "Range: €300K–€1.5M+ per hour",
+  "min_budget_usd": 300000,
+  "max_budget_usd": 1500000,
+  "budget_range": "high",
+  "languages": [
+    "english",
+    "french"
+  ],
+  "technical_requirements": [
+    "Cinematic 4K production",
+    "Global rights cleared; subtitles/dubs provided"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "festival_ready",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Docs tackling geopolitical urgency",
+    "High-profile cultural/sports/music access projects"
+  ],
+  "submission_process": [
+    "Must come via production company or agent",
+    "Full treatment with premise, arc, episode guide",
+    "Director’s statement + past work links",
+    "Access and talent details",
+    "Submit via Netflix internal process with production partner"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

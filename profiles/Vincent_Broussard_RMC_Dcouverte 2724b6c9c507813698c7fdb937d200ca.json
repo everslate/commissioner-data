@@ -1,0 +1,85 @@
+{
+  "id": "Vincent_Broussard_RMC_Decouverte",
+  "country_region": "France",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Vincent_Broussard_RMC_Dcouverte 2724b6c9c507813698c7fdb937d200ca.md",
+  "created_at": "2025-09-19T11:28:01.027326+00:00",
+  "updated_at": "2025-09-19T11:28:01.027326+00:00",
+  "organization": "RMC Découverte",
+  "role": "Programming Director",
+  "commissioner_type": "factual_programming",
+  "email": "vincent.broussard@rmcdecouverte.fr",
+  "location": "France",
+  "name": "Vincent Broussard",
+  "background": "Vincent Broussard serves as Programming Director at RMC Découverte. Focus areas: Overall programming strategy. They are looking for: Male-skewing factual on engineering, technology, adventure and history. Overall network strategy: RMC Découverte seeks male-skewing factual content focusing on engineering, technology, adventure and history with entertaining approaches and strong visual elements that appeal to their core audience.",
+  "thematic_priorities": [
+    "Male-skewing factual on engineering",
+    "technology",
+    "adventure",
+    "history",
+    "Male-skewing factual content with entertainment value",
+    "Limited original commissioning; focus on acquisitions and co-productions",
+    "Engineering and technology formats with return potential"
+  ],
+  "themes": [
+    "science_tech",
+    "true_crime",
+    "history",
+    "lifestyle"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred format: Series (6–10 episodes) with strong visual elements",
+    "Engineering/technology with focus on processes and machinery",
+    "History focusing on warfare, machines and engineering",
+    "Adventure and survival with authentic jeopardy",
+    "Both series and one-off depending on story and slot",
+    "Primetime/flagship slots where applicable; platform premieres for streamers"
+  ],
+  "formats": [
+    "series",
+    "returnable_series"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Documentary: €60K–€150K per hour (co-productions); Specialist Factual: €70K–€180K per hour (co-productions)",
+  "min_budget_usd": 64000,
+  "max_budget_usd": 190000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with premise and entertainment value",
+    "Visual approach and treatment",
+    "Male audience appeal elements",
+    "Comparable successful RMC Découverte examples",
+    "Submit via email: programmation@rmcdecouverte.fr"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; Open to pitches from independent producers/companies; Support for projects across French regions (where applicable)",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

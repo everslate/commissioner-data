@@ -1,0 +1,86 @@
+{
+  "id": "Thomas Städter_PHOENIX",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Thomas_Stdter_PHOENIX 2724b6c9c507812d9d90daf262422214.md",
+  "created_at": "2025-09-19T11:30:14.336465+00:00",
+  "updated_at": "2025-09-19T11:30:14.336465+00:00",
+  "organization": "PHOENIX",
+  "role": "Head of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "thomas.staedter@phoenix.de",
+  "location": "Germany",
+  "name": "Thomas Städter",
+  "background": "Thomas Städter serves as Head of Documentaries at PHOENIX, focusing on documentary films and current affairs. They seek political documentaries with journalistic depth and history connecting past to present.",
+  "thematic_priorities": [
+    "Political documentaries with journalistic depth",
+    "history connecting past to present",
+    "In-depth political documentaries with journalistic integrity",
+    "Historical documentaries connecting past events to current issues",
+    "Current affairs documentaries providing context and analysis",
+    "International affairs with German perspective"
+  ],
+  "themes": [
+    "politics",
+    "history",
+    "international"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred format: Singles (45–60 minutes)",
+    "Preferred format: Singles (45–60 minutes) or series (2–3 episodes)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Documentary: €80K–€180K per hour; Specialist Factual: €90K–€200K per hour",
+  "min_budget_usd": 80000,
+  "max_budget_usd": 200000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Two-page treatment with premise and journalistic approach",
+    "Research methodology and sources",
+    "Key production team credentials",
+    "Submit via email: dokumentation@phoenix.de"
+  ],
+  "additional_info": "Diversity emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects from across German regions (where applicable); open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

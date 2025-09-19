@@ -1,0 +1,83 @@
+{
+  "id": "Fahrettin Altun_TRT",
+  "country_region": "Turkey",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Turkey 2724b6c9c5078047a5fbd2fa0fb5dda8\\Fahrettin Altun_TRT 2724b6c9c5078051a2e6ebfc63a45973.md",
+  "created_at": "2025-09-19T11:33:12.843923+00:00",
+  "updated_at": "2025-09-19T11:33:12.843923+00:00",
+  "organization": "TRT (Turkish Radio and Television Corporation)",
+  "role": "Head of Strategic Communications",
+  "commissioner_type": "editorial_director",
+  "email": "fahrettin.altun@trt.net.tr",
+  "location": "Ankara, Turkey",
+  "name": "Fahrettin Altun",
+  "background": "Leads TRT’s strategic communications and documentary commissioning aligned with state priorities. Focuses on projects reflecting Turkish national history, Islamic civilisation and cultural diplomacy.",
+  "thematic_priorities": [
+    "Ottoman and Islamic history",
+    "Turkish culture, migration and diaspora",
+    "Turkish soft power, diplomacy and regional narratives"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Projects without alignment to Turkish cultural/political goals",
+    "Docs lacking historical or diplomatic resonance"
+  ],
+  "target_audience": [
+    "Turkish national audiences",
+    "International co-production partners aligned with TRT’s vision"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Single docs (30–60 mins)",
+    "Series (3–6 parts)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: TRY 100,000–600,000 per hour",
+  "min_budget_usd": 3700,
+  "max_budget_usd": 22200,
+  "budget_range": "medium",
+  "languages": [
+    "turkish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "RTÜK compliance and state-aligned protocols"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Projects highlighting Ottoman/Islamic history",
+    "Docs supporting Turkey’s cultural diplomacy"
+  ],
+  "submission_process": [
+    "Synopsis with political and cultural relevance",
+    "Local production capacity or co-production partners required",
+    "Submit via TRT Content Directorate or vetted prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

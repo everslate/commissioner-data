@@ -1,0 +1,92 @@
+{
+  "id": "Lucy_Willis_Channel_5",
+  "country_region": "United Kingdom",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Lucy_Willis_Channel_5 2734b6c9c507813b9939f7ae490dfef0.md",
+  "created_at": "2025-09-19T11:35:02.105814+00:00",
+  "updated_at": "2025-09-19T11:35:02.105814+00:00",
+  "organization": "Channel 5",
+  "role": "Commissioning Editor, Factual",
+  "commissioner_type": "factual_programming",
+  "email": "lucy.willis@channel5.com",
+  "location": "United Kingdom",
+  "name": "Lucy Willis",
+  "background": "Lucy Willis serves as Commissioning Editor, Factual at Channel 5. Focus areas: Documentaries, popular factual.",
+  "thematic_priorities": [
+    "Behind-the-scenes access series at British institutions",
+    "medical & emergency services docs",
+    "accessible factual programming with broad appeal",
+    "social history documentaries",
+    "true crime series focusing on recent British cases",
+    "observational documentary series in workplace settings",
+    "engineering and 'how things work' specialist factual",
+    "natural history focusing on British wildlife and landscapes",
+    "ancient history and archaeology with mystery/revelation elements",
+    "presenter-led specialist factual with established talent"
+  ],
+  "themes": [
+    "social_issues",
+    "history",
+    "true_crime",
+    "natural_history",
+    "science_tech",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream UK audiences"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (3–5 episodes) for weekday 9pm slots",
+    "Both series and one-off, depending on story and slot"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "episodic_60_min"
+  ],
+  "budget_parameters": "Documentary: £80K–£200K per hour; Specialist Factual: £90K–£180K per hour",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 250000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Clear indication of broad audience appeal",
+    "Episode breakdown for series proposals",
+    "Talent suggestions or attachments",
+    "Comparable successful Channel 5 examples",
+    "Access/contributors details",
+    "Submit via email: commissioning@channel5.com"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "markus_kuettner_rtl",
+  "country_region": "Germany",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Markus Küttner_RTL 2724b6c9c507804c8180daa42919126d.md",
+  "created_at": "2025-09-19T11:29:17.185100+00:00",
+  "updated_at": "2025-09-19T11:29:17.185100+00:00",
+  "organization": "RTL",
+  "role": "Head of RTL Entertainment",
+  "commissioner_type": "factual_programming",
+  "email": "markus.kuettner@rtl.de",
+  "location": "Germany",
+  "name": "Markus Küttner",
+  "background": "Markus Küttner serves as Head of RTL Entertainment at RTL, focusing on overall factual entertainment strategy.",
+  "thematic_priorities": [
+    "Commercial factual formats with broad appeal",
+    "Returning formats with strong hooks",
+    "High-impact documentaries with broad mainstream appeal",
+    "Crime documentaries with emotional storytelling",
+    "Character-driven factual series featuring compelling, relatable individuals",
+    "Access-led documentary series into German institutions or communities",
+    "History documentaries with dramatic storytelling and broad appeal",
+    "Science programming accessible to mainstream audiences",
+    "Focus on sensational or mystery-driven content"
+  ],
+  "themes": [
+    "food_cooking",
+    "science_tech",
+    "history",
+    "true_crime",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream audiences",
+    "Younger-skewing 14–49 where applicable"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series-led (3–8×45–60')",
+    "Limited interest in singles"
+  ],
+  "formats": [
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €100K–€200K per hour; Specialist Factual: €80K–€180K per hour",
+  "min_budget_usd": 110000,
+  "max_budget_usd": 220000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions; audio description as per broadcaster requirements"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above"
+  ],
+  "submission_process": [
+    "Clear indication of target slot (usually 20:15)",
+    "One-page outline with headline, premise and format",
+    "Explanation of mainstream appeal elements",
+    "Secured or potential access/contributors",
+    "Talent attachments or suggestions",
+    "Submit via RTL's portal: www.rtl.de/sendungsideen"
+  ],
+  "additional_info": "Submissions accepted year-round unless strand-specific; emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

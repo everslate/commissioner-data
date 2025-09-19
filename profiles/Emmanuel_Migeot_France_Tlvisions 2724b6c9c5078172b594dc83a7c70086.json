@@ -1,0 +1,95 @@
+{
+  "id": "Emmanuel_Migeot_France_Télévisions",
+  "country_region": "France",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Emmanuel_Migeot_France_Tlvisions 2724b6c9c5078172b594dc83a7c70086.md",
+  "created_at": "2025-09-19T11:26:35.850525+00:00",
+  "updated_at": "2025-09-19T11:26:35.850525+00:00",
+  "organization": "France Télévisions",
+  "role": "Commissioning Editor, France 2",
+  "commissioner_type": "premium_factual",
+  "email": "emmanuel.migeot@francetv.fr",
+  "location": "France",
+  "name": "Emmanuel Migeot",
+  "background": "Emmanuel Migeot serves as Commissioning Editor, France 2 at France Télévisions, focusing on premium documentary and specialist factual content that reflects French culture and society.",
+  "thematic_priorities": [
+    "High-impact prime-time documentaries for prestige slots",
+    "Investigative documentaries with journalistic depth",
+    "Contemporary social issues with compelling narratives",
+    "Premium documentary programming with strong cultural relevance",
+    "Regional documentary programming celebrating French cultural diversity",
+    "Science documentaries balancing intellectual rigor with accessibility",
+    "Environmental documentaries with solutions-focused approach",
+    "Nature programming with cinematic quality",
+    "Cultural documentaries exploring French and global arts",
+    "Geopolitical documentaries with French perspective"
+  ],
+  "themes": [
+    "social_issues",
+    "natural_history",
+    "science_tech",
+    "arts_culture",
+    "climate_environment",
+    "history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Single films (52') or series (3–4 × 52')"
+  ],
+  "formats": [
+    "feature_doc",
+    "series",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Documentary: €150K–€350K per hour; Specialist Factual: €180K–€400K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 400000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions",
+    "audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above."
+  ],
+  "submission_process": [
+    "Indicate channel and slot (France 2/3/5, etc.)",
+    "Two-page treatment with premise, approach, and narrative structure",
+    "Details of secured or potential access",
+    "Key talent and production team credentials",
+    "Comparable successful examples",
+    "Potential for digital/multiplatform extensions",
+    "Submit via commissioning portal: www.francetelevisions.fr/commande"
+  ],
+  "additional_info": "Ongoing submissions accepted year-round. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

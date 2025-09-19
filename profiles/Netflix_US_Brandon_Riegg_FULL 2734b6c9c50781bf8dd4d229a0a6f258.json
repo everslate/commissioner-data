@@ -1,0 +1,81 @@
+{
+  "id": "Brandon_Riegg_Netflix_US",
+  "country_region": "USA",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Streamers 2734b6c9c5078071960ac349221c2060\\Netflix_US_Brandon_Riegg_FULL 2734b6c9c50781bf8dd4d229a0a6f258.md",
+  "created_at": "2025-09-19T11:36:42.013205+00:00",
+  "updated_at": "2025-09-19T11:36:42.013205+00:00",
+  "organization": "Netflix US",
+  "role": "VP Unscripted & Documentary Series",
+  "commissioner_type": "documentary_originals",
+  "email": "docs@netflix.com",
+  "location": "Los Angeles, USA",
+  "name": "Brandon Riegg",
+  "background": "Leads Netflix’s US commissioning of documentary series and unscripted formats. Focuses on cinematic, bingeable nonfiction with global resonance.",
+  "thematic_priorities": [
+    "True crime",
+    "Pop culture & music",
+    "Sports",
+    "Investigative series"
+  ],
+  "themes": [
+    "true_crime",
+    "celebrity_music",
+    "sports",
+    "investigative"
+  ],
+  "content_not_wanted": [
+    "Small niche projects",
+    "Low-production values"
+  ],
+  "target_audience": [
+    "Global Netflix subscribers"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Event series (3–8 eps)",
+    "Feature docs (90 mins+)"
+  ],
+  "formats": [
+    "event_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "90-120_minutes"
+  ],
+  "budget_parameters": "USD $500K–$2M+ per hour",
+  "min_budget_usd": 500000,
+  "max_budget_usd": 2000000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Cinematic 4K; festival quality"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "festival_ready",
+    "4k"
+  ],
+  "current_calls": [
+    "Bingeable true crime",
+    "High-profile sports and pop culture docs"
+  ],
+  "submission_process": [
+    "Submissions via established prodcos/agents only",
+    "Must demonstrate global rights and access"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

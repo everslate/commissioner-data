@@ -1,0 +1,86 @@
+{
+  "id": "Saeed Al Kaabi_National Geographic Abu Dhabi",
+  "country_region": "UAE",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UAE 2724b6c9c5078095b140c365b579e119\\Saeed Al Kaabi+_National Geographic Abu Dhabi 2724b6c9c50780f38bcbfc346e8fc52f.md",
+  "created_at": "2025-09-19T11:33:31.100352+00:00",
+  "updated_at": "2025-09-19T11:33:31.100352+00:00",
+  "organization": "National Geographic Abu Dhabi (Abu Dhabi Media / Disney JV)",
+  "role": "Director of Factual Programming",
+  "commissioner_type": "premium_factual",
+  "email": "sae.alkaabi@admedia.ae",
+  "location": "Abu Dhabi, UAE",
+  "name": "Saeed Al Kaabi",
+  "background": "As Director of Factual Programming, Saeed Al Kaabi leads commissioning for National Geographic Abu Dhabi, a joint venture between Abu Dhabi Media and Disney. The channel has become a regional leader in Arabic-language factual, with award-winning productions on Arab heritage, environment and science. Commissioning emphasises cinematic visuals, educational value and regional pride.",
+  "thematic_priorities": [
+    "Science and exploration in the MENA region",
+    "Desert ecology, climate change and marine life",
+    "UAE heritage and Islamic civilisation"
+  ],
+  "themes": [
+    "science_tech",
+    "climate_environment",
+    "history",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Low-quality productions without cinematic visuals",
+    "Projects lacking regional scientific or cultural grounding"
+  ],
+  "target_audience": [
+    "Arabic-speaking audiences across MENA",
+    "Educational institutions and regional cultural audiences"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "niche_cultural",
+    "families"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "High-end one-offs",
+    "Series with educational/festival potential"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "AED 150,000–600,000 per hour",
+  "min_budget_usd": 40830,
+  "max_budget_usd": 163200,
+  "budget_range": "medium",
+  "languages": [
+    "arabic",
+    "english"
+  ],
+  "technical_requirements": [
+    "Cinematic 4K+ visuals required",
+    "Arabic-language delivery; English subtitling encouraged"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "festival_ready"
+  ],
+  "current_calls": [
+    "Bold science and environmental documentaries",
+    "UAE heritage and civilisation projects with international appeal"
+  ],
+  "submission_process": [
+    "Treatment with scientific/cultural relevance",
+    "High-end visuals and festival/educational appeal required",
+    "Submit via Abu Dhabi Media or established factual production companies"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "project_based",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

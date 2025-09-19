@@ -1,0 +1,86 @@
+{
+  "id": "Åsa Sjöberg_TV4 Sweden",
+  "country_region": "Sweden",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Sweden 2724b6c9c50780a8953ae65d9ebe8508\\Åsa Sjöberg_TV4 Sweden 2724b6c9c50780db91bddbaf122dc9b5.md",
+  "created_at": "2025-09-19T11:32:58.048423+00:00",
+  "updated_at": "2025-09-19T11:32:58.048423+00:00",
+  "organization": "TV4 Sweden",
+  "role": "Head of Content",
+  "commissioner_type": "factual_programming",
+  "email": "asa.sjoberg@tv4.se",
+  "location": "Stockholm, Sweden",
+  "name": "Åsa Sjöberg",
+  "background": "Oversees factual and entertainment commissioning; seeks mass appeal, emotional resonance, relatable characters and accessible formats for Swedish mainstream audiences.",
+  "thematic_priorities": [
+    "Family, health and social issue documentaries",
+    "Crime and justice series with unique access",
+    "Returnable factual entertainment formats",
+    "Celebrity or presenter-led explorations"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "food_cooking",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Formats lacking broad audience relevance",
+    "Overly experimental projects with limited scalability"
+  ],
+  "target_audience": [
+    "Mass Swedish audience across demographics",
+    "Core 25–54 viewers with family and lifestyle interest"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "families",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series formats; feature-length singles where impactful"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: SEK 250K–1M per hour",
+  "min_budget_usd": 25000,
+  "max_budget_usd": 100000,
+  "budget_range": "medium",
+  "languages": [
+    "swedish"
+  ],
+  "technical_requirements": [
+    "Broadcast standard production quality",
+    "Content adaptable for TV4 linear and streaming"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Broad appeal emotional documentaries",
+    "Crime with exclusive access or new perspective"
+  ],
+  "submission_process": [
+    "One-pager or deck with premise, emotional hooks and format",
+    "Team details and track record",
+    "Viewer appeal and time slot suggestion",
+    "Submit via TV4 commissioning or trusted producers"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

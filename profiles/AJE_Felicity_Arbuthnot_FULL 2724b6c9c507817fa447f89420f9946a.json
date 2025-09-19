@@ -1,0 +1,81 @@
+{
+  "id": "Felicity Arbuthnot-Al Jazeera English",
+  "country_region": "Qatar",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf\\AJE_Felicity_Arbuthnot_FULL 2724b6c9c507817fa447f89420f9946a.md",
+  "created_at": "2025-09-19T11:23:10.730805+00:00",
+  "updated_at": "2025-09-19T11:23:10.730805+00:00",
+  "organization": "Al Jazeera English",
+  "role": "Commissioning Editor, Witness Strand",
+  "commissioner_type": "strand_commissioner",
+  "email": "farbuthnot@aljazeera.net",
+  "location": "Doha, Qatar / London, UK",
+  "name": "Felicity Arbuthnot",
+  "background": "Felicity Arbuthnot commissions for AJE’s Witness strand, which showcases intimate, character-driven documentaries with strong social and cultural impact. She looks for personal narratives that connect the local with the global and reflect diverse perspectives.",
+  "thematic_priorities": [
+    "Character-driven narratives from the Global South",
+    "Social and cultural stories with international resonance",
+    "Human rights and community-led initiatives"
+  ],
+  "themes": [
+    "social_issues",
+    "international",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects lacking strong characters",
+    "Stories without emotional or social resonance"
+  ],
+  "target_audience": [
+    "Global AJE viewers seeking human-centred storytelling",
+    "Documentary festival audiences"
+  ],
+  "audience_segments": [
+    "international",
+    "niche_cultural"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "25–50 min Witness strand films"
+  ],
+  "formats": [
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "USD $25K–$100K per film",
+  "min_budget_usd": 25000,
+  "max_budget_usd": 100000,
+  "budget_range": "low",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD; English or subtitled delivery",
+    "Must meet AJE ethical and editorial standards"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Character-driven docs from underrepresented regions",
+    "Films linking intimate stories to wider global themes"
+  ],
+  "submission_process": [
+    "One-page synopsis or treatment with main characters",
+    "Proposals must highlight cultural/social impact",
+    "Submit via Witness commissioning team"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

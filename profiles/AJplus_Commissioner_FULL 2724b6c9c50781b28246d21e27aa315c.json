@@ -1,0 +1,84 @@
+{
+  "id": "AJ+_Al_Jazeera_Digital",
+  "country_region": "Qatar",
+  "platform_type": "digital_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf\\AJplus_Commissioner_FULL 2724b6c9c50781b28246d21e27aa315c.md",
+  "created_at": "2025-09-19T11:23:09.456616+00:00",
+  "updated_at": "2025-09-19T11:23:09.456616+00:00",
+  "organization": "Al Jazeera Digital",
+  "role": "Commissioning Editor, AJ+",
+  "commissioner_type": "editorial_director",
+  "email": "/unknown/unknown@example.com",
+  "location": "Doha, Qatar / San Francisco, USA",
+  "name": "AJ+ Commissioner",
+  "background": "AJ+ is Al Jazeera’s digital-first, youth-focused platform, commissioning short-form documentaries and social videos tailored for online audiences. AJ+ prioritises bold, progressive storytelling with emphasis on human rights, climate justice and social movements.",
+  "thematic_priorities": [
+    "Youth-led social justice movements",
+    "Climate justice and environmental activism",
+    "Human rights and civil society globally",
+    "Stories connecting local activism to global trends"
+  ],
+  "themes": [
+    "social_issues",
+    "climate_environment",
+    "politics",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Long-form content unsuitable for digital platforms",
+    "Projects without strong social media resonance"
+  ],
+  "target_audience": [
+    "Global digital-native audiences (18–35)",
+    "Social media users engaged with activism and justice"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "mainstream"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Short-form docs (5–15 mins)",
+    "Digital series with returnability"
+  ],
+  "formats": [
+    "short_form"
+  ],
+  "duration_categories": [
+    "short_form"
+  ],
+  "content_lengths": [
+    "5-15_minutes"
+  ],
+  "budget_parameters": "USD $5K–$30K per short doc",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 30000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "arabic"
+  ],
+  "technical_requirements": [
+    "Digital-first formats; mobile-optimised",
+    "Subtitling and social cutdowns required"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "mobile_optimized"
+  ],
+  "current_calls": [
+    "Youth-led climate and justice docs",
+    "Stories with viral/binge potential on social platforms"
+  ],
+  "submission_process": [
+    "Pitch via AJ+ editorial teams",
+    "Must include social/digital distribution plan",
+    "Submit in English or Arabic with clear digital-first design"
+  ],
+  "additional_info": "Focus on content with strong social media potential and appeal to youthful audiences.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

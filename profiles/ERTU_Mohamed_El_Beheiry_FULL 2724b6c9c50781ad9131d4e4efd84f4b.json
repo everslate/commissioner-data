@@ -1,0 +1,82 @@
+{
+  "id": "mohamed_el_beheiry_national_media_authority",
+  "country_region": "Egypt",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Egypt 2724b6c9c50780cba64ffc4ed637547a\\ERTU_Mohamed_El_Beheiry_FULL 2724b6c9c50781ad9131d4e4efd84f4b.md",
+  "created_at": "2025-09-19T11:25:33.629447+00:00",
+  "updated_at": "2025-09-19T11:25:33.629447+00:00",
+  "organization": "National Media Authority (ERTU / Maspero)",
+  "role": "Director of Documentaries, Channel 1",
+  "commissioner_type": "editorial_director",
+  "email": "mohamed.beheiry@ertu.eg",
+  "location": "Cairo, Egypt",
+  "name": "Mohamed El Beheiry",
+  "background": "As Director of Documentaries at ERTU’s Channel 1, Mohamed El Beheiry commissions projects that strengthen Egyptian cultural pride and social development. His focus is on heritage, history, and educational programming with broad public interest value.",
+  "thematic_priorities": [
+    "Ancient Egyptian civilisation and archaeology",
+    "Islamic and Coptic heritage",
+    "Youth, social cohesion and public education",
+    "Civic awareness and cultural pride"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "education"
+  ],
+  "content_not_wanted": [
+    "Projects that lack national or educational value",
+    "Content conflicting with Egyptian cultural norms"
+  ],
+  "target_audience": [
+    "National Egyptian audiences",
+    "Educational and cultural stakeholders"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min one-offs",
+    "Mini-series"
+  ],
+  "formats": [
+    "one_off_special",
+    "mini_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "EGP 50,000–250,000 per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 15000,
+  "budget_range": "medium",
+  "languages": [
+    "arabic"
+  ],
+  "technical_requirements": [
+    "Arabic-language delivery; subtitling for international use optional",
+    "Broadcast HD"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd"
+  ],
+  "current_calls": [
+    "Docs on Egypt’s civilisation and archaeology",
+    "Youth-focused civic education projects"
+  ],
+  "submission_process": [
+    "Proposal in Arabic with synopsis, structure and relevance",
+    "Submit via National Media Authority editorial units or registered Egyptian prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

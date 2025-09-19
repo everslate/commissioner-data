@@ -1,0 +1,84 @@
+{
+  "id": "Ewa Miś-Krzemień_TVP",
+  "country_region": "Poland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Poland 2724b6c9c507806bb7bbce61c8d54aaf\\Ewa Miś-Krzemień_TVP 2724b6c9c507807f8425caff2082fe43.md",
+  "created_at": "2025-09-19T11:31:45.402045+00:00",
+  "updated_at": "2025-09-19T11:31:45.402045+00:00",
+  "organization": "TVP (Telewizja Polska)",
+  "role": "Head of Documentaries, TVP1",
+  "commissioner_type": "documentary_originals",
+  "email": "ewa.krzemien@tvp.pl",
+  "location": "Warsaw, Poland",
+  "name": "Ewa Miś-Krzemień",
+  "background": "Leads TVP1’s documentary slate with a focus on Polish culture, history, national identity, and contemporary social themes. Advocates for author-driven projects that uphold public service values.",
+  "thematic_priorities": [
+    "Polish history, especially WWII and Cold War",
+    "National identity, tradition, and modern Polish society",
+    "Biographies of significant Polish figures",
+    "Human rights, migration, and cultural transformation"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Entertainment-led formats without public value",
+    "Projects lacking historical or cultural grounding"
+  ],
+  "target_audience": [
+    "Polish mainstream audience across TVP channels",
+    "Viewers interested in history, identity and society"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Single documentaries (50–90 mins)",
+    "Series (2–4 parts)"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: PLN 70K–300K per hour",
+  "min_budget_usd": 16000,
+  "max_budget_usd": 70000,
+  "budget_range": "medium",
+  "languages": [
+    "polish"
+  ],
+  "technical_requirements": [
+    "Broadcast quality production",
+    "Rigorous fact-checking, archive clearances required",
+    "Subtitles for co-productions or international reach"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "WWII/Cold War heritage projects",
+    "Contemporary social transformations in Poland"
+  ],
+  "submission_process": [
+    "One-page outline with theme, approach and format",
+    "Visual style and episode ideas (if series)",
+    "Submit via TVP content department or approved prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

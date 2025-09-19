@@ -1,0 +1,85 @@
+{
+  "id": "Diarmuid Jeffreys_Al Jazeera English",
+  "country_region": "Qatar",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf\\AJE_Diarmuid_Jeffreys_FULL 2724b6c9c50781589077fd82745a8ee6.md",
+  "created_at": "2025-09-19T11:23:09.058297+00:00",
+  "updated_at": "2025-09-19T11:23:09.058297+00:00",
+  "organization": "Al Jazeera English",
+  "role": "Head of Documentaries",
+  "commissioner_type": "investigative_documentaries",
+  "email": "djeffreys@aljazeera.net",
+  "location": "Doha, Qatar / London, UK",
+  "name": "Diarmuid Jeffreys",
+  "background": "As Head of Documentaries at AJE, Diarmuid Jeffreys commissions bold investigative and socially significant films. He emphasises author-led storytelling with global relevance, highlighting underreported issues and injustices, especially from the Global South.",
+  "thematic_priorities": [
+    "Investigative journalism and accountability",
+    "Human rights, conflict, migration and social justice",
+    "Geopolitics and global injustice"
+  ],
+  "themes": [
+    "investigative",
+    "social_issues",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects without international resonance",
+    "Superficial coverage lacking depth or access"
+  ],
+  "target_audience": [
+    "Global audiences across Al Jazeera English platforms",
+    "Policy, activist and human rights communities"
+  ],
+  "audience_segments": [
+    "international",
+    "niche_cultural"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "25–50 min strand films (Witness, People & Power, Fault Lines)",
+    "1-hour features"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "USD $25K–$150K per film",
+  "min_budget_usd": 25000,
+  "max_budget_usd": 150000,
+  "budget_range": "low",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD",
+    "English delivery",
+    "Ethical standards for investigative content"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Docs on global injustice and accountability",
+    "Author-led investigative films from underreported regions"
+  ],
+  "submission_process": [
+    "One-page synopsis or treatment with key characters and narrative arc",
+    "Must show international relevance, exclusive access and ethical clarity",
+    "Submit via AJE commissioning portal or directly to a commissioning editor"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,101 @@
+{
+  "id": "Catherine_Catton_BBC",
+  "country_region": "UK",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Catherine_Catton_BBC 2734b6c9c507814b8c0cec73d03dbf4d.md",
+  "created_at": "2025-09-19T11:34:02.626786+00:00",
+  "updated_at": "2025-09-19T11:34:02.626786+00:00",
+  "organization": "BBC",
+  "role": "Head of Commissioning, Popular Factual and Factual Entertainment",
+  "commissioner_type": "factual_programming",
+  "email": "catherine.catton@bbc.co.uk",
+  "location": "United Kingdom",
+  "name": "Catherine Catton",
+  "background": "Catherine Catton serves as Head of Commissioning, Popular Factual and Factual Entertainment at BBC. Focus areas: Factual formats, popular factual.",
+  "thematic_priorities": [
+    "Returnable factual formats with broad appeal",
+    "Landmark series (3–6 episodes) that can define BBC Two's factual offering",
+    "Single documentaries (60–90 minutes) with strong authorial voices",
+    "Access-led series with institutions or communities rarely seen on television",
+    "Character-driven documentary series featuring extraordinary individuals or professions",
+    "Contemporary social issues explored through personal stories",
+    "Strong emphasis on diversity both on-screen and in production teams",
+    "Natural history programming with innovative visual approaches and storytelling techniques",
+    "Science programming that makes complex topics accessible without oversimplification",
+    "History documentaries that connect past events to contemporary issues",
+    "Arts programming that celebrates British cultural excellence",
+    "Religion and ethics documentaries exploring faith in the modern world",
+    "Mixed-media approaches combining archive, animation and dramatic reconstruction",
+    "Preferred format: 3-part series for weekday 9pm slots"
+  ],
+  "themes": [
+    "social_issues",
+    "natural_history",
+    "science_tech",
+    "history",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad UK audiences across BBC channels and iPlayer"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Singles 60–90'; series 3–6×60' (features 90' where noted)",
+    "Both, depending on story and slot",
+    "Primetime where applicable; platform premieres for streamers",
+    "Linear broadcast and/or streaming platform",
+    "Open to international co-productions where aligned",
+    "3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £150K–£350K per hour; Specialist Factual: £180K–£350K per hour.",
+  "min_budget_usd": 180000,
+  "max_budget_usd": 490000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate channel and slot",
+    "One-page outline with premise, format, and episode breakdown",
+    "Details of secured or potential access",
+    "Key talent and production team credentials",
+    "Comparable successful examples",
+    "Potential for digital/multiplatform extensions",
+    "Submit via BBC Pitch: www.bbc.co.uk/commissioning"
+  ],
+  "additional_info": "Ongoing; submissions accepted year-round unless strand-specific.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

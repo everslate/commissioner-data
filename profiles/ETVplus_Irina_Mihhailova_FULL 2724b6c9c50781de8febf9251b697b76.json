@@ -1,0 +1,83 @@
+{
+  "id": "ETVplus_Irina_Mihhailova_FULL",
+  "country_region": "Estonia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Estonia 2724b6c9c50780d1891adfafdd2842fa\\ETVplus_Irina_Mihhailova_FULL 2724b6c9c50781de8febf9251b697b76.md",
+  "created_at": "2025-09-19T11:25:33.095431+00:00",
+  "updated_at": "2025-09-19T11:25:33.095431+00:00",
+  "organization": "ETV+ (ERR Russian-language Channel)",
+  "role": "Factual Content Producer",
+  "commissioner_type": "factual_programming",
+  "email": "irina.mihhailova@err.ee",
+  "location": "Tallinn, Estonia",
+  "name": "Irina Mihhailova",
+  "background": "Produces and commissions factual content for ETV+, focusing on inclusive programming for Estonia’s Russian-speaking community and cross-cultural dialogue.",
+  "thematic_priorities": [
+    "Russian-speaking communities in Estonia",
+    "Cultural exchange and regional cohesion",
+    "Youth voices and generational change"
+  ],
+  "themes": [
+    "international",
+    "social_issues",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Content disconnected from Russian-speaking audiences",
+    "Projects lacking inclusive or integrative focus"
+  ],
+  "target_audience": [
+    "Estonia’s Russian-speaking population",
+    "Broader audiences via cross-cultural relevance"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "niche_cultural"
+  ],
+  "geographic_scope": "local",
+  "format_specifications": [
+    "26–52 min documentaries",
+    "Short factual series"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €8K–€50K per hour",
+  "min_budget_usd": 8800,
+  "max_budget_usd": 55000,
+  "budget_range": "medium",
+  "languages": [
+    "russian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Russian-language delivery; subtitling for bilingual audiences"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd"
+  ],
+  "current_calls": [
+    "Community-focused docs highlighting integration",
+    "Youth/next-generation voices in Russian-language Estonia"
+  ],
+  "submission_process": [
+    "Project outline with cultural/social relevance",
+    "Language of production and target audience defined",
+    "Submit via ERR/ETV+ editorial or Baltic pitching forums"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "project_based",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

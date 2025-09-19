@@ -1,0 +1,102 @@
+{
+  "id": "Gérald-Brice_Viret_Canal",
+  "country_region": "France",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Grald-Brice_Viret_Canal 2724b6c9c50781718a3ac5c1ad044875.md",
+  "created_at": "2025-09-19T11:26:51.157236+00:00",
+  "updated_at": "2025-09-19T11:26:51.157236+00:00",
+  "organization": "Canal+",
+  "role": "Commissioning Editor, Sport",
+  "commissioner_type": "premium_factual",
+  "email": "gerald-brice.viret@canal-plus.com",
+  "location": "France",
+  "name": "Gérald-Brice Viret",
+  "background": "Gérald-Brice Viret serves as Commissioning Editor, Sport at Canal+. Focus areas: Sports documentaries. They are looking for Sports docs with high-profile athletes/events; behind-the-scenes of major sports institutions; character-driven sports narratives. Overall network strategy: Canal+ seeks premium, distinctive documentary content with strong entertainment value and commercial appeal, focusing on exclusive access, high-profile subjects, and cinematic execution that adds value to their subscription offering.",
+  "thematic_priorities": [
+    "Sports docs with high-profile athletes/events",
+    "Premium documentary content with strong entertainment value and commercial appeal",
+    "High-end documentary series with strong narrative drive (typically 4–6 episodes)",
+    "True crime series with unique access or perspective",
+    "Feature-length documentaries about cinema and filmmakers",
+    "Sports documentaries featuring high-profile athletes or events",
+    "Celebrity-focused documentaries with exclusive access",
+    "Music documentaries focused on major French or international artists",
+    "Limited specialist factual commissioning, primarily for Canal+ Docs",
+    "Science and technology focused on innovation and future trends",
+    "History documentaries with strong narrative storytelling and commercial appeal",
+    "Cultural documentaries featuring high-profile artists or institutions"
+  ],
+  "themes": [
+    "sports",
+    "true_crime",
+    "history",
+    "arts_culture",
+    "science_tech",
+    "celebrity_music",
+    "natural_history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 52–90'; series 3–6×52–60' (features 90' where noted)",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime/flagship slots where applicable; platform premieres for streamers",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "€200K–€450K per hour for documentaries; €180K–€400K per hour for Specialist Factual",
+  "min_budget_usd": 210000,
+  "max_budget_usd": 480000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come via an established production company",
+    "Detailed treatment with premise, format and narrative structure",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Comparable successful Canal+ examples",
+    "Exclusivity elements clearly defined",
+    "Submit via Canal+ portal: www.canalplusgroupe.com/producteurs"
+  ],
+  "additional_info": "Ongoing; submissions accepted year-round unless strand-specific. Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects across French regions (where applicable). Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

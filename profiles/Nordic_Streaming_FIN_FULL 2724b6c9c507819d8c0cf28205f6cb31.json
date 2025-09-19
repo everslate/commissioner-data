@@ -1,0 +1,87 @@
+{
+  "id": "Nordic_Streaming_FIN_FULL_Commercial Streaming (Nordics)",
+  "country_region": "Finland",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Finland 2724b6c9c507807ba00cc3734f34a93d\\Nordic_Streaming_FIN_FULL 2724b6c9c507819d8c0cf28205f6cb31.md",
+  "created_at": "2025-09-19T11:25:52.517022+00:00",
+  "updated_at": "2025-09-19T11:25:52.517022+00:00",
+  "organization": "Commercial Streaming (Nordics)",
+  "role": "Acquisitions/Commissioning via Production Companies",
+  "commissioner_type": "premium_factual",
+  "email": "/no-email-provided/techspecs@nordicstreaming.com",
+  "location": "Nordics",
+  "name": "Nordic Streaming Commissioner",
+  "background": "Focus on bold, high-end documentaries and docuseries with Nordic relevance and international appeal.",
+  "thematic_priorities": [
+    "True crime series set in Finland or Nordics",
+    "Nordic noir factual formats",
+    "Music, sports or political docuseries"
+  ],
+  "themes": [
+    "true_crime",
+    "arts_culture",
+    "sports",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Small-scale, low production value projects",
+    "Ideas lacking international audience appeal"
+  ],
+  "target_audience": [
+    "Nordic subscribers",
+    "global Netflix/Amazon/Max audiences"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "High-end docuseries",
+    "feature-length docs"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: €100K–€400K+ per hour",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 400000,
+  "budget_range": "medium",
+  "languages": [
+    "finnish",
+    "swedish",
+    "norwegian",
+    "english"
+  ],
+  "technical_requirements": [
+    "4K production values",
+    "global distribution readiness",
+    "Multilingual/subtitles for international release"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Ambitious true crime and Nordic noir docs",
+    "High-profile music/sports/political docuseries"
+  ],
+  "submission_process": [
+    "Must come via experienced production companies",
+    "Submission through London/Stockholm offices or local partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

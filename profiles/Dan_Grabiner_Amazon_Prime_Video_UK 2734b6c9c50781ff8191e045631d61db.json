@@ -1,0 +1,89 @@
+{
+  "id": "Dan_Grabiner_Amazon_Prime_Video_UK",
+  "country_region": "United Kingdom",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Dan_Grabiner_Amazon_Prime_Video_UK 2734b6c9c50781ff8191e045631d61db.md",
+  "created_at": "2025-09-19T11:34:19.559273+00:00",
+  "updated_at": "2025-09-19T11:34:19.559273+00:00",
+  "organization": "Amazon Prime Video UK",
+  "role": "Head of UK Originals",
+  "commissioner_type": "premium_factual",
+  "email": "dgrabiner@amazon.com",
+  "location": "United Kingdom",
+  "name": "Dan Grabiner",
+  "background": "Dan Grabiner serves as Head of UK Originals at Amazon Prime Video UK.",
+  "thematic_priorities": [
+    "Premium factual with mainstream appeal",
+    "Sports documentaries with high-profile teams and athletes",
+    "Music documentaries focused on major artists with wide appeal",
+    "True crime series with unique access or perspective",
+    "Celebrity-led documentary series",
+    "Distinctive formats with international adaptation potential"
+  ],
+  "themes": [
+    "true_crime",
+    "arts_culture",
+    "social_issues",
+    "sports",
+    "celebrity_music"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "UK and global audiences"
+  ],
+  "audience_segments": [
+    "international",
+    "mainstream"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "series",
+    "feature_doc"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "Documentary: £300K–£1M+ per hour",
+  "min_budget_usd": 375000,
+  "max_budget_usd": 1300000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come via established production company or agent",
+    "Detailed treatment with premise, format and episode breakdown",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Global appeal elements",
+    "Marketing and publicity hooks",
+    "Exclusivity and rights requirements",
+    "Submit via Amazon's established production partners"
+  ],
+  "additional_info": "Stress on diverse voices on- and off-screen and encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

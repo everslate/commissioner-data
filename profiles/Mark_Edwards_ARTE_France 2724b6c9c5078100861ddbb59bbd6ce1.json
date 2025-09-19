@@ -1,0 +1,101 @@
+{
+  "id": "Mark_Edwards_ARTE_France",
+  "country_region": "France",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Mark_Edwards_ARTE_France 2724b6c9c5078100861ddbb59bbd6ce1.md",
+  "created_at": "2025-09-19T11:27:11.559441+00:00",
+  "updated_at": "2025-09-19T11:27:11.559441+00:00",
+  "organization": "ARTE France",
+  "role": "Commissioning Editor, Culture and Society",
+  "commissioner_type": "arts_culture",
+  "email": "mark.edwards@arte.fr",
+  "location": "France",
+  "name": "Mark Edwards",
+  "background": "Mark Edwards serves as Commissioning Editor, Culture and Society at ARTE France. Focus areas: Arts, culture, society. They are looking for: Premium arts docs with cinematic approach; European identity; social docs with artistic vision.",
+  "thematic_priorities": [
+    "Premium arts docs with cinematic approach",
+    "European identity",
+    "social docs with artistic vision",
+    "premium documentary content with European cultural relevance",
+    "feature-length documentaries (52–90 minutes) with strong artistic vision",
+    "creative documentary approaches that push boundaries",
+    "cultural documentaries exploring European identity and perspectives",
+    "social documentaries with intellectual depth and artistic treatment",
+    "filmmaker-driven projects with distinctive vision",
+    "Franco-German co-productions highly valued",
+    "historical documentaries with fresh intellectual perspectives",
+    "geopolitical documentaries with European vision",
+    "science documentaries combining intellectual depth with visual innovation",
+    "arts documentaries on major cultural figures or movements",
+    "environmental programming with artistic approach"
+  ],
+  "themes": [
+    "arts_culture",
+    "social_issues",
+    "history",
+    "science_tech",
+    "climate_environment"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Culturally engaged audiences in France and Europe"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Preferred Lengths: Singles 52–90'; series 3–6×52–60' (features 90' where noted)",
+    "Scheduling: Primetime/flagship slots where applicable; platform premieres for streamers",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard",
+    "extended_feature"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Documentary: €200K–€400K per hour; Specialist Factual: €220K–€450K per hour",
+  "min_budget_usd": 200000,
+  "max_budget_usd": 450000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery Specifications: Broadcast/streaming standards; details provided upon commissioning",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Graphics & Branding: Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate ARTE slot",
+    "3–5 page treatment with premise, approach and artistic vision",
+    "Director's statement and visual treatment",
+    "Key production team credentials",
+    "European cultural relevance",
+    "Franco-German co-production elements (if applicable)",
+    "Submit via ARTE portal: www.arte.tv/sites/corporate/fr/produire-pour-arte/"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects across French regions (where applicable). Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

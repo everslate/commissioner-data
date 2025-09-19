@@ -1,0 +1,94 @@
+{
+  "id": "Nasfim_Haque_BBC",
+  "country_region": "UK",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Nasfim_Haque_BBC 2734b6c9c507810095e4dcd7de2598d9.md",
+  "created_at": "2025-09-19T11:34:57.063729+00:00",
+  "updated_at": "2025-09-19T11:34:57.063729+00:00",
+  "organization": "BBC",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "nasfim.haque@bbc.co.uk",
+  "location": "United Kingdom",
+  "name": "Nasfim Haque",
+  "background": "Nasfim Haque serves as Commissioning Editor, Documentaries at BBC. Focus areas: Documentaries, factual. They are looking for: Docs representing diverse perspectives; contemporary Britain through authentic voices.",
+  "thematic_priorities": [
+    "Docs representing diverse perspectives",
+    "contemporary Britain through authentic voices",
+    "Natural history programming with innovative visual approaches and storytelling techniques",
+    "Science programming that makes complex topics accessible without oversimplification",
+    "History documentaries that connect past events to contemporary issues",
+    "Arts programming that celebrates British cultural excellence",
+    "Religion and ethics documentaries exploring faith in the modern world",
+    "Mixed-media approaches combining archive, animation and dramatic reconstruction"
+  ],
+  "themes": [
+    "social_issues",
+    "natural_history",
+    "science_tech",
+    "history",
+    "arts_culture",
+    "religion_philosophy"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad UK audiences across BBC channels and iPlayer"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 60–90'; series 3–6×60'",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime where applicable; platform premieres for streamers",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard",
+    "extended_feature"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "£150K–£350K per hour for documentaries; £180K–£350K per hour for specialist factual.",
+  "min_budget_usd": 185000,
+  "max_budget_usd": 400000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery Specifications: Broadcast/streaming standards; details provided upon commissioning",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Graphics & Branding: Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate channel and slot",
+    "One-page outline with premise, format, and episode breakdown",
+    "Details of secured or potential access",
+    "Key talent and production team credentials",
+    "Comparable successful examples",
+    "Potential for digital/multiplatform extensions",
+    "Submit via BBC Pitch: www.bbc.co.uk/commissioning"
+  ],
+  "additional_info": "Ongoing; submissions accepted year-round unless strand-specific. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects across the UK (where applicable). Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

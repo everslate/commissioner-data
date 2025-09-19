@@ -1,0 +1,80 @@
+{
+  "id": "Monica Piffaretti_RSI",
+  "country_region": "Switzerland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Switzerland 2724b6c9c50780deb4dcf97d16c22ace\\Monica Piffaretti_RSI 2724b6c9c50780c8b141d2c7750da2cd.md",
+  "created_at": "2025-09-19T11:32:57.020383+00:00",
+  "updated_at": "2025-09-19T11:32:57.020383+00:00",
+  "organization": "RSI (Radiotelevisione svizzera di lingua italiana)",
+  "role": "Head of Factual and Documentaries",
+  "commissioner_type": "editorial_director",
+  "email": "monica.piffaretti@rsi.ch",
+  "location": "Lugano, Switzerland",
+  "name": "Monica Piffaretti",
+  "background": "Directs RSI’s documentary commissioning, focusing on Italian-speaking Switzerland. Prioritises cultural heritage, identity, and stories bridging Switzerland and Italy.",
+  "thematic_priorities": [
+    "Italian-speaking Swiss identity and heritage",
+    "Cultural heritage and arts",
+    "Cross-border social and political issues"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects without Italian-speaking regional relevance",
+    "Generic formats with no local anchor"
+  ],
+  "target_audience": [
+    "Italian-speaking Swiss audiences",
+    "Cross-border viewers in Northern Italy"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "52-minute films",
+    "Mini-series (2–3 episodes)"
+  ],
+  "formats": [
+    "mini_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: CHF 30K–100K per hour",
+  "min_budget_usd": 30000,
+  "max_budget_usd": 100000,
+  "budget_range": "medium",
+  "languages": [
+    "italian"
+  ],
+  "technical_requirements": [
+    "Broadcast standards with multilingual subtitling",
+    "Local/regional partnerships encouraged"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Identity and cultural docs for Ticino and cross-border",
+    "Arts and heritage projects with Italian resonance"
+  ],
+  "submission_process": [
+    "Proposal with cultural significance and narrative arc",
+    "Key team and regional partnerships",
+    "Submit via RSI commissioning"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

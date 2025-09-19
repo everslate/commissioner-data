@@ -1,0 +1,96 @@
+{
+  "id": "Marcus_Ammon_Netflix_Germany",
+  "country_region": "Germany",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Marcus_Ammon_Netflix_Germany 2724b6c9c50781b0aa72d7dd86e5157d.md",
+  "created_at": "2025-09-19T11:29:08.099714+00:00",
+  "updated_at": "2025-09-19T11:29:08.099714+00:00",
+  "organization": "Netflix Germany",
+  "role": "Director Original Content",
+  "commissioner_type": "premium_factual",
+  "email": "marcus.ammon@netflix.com",
+  "location": "Germany",
+  "name": "Marcus Ammon",
+  "background": "Marcus Ammon serves as Director Original Content at Netflix Germany. Focus areas: Original series, documentaries. They are looking for: Premium documentary series with international appeal; features with festival potential; German perspectives with global relevance.",
+  "thematic_priorities": [
+    "Premium documentary series with international appeal",
+    "Feature documentaries with festival potential",
+    "True crime series with uniquely German perspective",
+    "Sports documentaries featuring high-profile German athletes or events",
+    "Strong focus on character-driven storytelling and exceptional access",
+    "Distinctive directorial vision and cinematic approach"
+  ],
+  "themes": [
+    "true_crime",
+    "sports",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series 4-8×60'; feature documentaries 90+'",
+    "Both, depending on story and slot",
+    "Primetime where applicable; platform-specific premieres",
+    "Linear broadcast and/or streaming platform",
+    "Open to co-productions where aligned",
+    "3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "Documentary: €300K–€1M+ per hour",
+  "min_budget_usd": 320000,
+  "max_budget_usd": 1160000,
+  "budget_range": "high",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "German and/or English; multilingual where applicable"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come through established production company or agent",
+    "Detailed treatment with premise, format and episode breakdown",
+    "Secured or potential access/contributors",
+    "Director's vision and approach",
+    "Key production team credentials",
+    "Global appeal elements",
+    "Exclusivity and rights requirements",
+    "Submit via established production partners"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects from across German regions (where applicable); Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

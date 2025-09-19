@@ -1,0 +1,86 @@
+{
+  "id": "Michaela_Pilters_Deutsche_Welle_DW",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Michaela_Pilters_Deutsche_Welle_DW 2724b6c9c50781218293c23ca9a4e1a7.md",
+  "created_at": "2025-09-19T11:29:44.877923+00:00",
+  "updated_at": "2025-09-19T11:29:44.877923+00:00",
+  "organization": "Deutsche Welle (DW)",
+  "role": "Commissioning Editor, Culture and Society",
+  "commissioner_type": "factual_programming",
+  "email": "michaela.pilters@dw.com",
+  "location": "Germany",
+  "name": "Michaela Pilters",
+  "background": "Michaela Pilters serves as Commissioning Editor, Culture and Society at Deutsche Welle (DW). Focus areas: Arts, culture, society. They are looking for: Cultural docs showcasing German arts/culture to international audiences; social docs on contemporary Germany.",
+  "thematic_priorities": [
+    "Cultural docs showcasing German arts/culture to international audiences",
+    "Political documentaries exploring Germany's role in international affairs",
+    "Cross-cultural documentaries fostering international understanding",
+    "Science documentaries highlighting German innovation and research",
+    "Historical documentaries contextualizing Germany's past for international audiences",
+    "Environmental documentaries with global perspective"
+  ],
+  "themes": [
+    "arts_culture",
+    "politics",
+    "social_issues",
+    "science_tech",
+    "history",
+    "climate_environment"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "International audiences"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Preferred Lengths: Singles 30–60'; short series 2–5×45–60'",
+    "Both series and one-off, depending on story and slot",
+    "Primetime where applicable; platform-specific premieres"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Documentary: €80K–€150K per hour; Specialist Factual: €90K–€180K per hour",
+  "min_budget_usd": 86326,
+  "max_budget_usd": 160000,
+  "budget_range": "variable",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [],
+  "submission_process": [
+    "Two-page treatment with premise and international relevance",
+    "Language versioning potential",
+    "Key production team credentials",
+    "Submit via email: documentaries@dw.com"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects from across German regions; Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

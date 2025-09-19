@@ -1,0 +1,95 @@
+{
+  "id": "Martin_Pieper_ARTE",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Martin_Pieper_ARTE 2724b6c9c50781159c02dbf7ed58fd69.md",
+  "created_at": "2025-09-19T11:29:31.596556+00:00",
+  "updated_at": "2025-09-19T11:29:31.596556+00:00",
+  "organization": "ARTE",
+  "role": "Commissioning Editor, History",
+  "commissioner_type": "premium_factual",
+  "email": "martin.pieper@arte.tv",
+  "location": "Germany",
+  "name": "Martin Pieper",
+  "background": "Martin Pieper serves as Commissioning Editor, History at ARTE. Focus areas: History, geopolitics. They are looking for: Historical docs illuminating contemporary issues; geopolitical with European perspective. Overall network strategy: ARTE seeks premium, intellectually stimulating documentary and specialist factual content with European cultural relevance that offers depth, originality and artistic vision while appealing to culturally engaged audiences.",
+  "thematic_priorities": [
+    "Historical docs illuminating contemporary issues",
+    "geopolitical with European perspective",
+    "Premium documentaries with European cultural relevance",
+    "Feature-length documentaries (90+ minutes) with cinematic approach",
+    "Arts documentaries exploring major cultural figures or movements",
+    "Cultural documentaries examining European identity and values",
+    "Character-driven documentaries that illuminate broader social issues",
+    "Emphasis on artistic vision and original filmmaking approach",
+    "Potential for international co-production, especially Franco-German",
+    "Historical documentaries with intellectual depth and contemporary relevance",
+    "Science documentaries combining rigor with engaging presentation",
+    "Cultural analysis with philosophical dimensions",
+    "Geopolitical documentaries with European perspective"
+  ],
+  "themes": [
+    "history",
+    "politics",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "culturally engaged European audiences"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "european",
+  "format_specifications": [
+    "Singles (60–90 minutes)",
+    "series (3 × 60 minutes)"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "€200K–€400K per hour for Documentary; €180K–€350K per hour for Specialist Factual",
+  "min_budget_usd": 210000,
+  "max_budget_usd": 470000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate ARTE slot",
+    "3–5 page treatment with premise, approach and artistic vision",
+    "Director's statement and visual treatment",
+    "Key production team credentials",
+    "European cultural relevance; Franco-German co-pro (if applicable)",
+    "Submit via ARTE portal: www.arte.tv/sites/corporate/de/produzieren-fuer-arte/"
+  ],
+  "additional_info": "Commissioning Cycles: Ongoing; submissions accepted year-round unless strand-specific.\nStrategic Shifts: Increasing focus on distinctive voices and cross-platform reach.\nDiversity & Inclusion: Emphasis on diverse voices on- and off-screen.\nSustainability: Encouragement of sustainable production practices.\nRegional Production: Support for projects from across German regions (where applicable).\nIndependent Production: Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

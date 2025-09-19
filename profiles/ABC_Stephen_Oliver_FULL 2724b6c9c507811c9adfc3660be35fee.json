@@ -1,0 +1,87 @@
+{
+  "id": "Stephen_Oliver_ABC",
+  "country_region": "Australia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Australia 2724b6c9c50780149be7d2c1ef663456\\ABC_Stephen_Oliver_FULL 2724b6c9c507811c9adfc3660be35fee.md",
+  "created_at": "2025-09-19T11:23:23.014751+00:00",
+  "updated_at": "2025-09-19T11:23:23.014751+00:00",
+  "organization": "ABC (Australian Broadcasting Corporation)",
+  "role": "Head of Factual",
+  "commissioner_type": "factual_programming",
+  "email": "stephen.oliver@abc.net.au",
+  "location": "Sydney, Australia",
+  "name": "Stephen Oliver",
+  "background": "Oversees ABC’s factual output, commissioning stories of social relevance, Indigenous perspectives, and national identity that reflect Australia’s diversity and civic values.",
+  "thematic_priorities": [
+    "Contemporary Australia and cultural identity",
+    "Investigative journalism and social change",
+    "Indigenous storytelling and reconciliation",
+    "Arts, history, and the natural environment"
+  ],
+  "themes": [
+    "social_issues",
+    "investigative",
+    "local_community",
+    "arts_culture",
+    "history",
+    "natural_history"
+  ],
+  "content_not_wanted": [
+    "Entertainment formats without public value",
+    "Projects lacking strong Australian voice"
+  ],
+  "target_audience": [
+    "Australian national public audience",
+    "Global co-production partners for exportable projects"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour singles",
+    "Short series (2–4 parts)"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: AUD $100K–$350K per hour",
+  "min_budget_usd": 64000,
+  "max_budget_usd": 224000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K standards",
+    "ABC Indigenous protocols must be met where relevant"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Indigenous-led projects",
+    "Docs exploring contemporary Australia and identity"
+  ],
+  "submission_process": [
+    "One-page proposal with subject, tone and narrative",
+    "Indigenous content must meet ABC Indigenous protocols",
+    "Submit via ABC commissioning system or Australian prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "David_Royle_Smithsonian_Channel_UK",
+  "country_region": "United Kingdom",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\David_Royle_Smithsonian_Channel_UK 2734b6c9c50781759f4cecfb8894d076.md",
+  "created_at": "2025-09-19T11:34:17.845528+00:00",
+  "updated_at": "2025-09-19T11:34:17.845528+00:00",
+  "organization": "Smithsonian Channel UK",
+  "role": "EVP Programming and Production",
+  "commissioner_type": "premium_factual",
+  "email": "david.royle@smithsonianchannel.co.uk",
+  "location": "United Kingdom",
+  "name": "David Royle",
+  "background": "David Royle serves as EVP Programming and Production at Smithsonian Channel UK. Focus areas: History, science, culture, wildlife. They are looking for: Educational value; history focused on artifacts/material culture. Overall network strategy: Smithsonian Channel seeks premium factual content with educational value, focusing on history, science, culture and natural history with connections to Smithsonian collections or expertise where possible.",
+  "thematic_priorities": [
+    "Educational value",
+    "history focused on artifacts/material culture",
+    "Premium factual content with educational value",
+    "History documentaries focusing on artifacts and material culture",
+    "Science programming with focus on research and discovery",
+    "Cultural and anthropological documentaries",
+    "Natural history with focus on conservation"
+  ],
+  "themes": [
+    "history",
+    "science_tech",
+    "arts_culture",
+    "natural_history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Educated audiences interested in history/science/culture"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Series 4–6×60' or 60' specials",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime where applicable; platform premieres for streamers",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Documentary: £150K–£350K per hour",
+  "min_budget_usd": 180000,
+  "max_budget_usd": 450000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with premise and format",
+    "Connection to Smithsonian collections or expertise (if applicable)",
+    "Educational and fact-based approach",
+    "Key production team credentials",
+    "Visual treatment or mood board",
+    "Submit via email: commissioning@smithsonianchannel.co.uk"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

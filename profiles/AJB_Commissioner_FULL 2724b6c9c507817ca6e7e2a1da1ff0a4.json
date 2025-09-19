@@ -1,0 +1,67 @@
+{
+  "id": "AJB_Commissioner_FULL_Al_Jazeera_Balkans",
+  "country_region": "Bosnia and Herzegovina",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Bosnia 2724b6c9c50780208264def0d67988b4\\AJB_Commissioner_FULL 2724b6c9c507817ca6e7e2a1da1ff0a4.md",
+  "created_at": "2025-09-19T11:23:48.769598+00:00",
+  "updated_at": "2025-09-19T11:23:48.769598+00:00",
+  "organization": "Al Jazeera Balkans",
+  "role": "Head of Documentaries (Sarajevo)",
+  "commissioner_type": "documentary_originals",
+  "email": "info@aljazeerabalkans.com",
+  "location": "Sarajevo, Bosnia and Herzegovina",
+  "name": "Al Jazeera Balkans Commissioner",
+  "background": "Al Jazeera Balkans commissions documentaries across the former Yugoslavia region. Focus on investigative, social justice and cultural identity films with Balkan and global resonance.",
+  "thematic_priorities": [],
+  "themes": [
+    "social_issues",
+    "history",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects not rooted in Balkan realities",
+    "Content lacking investigative depth"
+  ],
+  "target_audience": [],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [],
+  "formats": [
+    "one_off_special"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Range: €10K–€70K per hour",
+  "min_budget_usd": 10000,
+  "max_budget_usd": 70000,
+  "budget_range": "medium",
+  "languages": [
+    "bulgarian",
+    "croatian",
+    "english",
+    "slovenian"
+  ],
+  "technical_requirements": [],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "festival_ready"
+  ],
+  "current_calls": [
+    "Investigative Balkan social justice projects",
+    "Stories with cross-border and global relevance"
+  ],
+  "submission_process": [
+    "Pitch deck in BCS or English with story arc",
+    "Submit via Al Jazeera Balkans commissioning team or AJ Doc Fest"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

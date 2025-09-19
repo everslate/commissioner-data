@@ -1,0 +1,91 @@
+{
+  "id": "Jonah_Weston_Channel_4",
+  "country_region": "UK",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Jonah_Weston_Channel_4 2734b6c9c50781ae936ef1baecf8572f.md",
+  "created_at": "2025-09-19T11:34:54.174580+00:00",
+  "updated_at": "2025-09-19T11:34:54.174580+00:00",
+  "organization": "Channel 4",
+  "role": "Commissioning Editor, Science",
+  "commissioner_type": "factual_programming",
+  "email": "jweston@channel4.co.uk",
+  "location": "United Kingdom",
+  "name": "Jonah Weston",
+  "background": "Jonah Weston serves as Commissioning Editor, Science at Channel 4. Focus areas: Science, specialist factual. They are looking for engaging presentation of Science docs; innovative visual approaches. Overall network strategy: Channel 4 seeks bold, provocative factual content that challenges audiences, sparks national conversation, and provides authentic representation of contemporary Britain.",
+  "thematic_priorities": [
+    "Science docs that demystify complex topics via engaging presentation; innovative visual approaches",
+    "Bold, provocative documentaries that spark national conversation",
+    "Observational documentary series (3–4 episodes) with exceptional access",
+    "Single documentaries (60–90 minutes) with strong authorial voice",
+    "Crime documentaries with unique perspective or unprecedented access",
+    "Social experiments and 'state of the nation' formats",
+    "Fast-turnaround documentaries responding to significant contemporary events",
+    "Factual drama hybrids that push boundaries of documentary storytelling",
+    "Strong focus on 16–34 demographic and digital-first content",
+    "History programming that feels contemporary and connects to modern audiences",
+    "Strong emphasis on diversity and representation",
+    "Innovative visual approaches that make specialist factual content distinctive"
+  ],
+  "themes": [
+    "science_tech",
+    "social_issues"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "UK audiences with emphasis on 16–34 and diverse viewers"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 60–90'; series 3–6×60' (features 90' where noted)",
+    "Scheduling: Primetime where applicable; platform premieres for streamers",
+    "Co-production: Open to international co-productions where aligned"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Documentary: £120K–£300K per hour; Specialist Factual: £150K–£300K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 300000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery Specifications: Broadcast/streaming standards; details provided upon commissioning",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Graphics & Branding: Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Clearly defined target audience and rationale",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Digital and social strategy",
+    "Submit via Channel 4 commissioning system: www.channel4.com/commissioning"
+  ],
+  "additional_info": "Commissioning Cycles: Ongoing; submissions accepted year-round unless strand-specific; Increasing focus on distinctive voices and cross-platform reach.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

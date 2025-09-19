@@ -1,0 +1,85 @@
+{
+  "id": "Marie-Laure_Daridan_Amazon_Prime_Video_France",
+  "country_region": "France",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Marie-Laure_Daridan_Amazon_Prime_Video_France 2724b6c9c50781b5bc08ea1156e65bc0.md",
+  "created_at": "2025-09-19T11:27:07.933312+00:00",
+  "updated_at": "2025-09-19T11:27:07.933312+00:00",
+  "organization": "Amazon Prime Video France",
+  "role": "Senior Content Acquisition Manager",
+  "commissioner_type": "premium_factual",
+  "email": "marie-laure.daridan@amazon.fr",
+  "location": "France",
+  "name": "Marie-Laure Daridan",
+  "background": "Marie-Laure Daridan serves as Senior Content Acquisition Manager at Amazon Prime Video France. Focus areas: Content strategy, acquisitions.",
+  "thematic_priorities": [
+    "Sports docs with high-profile French teams/athletes",
+    "celebrity access",
+    "formats with adaptation potential",
+    "premium factual content with mainstream appeal and global potential",
+    "sports documentaries with high-profile French teams and athletes",
+    "entertainment documentaries with celebrity access",
+    "true crime series with a unique French perspective",
+    "music documentaries focused on major French artists with international appeal",
+    "distinctive formats with international adaptation potential"
+  ],
+  "themes": [
+    "sports",
+    "celebrity_music",
+    "true_crime",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "French audiences with global reach potential"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series 4–6×60'",
+    "feature documentaries 90+'"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [],
+  "budget_parameters": "Documentary: €250K–€800K+ per hour",
+  "min_budget_usd": 267500,
+  "max_budget_usd": 850000,
+  "budget_range": "high",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [],
+  "submission_process": [
+    "Must come via established production company or agent",
+    "Detailed treatment with premise, format and episode breakdown",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Global appeal elements",
+    "Marketing and publicity hooks",
+    "Exclusivity and rights requirements",
+    "Submit via Amazon's established production partners"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects across French regions (where applicable); Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

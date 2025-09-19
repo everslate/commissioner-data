@@ -1,0 +1,83 @@
+{
+  "id": "ABC_Kalita_Corrigan_FULL",
+  "country_region": "Australia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Australia 2724b6c9c50780149be7d2c1ef663456\\ABC_Kalita_Corrigan_FULL 2724b6c9c50781bc9979ce40235e97d0.md",
+  "created_at": "2025-09-19T11:23:17.967502+00:00",
+  "updated_at": "2025-09-19T11:23:17.967502+00:00",
+  "organization": "ABC (Australian Broadcasting Corporation)",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "kalita.corrigan@abc.net.au",
+  "location": "Sydney, Australia",
+  "name": "Kalita Corrigan",
+  "background": "Commissioning editor for ABC documentaries with focus on cultural and environmental content. Seeks author-led projects reflecting contemporary Australian experiences.",
+  "thematic_priorities": [
+    "Cultural identity and contemporary Australian experiences",
+    "Environmental themes and natural history",
+    "Arts and storytelling with strong visual approach"
+  ],
+  "themes": [
+    "arts_culture",
+    "natural_history",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Low production value cultural content",
+    "Projects not grounded in Australian experiences"
+  ],
+  "target_audience": [
+    "ABC audiences across broadcast and iView",
+    "Festival and cultural circuits"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour singles",
+    "Short documentary series"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: AUD $100K–$350K per hour",
+  "min_budget_usd": 65000,
+  "max_budget_usd": 227000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K delivery",
+    "Cultural and Indigenous protocols observed"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Author-led projects with distinct vision",
+    "Environmental and cultural docs with civic impact"
+  ],
+  "submission_process": [
+    "One-page proposal with tone, subject and creative vision",
+    "Submit via ABC commissioning portal or through production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

@@ -1,0 +1,86 @@
+{
+  "id": "DR_Anders_Bruus_FULL",
+  "country_region": "Denmark",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\\DR_Anders_Bruus_FULL 2724b6c9c50781618e8ed775599d1056.md",
+  "created_at": "2025-09-19T11:24:45.708472+00:00",
+  "updated_at": "2025-09-19T11:24:45.708472+00:00",
+  "organization": "DR (Danmarks Radio)",
+  "role": "Commissioning Editor & Editor, DR2 Dokumania",
+  "commissioner_type": "documentary_originals",
+  "email": "/email_placeholder@dr.dk",
+  "location": "Copenhagen, Denmark",
+  "name": "Anders Bruus",
+  "background": "High-impact feature documentaries and limited series with unique access and international ambition; festival-grade storytelling aligned with DR’s public service mission.",
+  "thematic_priorities": [
+    "Human interest and current affairs with global resonance",
+    "Investigation/undercover access when responsibly executed",
+    "Arts/culture stories with strong authorship"
+  ],
+  "themes": [
+    "social_issues",
+    "investigative",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Thinly sourced investigations or ethics‑compromised approaches",
+    "Low cinematic ambition for the Dokumania strand",
+    "Ideas without potential for significant audience/impact"
+  ],
+  "target_audience": [
+    "Doc aficionados and mainstream viewers drawn by topicality",
+    "Audiences across DR2 + streaming who seek premium docs"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "niche_cultural"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Feature docs (70–100’) and limited series (3–6×60’)",
+    "International co‑pros welcomed; festival strategy encouraged"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Aligned with DR premium documentary levels; co‑financing common; case‑by‑case depending on access, archive, and international scope.",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 500000,
+  "budget_range": "medium",
+  "languages": [
+    "danish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Cinematic visuals; meticulous legal/editorial review",
+    "International rights strategy clear; deliverables for festivals + broadcast",
+    "Music/score rights cleared for multi‑territory"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "festival_ready",
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Breakthrough access, bold narratives, strong editorial spine",
+    "Projects comparable in ambition to FLEE, THE MOLE, A HOUSE MADE OF SPLINTERS"
+  ],
+  "submission_process": [
+    "Approach via experienced prodcos; strong treatment and access proof",
+    "Festival/impact plan; financing plan incl. international partners",
+    "Editorial risk assessment & compliance documentation"
+  ],
+  "additional_info": "Recent Representative Commissions: Executive/commissioning involvement on: Flee; The Mole; A House Made of Splinters; The Lost Leonardo; A Storm Foretold.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

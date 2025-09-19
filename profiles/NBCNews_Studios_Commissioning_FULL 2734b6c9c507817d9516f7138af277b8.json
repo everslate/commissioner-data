@@ -1,0 +1,75 @@
+{
+  "id": "Liz Cole-NBC News Studios / MSNBC Films",
+  "country_region": "USA",
+  "platform_type": "news_network",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\NBCNews_Studios_Commissioning_FULL 2734b6c9c507817d9516f7138af277b8.md",
+  "created_at": "2025-09-19T11:36:21.485275+00:00",
+  "updated_at": "2025-09-19T11:36:21.485275+00:00",
+  "organization": "NBC News Studios / MSNBC Films",
+  "role": "President, NBC News Studios",
+  "commissioner_type": "investigative_documentaries",
+  "email": "nbcnews.studios@nbcuni.com",
+  "location": "New York, USA",
+  "name": "Liz Cole",
+  "background": "NBC News Studios and MSNBC Films commission long-form factual content blending investigative journalism and contemporary storytelling.",
+  "thematic_priorities": [
+    "Politics and democracy",
+    "Social issues",
+    "Investigative journalism"
+  ],
+  "themes": [
+    "politics",
+    "social_issues",
+    "investigative"
+  ],
+  "content_not_wanted": [
+    "Projects without news/editorial backbone"
+  ],
+  "target_audience": [
+    "NBC/MSNBC audiences",
+    "Streaming (Peacock) viewers"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature docs",
+    "Series"
+  ],
+  "formats": [
+    "feature_doc",
+    "series"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "USD $200K–$800K per hour",
+  "min_budget_usd": 200000,
+  "max_budget_usd": 800000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Docs on US democracy",
+    "High-profile investigative features"
+  ],
+  "submission_process": [
+    "Submit via NBC News Studios editorial team"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "project_based",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

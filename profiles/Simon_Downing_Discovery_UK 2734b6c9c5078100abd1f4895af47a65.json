@@ -1,0 +1,90 @@
+{
+  "id": "Simon Downing_Discovery UK",
+  "country_region": "United Kingdom",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Simon_Downing_Discovery_UK 2734b6c9c5078100abd1f4895af47a65.md",
+  "created_at": "2025-09-19T11:35:34.246127+00:00",
+  "updated_at": "2025-09-19T11:35:34.246127+00:00",
+  "organization": "Discovery UK",
+  "role": "SVP, Head of Factual and Sport",
+  "commissioner_type": "factual_programming",
+  "email": "simon_downing@discovery.com",
+  "location": "United Kingdom",
+  "name": "Simon Downing",
+  "background": "Simon Downing serves as SVP, Head of Factual and Sport at Discovery UK; overseeing the overall factual strategy with a focus on male-skewing factual programming, strong characters, and adventure/survival documentaries.",
+  "thematic_priorities": [
+    "Male-skewing factual programming with strong characters and storytelling",
+    "Adventure and survival documentaries with authentic jeopardy",
+    "Engineering and 'mega-structures' factual programming",
+    "Factual series with clear format and returning potential",
+    "Character-driven factual with authentic expertise",
+    "Natural history focusing on predators, extreme environments or survival",
+    "Science programming with practical applications or experimental elements",
+    "History focusing on exploration, engineering and warfare"
+  ],
+  "themes": [
+    "social_issues",
+    "natural_history",
+    "science_tech",
+    "history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Male-skewing audiences with international appeal"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Long-running series (8–10 episodes) with international appeal",
+    "Limited appetite for single documentaries",
+    "Series-led (6–10×45–60')",
+    "Primetime scheduling where applicable",
+    "Dependant on story and slot"
+  ],
+  "formats": [
+    "series",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £100K–£250K per hour; Specialist Factual: £120K–£300K per hour",
+  "min_budget_usd": 125000,
+  "max_budget_usd": 375000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with premise, format and international appeal",
+    "Access/contributors details",
+    "Key talent and production team credentials",
+    "Comparable successful Discovery examples",
+    "Commercial partnerships or brand integration potential",
+    "Submit via commissioning@discovery.com"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

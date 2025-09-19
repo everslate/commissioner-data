@@ -1,0 +1,87 @@
+{
+  "id": "Sylvie_Braibant_France_24",
+  "country_region": "France",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Sylvie_Braibant_France_24 2724b6c9c50781d7b1eed07b6f5839b2.md",
+  "created_at": "2025-09-19T11:27:53.027027+00:00",
+  "updated_at": "2025-09-19T11:27:53.027027+00:00",
+  "organization": "France 24",
+  "role": "Editorial Director, Documentary and Magazine Programming",
+  "commissioner_type": "editorial_director",
+  "email": "sylvie.braibant@france24.com",
+  "location": "France",
+  "name": "Sylvie Braibant",
+  "background": "Sylvie Braibant serves as Editorial Director, Documentary and Magazine Programming at France 24. Focus areas: International documentary content. They are looking for: International factual presenting French/European perspectives on global issues. Overall network strategy: France 24 seeks international factual content that presents French and European perspectives on global issues, serving as France's international news and current affairs broadcaster.",
+  "thematic_priorities": [
+    "International factual presenting French/European perspectives on global issues",
+    "Current affairs documentaries with international focus",
+    "Geopolitical analysis from a French perspective",
+    "Cultural documentaries showcasing French influence globally"
+  ],
+  "themes": [
+    "international",
+    "politics",
+    "celebrity_music",
+    "social_issues",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "International audiences (multi-language)"
+  ],
+  "audience_segments": [
+    "international",
+    "mainstream"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Singles (26–52 minutes)"
+  ],
+  "formats": [
+    "one_off_special",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €60K–€120K per hour; Specialist Factual: €70K–€150K per hour",
+  "min_budget_usd": 64000,
+  "max_budget_usd": 128000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english",
+    "arabic",
+    "spanish"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "French and/or English; multilingual where applicable"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Two-page treatment with premise and international relevance",
+    "Language versioning potential",
+    "Key production team credentials",
+    "International co-production elements",
+    "Submit via email: documentaries@france24.com"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects across French regions (where applicable); Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

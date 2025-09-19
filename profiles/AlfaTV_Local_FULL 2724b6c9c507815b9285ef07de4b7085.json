@@ -1,0 +1,81 @@
+{
+  "id": "AlfaTV & Local Broadcasters",
+  "country_region": "Finland",
+  "platform_type": "regional_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Finland 2724b6c9c507807ba00cc3734f34a93d\\AlfaTV_Local_FULL 2724b6c9c507815b9285ef07de4b7085.md",
+  "created_at": "2025-09-19T11:25:37.447705+00:00",
+  "updated_at": "2025-09-19T11:25:37.447705+00:00",
+  "organization": "Independent/Regional Finnish Broadcasters",
+  "role": "Commissioning (various editors)",
+  "commissioner_type": "independent_regional",
+  "email": "contact@alfatv.fi",
+  "location": "Finland",
+  "name": "AlfaTV",
+  "background": "Support smaller-scale, culturally specific programming that highlights local traditions, communities, and socially engaged stories.",
+  "thematic_priorities": [
+    "Local traditions and cultural life",
+    "Community stories and personal journeys",
+    "Religion, philosophy and lifestyle content"
+  ],
+  "themes": [
+    "local_community",
+    "arts_culture",
+    "religion_philosophy",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "High-budget international projects without local focus",
+    "Content lacking Finnish community relevance"
+  ],
+  "target_audience": [
+    "Regional audiences; niche and cultural interest viewers"
+  ],
+  "audience_segments": [
+    "niche_cultural",
+    "regional_local"
+  ],
+  "geographic_scope": "local",
+  "format_specifications": [
+    "1-hour docs",
+    "short-form factual pieces"
+  ],
+  "formats": [
+    "feature_doc",
+    "short_form"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €5K–€25K per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 25000,
+  "budget_range": "low",
+  "languages": [
+    "finnish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Lightweight production values; emphasis on storytelling over polish"
+  ],
+  "production_values": "lightweight",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Community and tradition-focused docs",
+    "Religion and lifestyle content with public engagement"
+  ],
+  "submission_process": [
+    "Direct email with synopsis and sample work",
+    "Contact commissioning editors directly"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

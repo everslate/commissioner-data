@@ -1,0 +1,82 @@
+{
+  "id": "Prima_Lenka_Hornova_FULL_Prima Group",
+  "country_region": "Czechia",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Czechia 2724b6c9c50780cfb3c1dc1ce541f06e\\Prima_Lenka_Hornova_FULL 2724b6c9c50781f199dec17fd9b3bcad.md",
+  "created_at": "2025-09-19T11:24:26.809299+00:00",
+  "updated_at": "2025-09-19T11:24:26.809299+00:00",
+  "organization": "Prima Group",
+  "role": "Programme Director",
+  "commissioner_type": "factual_programming",
+  "email": "lenka.hornova@iprima.cz",
+  "location": "Prague, Czechia",
+  "name": "Lenka Hornová",
+  "background": "Directs Prima’s factual and reality slate with a focus on commercial appeal. Commissions true crime, human interest and returnable factual formats for mainstream audiences.",
+  "thematic_priorities": [
+    "True crime and mystery documentaries",
+    "Human interest series",
+    "Returnable factual entertainment formats"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Overly niche/arthouse projects with limited commercial appeal",
+    "Content lacking episodic structure or broad resonance"
+  ],
+  "target_audience": [
+    "Czech mainstream viewers seeking entertainment factual",
+    "Audiences for reality/lifestyle programming"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series and 1-hour docs",
+    "Returnable formats preferred"
+  ],
+  "formats": [
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: CZK 100K–300K per hour",
+  "min_budget_usd": 4000,
+  "max_budget_usd": 12000,
+  "budget_range": "medium",
+  "languages": [
+    "czech"
+  ],
+  "technical_requirements": [
+    "Commercial broadcast quality",
+    "Clear episodic/format bible for returnable shows"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "True crime formats with Czech setting",
+    "Family/social drama factual entertainment"
+  ],
+  "submission_process": [
+    "Short pitch document or one-pager",
+    "Audience profile and commercial appeal",
+    "Submit via Prima content team or production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "selective",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

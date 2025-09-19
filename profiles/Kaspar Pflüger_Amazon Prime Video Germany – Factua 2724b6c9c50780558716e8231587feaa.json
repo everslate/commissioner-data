@@ -1,0 +1,97 @@
+{
+  "id": "kaspar_pflueger_amazon_prime_video_germany",
+  "country_region": "Germany",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Kaspar Pflüger_Amazon Prime Video Germany – Factua 2724b6c9c50780558716e8231587feaa.md",
+  "created_at": "2025-09-19T11:28:49.084219+00:00",
+  "updated_at": "2025-09-19T11:28:49.084219+00:00",
+  "organization": "Amazon Prime Video Germany",
+  "role": "Head of Content",
+  "commissioner_type": "premium_factual",
+  "email": "kaspar.pflueger@amazon.com",
+  "location": "Germany",
+  "name": "Kaspar Pflüger",
+  "background": "Kaspar Pflüger serves as Head of Content at Amazon Prime Video Germany. Focus areas: Entertainment, factual. They are looking for: Sports docs about high-profile German teams/athletes; music docs on major German artists. Overall network strategy: Amazon Prime Video Germany seeks premium factual content with mainstream appeal and global relevance, focusing on sports, music, celebrity-led formats and distinctive formats with international adaptation potential.",
+  "thematic_priorities": [
+    "Sports docs about high-profile German teams/athletes",
+    "Music docs on major German artists",
+    "Sports documentaries featuring high-profile German teams and athletes",
+    "Music documentaries focused on major German artists with international appeal",
+    "True crime series with unique access or perspective",
+    "Celebrity-led documentary series",
+    "Distinctive formats with international adaptation potential"
+  ],
+  "themes": [
+    "sports",
+    "celebrity_music",
+    "true_crime",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series 4–8×60'",
+    "feature documentaries 90+'",
+    "Primetime where applicable",
+    "Both, depending on story and slot"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "Documentary: €250K–€800K+ per hour",
+  "min_budget_usd": 250000,
+  "max_budget_usd": 800000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "German and/or English; multilingual where applicable"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come through established production company or agent",
+    "Detailed treatment with premise, format and episode breakdown",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Global appeal elements",
+    "Marketing and publicity hooks",
+    "Exclusivity and rights requirements",
+    "Submit via Amazon's established production partners"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects from across German regions (where applicable). Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

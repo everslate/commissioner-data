@@ -1,0 +1,83 @@
+{
+  "id": "keiko_bang_nhk",
+  "country_region": "Japan",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Japan 2724b6c9c507806a9dd4c1d6efeaafb6\\Keiko Bang_NHK 2724b6c9c50780229af8cf4643cb7eaf.md",
+  "created_at": "2025-09-19T11:30:56.792575+00:00",
+  "updated_at": "2025-09-19T11:30:56.792575+00:00",
+  "organization": "NHK (Nippon Hōsō Kyōkai)",
+  "role": "Commissioning Producer (International Co-Productions)",
+  "commissioner_type": "independent_regional",
+  "email": "keiko.bang@nhk.or.jp",
+  "location": "Tokyo, Japan",
+  "name": "Keiko Bang",
+  "background": "Commissioning producer for NHK international co-productions. Focuses on cross-border themes, arts, and culture, supporting high-end docs with global reach and Japanese relevance.",
+  "thematic_priorities": [
+    "Cross-border themes with Japanese context",
+    "Arts and cultural documentaries",
+    "Global co-productions with Japanese relevance"
+  ],
+  "themes": [
+    "international",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects lacking international resonance",
+    "Docs without Japanese link or context"
+  ],
+  "target_audience": [
+    "NHK and international co-production markets",
+    "Festival audiences and global broadcasters"
+  ],
+  "audience_segments": [
+    "international",
+    "premium_subscribers"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "49–73 min documentaries",
+    "2–4 part series"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: ¥3M–¥20M per hour",
+  "min_budget_usd": 22500,
+  "max_budget_usd": 150000,
+  "budget_range": "medium",
+  "languages": [
+    "japanese",
+    "english"
+  ],
+  "technical_requirements": [
+    "International co-production standards",
+    "Multilingual subtitling and rights clearances"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Arts and cultural co-productions",
+    "Projects linking Japan with global issues"
+  ],
+  "submission_process": [
+    "Full treatment with narrative arc",
+    "Director/producer bios and production plan",
+    "Submit via NHK co-production unit or markets (IDFA, Asian Side of the Doc)"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

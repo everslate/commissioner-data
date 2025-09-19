@@ -1,0 +1,95 @@
+{
+  "id": "Sara May_Netflix France",
+  "country_region": "France",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Sara_May_Netflix_France 2724b6c9c50781cfb015cb1f3c82c5a4.md",
+  "created_at": "2025-09-19T11:27:43.129179+00:00",
+  "updated_at": "2025-09-19T11:27:43.129179+00:00",
+  "organization": "Netflix France",
+  "role": "Director of Nonfiction, EMEA",
+  "commissioner_type": "premium_factual",
+  "email": "sara.may@netflix.com",
+  "location": "France",
+  "name": "Sara May",
+  "background": "Sara May serves as Director of Nonfiction, EMEA at Netflix France. Focus areas: Documentaries, factual series. They are looking for: Premium series with global appeal; features with festival potential; true crime with French elements. Overall network strategy: Netflix France seeks premium documentary content with global appeal that also offers distinctly French stories and perspectives, combining universal themes with local relevance and cinematic execution.",
+  "thematic_priorities": [
+    "Premium series with global appeal",
+    "features with festival potential",
+    "true crime with French elements",
+    "premium documentary content with global appeal",
+    "feature documentaries (90+ minutes) with festival potential",
+    "documentary series (4–6 episodes) with strong narrative arc",
+    "true crime series with French elements that can travel internationally",
+    "sports documentaries featuring high-profile French athletes or events",
+    "cultural documentaries showcasing French excellence with universal appeal",
+    "filmmaker-driven projects with distinctive vision"
+  ],
+  "themes": [
+    "true_crime",
+    "arts_culture",
+    "investigative",
+    "natural_history",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "French audiences with global reach potential"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Series 4–6×60'; feature documentaries 90+"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "90-120_minutes",
+    "episodic_60_min"
+  ],
+  "budget_parameters": "Documentary: €300K–€1M+ per hour",
+  "min_budget_usd": 300000,
+  "max_budget_usd": 1000000,
+  "budget_range": "high",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come via established production company or agent",
+    "Detailed treatment with premise, format and episode breakdown",
+    "Secured or potential access/contributors",
+    "Director's vision and approach",
+    "Key production team credentials",
+    "Global appeal elements",
+    "Exclusivity and rights requirements",
+    "Submit via Netflix's established production partners"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects across French regions (where applicable). Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

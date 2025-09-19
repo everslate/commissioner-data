@@ -1,0 +1,80 @@
+{
+  "id": "Henriette_Ladegaard-Pedersen_TV 2 Denmark",
+  "country_region": "Denmark",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\\TV2_Henriette_Ladegaard-Pedersen_FULL 2724b6c9c507812d90a5d38b472481ab.md",
+  "created_at": "2025-09-19T11:24:49.501777+00:00",
+  "updated_at": "2025-09-19T11:24:49.501777+00:00",
+  "organization": "TV 2 Denmark",
+  "role": "Commissioning Editor (Climate & Lifestyle)",
+  "commissioner_type": "factual_programming",
+  "email": "/not_provided/denmark@tv2.dk",
+  "location": "Denmark",
+  "name": "Henriette Ladegaard-Pedersen",
+  "background": "Climate-focused factual and lifestyle programming that informs and activates mainstream audiences with practical takeaways and constructive tone.",
+  "thematic_priorities": [
+    "Climate change, sustainability, energy & environment",
+    "Lifestyle formats that enable behaviour change"
+  ],
+  "themes": [
+    "climate_environment",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Advocacy without balance; overly technical/academic tone",
+    "Projects lacking pragmatic viewer relevance"
+  ],
+  "target_audience": [
+    "Adults 25–60, mainstream TV 2 and TV 2 PLAY viewers"
+  ],
+  "audience_segments": [
+    "adults_25_60",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Returnable factual/lifestyle series; expert/presenter-led acceptable",
+    "Singles where impact is exceptional"
+  ],
+  "formats": [
+    "returnable_series",
+    "factual_entertainment"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "episodic_30_min"
+  ],
+  "budget_parameters": "Typically within TV 2 factual ranges; co‑pros for larger scope",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 500000,
+  "budget_range": "medium",
+  "languages": [
+    "danish",
+    "english"
+  ],
+  "technical_requirements": [
+    "High production values; clear information design/graphics",
+    "Robust fact‑checking and compliance; partnerships add credibility"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Constructive climate formats with measurable audience impact",
+    "Partnership‑backed series (NGOs, universities, municipalities)"
+  ],
+  "submission_process": [
+    "Format pitch with USP, impact goals, partnerships",
+    "Budget & schedule; delivery plan across TV 2 + digital"
+  ],
+  "additional_info": "THIS Aarhus speaker bio confirming role/focus",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

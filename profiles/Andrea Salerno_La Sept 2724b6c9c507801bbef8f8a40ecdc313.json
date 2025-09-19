@@ -1,0 +1,80 @@
+{
+  "id": "Andrea Salerno_La7",
+  "country_region": "Italy",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Italy 2724b6c9c50780f988fde49d9755f91e\\Andrea Salerno_La Sept 2724b6c9c507801bbef8f8a40ecdc313.md",
+  "created_at": "2025-09-19T11:30:44.957463+00:00",
+  "updated_at": "2025-09-19T11:30:44.957463+00:00",
+  "organization": "La7",
+  "role": "Director of Programming",
+  "commissioner_type": "editorial_director",
+  "email": "andrea.salerno@la7.it",
+  "location": "Rome, Italy",
+  "name": "Andrea Salerno",
+  "background": "Leads La7’s politically engaged and current affairs slate; seeks socially challenging and debate-provoking documentaries with investigative rigor.",
+  "thematic_priorities": [
+    "Italian politics and society",
+    "In-depth investigations and international affairs"
+  ],
+  "themes": [
+    "politics",
+    "investigative",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Pure entertainment lacking investigative weight",
+    "Projects without clear political/social relevance"
+  ],
+  "target_audience": [
+    "Italian viewers engaged in politics and public debate"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "One-offs and 2–3 part series"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: €40K–€150K per hour",
+  "min_budget_usd": 40000,
+  "max_budget_usd": 150000,
+  "budget_range": "medium",
+  "languages": [
+    "italian"
+  ],
+  "technical_requirements": [
+    "Broadcast standard; legal/ethical compliance",
+    "Strong editorial oversight and fact-checking"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Provocative political/social docs",
+    "International affairs with Italian perspective"
+  ],
+  "submission_process": [
+    "Synopsis and investigative angle",
+    "Political relevance and unique perspective",
+    "Submit via La7 editorial department or trusted prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "selective",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "Daniel Oliveira_SIC",
+  "country_region": "Portugal",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Portugal 2724b6c9c50780788043d1865abf110c\\Daniel Oliveira_SIC 2724b6c9c5078058b40fd8473f74789d.md",
+  "created_at": "2025-09-19T11:31:55.654569+00:00",
+  "updated_at": "2025-09-19T11:31:55.654569+00:00",
+  "organization": "SIC (Sociedade Independente de Comunicação)",
+  "role": "Director of Content",
+  "commissioner_type": "factual_programming",
+  "email": "daniel.oliveira@sic.pt",
+  "location": "Lisbon, Portugal",
+  "name": "Daniel Oliveira",
+  "background": "Directs SIC’s content strategy, commissioning factual entertainment and real-life documentaries for mass audiences with emotional resonance and accessibility.",
+  "thematic_priorities": [
+    "Human interest stories and social affairs",
+    "Portuguese family life, communities and traditions",
+    "True crime or justice-based formats"
+  ],
+  "themes": [
+    "social_issues",
+    "local_community",
+    "true_crime"
+  ],
+  "content_not_wanted": [
+    "Overly niche or experimental projects",
+    "Projects without clear emotional engagement"
+  ],
+  "target_audience": [
+    "Portuguese mass-market viewers",
+    "SIC prime-time audiences"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "families"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series and one-off factual films"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €15K–€80K per hour",
+  "min_budget_usd": 16000,
+  "max_budget_usd": 86000,
+  "budget_range": "medium",
+  "languages": [
+    "portuguese"
+  ],
+  "technical_requirements": [
+    "Broadcast standards for commercial TV",
+    "Adaptable formats for linear and SIC’s Opto streaming"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Accessible true crime series",
+    "Emotionally driven family/community stories"
+  ],
+  "submission_process": [
+    "Format pitch or visual treatment",
+    "Clear dramatic/emotional structure",
+    "Submit via SIC editorial or production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

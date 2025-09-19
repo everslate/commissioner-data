@@ -1,0 +1,97 @@
+{
+  "id": "thorsten_karg_deutsche_welle_dw",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Thorsten Karg_Deutsche Welle (DW) 2724b6c9c50780e589edeb27233c8411.md",
+  "created_at": "2025-09-19T11:30:02.225752+00:00",
+  "updated_at": "2025-09-19T11:30:02.225752+00:00",
+  "organization": "Deutsche Welle (DW)",
+  "role": "Head of Documentaries",
+  "commissioner_type": "factual_programming",
+  "email": "thorsten.karg@dw.com",
+  "location": "Germany",
+  "name": "Thorsten Karg",
+  "background": "Thorsten Karg serves as Head of Documentaries at Deutsche Welle (DW). Focus areas include documentary films and current affairs. They are looking for political documentaries on Germany's international role and cross-cultural documentaries fostering understanding.",
+  "thematic_priorities": [
+    "Political docs on Germany's international role",
+    "cross-cultural docs fostering understanding",
+    "International factual content presenting German perspectives on global issues",
+    "Political documentaries exploring Germany's role in international affairs",
+    "Cultural documentaries showcasing German arts and culture to international audiences",
+    "Social documentaries examining contemporary German society",
+    "Science documentaries highlighting German innovation and research",
+    "Historical documentaries contextualizing Germany's past for international audiences",
+    "Environmental documentaries with global perspective"
+  ],
+  "themes": [
+    "politics",
+    "international",
+    "arts_culture",
+    "social_issues",
+    "science_tech",
+    "history",
+    "climate_environment"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "International audiences"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Preferred Lengths: Singles 30–60'; short series 2–5×45–60'",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime where applicable; platform-specific premieres",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Co-production: Open to co-productions where aligned",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "episodic_60_min"
+  ],
+  "budget_parameters": "Documentary: €80K–€150K per hour; Specialist Factual: €90K–€180K per hour",
+  "min_budget_usd": 88000,
+  "max_budget_usd": 162000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Two-page treatment with premise and international relevance",
+    "Language versioning potential",
+    "Key production team credentials",
+    "Submit via email: documentaries@dw.com"
+  ],
+  "additional_info": "Commissioning Cycles: Ongoing; submissions accepted year-round unless strand-specific. Strategic Shifts: Increasing focus on distinctive voices and cross-platform reach. Diversity & Inclusion: Emphasis on diverse voices on- and off-screen. Sustainability: Encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

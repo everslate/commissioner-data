@@ -1,0 +1,84 @@
+{
+  "id": "Joseph_Maxwell_SBS",
+  "country_region": "Australia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Australia 2724b6c9c50780149be7d2c1ef663456\\SBS_Joseph_Maxwell_FULL 2724b6c9c50781c6b919e2db1a1a3bd1.md",
+  "created_at": "2025-09-19T11:23:30.338301+00:00",
+  "updated_at": "2025-09-19T11:23:30.338301+00:00",
+  "organization": "SBS (Special Broadcasting Service)",
+  "role": "Head of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "joseph.maxwell@sbs.com.au",
+  "location": "Sydney, Australia",
+  "name": "Joseph Maxwell",
+  "background": "Leads SBS’s documentary commissioning with focus on multicultural, diverse and socially impactful storytelling. Seeks distinctive formats and risk-taking content.",
+  "thematic_priorities": [
+    "Multiculturalism, migration and identity",
+    "True crime, justice and social transformation",
+    "Environmental and health topics with urgency"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "climate_environment",
+    "health_medical"
+  ],
+  "content_not_wanted": [
+    "Projects lacking diversity or multicultural relevance",
+    "Safe, conventional formats without boldness"
+  ],
+  "target_audience": [
+    "Australian multicultural audiences",
+    "SBS broadcast + On Demand platforms"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "families"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Single documentaries",
+    "Series (2–4 parts)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: AUD $80K–$300K per hour",
+  "min_budget_usd": 50000,
+  "max_budget_usd": 200000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Diversity and inclusion compliance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Docs reflecting migration and multiculturalism",
+    "Bold investigative or access-led projects"
+  ],
+  "submission_process": [
+    "Treatment with key creative approach and structure",
+    "Submit via SBS content portal or known producers"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

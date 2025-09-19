@@ -1,0 +1,86 @@
+{
+  "id": "Thomas_Dubois_Amazon_Prime_Video_France",
+  "country_region": "France",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Thomas_Dubois_Amazon_Prime_Video_France 2724b6c9c50781708e6afd759bc813c4.md",
+  "created_at": "2025-09-19T11:27:56.759062+00:00",
+  "updated_at": "2025-09-19T11:27:56.759062+00:00",
+  "organization": "Amazon Prime Video France",
+  "role": "Head of French Originals",
+  "commissioner_type": "premium_factual",
+  "email": "thomas.dubois@amazon.fr",
+  "location": "France",
+  "name": "Thomas Dubois",
+  "background": "Thomas Dubois serves as Head of French Originals at Amazon Prime Video France. Focus areas: Overall content strategy for French originals. They are looking for: Premium factual with mainstream appeal connecting with French audiences. Overall network strategy: Amazon Prime Video France seeks premium factual content with mainstream appeal that connects with French audiences while offering global potential, focusing on sports, entertainment, celebrity access and formats with international adaptation potential.",
+  "thematic_priorities": [
+    "Premium factual content with mainstream appeal and global potential",
+    "Sports documentaries with high-profile French teams and athletes",
+    "Entertainment documentaries with celebrity access",
+    "True crime series with a unique French perspective",
+    "Music documentaries focused on major French artists with international appeal",
+    "Distinctive formats with international adaptation potential"
+  ],
+  "themes": [
+    "arts_culture",
+    "sports",
+    "true_crime"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "French audiences with global reach potential"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series 4–6×60'",
+    "feature documentaries 90+'",
+    "Both series and one-off, depending on story and slot"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Documentary: €250K–€800K+ per hour",
+  "min_budget_usd": 270000,
+  "max_budget_usd": 860000,
+  "budget_range": "high",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come via established production company or agent",
+    "Detailed treatment with premise, format and episode breakdown",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Global appeal elements",
+    "Marketing and publicity hooks",
+    "Exclusivity and rights requirements",
+    "Submit via Amazon's established production partners"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects across French regions (where applicable); Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

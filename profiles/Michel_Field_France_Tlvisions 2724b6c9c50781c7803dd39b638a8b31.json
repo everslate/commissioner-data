@@ -1,0 +1,102 @@
+{
+  "id": "Michel_Field_France_Tlvisions",
+  "country_region": "France",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Michel_Field_France_Tlvisions 2724b6c9c50781c7803dd39b638a8b31.md",
+  "created_at": "2025-09-19T11:27:23.279256+00:00",
+  "updated_at": "2025-09-19T11:27:23.279256+00:00",
+  "organization": "France Télévisions",
+  "role": "Director of Culture and Documentary Programming",
+  "commissioner_type": "premium_factual",
+  "email": "michel.field@francetv.fr",
+  "location": "France",
+  "name": "Michel Field",
+  "background": "Michel Field serves as Director of Culture and Documentary Programming at France Télévisions. Focus areas: Overall documentary strategy across France Télévisions channels.",
+  "thematic_priorities": [
+    "Premium factual programming with strong cultural relevance",
+    "French perspectives on global issues",
+    "innovative storytelling approaches",
+    "Premium documentary programming with strong cultural relevance",
+    "Feature-length documentaries (52–90 minutes) with cinematic quality",
+    "Documentary series exploring complex social issues (typically 3–4 episodes)",
+    "International co-productions with strong French elements",
+    "Investigative documentaries with journalistic depth",
+    "Contemporary social issues explored through compelling narratives",
+    "Regional documentary programming celebrating French cultural diversity",
+    "Strong emphasis on diversity on-screen and within production teams",
+    "Science documentaries balancing intellectual rigor with accessibility",
+    "Environmental documentaries with solutions-focused approach",
+    "Nature programming with cinematic quality",
+    "Historical documentaries with fresh perspectives and contemporary relevance",
+    "Cultural documentaries exploring French and global arts",
+    "Geopolitical documentaries with French perspective"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "investigative",
+    "natural_history",
+    "health_medical"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Single films (52') or series (3–4 × 52')"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Documentary: €150K–€350K per hour (higher for international co-productions); Specialist Factual: €180K–€400K per hour",
+  "min_budget_usd": 160000,
+  "max_budget_usd": 370000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "French and/or English; multilingual where applicable"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate channel and slot (France 2/3/5, etc.)",
+    "Two-page treatment with premise, approach, and narrative structure",
+    "Details of secured or potential access",
+    "Key talent and production team credentials",
+    "Comparable successful examples",
+    "Potential for digital/multiplatform extensions",
+    "Submit via commissioning portal: www.francetelevisions.fr/commande"
+  ],
+  "additional_info": "Ongoing commissioning cycles; increasing focus on distinctive voices and cross-platform reach; emphasis on diversity and inclusion on-screen and off-screen; encouragement of sustainable production practices; support for projects across French regions; open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

@@ -1,0 +1,84 @@
+{
+  "id": "Yiannis Papadopoulos_ERT",
+  "country_region": "Greece",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Greece 2724b6c9c50780ecb3e4cfcb879eac37\\Yiannis Papadopoulos_ERT 2724b6c9c5078058aab4d556d386a62f.md",
+  "created_at": "2025-09-19T11:30:21.012750+00:00",
+  "updated_at": "2025-09-19T11:30:21.012750+00:00",
+  "organization": "ERT (Hellenic Broadcasting Corporation)",
+  "role": "Commissioning Editor, History & Society",
+  "commissioner_type": "documentary_originals",
+  "email": "yiannis.papadopoulos@ert.gr",
+  "location": "Athens, Greece",
+  "name": "Yiannis Papadopoulos",
+  "background": "Commissioning editor at ERT focusing on historical, philosophical and political documentaries. Seeks films with depth, originality and strong public value.",
+  "thematic_priorities": [
+    "Greek history and mythology",
+    "Philosophical and political themes",
+    "Contemporary social justice and community narratives"
+  ],
+  "themes": [
+    "history",
+    "politics",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Projects without historical or social grounding",
+    "Entertainment-only factual formats"
+  ],
+  "target_audience": [
+    "Greek and international cultural audiences",
+    "Festival and European co-production viewers"
+  ],
+  "audience_segments": [
+    "international",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min one-offs",
+    "2–4 part history/society series"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €10K–€80K per hour",
+  "min_budget_usd": 10700,
+  "max_budget_usd": 86000,
+  "budget_range": "medium",
+  "languages": [
+    "greek",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Festival-ready delivery with subtitles"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "festival_ready"
+  ],
+  "current_calls": [
+    "Historical projects with philosophical depth",
+    "Societal documentaries with political relevance"
+  ],
+  "submission_process": [
+    "Proposal in Greek/English with topic summary and creative approach",
+    "Projects must align with ERT’s editorial values",
+    "Submit via ERT commissioning department or MEDIA Desk Greece"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

@@ -1,0 +1,101 @@
+{
+  "id": "Boris_Razon_ARTE_France",
+  "country_region": "France",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Boris_Razon_ARTE_France 2724b6c9c507815ca41ef407e249c797.md",
+  "created_at": "2025-09-19T11:26:19.188717+00:00",
+  "updated_at": "2025-09-19T11:26:19.188717+00:00",
+  "organization": "ARTE France",
+  "role": "Director of Editorial Content",
+  "commissioner_type": "premium_factual",
+  "email": "boris.razon@arte.fr",
+  "location": "France",
+  "name": "Boris Razon",
+  "background": "Boris Razon serves as Director of Editorial Content at ARTE France. Focus areas: Overall editorial strategy. They are looking for: Intellectually stimulating, culturally enriching content with European relevance and creative ambition.",
+  "thematic_priorities": [
+    "Intellectually stimulating, culturally enriching content with European relevance and creative ambition",
+    "Premium documentary content with European cultural relevance",
+    "Feature-length documentaries (52–90 minutes) with strong artistic vision",
+    "Creative documentary approaches that push boundaries",
+    "Cultural documentaries exploring European identity and perspectives",
+    "Social documentaries with intellectual depth and artistic treatment",
+    "Filmmaker-driven projects with distinctive vision",
+    "Franco-German co-productions highly valued",
+    "Historical documentaries with fresh intellectual perspectives",
+    "Geopolitical documentaries with European vision",
+    "Science documentaries combining intellectual depth with visual innovation",
+    "Arts documentaries on major cultural figures or movements",
+    "Environmental programming with artistic approach"
+  ],
+  "themes": [
+    "arts_culture",
+    "social_issues",
+    "history",
+    "international",
+    "science_tech",
+    "natural_history",
+    "climate_environment"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Culturally engaged audiences in France and Europe"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "niche_cultural",
+    "premium_subscribers"
+  ],
+  "geographic_scope": "european",
+  "format_specifications": [
+    "Singles 52–90'",
+    "series 3–6×52–60' (features 90' where noted)"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €200K–€400K per hour; Specialist Factual: €220K–€450K per hour",
+  "min_budget_usd": 217370,
+  "max_budget_usd": 434740,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate ARTE slot",
+    "3–5 page treatment with premise, approach and artistic vision",
+    "Director's statement and visual treatment",
+    "Key production team credentials",
+    "European cultural relevance",
+    "Franco-German co-production elements (if applicable)",
+    "Submit via ARTE portal: www.arte.tv/sites/corporate/fr/produire-pour-arte/"
+  ],
+  "additional_info": "Ongoing commissioning cycles; submissions accepted year-round unless strand-specific. Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects across French regions (where applicable). Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

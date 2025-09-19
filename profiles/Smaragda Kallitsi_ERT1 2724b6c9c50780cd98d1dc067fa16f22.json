@@ -1,0 +1,81 @@
+{
+  "id": "Smaragda Kallitsi_ERT",
+  "country_region": "Greece",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Greece 2724b6c9c50780ecb3e4cfcb879eac37\\Smaragda Kallitsi_ERT1 2724b6c9c50780cd98d1dc067fa16f22.md",
+  "created_at": "2025-09-19T11:30:22.371419+00:00",
+  "updated_at": "2025-09-19T11:30:22.371419+00:00",
+  "organization": "ERT (Hellenic Broadcasting Corporation)",
+  "role": "Head of Documentaries, ERT1",
+  "commissioner_type": "editorial_director",
+  "email": "smaragda.kallitsi@ert.gr",
+  "location": "Athens, Greece",
+  "name": "Smaragda Kallitsi",
+  "background": "Oversees documentary commissioning for ERT1. Focuses on cultural heritage, democracy and social issues told through compelling, author-driven storytelling.",
+  "thematic_priorities": [
+    "Greek history, archaeology and mythology",
+    "Democracy and civil society",
+    "Migration and social transformation"
+  ],
+  "themes": [
+    "history",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Projects without Greek or European cultural context",
+    "Superficial stories without strong narrative arc"
+  ],
+  "target_audience": [
+    "Greek public service audiences",
+    "European co-production partners"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min films",
+    "2–4 part series"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €10K–€80K per hour; Higher for co-productions",
+  "min_budget_usd": 10890,
+  "max_budget_usd": 86700,
+  "budget_range": "low",
+  "languages": [
+    "greek",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Greek/English delivery"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Cultural heritage projects",
+    "Docs on democracy and social change"
+  ],
+  "submission_process": [
+    "Proposal in Greek/English with story outline",
+    "Must align with ERT’s public mandate",
+    "Submit via ERT content department or Greek producers supported by Ministry of Culture or MEDIA Desk Greece"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

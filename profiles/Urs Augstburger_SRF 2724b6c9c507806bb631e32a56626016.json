@@ -1,0 +1,90 @@
+{
+  "id": "Urs Augstburger_SRF",
+  "country_region": "Switzerland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Switzerland 2724b6c9c50780deb4dcf97d16c22ace\\Urs Augstburger_SRF 2724b6c9c507806bb631e32a56626016.md",
+  "created_at": "2025-09-19T11:33:09.310847+00:00",
+  "updated_at": "2025-09-19T11:33:09.310847+00:00",
+  "organization": "SRF (Schweizer Radio und Fernsehen)",
+  "role": "Head of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "urs.augstburger@srf.ch",
+  "location": "Zurich, Switzerland",
+  "name": "Urs Augstburger",
+  "background": "Oversees SRF’s documentary output with emphasis on Swiss culture, democracy, and investigative storytelling. Supports international co-productions aligned with SRF’s public service remit.",
+  "thematic_priorities": [
+    "Swiss history, politics and society",
+    "Investigative and current affairs documentaries",
+    "Environment, sustainability and science with Swiss relevance",
+    "Arts and cultural identity"
+  ],
+  "themes": [
+    "history",
+    "politics",
+    "investigative",
+    "climate_environment",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Entertainment formats without journalistic weight",
+    "Projects lacking Swiss or European resonance"
+  ],
+  "target_audience": [
+    "Broad Swiss public service audience",
+    "German-speaking Swiss regions; international co-pro partners"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "52–90 min documentaries",
+    "Series (2–4 episodes)"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: CHF 50K–200K per hour; Higher for co-productions",
+  "min_budget_usd": 50000,
+  "max_budget_usd": 200000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "french",
+    "italian"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K standards",
+    "Subtitles for multiple Swiss languages and international use"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Swiss democracy and social change projects",
+    "Environment and investigative docs with European relevance"
+  ],
+  "submission_process": [
+    "Detailed synopsis with public value",
+    "Treatment with narrative structure",
+    "Production team credentials",
+    "Submit via SRF commissioning department"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

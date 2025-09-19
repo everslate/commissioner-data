@@ -1,0 +1,80 @@
+{
+  "id": "Carmen Ferreiro_Atresmedia",
+  "country_region": "Spain",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Spain 2724b6c9c50780c188eadc3017783eb5\\Carmen Ferreiro_Atresmedia (Antena 3, laSexta) 2724b6c9c50780019107c46c893dce41.md",
+  "created_at": "2025-09-19T11:32:32.578742+00:00",
+  "updated_at": "2025-09-19T11:32:32.578742+00:00",
+  "organization": "Atresmedia (Antena 3, laSexta)",
+  "role": "Director of Programs",
+  "commissioner_type": "editorial_director",
+  "email": "cferreiro@atresmedia.com",
+  "location": "Madrid, Spain",
+  "name": "Carmen Ferreiro",
+  "background": "Oversees accessible, commercially viable factual content for mainstream audiences, focusing on crime, current affairs and emotional storytelling.",
+  "thematic_priorities": [
+    "Crime documentaries with exclusive access",
+    "Emotional real-life stories and social documentaries",
+    "Contemporary Spanish society through human stories"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Overly niche or artistic films with limited commercial appeal",
+    "Projects lacking clear journalistic or emotional hook"
+  ],
+  "target_audience": [
+    "Mainstream Spanish viewers across Antena 3 and laSexta",
+    "Audiences seeking emotionally engaging factual content"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series and 1-hour films"
+  ],
+  "formats": [
+    "series",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €40K–€150K per hour",
+  "min_budget_usd": 44000,
+  "max_budget_usd": 165000,
+  "budget_range": "medium",
+  "languages": [
+    "spanish"
+  ],
+  "technical_requirements": [
+    "Broadcast quality suitable for prime-time",
+    "Rights and compliance clearances in place"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "High-impact crime docs",
+    "Social documentaries with broad appeal"
+  ],
+  "submission_process": [
+    "One-page proposal with theme, target audience, structure",
+    "Episode ideas and production team capabilities",
+    "Submission via direct contact or partner prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

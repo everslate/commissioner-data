@@ -1,0 +1,78 @@
+{
+  "id": "Helder Fragueiro_TVI",
+  "country_region": "Portugal",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Portugal 2724b6c9c50780788043d1865abf110c\\Helder Fragueiro_TVI 2724b6c9c5078009aaf5c6de751c5d89.md",
+  "created_at": "2025-09-19T11:31:57.172653+00:00",
+  "updated_at": "2025-09-19T11:31:57.172653+00:00",
+  "organization": "TVI (Televisão Independente)",
+  "role": "Head of Non-Fiction Content",
+  "commissioner_type": "factual_programming",
+  "email": "helder.fragueiro@tvi.pt",
+  "location": "Lisbon, Portugal",
+  "name": "Helder Fragueiro",
+  "background": "Leads TVI’s non-fiction commissioning with a focus on accessible, emotional storytelling that connects with Portuguese audiences on social and personal levels.",
+  "thematic_priorities": [
+    "Real-life stories and emotional journeys",
+    "Social themes and inequality",
+    "Returnable docu-reality formats"
+  ],
+  "themes": [
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "High-brow/academic projects not suited to TVI audience",
+    "Single docs without mass-market resonance"
+  ],
+  "target_audience": [
+    "Portuguese mainstream viewers",
+    "TVI’s broadcast and digital audiences"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docu-reality series",
+    "1-hour specials"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €20K–€100K per hour",
+  "min_budget_usd": 22000,
+  "max_budget_usd": 110000,
+  "budget_range": "low",
+  "languages": [
+    "portuguese"
+  ],
+  "technical_requirements": [
+    "Commercial broadcast standards",
+    "Returnable format bibles encouraged"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Docu-reality hybrids",
+    "Stories of social change and inequality"
+  ],
+  "submission_process": [
+    "Treatment with narrative arc and audience appeal",
+    "Access or main character details",
+    "Submit via TVI content team or affiliated prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

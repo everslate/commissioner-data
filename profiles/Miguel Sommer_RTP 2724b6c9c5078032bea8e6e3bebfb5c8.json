@@ -1,0 +1,84 @@
+{
+  "id": "Miguel Sommer_RTP",
+  "country_region": "Portugal",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Portugal 2724b6c9c50780788043d1865abf110c\\Miguel Sommer_RTP 2724b6c9c5078032bea8e6e3bebfb5c8.md",
+  "created_at": "2025-09-19T11:32:10.532750+00:00",
+  "updated_at": "2025-09-19T11:32:10.532750+00:00",
+  "organization": "RTP (Rádio e Televisão de Portugal) – RTP2",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "arts_culture",
+  "email": "miguel.sommer@rtp.pt",
+  "location": "Lisbon, Portugal",
+  "name": "Miguel Sommer",
+  "background": "Leads RTP2’s cultural and creative documentary slate. Seeks innovative, visually distinct films across arts, culture and human themes, supporting experimental storytelling.",
+  "thematic_priorities": [
+    "Arts, music and cultural life in Portugal",
+    "Creative documentaries with human themes",
+    "Environment and sustainability in Portuguese/Lusophone contexts"
+  ],
+  "themes": [
+    "arts_culture",
+    "social_issues",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Conventional TV docs lacking creative vision",
+    "Projects without cultural/artistic depth"
+  ],
+  "target_audience": [
+    "Culturally engaged Portuguese audiences",
+    "International art-house/festival circuits"
+  ],
+  "audience_segments": [
+    "niche_cultural",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "50–60 min films",
+    "Short series (2–3 parts)"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €20K–€150K per hour",
+  "min_budget_usd": 22000,
+  "max_budget_usd": 160000,
+  "budget_range": "medium",
+  "languages": [
+    "portuguese",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast standards with strong visual style",
+    "Festival-ready deliverables; subtitles available"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "festival_ready"
+  ],
+  "current_calls": [
+    "Innovative cultural docs with artistic edge",
+    "International co-productions with Lusophone perspective"
+  ],
+  "submission_process": [
+    "Proposal with subject, structure, cultural significance",
+    "Visual approach or creative treatment",
+    "Submit via RTP2 commissioning or partner prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

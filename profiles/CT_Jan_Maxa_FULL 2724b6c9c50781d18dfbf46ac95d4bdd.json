@@ -1,0 +1,88 @@
+{
+  "id": "CT_Jan_Maxa_FULL_Ceska_televize",
+  "country_region": "Czechia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Czechia 2724b6c9c50780cfb3c1dc1ce541f06e\\CT_Jan_Maxa_FULL 2724b6c9c50781d18dfbf46ac95d4bdd.md",
+  "created_at": "2025-09-19T11:24:31.073464+00:00",
+  "updated_at": "2025-09-19T11:24:31.073464+00:00",
+  "organization": "Česká televize (Czech Television)",
+  "role": "Director of Programme Development",
+  "commissioner_type": "documentary_originals",
+  "email": "jan.maxa@ceskatelevize.cz",
+  "location": "Prague, Czechia",
+  "name": "Jan Maxa",
+  "background": "Guides long-form documentary and factual programming at ČT. Seeks projects with strong Czech identity and societal impact, often supporting European co-productions.",
+  "thematic_priorities": [
+    "CZECH IDENTITY",
+    "HISTORY",
+    "SOCIAL ISSUES"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "arts_culture",
+    "investigative"
+  ],
+  "content_not_wanted": [
+    "Light entertainment formats without civic value",
+    "Superficial or unsubstantiated investigative content"
+  ],
+  "target_audience": [
+    "Broad Czech audience with interest in history, society and culture",
+    "European co-production partners"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature-length (52–90 mins)",
+    "Series (2–4 episodes)"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: CZK 150K–500K per hour. Higher for international co-productions.",
+  "min_budget_usd": 6500,
+  "max_budget_usd": 22000,
+  "budget_range": "medium",
+  "languages": [
+    "czech",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K standards",
+    "Rigorous legal/ethical review, archive clearances"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Czech history and identity docs",
+    "European co-pros with strong public value"
+  ],
+  "submission_process": [
+    "Synopsis with topic, structure and public value",
+    "Co-production or funding details encouraged",
+    "Director/creative lead’s statement",
+    "Submit via ČT platform or national pitch forums (e.g. East Doc Platform)"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

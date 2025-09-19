@@ -1,0 +1,89 @@
+{
+  "id": "Richard_Kingsbury_PBS_America_UK",
+  "country_region": "United Kingdom",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Richard_Kingsbury_PBS_America_UK 2734b6c9c5078173822edcd6483348b6.md",
+  "created_at": "2025-09-19T11:35:16.999154+00:00",
+  "updated_at": "2025-09-19T11:35:16.999154+00:00",
+  "organization": "PBS America UK",
+  "role": "General Manager",
+  "commissioner_type": "factual_programming",
+  "email": "richard.kingsbury@pbsamerica.co.uk",
+  "location": "United Kingdom",
+  "name": "Richard Kingsbury",
+  "background": "Richard Kingsbury serves as General Manager at PBS America UK. Focus areas: History, current affairs, documentaries. They are looking for: Primarily acquisitions; American history with UK relevance. Overall network strategy: PBS America primarily acquires content rather than commissioning, with a focus on American history, politics and international relations that have relevance to UK audiences.",
+  "thematic_priorities": [
+    "History",
+    "Current affairs",
+    "Politics",
+    "International relations"
+  ],
+  "themes": [
+    "history",
+    "politics",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Not publicly specified"
+  ],
+  "target_audience": [
+    "Educated audiences interested in history/science/culture"
+  ],
+  "audience_segments": [
+    "adults_25_60",
+    "professionals"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Series 4–6×60' or 60' specials",
+    "Both series and one-off depending on story",
+    "Primetime scheduling where applicable",
+    "Platform premieres for streamers",
+    "3–10 typical episode counts depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Documentary: £100K–£200K per hour (co-productions)",
+  "min_budget_usd": 125000,
+  "max_budget_usd": 250000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "Multilingual where applicable"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with premise and format",
+    "Explanation of American connection or relevance",
+    "Co-production or pre-sale opportunity details",
+    "Key production team credentials",
+    "Submit via email: acquisitions@pbsamerica.co.uk"
+  ],
+  "additional_info": "Ongoing commissioning cycles; submissions accepted year-round unless strand-specific; emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects across the UK (where applicable); open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

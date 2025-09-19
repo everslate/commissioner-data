@@ -1,0 +1,96 @@
+{
+  "id": "Jo_Clinton-Davis_ITV",
+  "country_region": "United Kingdom",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Jo_Clinton-Davis_ITV 2734b6c9c50781c3b727d97a4769e0da.md",
+  "created_at": "2025-09-19T11:34:49.316277+00:00",
+  "updated_at": "2025-09-19T11:34:49.316277+00:00",
+  "organization": "ITV",
+  "role": "Controller of Factual",
+  "commissioner_type": "factual_programming",
+  "email": "jo.clinton-davis@itv.com",
+  "location": "United Kingdom",
+  "name": "Jo Clinton-Davis",
+  "background": "Jo Clinton-Davis serves as Controller of Factual at ITV. Focus areas: Overall direction for factual output. They are looking for: High-impact, accessible factual with broad appeal; returning brands.",
+  "thematic_priorities": [
+    "High-impact, accessible documentaries with broad mainstream appeal",
+    "Crime documentaries with unique access or perspective",
+    "Character-driven factual series with relatable individuals",
+    "Access-led documentary series into British institutions or communities",
+    "\"Authentic Britain\" documentaries reflecting contemporary life",
+    "Presenter-led documentary series with established talent",
+    "History docs with strong narrative storytelling and broad appeal",
+    "Science and natural history accessible to mainstream audiences",
+    "Medical documentaries with dramatic storytelling and emotional impact"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "natural_history",
+    "history",
+    "arts_culture",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream UK audiences"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 60–90'; series 3–6×60' (features 90' where noted)",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime where applicable; platform premieres for streamers",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £100K–£250K per hour; Specialist Factual: £120K–£280K per hour",
+  "min_budget_usd": 124384,
+  "max_budget_usd": 310113,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery Specifications: Broadcast/streaming standards; details provided upon commissioning",
+    "Platform Requirements: Broadcaster/platform-specific deliverables",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Graphics & Branding: Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate target slot (usually 9pm)",
+    "One-page outline with headline, premise and format",
+    "Explain mainstream appeal elements",
+    "Access/contributors details",
+    "Talent attachments or suggestions",
+    "Comparable successful examples",
+    "Submit via ITV portal: www.itv.com/commissioning"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

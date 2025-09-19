@@ -1,0 +1,83 @@
+{
+  "id": "Sadeq_Saba_BBC_Persian",
+  "country_region": "UK",
+  "platform_type": "traditional_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\BBC World News 2724b6c9c507809fbd5fc254590b3def\\BBC_Sadeq_Saba_FULL 2724b6c9c5078157b269ea46575eea0f.md",
+  "created_at": "2025-09-19T11:23:43.152160+00:00",
+  "updated_at": "2025-09-19T11:23:43.152160+00:00",
+  "organization": "BBC Persian (TV & Digital)",
+  "role": "Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "sadeq.saba@bbc.co.uk",
+  "location": "London, UK / Persian-speaking regions",
+  "name": "Sadeq Saba",
+  "background": "Commissions documentaries on Iranian and Persian-speaking life, diaspora stories and regional affairs, emphasising author-led and access-based storytelling.",
+  "thematic_priorities": [
+    "Iranian history, politics and culture",
+    "Personal stories reflecting wider social trends",
+    "Diaspora voices and regional change"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Projects without Persian cultural context",
+    "Superficial international perspectives without local voice"
+  ],
+  "target_audience": [
+    "Persian-speaking audiences in Iran, Afghanistan and diaspora",
+    "BBC Persian’s global digital viewers"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Documentary specials",
+    "Typical range: 24–52 mins"
+  ],
+  "formats": [
+    "one_off_special",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: £10K–£60K per film",
+  "min_budget_usd": 12500,
+  "max_budget_usd": 75000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english",
+    "french"
+  ],
+  "technical_requirements": [
+    "Persian-language delivery",
+    "English subtitling for wider use"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "cross_platform"
+  ],
+  "current_calls": [
+    "Author-led Iranian stories",
+    "Docs exploring Persian diaspora"
+  ],
+  "submission_process": [
+    "Proposals in Persian or English",
+    "Submit via BBC Persian commissioning team"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

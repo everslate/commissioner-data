@@ -1,0 +1,88 @@
+{
+  "id": "Michaela Kolster_PHOENIX",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Michaela Kolster_PHOENIX 2724b6c9c50780c2843bcb6b6e81f8ea.md",
+  "created_at": "2025-09-19T11:29:32.947687+00:00",
+  "updated_at": "2025-09-19T11:29:32.947687+00:00",
+  "organization": "PHOENIX",
+  "role": "Programme Director",
+  "commissioner_type": "factual_programming",
+  "email": "michaela.kolster@phoenix.de",
+  "location": "Germany",
+  "name": "Michaela Kolster",
+  "background": "Michaela Kolster serves as Programme Director at PHOENIX. Focus areas: Overall programming strategy. They are looking for: In-depth documentaries on politics, history and current affairs with journalistic integrity. Overall network strategy: PHOENIX seeks in-depth documentaries focusing on politics, history and current affairs with journalistic integrity and educational value, serving as Germany's dedicated news and documentary channel.",
+  "thematic_priorities": [
+    "In-depth documentaries on politics, history and current affairs with journalistic integrity",
+    "In-depth political documentaries with journalistic integrity",
+    "Historical documentaries connecting past events to current issues",
+    "Current affairs documentaries providing context and analysis",
+    "International affairs with German perspective"
+  ],
+  "themes": [
+    "politics",
+    "history",
+    "international",
+    "social_issues"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred format: Singles (45–60 minutes)",
+    "Political analysis with historical context",
+    "Contemporary history documentaries",
+    "Geopolitical documentaries examining international relations",
+    "Preferred format: Singles (45–60 minutes) or series (2–3 episodes)"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €80K–€180K per hour; Specialist Factual: €90K–€200K per hour",
+  "min_budget_usd": 87000,
+  "max_budget_usd": 200000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Graphics & Branding: Adherence to broadcaster branding guidelines",
+    "Language & Subtitles: German and/or English; multilingual where applicable"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Two-page treatment with premise and journalistic approach",
+    "Research methodology and sources",
+    "Key production team credentials",
+    "Submit via email: dokumentation@phoenix.de"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

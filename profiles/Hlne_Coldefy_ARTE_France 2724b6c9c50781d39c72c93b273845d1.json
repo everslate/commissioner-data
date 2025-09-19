@@ -1,0 +1,96 @@
+{
+  "id": "Hlne_Coldefy_ARTE_France",
+  "country_region": "France",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Hlne_Coldefy_ARTE_France 2724b6c9c50781d39c72c93b273845d1.md",
+  "created_at": "2025-09-19T11:26:56.856989+00:00",
+  "updated_at": "2025-09-19T11:26:56.856989+00:00",
+  "organization": "ARTE France",
+  "role": "Commissioning Editor, History and Geopolitics",
+  "commissioner_type": "premium_factual",
+  "email": "helene.coldefy@arte.fr",
+  "location": "France",
+  "name": "Hélène Coldefy",
+  "background": "Hélène Coldefy serves as Commissioning Editor, History and Geopolitics at ARTE France. Focus areas: History, geopolitics, current affairs. They are looking for: Historical docs with fresh intellectual perspectives; geopolitics with European vision; in-depth current affairs. Overall network strategy: ARTE France seeks intellectually stimulating, culturally enriching documentary and specialist factual content with European relevance that pushes creative boundaries while maintaining high artistic and intellectual standards.",
+  "thematic_priorities": [
+    "Historical docs with fresh intellectual perspectives",
+    "geopolitics with European vision",
+    "in-depth current affairs",
+    "Premium documentary content with European cultural relevance",
+    "Feature-length documentaries (52–90 minutes) with strong artistic vision",
+    "Creative documentary approaches that push boundaries",
+    "Cultural documentaries exploring European identity and perspectives",
+    "Social documentaries with intellectual depth and artistic treatment",
+    "Filmmaker-driven projects with distinctive vision",
+    "Franco-German co-productions highly valued",
+    "Geopolitical documentaries with European vision",
+    "Science documentaries combining intellectual depth with visual innovation",
+    "Arts documentaries on major cultural figures or movements",
+    "Environmental programming with artistic approach"
+  ],
+  "themes": [
+    "history",
+    "politics",
+    "international",
+    "social_issues"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Culturally engaged audiences in France and Europe"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Preferred Lengths: Singles 52–90'; series 3–6 episodes of 52–60'"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "90-120_minutes"
+  ],
+  "budget_parameters": "Documentary: €200K–€400K per hour; Specialist Factual: €220K–€450K per hour",
+  "min_budget_usd": 200000,
+  "max_budget_usd": 450000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "French and/or English; multilingual where applicable"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate ARTE slot",
+    "3–5 page treatment with premise, approach and artistic vision",
+    "Director's statement and visual treatment",
+    "Key production team credentials",
+    "European cultural relevance",
+    "Franco-German co-production elements (if applicable)",
+    "Submit via ARTE portal: www.arte.tv/sites/corporate/fr/produire-pour-arte/"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

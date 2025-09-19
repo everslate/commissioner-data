@@ -1,0 +1,81 @@
+{
+  "id": "Mary_Wilkinson_BBC_World_News",
+  "country_region": "UK",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\BBC World News 2724b6c9c507809fbd5fc254590b3def\\BBC_Mary_Wilkinson_FULL 2724b6c9c5078132a52be787cf307583.md",
+  "created_at": "2025-09-19T11:23:37.413590+00:00",
+  "updated_at": "2025-09-19T11:23:37.413590+00:00",
+  "organization": "BBC World News",
+  "role": "Commissioning Editor",
+  "commissioner_type": "editorial_director",
+  "email": "mary.wilkinson@bbc.co.uk",
+  "location": "London, UK",
+  "name": "Mary Wilkinson",
+  "background": "Oversees international current affairs commissioning for BBC World News. Focuses on journalistically robust, access-driven stories with broad cross-border relevance and editorial impact.",
+  "thematic_priorities": [
+    "International affairs and global politics",
+    "Geopolitical and innovation stories",
+    "Cross-border current affairs"
+  ],
+  "themes": [
+    "international",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects without strong global angle",
+    "Content lacking journalistic robustness"
+  ],
+  "target_audience": [
+    "Global audiences across BBC World News distribution",
+    "International policy and current affairs viewers"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "23–26 min half-hours",
+    "47–52 min single hours"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "15-30_minutes"
+  ],
+  "budget_parameters": "Range: £15K–£120K per half-hour",
+  "min_budget_usd": 18500,
+  "max_budget_usd": 150000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Subtitles for international distribution"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Timely, access-driven narratives with global scope"
+  ],
+  "submission_process": [
+    "Pitch via BBC Studios or approved prodcos",
+    "One-pager with angle, access, format and strand",
+    "International relevance required"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,78 @@
+{
+  "id": "Jānis Domburs_LTV",
+  "country_region": "Latvia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Latvia 2724b6c9c50780559dd1fb5ce8c30252\\Jānis Domburs_LTV 2724b6c9c50780c2b47bf085a74f2c33.md",
+  "created_at": "2025-09-19T11:31:11.631699+00:00",
+  "updated_at": "2025-09-19T11:31:11.631699+00:00",
+  "organization": "LTV (Latvijas Televīzija)",
+  "role": "Commissioning Editor, Current Affairs",
+  "commissioner_type": "investigative_documentaries",
+  "email": "janis.domburs@ltv.lv",
+  "location": "Riga, Latvia",
+  "name": "Jānis Domburs",
+  "background": "LTV commissioning editor focused on investigative and societal documentaries. Seeks access-led films addressing public interest and regional perspectives.",
+  "thematic_priorities": [
+    "Investigative documentaries",
+    "Regional perspectives on Latvian and Baltic issues",
+    "Public interest topics"
+  ],
+  "themes": [
+    "investigative",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Stories without strong access or investigative grounding",
+    "Projects lacking urgency or societal relevance"
+  ],
+  "target_audience": [
+    "Latvian audiences engaged in current affairs",
+    "Baltic and European co-production partners"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Single docs (26–58 mins)",
+    "Mini-series (2–3 parts)"
+  ],
+  "formats": [
+    "one_off_special",
+    "mini_series"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Range: €10K–€70K per hour",
+  "min_budget_usd": 10000,
+  "max_budget_usd": 70000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "russian",
+    "bulgarian",
+    "polish"
+  ],
+  "technical_requirements": [
+    "Broadcast quality production",
+    "Legal and editorial compliance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [],
+  "current_calls": [
+    "Access-led investigations into Latvian society",
+    "Cross-Baltic/regional current affairs docs"
+  ],
+  "submission_process": [
+    "Proposal with topic and structure",
+    "Contributor access details",
+    "Submit via LTV commissioning team or Baltic pitching forums"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

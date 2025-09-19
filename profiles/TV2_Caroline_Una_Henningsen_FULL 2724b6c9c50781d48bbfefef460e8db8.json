@@ -1,0 +1,72 @@
+{
+  "id": "TV2_Caroline_Una_Henningsen_FULL_TV 2 Denmark – Documentaries",
+  "country_region": "Denmark",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\\TV2_Caroline_Una_Henningsen_FULL 2724b6c9c50781d48bbfefef460e8db8.md",
+  "created_at": "2025-09-19T11:24:46.179577+00:00",
+  "updated_at": "2025-09-19T11:24:46.179577+00:00",
+  "organization": "TV 2 Denmark – Documentaries",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "not_provided@example.com",
+  "location": "Denmark",
+  "name": "Caroline Una Henningsen",
+  "background": "Reportage/documentary commissioning with strong characters and narrative momentum; Danish relevance and weekly retention/binge value.",
+  "thematic_priorities": [
+    "Investigative and human‑interest docs with exclusive access",
+    "Contemporary Danish social issues; identity and culture"
+  ],
+  "themes": [
+    "investigative",
+    "social_issues",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Access‑light projects; redundant topics without new angle",
+    "Unclear legal/ethical approach on sensitive stories"
+  ],
+  "target_audience": [
+    "TV 2’s mainstream audience that favours punchy, character‑led stories"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Singles and mini‑series for broadcast + TV 2 PLAY"
+  ],
+  "formats": [
+    "mini_series",
+    "one_off_special"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Aligned with TV 2 doc ranges; scope‑dependent",
+  "min_budget_usd": 25000,
+  "max_budget_usd": 1000000,
+  "budget_range": "variable",
+  "languages": [
+    "danish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast‑standard; legal/rights cleared; contributor care"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Exclusive access series, especially with strong episodic arcs"
+  ],
+  "submission_process": [
+    "One‑pager + sizzle; access proof; legal plan",
+    "Submission via TV 2 commissioning process/partners"
+  ],
+  "additional_info": "Public professional profile (LinkedIn)",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

@@ -1,0 +1,78 @@
+{
+  "id": "Lois Vossen-PBS (Independent Lens)",
+  "country_region": "USA",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\PBS_IndependentLens_Commissioning_FULL 2734b6c9c507818c81aaff673a5e45fd.md",
+  "created_at": "2025-09-19T11:36:28.357867+00:00",
+  "updated_at": "2025-09-19T11:36:28.357867+00:00",
+  "organization": "PBS (Independent Lens)",
+  "role": "Executive Producer",
+  "commissioner_type": "independent_regional",
+  "email": "independentlens@itvs.org",
+  "location": "San Francisco, USA",
+  "name": "Lois Vossen",
+  "background": "Independent Lens commissions and presents independent nonfiction films with strong artistic voice and public interest value.",
+  "thematic_priorities": [
+    "American identity",
+    "Civil rights",
+    "Contemporary social issues"
+  ],
+  "themes": [
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Projects without strong POV",
+    "Light factual content"
+  ],
+  "target_audience": [
+    "PBS independent film audiences",
+    "US cultural discourse"
+  ],
+  "audience_segments": [
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature docs",
+    "Occasional limited series"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "USD $150K–$400K per film",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 400000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD",
+    "filmmaker-led projects"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Docs on race, democracy, and justice"
+  ],
+  "submission_process": [
+    "Apply via ITVS Open Call",
+    "Strong filmmaker track record required"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

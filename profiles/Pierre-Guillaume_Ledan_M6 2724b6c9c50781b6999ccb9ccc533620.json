@@ -1,0 +1,91 @@
+{
+  "id": "Pierre-Guillaume_Ledan_M6_M6",
+  "country_region": "France",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Pierre-Guillaume_Ledan_M6 2724b6c9c50781b6999ccb9ccc533620.md",
+  "created_at": "2025-09-19T11:27:41.126711+00:00",
+  "updated_at": "2025-09-19T11:27:41.126711+00:00",
+  "organization": "M6",
+  "role": "Commissioning Editor, Factual",
+  "commissioner_type": "factual_programming",
+  "email": "pierre-guillaume.ledan@m6.fr",
+  "location": "France",
+  "name": "Pierre-Guillaume Ledan",
+  "background": "Pierre-Guillaume Ledan serves as Commissioning Editor, Factual at M6. Focus areas: Factual series, society, current affairs. They are looking for: Society-focused docs with entertaining approach; current affairs with relatable impact on everyday life. Overall network strategy: M6 seeks commercially appealing factual content with strong format potential, focusing on engaging personalities, relatable subjects, and entertaining approaches that connect with their younger-skewing mainstream audience.",
+  "thematic_priorities": [
+    "Society-focused docs with entertaining approach",
+    "Current affairs with relatable impact on everyday life",
+    "Documentary series with strong personalities and clear formats",
+    "Access-led documentaries with commercial appeal",
+    "Consumer and lifestyle programming with practical takeaways",
+    "Crime documentaries with emotional impact and mystery elements",
+    "History documentaries with strong narrative storytelling and mystery elements"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "true_crime",
+    "international",
+    "lifestyle",
+    "history",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream French audiences",
+    "younger-skewing where applicable"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Series-led (4–8×52–60'); singles only for events",
+    "Both series and one-off content depending on story and slot"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €100K–€250K per hour; Specialist Factual: €120K–€200K per hour",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 250000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Explain commercial appeal elements",
+    "Secured or potential access/contributors",
+    "Talent attachments or suggestions",
+    "Comparable successful M6 examples",
+    "Submit via M6 portal: www.m6.fr/pro"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

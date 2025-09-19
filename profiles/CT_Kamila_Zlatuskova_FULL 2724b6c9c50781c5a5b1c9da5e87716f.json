@@ -1,0 +1,80 @@
+{
+  "id": "Kamila Zlatušková-Česká televize",
+  "country_region": "Czechia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Czechia 2724b6c9c50780cfb3c1dc1ce541f06e\\CT_Kamila_Zlatuskova_FULL 2724b6c9c50781c5a5b1c9da5e87716f.md",
+  "created_at": "2025-09-19T11:24:22.033275+00:00",
+  "updated_at": "2025-09-19T11:24:22.033275+00:00",
+  "organization": "Česká televize (Czech Television) – Documentary Film Centre",
+  "role": "Commissioning Editor",
+  "commissioner_type": "documentary_originals",
+  "email": "kamila.zlatuskova@ceskatelevize.cz",
+  "location": "Brno, Czechia",
+  "name": "Kamila Zlatušková",
+  "background": "Champions author-driven, experimental and innovative documentary filmmaking. Supports bold perspectives, minority voices and politically engaged projects.",
+  "thematic_priorities": [
+    "Author-driven and experimental documentaries",
+    "Minority voices and cultural/political subjects",
+    "Arts and culture with Czech/European resonance"
+  ],
+  "themes": [
+    "arts_culture",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Conventional or formulaic approaches",
+    "Projects lacking originality or strong authorial voice"
+  ],
+  "target_audience": [
+    "Czech cultural and documentary-focused audiences",
+    "Festival circuits and international co-production partners"
+  ],
+  "audience_segments": [
+    "niche_cultural",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature-length (52–90 mins)",
+    "Series (2–4 episodes)"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: CZK 150K–500K per hour. Co-production top-ups possible for ambitious projects.",
+  "min_budget_usd": 6750,
+  "max_budget_usd": 22500,
+  "budget_range": "medium",
+  "languages": [
+    "czech"
+  ],
+  "technical_requirements": [
+    "High artistic/visual quality; experimental freedom supported",
+    "International co-production delivery standards"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [],
+  "current_calls": [
+    "Bold cultural/political projects with minority perspectives",
+    "Innovative author-driven approaches"
+  ],
+  "submission_process": [
+    "Director’s/author’s statement",
+    "Synopsis and structure highlighting originality",
+    "Submit via ČT commissioning centre or East Doc Platform"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "project_based",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

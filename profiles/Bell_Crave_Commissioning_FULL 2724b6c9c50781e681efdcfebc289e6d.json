@@ -1,0 +1,81 @@
+{
+  "id": "Crave Originals Commissioning Team_Bell Media",
+  "country_region": "Canada",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Canada 2724b6c9c50780bf8638e2db620d6a93\\Bell_Crave_Commissioning_FULL 2724b6c9c50781e681efdcfebc289e6d.md",
+  "created_at": "2025-09-19T11:23:51.714551+00:00",
+  "updated_at": "2025-09-19T11:23:51.714551+00:00",
+  "organization": "Bell Media (Crave)",
+  "role": "Documentary Originals",
+  "commissioner_type": "documentary_originals",
+  "email": "crave.originals@bellmedia.ca",
+  "location": "Toronto, Canada",
+  "name": "Crave Originals Commissioning Team",
+  "background": "Crave Originals commissions premium documentary features and event series with international potential. Content must be cinematic, distinctive and brand-defining.",
+  "thematic_priorities": [
+    "True crime and scandal",
+    "Arts, music and celebrity",
+    "Political and social investigations"
+  ],
+  "themes": [
+    "true_crime",
+    "arts_culture",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Low-budget factual entertainment",
+    "Projects without festival potential"
+  ],
+  "target_audience": [
+    "Crave subscribers in Canada",
+    "International audiences via Bell Media distribution"
+  ],
+  "audience_segments": [
+    "premium_subscribers",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature-length docs (90 mins)",
+    "Event series (3–6 parts)"
+  ],
+  "formats": [
+    "feature_doc",
+    "event_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "CAD $250K–$1M per hour",
+  "min_budget_usd": 250000,
+  "max_budget_usd": 1000000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Cinematic 4K delivery",
+    "Festival-ready"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "festival_ready"
+  ],
+  "current_calls": [
+    "Premium crime docs",
+    "Music/celebrity event series"
+  ],
+  "submission_process": [
+    "Pitch via Crave commissioning team",
+    "Visual treatment and director’s statement required"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

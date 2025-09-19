@@ -1,0 +1,83 @@
+{
+  "id": "Nadine_El_Sayed_DMC",
+  "country_region": "Egypt",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Egypt 2724b6c9c50780cba64ffc4ed637547a\\DMC_Nadine_El_Sayed_FULL 2724b6c9c507811e9ee3cf38e4c458c5.md",
+  "created_at": "2025-09-19T11:25:23.376135+00:00",
+  "updated_at": "2025-09-19T11:25:23.376135+00:00",
+  "organization": "DMC (United Media Services)",
+  "role": "Head of Content",
+  "commissioner_type": "factual_programming",
+  "email": "nadine.elsayed@dmc.com.eg",
+  "location": "Cairo, Egypt",
+  "name": "Nadine El Sayed",
+  "background": "Nadine El Sayed leads DMC’s factual and documentary commissioning within United Media Services. She seeks accessible, inspirational projects blending heritage, identity and youth engagement, aligned with Egypt’s national cultural strategy.",
+  "thematic_priorities": [
+    "Heritage, music, crafts and Egyptian lifestyle",
+    "Youth, innovation and positive social change",
+    "Inspirational or biographical profiles"
+  ],
+  "themes": [
+    "arts_culture",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Overly critical or politically sensitive projects",
+    "Content lacking mainstream accessibility"
+  ],
+  "target_audience": [
+    "Egyptian mainstream TV audiences",
+    "Family and youth viewers"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "families",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "One-offs and series",
+    "45–60 min episodes"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "EGP 70,000–300,000 per hour",
+  "min_budget_usd": 2000,
+  "max_budget_usd": 10000,
+  "budget_range": "medium",
+  "languages": [
+    "arabic"
+  ],
+  "technical_requirements": [
+    "Arabic-language delivery; HD broadcast",
+    "Visual decks and creative treatments preferred"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "cross_platform"
+  ],
+  "current_calls": [
+    "Heritage and lifestyle profiles with positive narratives",
+    "Youth-driven innovation stories"
+  ],
+  "submission_process": [
+    "One-pager or visual deck in Arabic",
+    "Highlight emotional and social value",
+    "Submit via DMC programming team or government-affiliated producers"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

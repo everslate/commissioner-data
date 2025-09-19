@@ -1,0 +1,80 @@
+{
+  "id": "Kristīne Stalidzāne_TV3 Latvia",
+  "country_region": "Latvia",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Latvia 2724b6c9c50780559dd1fb5ce8c30252\\Kristīne Stalidzāne_TV3 Latvia 2724b6c9c5078060a8dce2b4cc2eef4e.md",
+  "created_at": "2025-09-19T11:31:15.776112+00:00",
+  "updated_at": "2025-09-19T11:31:15.776112+00:00",
+  "organization": "TV3 Latvia / All Media Baltics",
+  "role": "Head of Content Development",
+  "commissioner_type": "factual_programming",
+  "email": "kristine.stalidzane@tv3.lv",
+  "location": "Riga, Latvia",
+  "name": "Kristīne Stalidzāne",
+  "background": "Oversees content development for TV3 Latvia. Commissions factual entertainment and documentary formats with emotional resonance and broad audience appeal.",
+  "thematic_priorities": [
+    "Returnable factual entertainment formats",
+    "Family, relationships and everyday Latvian life",
+    "Health, wellbeing and inspirational content"
+  ],
+  "themes": [
+    "lifestyle",
+    "social_issues",
+    "health_medical"
+  ],
+  "content_not_wanted": [
+    "Niche or highbrow formats without mass appeal",
+    "Single films without returnable potential"
+  ],
+  "target_audience": [
+    "Mainstream Latvian audiences",
+    "Commercial TV3 viewership"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Returnable factual series",
+    "Single films with broad appeal"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Range: €5K–€50K per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 50000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "french",
+    "german",
+    "russian",
+    "spanish",
+    "swedish"
+  ],
+  "technical_requirements": [
+    "Commercial broadcast quality",
+    "Adaptable for linear and digital platforms"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [],
+  "current_calls": [
+    "Family-focused factual entertainment",
+    "Inspirational, emotionally resonant real-life stories"
+  ],
+  "submission_process": [
+    "Format outline or concept deck",
+    "Tone and audience appeal defined",
+    "Submit via TV3 editorial or production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

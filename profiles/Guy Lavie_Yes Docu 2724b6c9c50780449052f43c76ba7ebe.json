@@ -1,0 +1,86 @@
+{
+  "id": "Guy_Lavie_Yes_Docu",
+  "country_region": "Israel",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Israel 2724b6c9c5078064a4dfc54704d3e78b\\Guy Lavie_Yes Docu 2724b6c9c50780449052f43c76ba7ebe.md",
+  "created_at": "2025-09-19T11:30:42.556460+00:00",
+  "updated_at": "2025-09-19T11:30:42.556460+00:00",
+  "organization": "Yes Docu",
+  "role": "Commissioning Editor",
+  "commissioner_type": "documentary_originals",
+  "email": "guy.lavie@yes.co.il",
+  "location": "Tel Aviv, Israel",
+  "name": "Guy Lavie",
+  "background": "Oversees Yes Docu’s premium documentary output. Focuses on bold, cinematic storytelling with international potential across social, personal and investigative themes.",
+  "thematic_priorities": [
+    "Biographies, sports, crime and conflict",
+    "Human rights and civil society themes",
+    "Contemporary Jewish identity and diaspora",
+    "International co-productions"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Low-budget projects without cinematic scope",
+    "Topics lacking narrative depth or originality"
+  ],
+  "target_audience": [
+    "Yes subscribers seeking premium factual",
+    "International audiences via co-productions"
+  ],
+  "audience_segments": [
+    "premium_subscribers",
+    "international"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "High-end docuseries",
+    "Feature-length films"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: ₪150K–₪600K+ per hour",
+  "min_budget_usd": 40000,
+  "max_budget_usd": 180000,
+  "budget_range": "medium",
+  "languages": [
+    "hebrew",
+    "english"
+  ],
+  "technical_requirements": [
+    "4K cinematic standards; international distribution ready",
+    "Strong creative direction; music/archival rights cleared"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Premium human rights and investigative projects",
+    "Sports/music/biography docs with international potential"
+  ],
+  "submission_process": [
+    "Proposal/deck with visual tone and narrative arc",
+    "Talent attachments or unique access secured",
+    "Submit via Yes Docu commissioning team or established prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

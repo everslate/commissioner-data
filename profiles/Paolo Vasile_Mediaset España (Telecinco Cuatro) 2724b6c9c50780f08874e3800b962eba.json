@@ -1,0 +1,77 @@
+{
+  "id": "paolo_vasile_mediaset_espana",
+  "country_region": "Spain",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Spain 2724b6c9c50780c188eadc3017783eb5\\Paolo Vasile_Mediaset España (Telecinco Cuatro) 2724b6c9c50780f08874e3800b962eba.md",
+  "created_at": "2025-09-19T11:32:39.572729+00:00",
+  "updated_at": "2025-09-19T11:32:39.572729+00:00",
+  "organization": "Mediaset España (Telecinco / Cuatro)",
+  "role": "Executive Content Advisor",
+  "commissioner_type": "factual_programming",
+  "email": "paolo.vasile@mediaset.es",
+  "location": "Madrid, Spain",
+  "name": "Paolo Vasile",
+  "background": "Focuses on mass-appeal factual, especially crime, scandal and compelling human stories for Telecinco and Cuatro.",
+  "thematic_priorities": [
+    "Crime and mystery documentaries",
+    "Real-life stories with emotional pull",
+    "Current affairs formats for Cuatro",
+    "Presenter-led and investigative journalism series"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects without sensational or broad audience appeal",
+    "Low-quality productions lacking professional polish"
+  ],
+  "target_audience": [
+    "Mass-market Spanish audience",
+    "Viewers of Telecinco and Cuatro seeking engaging factual"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series and one-offs; investigative journalism formats"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Range: €30K–€120K per hour",
+  "min_budget_usd": 32000,
+  "max_budget_usd": 128000,
+  "budget_range": "medium",
+  "languages": [
+    "spanish"
+  ],
+  "technical_requirements": [
+    "Prime-time broadcast quality",
+    "Strong compliance and legal clearance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "True crime and current affairs with mass reach",
+    "Scandal-driven stories with emotional impact"
+  ],
+  "submission_process": [
+    "Synopsis with audience rationale",
+    "Episode format, tone and production details",
+    "Submission via Mediaset content division or partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

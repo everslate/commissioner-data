@@ -1,0 +1,84 @@
+{
+  "id": "Boris_Lalic_BHRT",
+  "country_region": "Bosnia and Herzegovina",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Bosnia 2724b6c9c50780208264def0d67988b4\\BHRT_Boris_Lalic_FULL 2724b6c9c5078194bd94f796d77747d8.md",
+  "created_at": "2025-09-19T11:23:54.677736+00:00",
+  "updated_at": "2025-09-19T11:23:54.677736+00:00",
+  "organization": "BHRT (Radio and Television of Bosnia and Herzegovina)",
+  "role": "Head of Documentary and Culture Department",
+  "commissioner_type": "documentary_originals",
+  "email": "boris.lalic@bhrt.ba",
+  "location": "Sarajevo, Bosnia and Herzegovina",
+  "name": "Boris Lalić",
+  "background": "Leads BHRT’s documentary department. Focuses on public service documentaries that explore Bosnia’s cultural diversity, history and post-war transformation.",
+  "thematic_priorities": [
+    "Bosnia’s post-war identity and reconciliation",
+    "Cultural and religious diversity",
+    "Regional history and politics"
+  ],
+  "themes": [
+    "social_issues",
+    "history",
+    "arts_culture",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects lacking Bosnian cultural relevance",
+    "Superficial stories without depth or access"
+  ],
+  "target_audience": [
+    "Bosnian national audiences",
+    "Regional and diaspora viewers"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min one-offs",
+    "Limited series"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €5K–€50K per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 50000,
+  "budget_range": "low",
+  "languages": [
+    "bulgarian",
+    "croatian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Delivery in Bosnian/Croatian/Serbian or English"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reconciliation and interethnic dialogue docs",
+    "Stories highlighting Bosnia’s transformation"
+  ],
+  "submission_process": [
+    "Proposal in BCS or English with outline and audience",
+    "Submit via BHRT editorial department or regional forums (ZagrebDox, Sarajevo Film Festival)"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

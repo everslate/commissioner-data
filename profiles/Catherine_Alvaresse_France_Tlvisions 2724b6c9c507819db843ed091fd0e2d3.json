@@ -1,0 +1,86 @@
+{
+  "id": "Catherine_Alvaresse_France_Télévisions",
+  "country_region": "France",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Catherine_Alvaresse_France_Tlvisions 2724b6c9c507819db843ed091fd0e2d3.md",
+  "created_at": "2025-09-19T11:26:17.155849+00:00",
+  "updated_at": "2025-09-19T11:26:17.155849+00:00",
+  "organization": "France Télévisions",
+  "role": "Head of Documentary Department",
+  "commissioner_type": "documentary_originals",
+  "email": "catherine.alvaresse@francetv.fr",
+  "location": "France",
+  "name": "Catherine Alvaresse",
+  "background": "Catherine Alvaresse serves as Head of Documentary Department at France Télévisions. Focus areas: Documentary films, documentary series. Looking for international co-productions with strong French elements.",
+  "thematic_priorities": [
+    "Feature-length documentaries with cinematic quality",
+    "Premium documentary programming with strong cultural relevance",
+    "Documentary series exploring complex social issues",
+    "Investigative documentaries with journalistic depth",
+    "Contemporary social issues explored through compelling narratives",
+    "Regional documentary programming celebrating French cultural diversity",
+    "Science documentaries balancing intellectual rigor with accessibility",
+    "Environmental documentaries with solutions-focused approach",
+    "Nature programming with cinematic quality",
+    "Historical documentaries with fresh perspectives and contemporary relevance",
+    "Cultural documentaries exploring French and global arts",
+    "Geopolitical documentaries with French perspective"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "investigative",
+    "natural_history",
+    "science_tech",
+    "climate_environment",
+    "history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [],
+  "formats": [
+    "feature_doc",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [],
+  "budget_parameters": "Documentary: €150K–€350K per hour (higher for international co-productions); Specialist Factual: €180K–€400K per hour",
+  "min_budget_usd": 160000,
+  "max_budget_usd": 455000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate channel and slot (France 2/3/5, etc.)",
+    "Two-page treatment with premise, approach, and narrative structure",
+    "Details of secured or potential access",
+    "Key talent and production team credentials",
+    "Comparable successful examples",
+    "Potential for digital/multiplatform extensions",
+    "Submit via commissioning portal: www.francetelevisions.fr/commande"
+  ],
+  "additional_info": "Ongoing commissioning cycles; submissions accepted year-round unless strand-specific. Emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects across French regions.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

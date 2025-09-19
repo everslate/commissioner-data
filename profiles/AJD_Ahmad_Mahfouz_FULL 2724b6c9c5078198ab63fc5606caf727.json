@@ -1,0 +1,81 @@
+{
+  "id": "Ahmad Mahfouz_Al Jazeera Documentary Channel",
+  "country_region": "Qatar",
+  "platform_type": "traditional_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf\\AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727.md",
+  "created_at": "2025-09-19T11:23:10.071270+00:00",
+  "updated_at": "2025-09-19T11:23:10.071270+00:00",
+  "organization": "Al Jazeera Documentary Channel",
+  "role": "Channel Director",
+  "commissioner_type": "documentary_originals",
+  "email": "ahmad.mahfouz@aljazeera.net",
+  "location": "Doha, Qatar",
+  "name": "Ahmad Mahfouz",
+  "background": "As Channel Director of Al Jazeera Documentary (Arabic), Ahmad Mahfouz oversees commissioning of original Arabic-language factual content. The channel emphasises Arab identity, Islamic civilisation, science and history, offering high-quality documentaries tailored for MENA audiences.",
+  "thematic_priorities": [
+    "Arab history, Islamic art and civilisation",
+    "Science, medicine and innovation in the Arab world",
+    "Political, cultural and social developments in MENA"
+  ],
+  "themes": [
+    "history",
+    "science_tech",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Non-Arabic content without translation",
+    "Projects lacking regional or cultural grounding"
+  ],
+  "target_audience": [
+    "Arabic-speaking audiences across MENA",
+    "Educational and cultural institutions in the Arab world"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Arabic-language docs",
+    "One-offs and series (30–60 mins)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "USD $20K–$100K per hour",
+  "min_budget_usd": 20000,
+  "max_budget_usd": 100000,
+  "budget_range": "low",
+  "languages": [
+    "arabic"
+  ],
+  "technical_requirements": [
+    "Arabic delivery; subtitled for festivals",
+    "Broadcast HD standards"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd"
+  ],
+  "current_calls": [
+    "Arabic-language heritage and civilisation docs",
+    "Science and cultural development stories in MENA"
+  ],
+  "submission_process": [
+    "Arabic-language treatment with theme, purpose and visual tone",
+    "Must respect editorial values and cultural sensitivity",
+    "Submit via AJ Documentary Channel commissioning or co-production agreements"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

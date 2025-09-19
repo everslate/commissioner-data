@@ -1,0 +1,90 @@
+{
+  "id": "Katja Wildermuth-3sat",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Katja Wildermuth_3sat – Factual 2724b6c9c507809fbdc2dfedbb86d8ef.md",
+  "created_at": "2025-09-19T11:28:58.545590+00:00",
+  "updated_at": "2025-09-19T11:28:58.545590+00:00",
+  "organization": "3sat",
+  "role": "Commissioning Editor, Science and Knowledge",
+  "commissioner_type": "factual_programming",
+  "email": "katja.wildermuth@3sat.de",
+  "location": "Germany",
+  "name": "Katja Wildermuth",
+  "background": "Katja Wildermuth serves as Commissioning Editor, Science and Knowledge at 3sat. Focus areas: Science, education, knowledge. They are looking for: Science docs with intellectual depth; educational programming fostering critical thinking. Overall network strategy: 3sat seeks intellectually stimulating documentary and specialist factual content with cultural, scientific and societal relevance for German-speaking audiences across Germany, Austria and Switzerland.",
+  "thematic_priorities": [
+    "Science docs with intellectual depth",
+    "Educational programming fostering critical thinking",
+    "Intellectually stimulating documentaries with cultural relevance",
+    "Literary and artistic documentaries focusing on German-language culture",
+    "Social documentaries examining contemporary issues in German-speaking countries",
+    "Philosophical discussions and intellectual discourse",
+    "Cultural analysis with philosophical dimensions",
+    "Historical documentaries focusing on German-speaking regions",
+    "Educational programming that stimulates critical thinking"
+  ],
+  "themes": [
+    "science_tech",
+    "education",
+    "social_issues",
+    "arts_culture",
+    "history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "German-speaking audiences in Germany, Austria and Switzerland"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "adults_25_60"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Singles (45–60 minutes)",
+    "Short series (2–5 episodes)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "episodic_30_min"
+  ],
+  "budget_parameters": "Documentary: €100K–€200K per hour; Specialist Factual: €120K–€220K per hour",
+  "min_budget_usd": 108000,
+  "max_budget_usd": 236000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Two-page treatment with premise, approach and intellectual framework",
+    "Academic or expert consultants",
+    "Key production team credentials",
+    "Cultural relevance for German-speaking audiences",
+    "Submit via 3sat portal: www.3sat.de/ueber-uns/produktion"
+  ],
+  "additional_info": "Commissioning Cycles: Ongoing; submissions accepted year-round unless strand-specific. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

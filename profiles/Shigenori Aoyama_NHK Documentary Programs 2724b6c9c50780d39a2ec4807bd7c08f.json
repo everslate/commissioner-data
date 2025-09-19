@@ -1,0 +1,84 @@
+{
+  "id": "shigenori_aoyama_nhk",
+  "country_region": "Japan",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Japan 2724b6c9c507806a9dd4c1d6efeaafb6\\Shigenori Aoyama_NHK Documentary Programs 2724b6c9c50780d39a2ec4807bd7c08f.md",
+  "created_at": "2025-09-19T11:30:55.644172+00:00",
+  "updated_at": "2025-09-19T11:30:55.644172+00:00",
+  "organization": "NHK (Nippon Hōsō Kyōkai)",
+  "role": "Senior Producer, NHK Documentary Programs",
+  "commissioner_type": "factual_programming",
+  "email": "shigenori.aoyama@nhk.or.jp",
+  "location": "Tokyo, Japan",
+  "name": "Shigenori Aoyama",
+  "background": "Leads NHK’s documentary programming with focus on history, science and international affairs. Seeks cinematic, investigative projects with public interest value and global outlook.",
+  "thematic_priorities": [
+    "Japanese history, culture and innovation",
+    "Environmental change and technology",
+    "International affairs and Asia-Pacific relations"
+  ],
+  "themes": [
+    "history",
+    "science_tech",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Projects lacking educational or civic value",
+    "Superficial treatments without investigative depth"
+  ],
+  "target_audience": [
+    "Japanese national public audience",
+    "International co-production partners"
+  ],
+  "audience_segments": [
+    "international",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "49–73 min documentaries",
+    "Series (2–4 parts)"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: ¥3M–¥20M per hour",
+  "min_budget_usd": 22000,
+  "max_budget_usd": 150000,
+  "budget_range": "medium",
+  "languages": [
+    "japanese"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K standards",
+    "International co-production compliance"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Cinematic storytelling with investigative depth",
+    "Projects exploring Japanese history and science"
+  ],
+  "submission_process": [
+    "Treatment with story arc and public interest value",
+    "Director/producer CVs and production plan",
+    "Submit via NHK content development or co-production markets"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,86 @@
+{
+  "id": "fahad_al_harbi_sba",
+  "country_region": "Saudi Arabia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Saudi Arabia 2724b6c9c507806abcd8c823c5fdd4df\\Fahad Al Harbi_SBA 2724b6c9c50780c8a3dce4be0402fb94.md",
+  "created_at": "2025-09-19T11:32:18.293615+00:00",
+  "updated_at": "2025-09-19T11:32:18.293615+00:00",
+  "organization": "Saudi Broadcasting Authority (SBA / Al Saudiya)",
+  "role": "Director of Content Strategy",
+  "commissioner_type": "editorial_director",
+  "email": "fahad.harbi@sba.gov.sa",
+  "location": "Riyadh, Saudi Arabia",
+  "name": "Dr. Fahad Al Harbi",
+  "background": "As Director of Content Strategy at SBA, Dr. Fahad Al Harbi oversees national public broadcasting aligned with Saudi Arabia’s Vision 2030. He prioritises projects that highlight heritage, faith, and innovation while reinforcing cultural identity, national unity, and Islamic values.",
+  "thematic_priorities": [
+    "Saudi heritage, language and tribal culture",
+    "Vision 2030 themes: sustainability, innovation and development",
+    "Faith, family and societal values",
+    "Youth, entrepreneurship and education"
+  ],
+  "themes": [
+    "arts_culture",
+    "social_issues",
+    "science_tech",
+    "education",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Content conflicting with Islamic or national values",
+    "Foreign narratives without Saudi alignment"
+  ],
+  "target_audience": [
+    "Saudi national audiences",
+    "Pan-Arab viewers via satellite distribution"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "30–60 min episodes",
+    "Limited series (2–4 parts)"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "SAR 100,000–600,000 per hour",
+  "min_budget_usd": 26700,
+  "max_budget_usd": 160000,
+  "budget_range": "medium",
+  "languages": [
+    "arabic",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K delivery; Arabic required, English optional",
+    "Approval via GCAM compliance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Vision 2030-aligned national development docs",
+    "Projects highlighting Saudi achievements and culture"
+  ],
+  "submission_process": [
+    "Proposal in Arabic or English with synopsis and public interest value",
+    "Must demonstrate cultural sensitivity and production credentials",
+    "Submit via SBA content division or through Saudi production companies registered with GCAM"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "selective",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

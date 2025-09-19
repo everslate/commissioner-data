@@ -1,0 +1,97 @@
+{
+  "id": "Marie-Pierre_Gracedieu_Canal",
+  "country_region": "France",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Marie-Pierre_Gracedieu_Canal 2724b6c9c5078177a2c0e9b47d676b7b.md",
+  "created_at": "2025-09-19T11:27:06.731033+00:00",
+  "updated_at": "2025-09-19T11:27:06.731033+00:00",
+  "organization": "Canal+",
+  "role": "Commissioning Editor, Film and Arts",
+  "commissioner_type": "premium_factual",
+  "email": "marie-pierre.gracedieu@canal-plus.com",
+  "location": "France",
+  "name": "Marie-Pierre Gracedieu",
+  "background": "Marie-Pierre Gracedieu serves as Commissioning Editor, Film and Arts at Canal+. Focus areas: Cinema, arts, culture. They are looking for: Feature-length docs about cinema/filmmakers; arts docs with exclusive access; creative docs with festival potential. Overall network strategy: Canal+ seeks premium, distinctive documentary content with strong entertainment value and commercial appeal, focusing on exclusive access, high-profile subjects, and cinematic execution.",
+  "thematic_priorities": [
+    "Feature-length docs about cinema/filmmakers",
+    "arts docs with exclusive access",
+    "creative docs with festival potential",
+    "premium documentary content",
+    "high-end documentary series",
+    "true crime series",
+    "sports documentaries",
+    "celebrity-focused documentaries",
+    "music documentaries",
+    "science and technology",
+    "history documentaries",
+    "cultural documentaries"
+  ],
+  "themes": [
+    "arts_culture",
+    "true_crime",
+    "sports",
+    "lifestyle",
+    "history",
+    "celebrity_music",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (4–6 episodes) or feature-length (90')"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "€200K–€450K per hour; Specialist Factual: €180K–€400K per hour",
+  "min_budget_usd": 200000,
+  "max_budget_usd": 450000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions",
+    "audio description"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come via an established production company",
+    "Detailed treatment with premise, format and narrative structure",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Comparable successful Canal+ examples",
+    "Exclusivity elements clearly defined",
+    "Submit via Canal+ portal: www.canalplusgroupe.com/producteurs"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects across French regions",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

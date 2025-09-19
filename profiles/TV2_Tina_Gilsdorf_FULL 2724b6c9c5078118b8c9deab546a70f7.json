@@ -1,0 +1,86 @@
+{
+  "id": "Tina Gilsdorf-TV 2 Denmark – Documentaries",
+  "country_region": "Denmark",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\\TV2_Tina_Gilsdorf_FULL 2724b6c9c5078118b8c9deab546a70f7.md",
+  "created_at": "2025-09-19T11:24:58.562857+00:00",
+  "updated_at": "2025-09-19T11:24:58.562857+00:00",
+  "organization": "TV 2 Denmark – Documentaries",
+  "role": "Head of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "tgi@tv2.dk",
+  "location": "Odense/Copenhagen, Denmark",
+  "name": "Tina Gilsdorf",
+  "background": "Broad‑appeal, emotionally engaging Danish stories that spark national conversation—spanning true crime, family and social reality—with clear take‑outs for everyday viewers.",
+  "thematic_priorities": [
+    "Human‑interest & family sagas with national relevance",
+    "True crime series with exclusive access and sensitivity",
+    "Health, food and lifestyle documentaries with practical hooks"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "health_medical",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Overly niche ideas with limited mainstream appeal",
+    "Projects that cannot sustain weekly retention or VOD bingeability",
+    "Crime lacking ethical safeguards or new evidence/access"
+  ],
+  "target_audience": [
+    "Broad 30+ demographic across TV 2 main channel + TV 2 PLAY",
+    "Viewers seeking emotion‑led factual storytelling"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series prioritized; presenter‑led explorations welcome",
+    "Singles considered when subject is exceptional"
+  ],
+  "formats": [
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Indicative range: DKK 350K–1M per hour (guidance)",
+  "min_budget_usd": 50000,
+  "max_budget_usd": 150000,
+  "budget_range": "medium",
+  "languages": [
+    "danish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Strong editorial supervision for sensitive subjects (e.g., crime)",
+    "Broadcast quality; rights & legal fully cleared; duty of care plans"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Nationally resonant, conversation‑driving documentary series",
+    "Crime with unique access; lifestyle with clear life‑impact"
+  ],
+  "submission_process": [
+    "Format pitch deck or one‑pager; audience rationale (broad 30+)",
+    "Clear visual treatment and tone; sizzle/pilot if available",
+    "Submit via TV 2 commissioning system or through partner prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

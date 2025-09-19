@@ -1,0 +1,86 @@
+{
+  "id": "Krzysztof Noworyta_TVP",
+  "country_region": "Poland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Poland 2724b6c9c507806bb7bbce61c8d54aaf\\Krzysztof Noworyta_TVP 2724b6c9c507802cac0fd6a5061af7a7.md",
+  "created_at": "2025-09-19T11:31:50.883060+00:00",
+  "updated_at": "2025-09-19T11:31:50.883060+00:00",
+  "organization": "TVP (Telewizja Polska) – TVP Dokument",
+  "role": "Commissioning Editor",
+  "commissioner_type": "documentary_originals",
+  "email": "krzysztof.noworyta@tvp.pl",
+  "location": "Warsaw, Poland",
+  "name": "Krzysztof Noworyta",
+  "background": "Oversees feature-length and serialised documentaries for TVP Dokument. Seeks strong access-led stories with national and European resonance, aligned with TVP’s public service remit.",
+  "thematic_priorities": [
+    "National issues, culture and identity",
+    "European heritage and cross-border stories",
+    "Access-driven narratives with strong characters"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Projects without strong access or contributor confirmation",
+    "Superficial stories lacking historical or social depth"
+  ],
+  "target_audience": [
+    "TVP Dokument viewers seeking feature and serialised docs",
+    "International co-production audiences"
+  ],
+  "audience_segments": [
+    "international",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature-length (50–90 mins)",
+    "Mini-series (2–4 episodes)"
+  ],
+  "formats": [
+    "feature_doc",
+    "mini_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Range: PLN 70K–300K per hour",
+  "min_budget_usd": 15000,
+  "max_budget_usd": 75000,
+  "budget_range": "medium",
+  "languages": [
+    "polish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast standards; HD/4K quality",
+    "Archive/rights clearances secured",
+    "Subtitles and accessibility for co-productions"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Strong access-led national and European heritage projects",
+    "Feature docs suited for festivals and co-pros"
+  ],
+  "submission_process": [
+    "Outline with theme, approach, and format",
+    "Access details and confirmed contributors",
+    "Submit via TVP Dokument commissioning team"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

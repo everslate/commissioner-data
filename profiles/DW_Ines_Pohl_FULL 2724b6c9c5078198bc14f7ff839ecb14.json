@@ -1,0 +1,85 @@
+{
+  "id": "Ines_Pohl_Deutsche_Welle",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\\DW_Ines_Pohl_FULL 2724b6c9c5078198bc14f7ff839ecb14.md",
+  "created_at": "2025-09-19T11:25:12.591673+00:00",
+  "updated_at": "2025-09-19T11:25:12.591673+00:00",
+  "organization": "Deutsche Welle (DW)",
+  "role": "Editor-in-Chief, DW News",
+  "commissioner_type": "editorial_director",
+  "email": "ines.pohl@dw.com",
+  "location": "Bonn/Berlin, Germany",
+  "name": "Ines Pohl",
+  "background": "Leads editorial strategy at DW News, ensuring journalistic depth and cross-border relevance. Focuses on global storytelling that highlights democracy, freedom of press, and public accountability.",
+  "thematic_priorities": [
+    "Democracy, press freedom, and rule of law",
+    "Cross-border investigations and current affairs",
+    "Geopolitical transformation and governance issues"
+  ],
+  "themes": [
+    "politics",
+    "international",
+    "investigative"
+  ],
+  "content_not_wanted": [
+    "Partisan or one-sided content",
+    "Projects lacking international perspective"
+  ],
+  "target_audience": [
+    "Global news audiences",
+    "Multilingual viewers across 30+ DW language services"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Short-form (12–30 mins)",
+    "TV hour (42–52 mins)",
+    "Web-first formats (5–15 mins)"
+  ],
+  "formats": [
+    "short_form",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "5-15_minutes",
+    "15-30_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €5K–€80K per film",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 80000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "german"
+  ],
+  "technical_requirements": [
+    "Broadcast + digital delivery",
+    "Multilingual subtitling/dubbing required"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Investigations into global threats to democracy",
+    "Cross-border current affairs collaborations"
+  ],
+  "submission_process": [
+    "Projects must align with DW’s editorial principles",
+    "Pitch deck with narrative, access, and target audience",
+    "Submit via DW commissioning or global co-production markets"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

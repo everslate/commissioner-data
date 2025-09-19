@@ -1,0 +1,80 @@
+{
+  "id": "Vinnie Malhotra_Showtime Documentary Films",
+  "country_region": "USA",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\Showtime_DocumentaryFilms_Commissioning_FULL 2734b6c9c5078153a271eee13cfc1886.md",
+  "created_at": "2025-09-19T11:36:35.819216+00:00",
+  "updated_at": "2025-09-19T11:36:35.819216+00:00",
+  "organization": "Showtime Documentary Films",
+  "role": "Executive VP, Nonfiction Programming",
+  "commissioner_type": "premium_factual",
+  "email": "showtime.docs@paramount.com",
+  "location": "Los Angeles, USA",
+  "name": "Vinnie Malhotra",
+  "background": "Showtime commissions provocative, politically charged and socially relevant documentaries with bold voices and cinematic style.",
+  "thematic_priorities": [
+    "Politics and justice",
+    "Culture and music",
+    "Contemporary US society"
+  ],
+  "themes": [
+    "politics",
+    "arts_culture",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Projects without strong political/cultural edge"
+  ],
+  "target_audience": [
+    "Showtime subscribers",
+    "Politically engaged audiences"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature docs",
+    "Mini-series"
+  ],
+  "formats": [
+    "feature_doc",
+    "mini_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "USD $400K–$1.2M per film/hour",
+  "min_budget_usd": 400000,
+  "max_budget_usd": 1200000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Docs on US politics",
+    "High-profile music and culture docs"
+  ],
+  "submission_process": [
+    "Pitches via Showtime documentary division, through established producers"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

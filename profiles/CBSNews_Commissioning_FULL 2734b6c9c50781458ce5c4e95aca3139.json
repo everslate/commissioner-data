@@ -1,0 +1,78 @@
+{
+  "id": "Al Ortiz_CBS News / CBS Reports",
+  "country_region": "USA",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\CBSNews_Commissioning_FULL 2734b6c9c50781458ce5c4e95aca3139.md",
+  "created_at": "2025-09-19T11:35:58.620817+00:00",
+  "updated_at": "2025-09-19T11:35:58.620817+00:00",
+  "organization": "CBS News / CBS Reports",
+  "role": "Exec Producer, CBS Reports",
+  "commissioner_type": "investigative_documentaries",
+  "email": "cbsreports@cbsnews.com",
+  "location": "New York, USA",
+  "name": "Al Ortiz",
+  "background": "CBS News commissions long-form investigative reports and documentaries under CBS Reports, focusing on in-depth journalism and American society.",
+  "thematic_priorities": [
+    "Investigative journalism",
+    "US politics and society",
+    "Health and environment"
+  ],
+  "themes": [
+    "investigative",
+    "politics",
+    "health_medical",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Light factual content"
+  ],
+  "target_audience": [
+    "CBS primetime and streaming audiences"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour docs",
+    "Mini-series"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "USD $150K–$500K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 500000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "In-depth US politics/social issues",
+    "Docs for CBS News streaming"
+  ],
+  "submission_process": [
+    "Submit via CBS News editorial team"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,83 @@
+{
+  "id": "Amy_Entelis_CNN_Films",
+  "country_region": "USA",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\CNN_Films_Commissioning_FULL 2734b6c9c507816597b7df75f9a2e338.md",
+  "created_at": "2025-09-19T11:36:09.049263+00:00",
+  "updated_at": "2025-09-19T11:36:09.049263+00:00",
+  "organization": "CNN Films / CNN Original Series",
+  "role": "Exec VP & VP, CNN Films",
+  "commissioner_type": "documentary_originals",
+  "email": "cnnfilms@cnn.com",
+  "location": "New York, USA",
+  "name": "Amy Entelis & Courtney Sexton",
+  "background": "CNN Films commissions cinematic documentaries and original series with journalistic depth and broad appeal. Focus on socially urgent, news-adjacent topics.",
+  "thematic_priorities": [
+    "News and current affairs",
+    "Politics and justice",
+    "Health and environment"
+  ],
+  "themes": [
+    "politics",
+    "social_issues",
+    "health_medical",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Projects without clear news value",
+    "Light factual entertainment"
+  ],
+  "target_audience": [
+    "CNN viewers",
+    "Broad US mainstream audiences"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature docs",
+    "Docu-series (4–6 parts)"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "USD $250K–$1M per film/hour",
+  "min_budget_usd": 250000,
+  "max_budget_usd": 1000000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "High-profile political docs",
+    "Health/environment crises"
+  ],
+  "submission_process": [
+    "Submit via CNN Films commissioning team",
+    "Agent/production company required"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

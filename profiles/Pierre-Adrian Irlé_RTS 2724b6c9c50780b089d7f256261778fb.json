@@ -1,0 +1,85 @@
+{
+  "id": "Pierre-Adrian Irlé_RTS",
+  "country_region": "Switzerland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Switzerland 2724b6c9c50780deb4dcf97d16c22ace\\Pierre-Adrian Irlé_RTS 2724b6c9c50780b089d7f256261778fb.md",
+  "created_at": "2025-09-19T11:33:04.032740+00:00",
+  "updated_at": "2025-09-19T11:33:04.032740+00:00",
+  "organization": "RTS (Radio Télévision Suisse)",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "factual_programming",
+  "email": "pierre.irle@rts.ch",
+  "location": "Geneva, Switzerland",
+  "name": "Pierre-Adrian Irlé",
+  "background": "Commissioning editor for RTS factual programming, focused on French-speaking Swiss audiences. Seeks cultural, political and social documentaries with strong storytelling.",
+  "thematic_priorities": [
+    "Swiss/French-speaking identity and culture",
+    "Political and social issues in Switzerland",
+    "Investigative and international affairs with local relevance"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "politics",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Projects without resonance for Romandie audiences",
+    "Superficial treatments lacking investigative depth"
+  ],
+  "target_audience": [
+    "French-speaking Swiss audiences",
+    "International co-production markets"
+  ],
+  "audience_segments": [
+    "niche_cultural",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour films",
+    "Series (2–3 parts)"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: CHF 40K–150K per hour",
+  "min_budget_usd": 44000,
+  "max_budget_usd": 165000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast standards with subtitles (FR/DE/EN)",
+    "Strong editorial compliance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Contemporary Swiss society from a French-speaking perspective",
+    "International affairs with Swiss connection"
+  ],
+  "submission_process": [
+    "One-page proposal outlining topic and structure",
+    "Director’s statement",
+    "Submit via RTS commissioning system or festivals/markets (Visions du Réel)"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

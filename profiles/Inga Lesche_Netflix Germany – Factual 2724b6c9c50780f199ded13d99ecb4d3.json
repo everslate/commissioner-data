@@ -1,0 +1,102 @@
+{
+  "id": "Inga Leschek_Netflix Germany",
+  "country_region": "Germany",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Inga Lesche_Netflix Germany – Factual 2724b6c9c50780f199ded13d99ecb4d3.md",
+  "created_at": "2025-09-19T11:28:38.422181+00:00",
+  "updated_at": "2025-09-19T11:28:38.422181+00:00",
+  "organization": "Netflix Germany",
+  "role": "Director of Content for Germany, Austria and Switzerland",
+  "commissioner_type": "premium_factual",
+  "email": "inga.leschek@netflix.com",
+  "location": "Germany",
+  "name": "Inga Leschek",
+  "background": "Inga Leschek serves as Director of Content for Germany, Austria and Switzerland at Netflix Germany. Focus areas: Overall content strategy. They are looking for: Premium content with global appeal that can travel internationally. Overall network strategy: Netflix Germany seeks premium documentary content with global appeal, distinctive directorial vision, and exceptional access or stories that can travel internationally while reflecting German perspectives.",
+  "thematic_priorities": [
+    "Premium content with global appeal",
+    "Premium documentary series",
+    "Feature documentaries with festival potential",
+    "Strong focus on character-driven storytelling",
+    "True crime series with uniquely German perspective",
+    "Sports documentaries featuring high-profile German athletes",
+    "Distinctive directorial vision and cinematic approach"
+  ],
+  "themes": [
+    "true_crime",
+    "natural_history",
+    "arts_culture",
+    "international",
+    "sports"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "families",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series 4–8×60'",
+    "feature documentaries 90+'",
+    "Both formats, depending on story and slot",
+    "Primetime scheduling where applicable",
+    "Platform-specific premieres",
+    "Open to co-productions where aligned",
+    "3–10 episodes for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "Documentary: €300K–€1M+ per hour",
+  "min_budget_usd": 318000,
+  "max_budget_usd": 1060000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "German and/or English; multilingual where applicable"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included"
+  ],
+  "submission_process": [
+    "Must come through established production company or agent",
+    "Detailed treatment with premise, format and episode breakdown",
+    "Secured or potential access/contributors",
+    "Director's vision and approach",
+    "Key production team credentials",
+    "Global appeal elements",
+    "Exclusivity and rights requirements",
+    "Submit via established production partners"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects from across German regions; open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

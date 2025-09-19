@@ -1,0 +1,74 @@
+{
+  "id": "Justine Nagan_PBS (POV)",
+  "country_region": "USA",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\PBS_POV_Commissioning_FULL 2734b6c9c50781c7ac07c58f38865ab4.md",
+  "created_at": "2025-09-19T11:36:32.278007+00:00",
+  "updated_at": "2025-09-19T11:36:32.278007+00:00",
+  "organization": "PBS (POV)",
+  "role": "Executive Producer",
+  "commissioner_type": "independent_regional",
+  "email": "pov@pov.org",
+  "location": "New York, USA",
+  "name": "Justine Nagan",
+  "background": "POV (Point of View) is PBS’s longest-running independent documentary strand, showcasing bold, character-driven stories with strong social impact.",
+  "thematic_priorities": [
+    "Social justice",
+    "Marginalised voices",
+    "Global human rights"
+  ],
+  "themes": [
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Commercial entertainment formats",
+    "Projects without social relevance"
+  ],
+  "target_audience": [
+    "PBS national audiences",
+    "Independent film/festival viewers"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature-length docs (52–90 mins)"
+  ],
+  "formats": [
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "USD $150K–$400K per film",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 400000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD; accessibility compliance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Independent, auteur-driven documentaries"
+  ],
+  "submission_process": [
+    "Submit via POV Open Call or PBS co-production agreements"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

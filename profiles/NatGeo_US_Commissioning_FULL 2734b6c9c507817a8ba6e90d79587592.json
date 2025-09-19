@@ -1,0 +1,80 @@
+{
+  "id": "Courteney Monroe-National Geographic (US, Disney)",
+  "country_region": "USA",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\NatGeo_US_Commissioning_FULL 2734b6c9c507817a8ba6e90d79587592.md",
+  "created_at": "2025-09-19T11:36:11.731098+00:00",
+  "updated_at": "2025-09-19T11:36:11.731098+00:00",
+  "organization": "National Geographic (US, Disney)",
+  "role": "President, National Geographic Content",
+  "commissioner_type": "premium_factual",
+  "email": "natgeo.docs@disney.com",
+  "location": "Washington, DC, USA",
+  "name": "Courteney Monroe",
+  "background": "National Geographic US commissions premium factual content with cinematic visuals, focusing on exploration, science, nature, and global cultures.",
+  "thematic_priorities": [
+    "Wildlife and nature",
+    "Science and exploration",
+    "Adventure and human achievement"
+  ],
+  "themes": [
+    "natural_history",
+    "science_tech",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Low production values",
+    "Projects without global relevance"
+  ],
+  "target_audience": [
+    "National Geographic audiences worldwide"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Feature docs",
+    "Series (3–8 parts)"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "USD $400K–$1.5M per hour",
+  "min_budget_usd": 400000,
+  "max_budget_usd": 1500000,
+  "budget_range": "premium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Cinematic 4K",
+    "Festival/Disney+ ready"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "festival_ready",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Landmark wildlife series",
+    "Docs with global exploration themes"
+  ],
+  "submission_process": [
+    "Submissions via Disney/NatGeo commissioning pipeline"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

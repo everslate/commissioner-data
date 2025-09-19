@@ -1,0 +1,86 @@
+{
+  "id": "Axel Arnö_SVT",
+  "country_region": "Sweden",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Sweden 2724b6c9c50780a8953ae65d9ebe8508\\Axel Arnö_SVT 2724b6c9c50780acbb14e887073bcbf9.md",
+  "created_at": "2025-09-19T11:32:42.956489+00:00",
+  "updated_at": "2025-09-19T11:32:42.956489+00:00",
+  "organization": "SVT (Sveriges Television)",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "axel.arno@svt.se",
+  "location": "Stockholm, Sweden",
+  "name": "Axel Arnö",
+  "background": "Promotes society and current affairs documentaries with strong authorial voices; passionate about international co-productions and films that contribute to the democratic conversation in Sweden.",
+  "thematic_priorities": [
+    "Society and current affairs documentaries",
+    "Investigative and access-driven narratives",
+    "International co-productions with journalistic strength"
+  ],
+  "themes": [
+    "social_issues",
+    "investigative",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Superficial treatments without depth or access",
+    "Content not relevant to Swedish/Nordic audiences"
+  ],
+  "target_audience": [
+    "Swedish general audience interested in democracy, justice and society",
+    "International co-production partners for broader reach"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "international"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "1-hour documentaries",
+    "Series (2–6 episodes)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: SEK 300K–1.5M per hour",
+  "min_budget_usd": 30000,
+  "max_budget_usd": 150000,
+  "budget_range": "medium",
+  "languages": [
+    "swedish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast quality HD/4K; subtitles for international co-pros",
+    "Fact-checked, legally sound investigations"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Timely docs on Swedish and international affairs",
+    "Access-led films with strong character focus"
+  ],
+  "submission_process": [
+    "One-page synopsis with premise, societal relevance, and intended impact",
+    "Details of access and main characters",
+    "Information on co-production or international partners",
+    "Submit via SVT’s commissioning system or production companies"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

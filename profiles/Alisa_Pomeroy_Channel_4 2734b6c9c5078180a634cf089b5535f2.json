@@ -1,0 +1,91 @@
+{
+  "id": "Alisa Pomeroy_Channel 4",
+  "country_region": "United Kingdom",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Alisa_Pomeroy_Channel_4 2734b6c9c5078180a634cf089b5535f2.md",
+  "created_at": "2025-09-19T11:33:42.958802+00:00",
+  "updated_at": "2025-09-19T11:33:42.958802+00:00",
+  "organization": "Channel 4",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "apomeroy@channel4.co.uk",
+  "location": "United Kingdom",
+  "name": "Alisa Pomeroy",
+  "background": "Alisa Pomeroy serves as Commissioning Editor, Documentaries at Channel 4, focusing on bold, provocative documentaries with strong authorial voices and exceptional access.",
+  "thematic_priorities": [
+    "Bold, provocative documentaries that spark national conversation",
+    "Observational documentary series (3–4 episodes) with exceptional access",
+    "Single documentaries (60–90 minutes) with strong authorial voice",
+    "Crime documentaries with unique perspective or unprecedented access",
+    "Social experiments and 'state of the nation' formats",
+    "Fast-turnaround documentaries responding to significant contemporary events",
+    "Factual drama hybrids that push boundaries of documentary storytelling",
+    "History programming that feels contemporary and connects to modern audiences",
+    "Science documentaries that demystify complex topics through engaging presentation"
+  ],
+  "themes": [
+    "social_issues",
+    "natural_history",
+    "arts_culture",
+    "investigative",
+    "history",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "UK audiences with emphasis on 16–34 and diverse viewers"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred format: 3-part series for 9pm weekday slots",
+    "Both series and one-offs depending on the story and slot"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £120K–£300K per hour; Specialist Factual: £150K–£300K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 300000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Clearly defined target audience and rationale",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Digital and social strategy",
+    "Submit via Channel 4 commissioning system: www.channel4.com/commissioning"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects across the UK.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

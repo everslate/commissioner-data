@@ -1,0 +1,78 @@
+{
+  "id": "Belisa_Balaban_Hulu_Originals",
+  "country_region": "USA",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Streamers 2734b6c9c5078071960ac349221c2060\\Hulu_US_Belisa_Balaban_FULL 2734b6c9c5078171ae93c80ed1cddb57.md",
+  "created_at": "2025-09-19T11:36:46.977532+00:00",
+  "updated_at": "2025-09-19T11:36:46.977532+00:00",
+  "organization": "Hulu Originals / FX Docs",
+  "role": "SVP, Documentaries",
+  "commissioner_type": "editorial_director",
+  "email": "hulu.docs@hulu.com",
+  "location": "Los Angeles, USA",
+  "name": "Belisa Balaban",
+  "background": "Oversees documentary commissioning for Hulu Originals and FX Docs. Focuses on urgent, culturally resonant, bingeable nonfiction.",
+  "thematic_priorities": [
+    "Politics & society",
+    "Culture & music",
+    "True crime & justice"
+  ],
+  "themes": [
+    "politics",
+    "arts_culture",
+    "true_crime"
+  ],
+  "content_not_wanted": [
+    "Projects without urgency or hook"
+  ],
+  "target_audience": [
+    "Hulu and FX subscribers"
+  ],
+  "audience_segments": [
+    "premium_subscribers"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docu-series (3–8 parts)",
+    "Feature docs"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "USD $400K–$1.5M per hour",
+  "min_budget_usd": 400000,
+  "max_budget_usd": 1500000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "4K HDR delivery"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "hdr"
+  ],
+  "current_calls": [
+    "Culturally urgent true crime",
+    "High-profile culture/music docs"
+  ],
+  "submission_process": [
+    "Submit via Hulu Originals commissioning",
+    "Agent/production partner required"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

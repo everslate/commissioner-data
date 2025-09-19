@@ -1,0 +1,84 @@
+{
+  "id": "Rachid Bouksim_SNRT (Tamazight TV)",
+  "country_region": "Morocco",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Morocco 2724b6c9c507803780e0e0447bc78e2d\\Rachid Bouksim_SNRT (Tamazight TV) 2724b6c9c50780f199c3c11e9f704396.md",
+  "created_at": "2025-09-19T11:31:30.017885+00:00",
+  "updated_at": "2025-09-19T11:31:30.017885+00:00",
+  "organization": "SNRT (Tamazight TV)",
+  "role": "Director of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "rachid.bouksim@snrt.ma",
+  "location": "Rabat, Morocco",
+  "name": "Rachid Bouksim",
+  "background": "Leads documentary commissioning for Tamazight TV, focusing on Amazigh identity, rural development and indigenous heritage within Morocco’s national broadcasting framework.",
+  "thematic_priorities": [
+    "Amazigh identity, language and customs",
+    "Rural development and local histories",
+    "Moroccan history and heritage"
+  ],
+  "themes": [
+    "social_issues",
+    "local_community",
+    "history",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects not aligned with Amazigh or national identity goals",
+    "Content lacking cultural sensitivity or authenticity"
+  ],
+  "target_audience": [
+    "Moroccan national audiences",
+    "Amazigh-speaking and cultural heritage communities"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min documentaries",
+    "Limited series (2–4 episodes)"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Range: MAD 50,000–300,000 per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 30000,
+  "budget_range": "medium",
+  "languages": [
+    "arabic",
+    "french",
+    "catalan"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Projects highlighting indigenous heritage",
+    "Rural development and identity-focused storytelling"
+  ],
+  "submission_process": [
+    "Proposal in Arabic or French with theme, structure and public value",
+    "Cultural alignment with national media goals",
+    "Submit via SNRT commissioning or accredited prodcos (via CCM)"
+  ],
+  "additional_info": "Focus on Amazigh cultural authenticity and sensitivity in submissions.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

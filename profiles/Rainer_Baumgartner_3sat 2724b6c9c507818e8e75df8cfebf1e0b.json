@@ -1,0 +1,89 @@
+{
+  "id": "Rainer_Baumgartner_3sat",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Rainer_Baumgartner_3sat 2724b6c9c507818e8e75df8cfebf1e0b.md",
+  "created_at": "2025-09-19T11:29:47.946601+00:00",
+  "updated_at": "2025-09-19T11:29:47.946601+00:00",
+  "organization": "3sat",
+  "role": "Programme Coordinator",
+  "commissioner_type": "factual_programming",
+  "email": "rainer.baumgartner@3sat.de",
+  "location": "Germany",
+  "name": "Rainer Baumgartner",
+  "background": "Rainer Baumgartner serves as Programme Coordinator at 3sat. Focus areas: Overall programme strategy.",
+  "thematic_priorities": [
+    "Intellectually stimulating content with cultural relevance for German-speaking audiences",
+    "Intellectually stimulating documentaries with cultural relevance",
+    "Literary and artistic documentaries focusing on German-language culture",
+    "Social documentaries examining contemporary issues in German-speaking countries",
+    "Philosophical discussions and intellectual discourse",
+    "Science documentaries with intellectual depth and educational value",
+    "Cultural analysis with philosophical dimensions",
+    "Historical documentaries focusing on German-speaking regions",
+    "Educational programming that stimulates critical thinking"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "history",
+    "science_tech",
+    "education"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "German-speaking audiences in Germany, Austria and Switzerland"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "mainstream"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Singles (45–60 minutes)",
+    "short series (2–5 episodes)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €100K–€200K per hour; Specialist Factual: €120K–€220K per hour",
+  "min_budget_usd": 107000,
+  "max_budget_usd": 220000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Two-page treatment with premise, approach and intellectual framework",
+    "Academic or expert consultants",
+    "Key production team credentials",
+    "Cultural relevance for German-speaking audiences",
+    "Submit via 3sat portal: www.3sat.de/ueber-uns/produktion"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

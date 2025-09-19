@@ -1,0 +1,92 @@
+{
+  "id": "Tiina_Kaalep_ERR",
+  "country_region": "Estonia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Estonia 2724b6c9c50780d1891adfafdd2842fa\\ERR_Tiina_Kaalep_FULL 2724b6c9c507812caf29deff93631aa3.md",
+  "created_at": "2025-09-19T11:25:27.053746+00:00",
+  "updated_at": "2025-09-19T11:25:27.053746+00:00",
+  "organization": "ERR (Eesti Rahvusringhääling)",
+  "role": "Head of Factual Programming",
+  "commissioner_type": "factual_programming",
+  "email": "tiina.kaalep@err.ee",
+  "location": "Tallinn, Estonia",
+  "name": "Tiina Kaalep",
+  "background": "Oversees ERR’s factual slate, commissioning documentaries on Estonian culture, society and history. Supports content with strong public interest, cultural relevance and European co-production potential.",
+  "thematic_priorities": [
+    "Estonian identity, heritage and language",
+    "Contemporary societal change and regional issues",
+    "Historical documentaries, especially 20th-century events",
+    "Arts, nature and environmental topics"
+  ],
+  "themes": [
+    "local_community",
+    "social_issues",
+    "history",
+    "arts_culture",
+    "natural_history"
+  ],
+  "content_not_wanted": [
+    "Projects without clear Estonian or regional relevance",
+    "Pure entertainment without factual/public value"
+  ],
+  "target_audience": [
+    "Estonian public service viewers",
+    "European co-production audiences"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–58 minute single docs",
+    "Short series (2–3 parts)"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Range: €10K–€80K per hour. Higher with co-productions.",
+  "min_budget_usd": 10000,
+  "max_budget_usd": 80000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "finnish",
+    "swedish",
+    "german",
+    "dutch",
+    "french",
+    "spanish"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Multilingual subtitling for international use"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Projects on Estonian heritage and identity",
+    "Co-productions with strong European dimension"
+  ],
+  "submission_process": [
+    "Proposal including theme, format, public value and target audience",
+    "Director’s vision or sample work",
+    "Submit via ERR content department or Baltic forums (e.g., Baltic Sea Docs)"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

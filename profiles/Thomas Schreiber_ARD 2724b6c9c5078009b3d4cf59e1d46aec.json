@@ -1,0 +1,101 @@
+{
+  "id": "thomas_schreiber_ard",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Thomas Schreiber_ARD 2724b6c9c5078009b3d4cf59e1d46aec.md",
+  "created_at": "2025-09-19T11:30:09.543712+00:00",
+  "updated_at": "2025-09-19T11:30:09.543712+00:00",
+  "organization": "ARD (Das Erste)",
+  "role": "Programme Director",
+  "commissioner_type": "premium_factual",
+  "email": "thomas.schreiber@ard.de",
+  "location": "Germany",
+  "name": "Thomas Schreiber",
+  "background": "Thomas Schreiber serves as Programme Director at ARD. Focus areas include overall editorial direction for ARD's factual output, seeking high-quality documentary and specialist factual content that explores important social, political, and cultural topics with depth.",
+  "thematic_priorities": [
+    "Premium factual content that fulfills ARD's public service remit with journalistic excellence",
+    "Feature-length documentaries (45–90 minutes) with journalistic integrity",
+    "Investigative documentaries uncovering important social and political issues",
+    "Social documentaries reflecting diverse perspectives on contemporary German society",
+    "Character-driven documentary series that illuminate broader social issues",
+    "Historical documentaries connecting Germany's past to present issues",
+    "Science documentaries that make complex topics accessible to broad audiences",
+    "Cultural documentaries exploring German arts, music, and literature",
+    "Environmental documentaries with solutions-focused approach"
+  ],
+  "themes": [
+    "social_issues",
+    "history",
+    "science_tech",
+    "arts_culture",
+    "natural_history",
+    "climate_environment"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Singles 60–90 minutes; series 3–6×60' (features 90+' where noted)",
+    "Both series and one-off formats depending on story and slot",
+    "Primetime where applicable; platform-specific premieres",
+    "Linear broadcast and/or streaming platform",
+    "Open to co-productions where aligned",
+    "3–10 episodes for series, depending on strand"
+  ],
+  "formats": [
+    "feature_doc",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €150K–€300K per hour (higher for international co-productions); Specialist Factual: €120K–€280K per hour",
+  "min_budget_usd": 160000,
+  "max_budget_usd": 320000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Varies by broadcaster/platform; align with public service/commercial remit",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "German and/or English; multilingual where applicable"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized",
+    "mobile_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above ; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Clear indication of target ARD slot (e.g., “Dokumentarfilm,” “Die Story,” etc.)",
+    "Two-page treatment with premise, approach, and narrative structure",
+    "Director's vision and research methodology",
+    "Key production team credentials",
+    "Comparable successful examples",
+    "Submit via email to the relevant commissioning editor"
+  ],
+  "additional_info": "Submissions accepted year-round unless strand-specific; increasing focus on distinctive voices and cross-platform reach.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

@@ -1,0 +1,78 @@
+{
+  "id": "Tamer_Morsi_Al_Hayah_TV",
+  "country_region": "Egypt",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Egypt 2724b6c9c50780cba64ffc4ed637547a\\AlHayah_Tamer_Morsi_FULL 2724b6c9c507819391dfd2c47b484cda.md",
+  "created_at": "2025-09-19T11:25:13.631253+00:00",
+  "updated_at": "2025-09-19T11:25:13.631253+00:00",
+  "organization": "Al Hayah TV (United Media Services)",
+  "role": "Chairman",
+  "commissioner_type": "factual_programming",
+  "email": "tamer.morsi@ums.com.eg",
+  "location": "Cairo, Egypt",
+  "name": "Tamer Morsi",
+  "background": "Tamer Morsi, as Chairman of United Media Services, oversees Al Hayah TV’s commissioning strategy. He focuses on factual entertainment and lifestyle programming with family appeal, high production values and national pride.",
+  "thematic_priorities": [
+    "Everyday Egyptian stories with emotional resonance",
+    "Health, education and inspirational families",
+    "History and national icons reimagined for TV"
+  ],
+  "themes": [
+    "social_issues",
+    "health_medical",
+    "history"
+  ],
+  "content_not_wanted": [
+    "Low-quality infotainment",
+    "Projects without broad family appeal"
+  ],
+  "target_audience": [
+    "Mainstream Egyptian audiences",
+    "Commercial primetime slots"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Factual entertainment formats",
+    "Returnable series and one-offs (45–60 mins)"
+  ],
+  "formats": [
+    "factual_entertainment",
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "EGP 100,000–400,000 per hour",
+  "min_budget_usd": 2500,
+  "max_budget_usd": 10000,
+  "budget_range": "medium",
+  "languages": [
+    "arabic"
+  ],
+  "technical_requirements": [
+    "Broadcast HD delivery",
+    "Compliance with cultural and regulatory standards"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Returnable lifestyle formats",
+    "National pride factual programming"
+  ],
+  "submission_process": [
+    "Short format proposal or sizzle reel preferred",
+    "Must comply with cultural and regulatory standards",
+    "Submit via Al Hayah programming or affiliated production houses"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

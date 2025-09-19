@@ -1,0 +1,110 @@
+{
+  "id": "Agnė Grigaliūnienė_TV3 Lithuania",
+  "country_region": "Lithuania",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Lithuania 2724b6c9c507807ca083e4e491ee46d8\\Agnė Grigaliūnienė_TV3 Lithuania 2724b6c9c507800aaf95caca0e8d61f5.md",
+  "created_at": "2025-09-19T11:31:20.155695+00:00",
+  "updated_at": "2025-09-19T11:31:20.155695+00:00",
+  "organization": "TV3 Lithuania / All Media Baltics",
+  "role": "Head of Programming",
+  "commissioner_type": "factual_programming",
+  "email": "agne.grigaliuniene@tv3.lt",
+  "location": "Vilnius, Lithuania",
+  "name": "Agnė Grigaliūnienė",
+  "background": "Leads TV3 Lithuania’s programming with a focus on factual entertainment and real-life content for broad audiences, prioritising emotional impact and returnable formats.",
+  "thematic_priorities": [
+    "Family, personal development and wellbeing",
+    "True stories with emotional or dramatic pull",
+    "Returnable factual entertainment formats"
+  ],
+  "themes": [
+    "lifestyle",
+    "true_crime",
+    "food_cooking"
+  ],
+  "content_not_wanted": [
+    "Projects without mainstream appeal",
+    "Arthouse docs not suited for commercial audiences"
+  ],
+  "target_audience": [
+    "Mainstream Lithuanian TV3 viewers",
+    "Commercial entertainment audiences"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "families"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Returnable factual entertainment series",
+    "Single docs with emotional resonance"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Range: €5K–€40K per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 40000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "french",
+    "spanish",
+    "german",
+    "italian",
+    "portuguese",
+    "finnish",
+    "swedish",
+    "norwegian",
+    "dutch",
+    "turkish",
+    "bulgarian",
+    "czech",
+    "greek",
+    "slovak",
+    "romanian",
+    "russian",
+    "chinese",
+    "vietnamese",
+    "japanese",
+    "korean",
+    "hindi",
+    "thai",
+    "indonesian",
+    "croatian",
+    "hungarian",
+    "slovenian",
+    "hebrew",
+    "ukrainian",
+    "danish",
+    "malay",
+    "afrikaans"
+  ],
+  "technical_requirements": [
+    "Commercial broadcast standards",
+    "Adaptable for TV and online platforms"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "cross_platform"
+  ],
+  "current_calls": [
+    "Family-focused formats",
+    "Wellbeing and inspirational content"
+  ],
+  "submission_process": [
+    "One-pager or format outline with tone and relevance",
+    "Defined characters or contributors",
+    "Submit via TV3 content team or affiliated producers"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

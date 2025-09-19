@@ -1,0 +1,107 @@
+{
+  "id": "Volker Heise_ZDF",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Volker Heise_ZDF 2724b6c9c50780b29b26ec67679b8d9a.md",
+  "created_at": "2025-09-19T11:30:09.624513+00:00",
+  "updated_at": "2025-09-19T11:30:09.624513+00:00",
+  "organization": "ZDF",
+  "role": "Commissioning Editor, Contemporary History",
+  "commissioner_type": "specialist_content",
+  "email": "heise.v@zdf.de",
+  "location": "Germany",
+  "name": "Volker Heise",
+  "background": "Volker Heise serves as Commissioning Editor, Contemporary History at ZDF. Focus areas: History, politics, current affairs. They are looking for: Contemporary history illuminating current political issues; access-led political docs. Overall network strategy: ZDF seeks accessible documentary and specialist factual content that combines intellectual depth with engaging storytelling for mainstream audiences while addressing important contemporary issues.",
+  "thematic_priorities": [
+    "Contemporary history illuminating current political issues",
+    "Character-driven documentaries exploring contemporary German society",
+    "Political documentaries with strong journalistic integrity",
+    "International documentaries with German relevance or co-production elements",
+    "Arts and culture documentaries with broad appeal",
+    "Environmental documentaries with solutions-focused approach",
+    "Strong emphasis on engaging storytelling that connects with mainstream audiences",
+    "Premium specialist factual formats for the flagship Terra X strand",
+    "History documentaries with high production values and cinematic approach",
+    "Archaeological documentaries with mystery/revelation elements",
+    "Science programming with engaging presentation and visual storytelling",
+    "Natural history with innovative visual approaches"
+  ],
+  "themes": [
+    "history",
+    "politics",
+    "international",
+    "arts_culture",
+    "climate_environment",
+    "lifestyle",
+    "science_tech",
+    "natural_history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Singles (45 minutes) or multi-part series (2–3 episodes)",
+    "Both series and one-off depending on story and slot",
+    "Primetime where applicable",
+    "Linear broadcast and/or streaming platform",
+    "Open to co-productions where aligned",
+    "3–10 for series depending on strand"
+  ],
+  "formats": [
+    "one_off_special",
+    "series",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Documentary: €120K–€250K per hour; Specialist Factual: €150K–€350K per hour (higher for Terra X flagship productions)",
+  "min_budget_usd": 128000,
+  "max_budget_usd": 378000,
+  "budget_range": "high",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "German and/or English; multilingual where applicable"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized",
+    "mobile_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Clear indication of ZDF slot (e.g., Terra X, ZDF History, etc.)",
+    "Two-page treatment with premise, approach and storytelling elements",
+    "Visual treatment or mood board",
+    "Key production team credentials",
+    "Comparable successful ZDF examples",
+    "Submit via commissioning portal: www.zdf-produzenten.de"
+  ],
+  "additional_info": "Submissions accepted year-round unless strand-specific. Increasing focus on distinctive voices and cross-platform reach.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

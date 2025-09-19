@@ -1,0 +1,92 @@
+{
+  "id": "Kate Townsend_Netflix Europe",
+  "country_region": "UK",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Netflix Europe 2724b6c9c50780dbb54ffae20964dbf7\\Kate Townsend_Netflix Europe 2724b6c9c50780a5b0d4ede902dbccf7.md",
+  "created_at": "2025-09-19T11:31:46.738043+00:00",
+  "updated_at": "2025-09-19T11:31:46.738043+00:00",
+  "organization": "Netflix Europe",
+  "role": "VP of Documentaries, EMEA",
+  "commissioner_type": "documentary_originals",
+  "email": "kate.townsend@netflix.com",
+  "location": "London, UK (Netflix EMEA)",
+  "name": "Kate Townsend",
+  "background": "Leads Netflix’s EMEA documentary commissioning strategy, focusing on distinctive directorial voices, cinematic storytelling, and stories with both local depth and global resonance.",
+  "thematic_priorities": [
+    "Character-driven and author-led documentaries",
+    "Investigative and access-led storytelling",
+    "Arts, music, or sports docs with international draw",
+    "Cultural and identity-based narratives",
+    "Global social justice and political themes"
+  ],
+  "themes": [
+    "social_issues",
+    "investigative",
+    "arts_culture",
+    "international",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects without strong directorial vision",
+    "Factual TV lacking cinematic quality"
+  ],
+  "target_audience": [
+    "Netflix’s global subscribers",
+    "International festival circuits"
+  ],
+  "audience_segments": [
+    "international",
+    "premium_subscribers"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Feature docs (90+ mins)",
+    "Docuseries (3–8 episodes, 30–60 mins)"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "feature_length",
+    "standard"
+  ],
+  "content_lengths": [
+    "90-120_minutes",
+    "episodic_30_min",
+    "episodic_60_min"
+  ],
+  "budget_parameters": "Range: €300K–€1.5M+ per hour",
+  "min_budget_usd": 300000,
+  "max_budget_usd": 1500000,
+  "budget_range": "premium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Cinematic 4K or higher quality",
+    "Global delivery standards with subtitles/dubbing"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "cross_platform"
+  ],
+  "current_calls": [
+    "Distinctive director-led stories with awards potential",
+    "Investigative access-led projects with global themes"
+  ],
+  "submission_process": [
+    "Submissions via established production companies/agents",
+    "Detailed treatment with episode guide (if series)",
+    "Director’s statement with vision and past work",
+    "Clear access/talent secured",
+    "Submit via Netflix commissioning consultants"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

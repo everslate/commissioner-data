@@ -1,0 +1,94 @@
+{
+  "id": "Wolfgang Link_ProSiebenSat.1",
+  "country_region": "Germany",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Wolfgang Link_ProSiebenSat 1 – Factual 2724b6c9c50780c8b879f3a096f8ac9c.md",
+  "created_at": "2025-09-19T11:30:12.172674+00:00",
+  "updated_at": "2025-09-19T11:30:12.172674+00:00",
+  "organization": "ProSiebenSat.1",
+  "role": "CEO ProSiebenSat.1 Entertainment",
+  "commissioner_type": "factual_programming",
+  "email": "wolfgang.link@prosiebensat1.com",
+  "location": "Germany",
+  "name": "Wolfgang Link",
+  "background": "Wolfgang Link serves as CEO ProSiebenSat.1 Entertainment at ProSiebenSat.1. Focus areas: Overall content strategy. They are looking for: Entertaining factual with young-skewing appeal and commercial potential. Overall network strategy: ProSieben/Sat.1 seeks entertaining factual content with strong formats, relatable characters and commercial potential that appeals to younger audiences while delivering high production values.",
+  "thematic_priorities": [
+    "Entertaining factual with young-skewing appeal and commercial potential",
+    "Young-skewing documentaries targeting 14–49 demographic",
+    "Social experiment formats revealing insights about contemporary German society",
+    "Character-driven factual series with compelling personalities",
+    "Access documentaries into institutions or communities with young appeal",
+    "True crime series with unique storytelling approach",
+    "Focus on spectacle and entertainment value over educational content",
+    "Science programming with experimental elements and young presenter"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "lifestyle",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream audiences",
+    "younger-skewing 14–49 where applicable"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "young_adults_18_35",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series-led (3–8×45–60'); limited interest in singles",
+    "Both series and one-off depending on story and slot",
+    "Primetime scheduling where applicable; platform-specific premieres",
+    "Open to co-productions where aligned",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "factual_entertainment"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €80K–€200K per hour; Specialist Factual: €100K–€200K per hour",
+  "min_budget_usd": 86742,
+  "max_budget_usd": 218014,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Clear indication of target audience (14–49)",
+    "Access/contributors details",
+    "Talent attachments focused on younger presenters",
+    "Digital/social strategy",
+    "Submit via ProSiebenSat.1 portal: www.prosiebensat1.de/produzenten"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

@@ -1,0 +1,83 @@
+{
+  "id": "magnus_vatn_discovery_sweden",
+  "country_region": "Sweden",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Sweden 2724b6c9c50780a8953ae65d9ebe8508\\Magnus Vatn_Discovery Sweden (Warner Bros Discover 2724b6c9c50780168985ca94f50c7f34.md",
+  "created_at": "2025-09-19T11:32:59.524270+00:00",
+  "updated_at": "2025-09-19T11:32:59.524270+00:00",
+  "organization": "Discovery Sweden (Warner Bros. Discovery Nordics)",
+  "role": "SVP Content & Programming Nordics",
+  "commissioner_type": "factual_programming",
+  "email": "magnus.vatn@warnermedia.com",
+  "location": "Stockholm, Sweden",
+  "name": "Magnus Vatn",
+  "background": "Commissioning factual entertainment, lifestyle, true crime and adventure-led formats for Discovery’s Nordic channels and discovery+.",
+  "thematic_priorities": [
+    "Adventure, survival and outdoors content",
+    "True crime series with Nordic angle",
+    "Celebrity or influencer-led factual formats"
+  ],
+  "themes": [
+    "true_crime",
+    "lifestyle",
+    "sports"
+  ],
+  "content_not_wanted": [
+    "Projects without returnability",
+    "Content lacking bold characters or adventure/entertainment hook"
+  ],
+  "target_audience": [
+    "Nordic mainstream audiences seeking entertainment factual",
+    "Subscribers on discovery+ platform"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "premium_subscribers"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Returnable series; lifestyle/docu-reality hybrids"
+  ],
+  "formats": [
+    "returnable_series",
+    "lifestyle_format"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: SEK 300K–1.2M per hour",
+  "min_budget_usd": 27000,
+  "max_budget_usd": 108000,
+  "budget_range": "medium",
+  "languages": [
+    "swedish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Fast-turnaround, TV+streaming adaptable production",
+    "Strong visual style; music/graphics clearances secured"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Bold returnable formats with adventure/true crime focus",
+    "Talent-led formats suited for multi-platform rollout"
+  ],
+  "submission_process": [
+    "Concept outline with visuals and format clarity",
+    "Platform fit (discovery+ / Kanal 5 Nordics)",
+    "Submit via Warner Bros. Discovery Nordic partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

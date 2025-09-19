@@ -1,0 +1,85 @@
+{
+  "id": "Amra Šabić-El-Rayess-BHRT",
+  "country_region": "Bosnia and Herzegovina",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Bosnia 2724b6c9c50780208264def0d67988b4\\BHRT_Amra_Sabic_El_Rayess_FULL 2724b6c9c50781a9ae96f63939b9901b.md",
+  "created_at": "2025-09-19T11:23:53.495553+00:00",
+  "updated_at": "2025-09-19T11:23:53.495553+00:00",
+  "organization": "BHRT (Radio and Television of Bosnia and Herzegovina)",
+  "role": "Commissioning Editor, Co-productions & Diaspora",
+  "commissioner_type": "independent_regional",
+  "email": "amra.sabic@bhrt.ba",
+  "location": "Sarajevo, Bosnia and Herzegovina",
+  "name": "Amra Šabić-El-Rayess",
+  "background": "Commissioning editor at BHRT focusing on co-productions and diaspora content. Supports youth-led, educational, and diaspora stories with international co-production potential.",
+  "thematic_priorities": [
+    "Diaspora experiences and connections to Bosnia",
+    "Youth-focused documentaries",
+    "Educational content with civic value"
+  ],
+  "themes": [
+    "local_community",
+    "social_issues",
+    "education"
+  ],
+  "content_not_wanted": [
+    "Non-collaborative projects without co-production opportunities",
+    "Stories lacking educational/social impact"
+  ],
+  "target_audience": [
+    "Bosnian diaspora communities worldwide",
+    "Youth and education-focused audiences"
+  ],
+  "audience_segments": [
+    "international",
+    "young_adults_18_35",
+    "families"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "26–52 min documentaries",
+    "Co-production limited series"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €5K–€50K per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 50000,
+  "budget_range": "low",
+  "languages": [
+    "bulgarian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD delivery",
+    "Multilingual subtitling for diaspora reach"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Diaspora-led projects",
+    "Educational docs with civic relevance"
+  ],
+  "submission_process": [
+    "Proposal in BCS or English with creative approach",
+    "Include co-production partners if applicable",
+    "Submit via BHRT commissioning or diaspora co-pro forums"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

@@ -1,0 +1,102 @@
+{
+  "id": "Rita Daniels_Channel 4",
+  "country_region": "United Kingdom",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Rita_Daniels_Channel_4 2734b6c9c50781909734fd684ee59856.md",
+  "created_at": "2025-09-19T11:35:33.281846+00:00",
+  "updated_at": "2025-09-19T11:35:33.281846+00:00",
+  "organization": "Channel 4",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "ritadaniels@channel4.co.uk",
+  "location": "United Kingdom",
+  "name": "Rita Daniels",
+  "background": "Rita Daniels serves as Commissioning Editor, Documentaries at Channel 4. Focus areas: Documentaries, current affairs. They are looking for contemporary Britain via authentic, diverse perspectives; social experiments revealing new insights.",
+  "thematic_priorities": [
+    "Contemporary Britain via authentic, diverse perspectives; social experiments revealing new insights",
+    "Bold, provocative documentaries that spark national conversation",
+    "Observational documentary series (3–4 episodes) with exceptional access",
+    "Single documentaries (60–90 minutes) with strong authorial voice",
+    "Crime documentaries with unique perspective or unprecedented access",
+    "Social experiments and 'state of the nation' formats",
+    "Fast-turnaround documentaries responding to significant contemporary events",
+    "Factual drama hybrids that push boundaries of documentary storytelling",
+    "Strong focus on 16–34 demographic and digital-first content",
+    "History programming that feels contemporary and connects to modern audiences",
+    "Science documentaries that demystify complex topics through engaging presentation",
+    "Strong emphasis on diversity and representation",
+    "Innovative visual approaches that make specialist factual content distinctive"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "history",
+    "science_tech",
+    "lifestyle"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "UK audiences with emphasis on 16–34 and diverse viewers"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 60–90'; series 3–6×60' (features 90' where noted)",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime where applicable; platform premieres for streamers",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Co-production: Open to international co-productions where aligned",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "feature_length",
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £120K–£300K per hour; Specialist Factual: £150K–£300K per hour.",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 375000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery Specifications: Broadcast/streaming standards; details provided upon commissioning",
+    "Platform Requirements: Broadcaster/platform-specific deliverables",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Graphics & Branding: Adherence to broadcaster branding guidelines",
+    "Language & Subtitles: English; multilingual where applicable"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Clearly defined target audience and rationale",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Digital and social strategy",
+    "Submit via Channel 4 commissioning system: www.channel4.com/commissioning"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects across the UK (where applicable); Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

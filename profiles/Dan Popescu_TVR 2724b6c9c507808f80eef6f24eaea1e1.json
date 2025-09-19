@@ -1,0 +1,90 @@
+{
+  "id": "Dan_Popescu_TVR",
+  "country_region": "Romania",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Romania 2724b6c9c5078077bf09e3e204d8d118\\Dan Popescu_TVR 2724b6c9c507808f80eef6f24eaea1e1.md",
+  "created_at": "2025-09-19T11:32:05.415340+00:00",
+  "updated_at": "2025-09-19T11:32:05.415340+00:00",
+  "organization": "TVR (Televiziunea Română)",
+  "role": "Commissioning Editor, History & Heritage",
+  "commissioner_type": "arts_culture",
+  "email": "dan.popescu@tvr.ro",
+  "location": "Bucharest, Romania",
+  "name": "Dan Popescu",
+  "background": "Specialist in history and cultural programming, Dan Popescu commissions documentaries highlighting Romania’s past, folklore and traditions. He emphasises projects that connect heritage with contemporary identity, from rural life and religion to archaeology and literature. His remit includes partnerships with regional studios (Cluj, Iași, Timișoara, Craiova) and European collaborations under Creative Europe and EBU frameworks.",
+  "thematic_priorities": [
+    "National and local history",
+    "folklore and traditions",
+    "Romanian cultural identity",
+    "religion and rural life",
+    "arts",
+    "music and literature with historical resonance"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "arts_culture",
+    "local_community"
+  ],
+  "content_not_wanted": [
+    "Projects without grounding in Romanian history/culture",
+    "Superficial heritage coverage without narrative depth"
+  ],
+  "target_audience": [
+    "Romanian audiences interested in history and heritage",
+    "International festival and cultural co-production audiences"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "mainstream",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min one-offs",
+    "2–3 part heritage/historical mini-series"
+  ],
+  "formats": [
+    "mini_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €8K–€60K per hour",
+  "min_budget_usd": 8000,
+  "max_budget_usd": 60000,
+  "budget_range": "medium",
+  "languages": [
+    "romanian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD delivery",
+    "Archive rights cleared",
+    "subtitled for co-production"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Documentaries on Romanian heritage and folklore",
+    "Projects linking rural identity to modern society"
+  ],
+  "submission_process": [
+    "Proposal in Romanian or English with synopsis and treatment",
+    "Access to archives, contributors and locations must be outlined",
+    "Submit via TVR commissioning team or through CNC-affiliated prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "project_based",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

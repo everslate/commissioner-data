@@ -1,0 +1,88 @@
+{
+  "id": "silvia_majeska_nova_group",
+  "country_region": "Czechia",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Czechia 2724b6c9c50780cfb3c1dc1ce541f06e\\Nova_Silvia_Majeska_FULL 2724b6c9c5078194a86dd1e80c5cabfc.md",
+  "created_at": "2025-09-19T11:24:28.742686+00:00",
+  "updated_at": "2025-09-19T11:24:28.742686+00:00",
+  "organization": "Nova Group (TV Nova / Voyo)",
+  "role": "Content Director",
+  "commissioner_type": "factual_programming",
+  "email": "silvia.majeska@nova.cz",
+  "location": "Prague, Czechia",
+  "name": "Silvia Majeská",
+  "background": "Oversees TV Nova and Voyo’s original content, investing in premium factual with narrative drive. Seeks bingeable docuseries and impactful crime or social storytelling.",
+  "thematic_priorities": [
+    "True crime and investigative series",
+    "Contemporary social documentaries",
+    "Returnable or bingeable docuseries for streaming"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "investigative",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Low-quality productions without premium feel",
+    "Projects lacking strong narrative arc or streaming potential"
+  ],
+  "target_audience": [
+    "TV Nova’s broad national audience",
+    "Voyo streaming subscribers seeking premium originals"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "premium_subscribers"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docuseries",
+    "feature-length specials"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: CZK 200K–600K per hour",
+  "min_budget_usd": 9000,
+  "max_budget_usd": 27000,
+  "budget_range": "medium",
+  "languages": [
+    "czech",
+    "english"
+  ],
+  "technical_requirements": [
+    "Premium streaming quality",
+    "HD/4K delivery",
+    "Global distribution readiness",
+    "rights cleared"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Bingeable crime/social docuseries",
+    "Projects with exclusive access or revelations"
+  ],
+  "submission_process": [
+    "Pitch deck or treatment",
+    "Access/exclusive content strategy",
+    "Submit via Nova Group commissioning or partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

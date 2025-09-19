@@ -1,0 +1,94 @@
+{
+  "id": "Shaminder_Nahal_Channel_4_Channel 4",
+  "country_region": "UK",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Shaminder_Nahal_Channel_4 2734b6c9c50781d8b828c9e2978e76bd.md",
+  "created_at": "2025-09-19T11:36:03.281685+00:00",
+  "updated_at": "2025-09-19T11:36:03.281685+00:00",
+  "organization": "Channel 4",
+  "role": "Commissioning Editor, Specialist Factual",
+  "commissioner_type": "specialist_content",
+  "email": "snahal@channel4.co.uk",
+  "location": "United Kingdom",
+  "name": "Shaminder Nahal",
+  "background": "Shaminder Nahal serves as Commissioning Editor, Specialist Factual at Channel 4. Focus areas: Arts, history, specialist factual. They seek bold, provocative factual content that challenges audiences and sparks national conversation.",
+  "thematic_priorities": [
+    "History that feels contemporary",
+    "Arts docs with cultural relevance",
+    "Bold, provocative documentaries that spark national conversation",
+    "Observational documentary series with exceptional access",
+    "Single documentaries with strong authorial voice",
+    "Crime documentaries with unique perspective or unprecedented access",
+    "Social experiments and 'state of the nation' formats",
+    "Fast-turnaround documentaries responding to significant contemporary events",
+    "Factual drama hybrids that push boundaries of documentary storytelling",
+    "Strong focus on 16–34 demographic and digital-first content",
+    "Science documentaries that demystify complex topics through engaging presentation",
+    "Strong emphasis on diversity and representation",
+    "Innovative visual approaches that make specialist factual content distinctive"
+  ],
+  "themes": [
+    "history",
+    "arts_culture",
+    "social_issues",
+    "investigative",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "UK audiences with emphasis on 16–34 and diverse viewers"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred length: Singles 60–90 minutes; series 3–6 episodes of 60 minutes"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "feature_length",
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £120K–£300K per hour; Specialist Factual: £150K–£300K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 375000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery specifications: Broadcast/streaming standards",
+    "Accessibility: Subtitles/captions; audio description as required"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise, and format",
+    "Clearly defined target audience and rationale",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Digital and social strategy",
+    "Submit via Channel 4 commissioning system: www.channel4.com/commissioning"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

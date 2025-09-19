@@ -1,0 +1,87 @@
+{
+  "id": "Tamara Skrozza_Nova S / United Media",
+  "country_region": "Serbia",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Serbia 2724b6c9c5078082851fca8f06d4f81c\\Tamara Skrozza_Nova S United Media 2724b6c9c50780d6be93cafeef3c8396.md",
+  "created_at": "2025-09-19T11:32:29.600708+00:00",
+  "updated_at": "2025-09-19T11:32:29.600708+00:00",
+  "organization": "Nova S / United Media",
+  "role": "Commissioning Editor, Factual",
+  "commissioner_type": "factual_programming",
+  "email": "tamara.skrozza@novas.rs",
+  "location": "Belgrade, Serbia",
+  "name": "Tamara Skrozza",
+  "background": "Commissioning editor for Nova S factual content. Focuses on socially engaged, progressive documentaries across current affairs, youth voices and regional issues, with openness to innovative formats.",
+  "thematic_priorities": [
+    "Investigative series and social documentaries",
+    "Youth culture, activism and digital life",
+    "Contemporary Balkan issues with cross-border potential"
+  ],
+  "themes": [
+    "investigative",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Purely entertainment-driven factual formats",
+    "Projects lacking investigative or social depth"
+  ],
+  "target_audience": [
+    "Socially engaged Serbian viewers",
+    "Younger demographics (digital-first audiences)",
+    "Regional Balkan co-production partners"
+  ],
+  "audience_segments": [
+    "niche_cultural",
+    "young_adults_18_35",
+    "regional_local"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Investigative series",
+    "Contemporary docuseries (2–4 parts)"
+  ],
+  "formats": [
+    "investigative_series",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €20K–€80K per hour",
+  "min_budget_usd": 22000,
+  "max_budget_usd": 88000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "croatian",
+    "hungarian",
+    "slovak"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming HD standards",
+    "Strong compliance with legal/editorial rules",
+    "Subtitles for regional/global distribution"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd"
+  ],
+  "current_calls": [
+    "Investigative projects on corruption, civil society and rights",
+    "Youth-driven social documentaries with digital impact"
+  ],
+  "submission_process": [
+    "Concept with narrative structure and urgency",
+    "Target demographic and platform outlined",
+    "Submit via Nova S commissioning team or prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

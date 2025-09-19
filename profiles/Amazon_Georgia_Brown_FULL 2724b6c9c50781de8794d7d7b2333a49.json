@@ -1,0 +1,85 @@
+{
+  "id": "georgia_brown_amazon_prime_video_europe",
+  "country_region": "UK",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Amazon Prime Europe 2724b6c9c507805eaf17c4233207e469\\Amazon_Georgia_Brown_FULL 2724b6c9c50781de8794d7d7b2333a49.md",
+  "created_at": "2025-09-19T11:23:19.852295+00:00",
+  "updated_at": "2025-09-19T11:23:19.852295+00:00",
+  "organization": "Amazon Prime Video Europe",
+  "role": "Advisor / Consultant on EU Originals",
+  "commissioner_type": "premium_factual",
+  "email": "georgia.brown@amazon.com",
+  "location": "London, UK / EU",
+  "name": "Georgia Brown",
+  "background": "Advises Amazon Studios on European Originals strategy. Focuses on premium non-scripted projects that align with Amazon’s brand identity and global ambitions.",
+  "thematic_priorities": [
+    "True crime and high-profile scandals",
+    "Music, sports and arts event documentaries",
+    "Cultural and political stories with European/global relevance"
+  ],
+  "themes": [
+    "true_crime",
+    "arts_culture",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects without cinematic scope",
+    "Local-only stories without international resonance"
+  ],
+  "target_audience": [
+    "European Amazon Prime subscribers",
+    "Global audiences for prestige projects"
+  ],
+  "audience_segments": [
+    "international",
+    "premium_subscribers"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Premium one-offs",
+    "Multi-part series (3–6 episodes)"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: €400K–€1.5M+ per hour",
+  "min_budget_usd": 400000,
+  "max_budget_usd": 1500000,
+  "budget_range": "premium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Cinematic 4K production",
+    "Delivery adaptable for global platforms"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Prestige co-productions with international partners",
+    "EU-focused cultural/political event docs"
+  ],
+  "submission_process": [
+    "Projects must come via established prodcos/agents",
+    "Detailed pitch with story arc, episode plan and tone",
+    "Access and talent attached or in negotiation",
+    "Submit via Amazon Studios Europe commissioning"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

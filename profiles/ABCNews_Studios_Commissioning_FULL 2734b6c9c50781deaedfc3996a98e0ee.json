@@ -1,0 +1,76 @@
+{
+  "id": "David Sloan_ABC News Studios",
+  "country_region": "USA",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\ABCNews_Studios_Commissioning_FULL 2734b6c9c50781deaedfc3996a98e0ee.md",
+  "created_at": "2025-09-19T11:36:13.848083+00:00",
+  "updated_at": "2025-09-19T11:36:13.848083+00:00",
+  "organization": "ABC News Studios",
+  "role": "Senior Executive Producer",
+  "commissioner_type": "investigative_documentaries",
+  "email": "abcnews.studios@abc.com",
+  "location": "New York, USA",
+  "name": "David Sloan",
+  "background": "ABC News Studios commissions documentary specials and series rooted in investigative journalism and human interest, aligned with ABC News brands like 20/20.",
+  "thematic_priorities": [
+    "Investigative specials",
+    "Crime and justice",
+    "American culture"
+  ],
+  "themes": [
+    "investigative",
+    "true_crime",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Light unscripted formats"
+  ],
+  "target_audience": [
+    "ABC primetime viewers"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour specials",
+    "Limited series"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "USD $150K–$500K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 500000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Crime/justice investigations",
+    "True crime specials"
+  ],
+  "submission_process": [
+    "Submit via ABC News Studios editorial office"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

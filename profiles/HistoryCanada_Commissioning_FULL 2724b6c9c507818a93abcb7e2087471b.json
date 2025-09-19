@@ -1,0 +1,77 @@
+{
+  "id": "History Channel Canada-Corus",
+  "country_region": "Canada",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Canada 2724b6c9c50780bf8638e2db620d6a93\\HistoryCanada_Commissioning_FULL 2724b6c9c507818a93abcb7e2087471b.md",
+  "created_at": "2025-09-19T11:24:06.272846+00:00",
+  "updated_at": "2025-09-19T11:24:06.272846+00:00",
+  "organization": "Corus (History Channel Canada)",
+  "role": "Factual Programming",
+  "commissioner_type": "factual_programming",
+  "email": "history.commissioning@corusent.com",
+  "location": "Toronto, Canada",
+  "name": "History Channel Canada Commissioning Team",
+  "background": "History Channel Canada commissions factual content focused on Canadian history, military heritage and true crime. Content must have both Canadian relevance and international sales potential.",
+  "thematic_priorities": [
+    "Canadian history and heritage",
+    "Military history",
+    "True crime"
+  ],
+  "themes": [
+    "history",
+    "true_crime"
+  ],
+  "content_not_wanted": [
+    "Projects without Canadian angle",
+    "Weak access"
+  ],
+  "target_audience": [
+    "Canadian specialty audiences",
+    "Global history buyers"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (3–6 parts)",
+    "One-offs"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "CAD $150K–$500K per hour",
+  "min_budget_usd": 112500,
+  "max_budget_usd": 375000,
+  "budget_range": "medium",
+  "languages": [],
+  "technical_requirements": [
+    "Broadcast HD/4K",
+    "Archive clearance required"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Docs on Canadian military history",
+    "True crime franchises"
+  ],
+  "submission_process": [
+    "Submit via Corus specialty content team",
+    "Proposal must include archive plan",
+    "Series potential encouraged"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

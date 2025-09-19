@@ -1,0 +1,79 @@
+{
+  "id": "Olga Nechaeva_ICTV",
+  "country_region": "Ukraine",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Ukraine 2724b6c9c507806dae59de758a0ffde2\\Olga Nechaeva_ICTV 2724b6c9c507801e9a59e264dc68a96d.md",
+  "created_at": "2025-09-19T11:35:52.697414+00:00",
+  "updated_at": "2025-09-19T11:35:52.697414+00:00",
+  "organization": "ICTV (Starlight Media)",
+  "role": "Content Director",
+  "commissioner_type": "investigative_documentaries",
+  "email": "olga.nechaeva@starlightmedia.ua",
+  "location": "Kyiv, Ukraine",
+  "name": "Olga Nechaeva",
+  "background": "As Content Director of ICTV, Olga Nechaeva commissions socially relevant factual formats that mix investigative journalism, crime, and human-interest storytelling. ICTV has a reputation for news-adjacent factual, with a focus on corruption, justice, and dramatic real-life narratives.",
+  "thematic_priorities": [
+    "True crime, corruption and justice",
+    "Human interest stories with dramatic tension",
+    "Real-life or returnable docu-reality formats"
+  ],
+  "themes": [
+    "true_crime",
+    "politics",
+    "investigative"
+  ],
+  "content_not_wanted": [
+    "Projects without dramatic or investigative edge",
+    "Purely entertainment content with no societal value"
+  ],
+  "target_audience": [
+    "Ukrainian mainstream viewers",
+    "Investigative and socially engaged audiences"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docu-reality formats",
+    "Returnable investigative series"
+  ],
+  "formats": [
+    "returnable_series",
+    "investigative_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "UAH 80,000–400,000 per hour",
+  "min_budget_usd": 2000,
+  "max_budget_usd": 10000,
+  "budget_range": "medium",
+  "languages": [
+    "ukrainian"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd"
+  ],
+  "current_calls": [
+    "Docs exposing corruption and justice issues",
+    "Returnable crime and human-interest formats"
+  ],
+  "submission_process": [
+    "One-pager with story hook, format and social relevance",
+    "Submit via ICTV content team or Starlight Media production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

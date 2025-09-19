@@ -1,0 +1,104 @@
+{
+  "id": "Guy_Davies_Channel_5_Channel_5",
+  "country_region": "United Kingdom",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Guy_Davies_Channel_5 2734b6c9c5078111902ce3809ea4c931.md",
+  "created_at": "2025-09-19T11:34:32.292803+00:00",
+  "updated_at": "2025-09-19T11:34:32.292803+00:00",
+  "organization": "Channel 5",
+  "role": "Commissioning Editor, Factual",
+  "commissioner_type": "factual_programming",
+  "email": "guy.davies@channel5.com",
+  "location": "United Kingdom",
+  "name": "Guy Davies",
+  "background": "Guy Davies serves as Commissioning Editor, Factual at Channel 5. Focus areas: Documentaries, history, specialist factual.",
+  "thematic_priorities": [
+    "History (popular periods)",
+    "engineering/'how things work' specialist factual",
+    "Accessible factual programming with broad appeal",
+    "Social history documentaries that resonate with viewers",
+    "Behind-the-scenes access series at British institutions",
+    "Medical and emergency services documentaries with emotional human stories",
+    "True crime series focusing on recent British cases",
+    "Observational documentary series in workplace settings",
+    "\"Britain's...\" formatted documentary series exploring national life",
+    "Preferred format: Series (3–5 episodes) for weekday 9pm slots",
+    "Limited appetite for single documentaries unless tied to significant events",
+    "Natural history focusing on British wildlife and landscapes",
+    "Ancient history and archaeology with mystery/revelation elements",
+    "Presenter-led specialist factual with established talent"
+  ],
+  "themes": [
+    "history",
+    "science_tech",
+    "social_issues",
+    "true_crime",
+    "arts_culture",
+    "health_medical",
+    "investigative",
+    "natural_history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream UK audiences"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 60–90'; series 3–6×60' (features 90' where noted)",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime where applicable; platform premieres for streamers",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Co-production: Open to international co-productions where aligned",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £80K–£200K per hour; Specialist Factual: £90K–£180K per hour",
+  "min_budget_usd": 80000,
+  "max_budget_usd": 200000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Clear indication of broad audience appeal",
+    "Episode breakdown for series proposals",
+    "Talent suggestions or attachments",
+    "Comparable successful Channel 5 examples",
+    "Access/contributors details",
+    "Submit via email: commissioning@channel5.com"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

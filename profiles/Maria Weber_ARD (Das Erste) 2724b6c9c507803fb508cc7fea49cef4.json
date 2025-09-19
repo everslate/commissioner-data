@@ -1,0 +1,97 @@
+{
+  "id": "Maria Weber_ARD (Das Erste)",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Maria Weber_ARD (Das Erste) 2724b6c9c507803fb508cc7fea49cef4.md",
+  "created_at": "2025-09-19T11:29:18.405720+00:00",
+  "updated_at": "2025-09-19T11:29:18.405720+00:00",
+  "organization": "ARD (Das Erste)",
+  "role": "Commissioning Editor, Science and Environment",
+  "commissioner_type": "specialist_content",
+  "email": "maria.weber@ard.de",
+  "location": "Germany",
+  "name": "Maria Weber",
+  "background": "Maria Weber serves as Commissioning Editor, Science and Environment at ARD (Das Erste). Focus areas: Science, environment, technology. They are looking for: Science docs that make complex topics accessible; environmental docs with narrative and solutions focus.",
+  "thematic_priorities": [
+    "Science docs that make complex topics accessible",
+    "Environmental docs with narrative and solutions focus",
+    "Investigative documentaries uncovering important social and political issues",
+    "Social documentaries reflecting diverse perspectives on contemporary German society",
+    "Cultural documentaries exploring German arts, music, and literature",
+    "Historical documentaries connecting Germany's past to present issues",
+    "Character-driven documentary series that illuminate broader social issues",
+    "Science documentaries that make complex topics accessible to broad audiences",
+    "Environmental documentaries with solutions-focused approach"
+  ],
+  "themes": [
+    "science_tech",
+    "climate_environment",
+    "social_issues",
+    "history",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences",
+    "international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Singles 60–90 minutes; series 3–6 episodes (features 90+ minutes where noted)",
+    "Both series and one-off depending on story and slot",
+    "Primetime where applicable; platform-specific premieres"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Documentary: €150K–€300K per hour (higher for international co-productions); Specialist Factual: €120K–€280K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 300000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "German and/or English; multilingual where applicable"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Clear indication of target ARD slot (e.g., “Dokumentarfilm,” “Die Story,” etc.)",
+    "Two-page treatment with premise, approach, and narrative structure",
+    "Director's vision and research methodology",
+    "Key production team credentials",
+    "Comparable successful examples",
+    "Submit via email to the relevant commissioning editor"
+  ],
+  "additional_info": "Regional Production: Support for projects from across German regions (where applicable). Independent Production: Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

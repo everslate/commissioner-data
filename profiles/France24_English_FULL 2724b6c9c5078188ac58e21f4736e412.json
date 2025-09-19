@@ -1,0 +1,81 @@
+{
+  "id": "France 24 - France 24 (France Médias Monde)",
+  "country_region": "France",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 24 2724b6c9c507807bb244ed979e5f1919\\France24_English_FULL 2724b6c9c5078188ac58e21f4736e412.md",
+  "created_at": "2025-09-19T11:25:57.981182+00:00",
+  "updated_at": "2025-09-19T11:25:57.981182+00:00",
+  "organization": "France 24 (France Médias Monde)",
+  "role": "Commissioning Editor, English Service",
+  "commissioner_type": "editorial_director",
+  "email": "/not_provided/unknown@example.com",
+  "location": "Paris, France",
+  "name": "Commissioner Profile: France 24 English Service",
+  "background": "Focuses on international affairs for global English-speaking audiences. Prioritises human rights, climate and diplomacy with cross-border resonance.",
+  "thematic_priorities": [
+    "Global conflict and diplomacy",
+    "Environmental and migration issues",
+    "Human rights and governance"
+  ],
+  "themes": [
+    "politics",
+    "climate_environment",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Narrow local stories without international angle"
+  ],
+  "target_audience": [
+    "Global English-speaking audiences"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "13–26 min short docs",
+    "45–52 min one-offs"
+  ],
+  "formats": [
+    "short_form",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "15-30_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €10K–€120K per film",
+  "min_budget_usd": 10000,
+  "max_budget_usd": 120000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "french",
+    "arabic",
+    "spanish"
+  ],
+  "technical_requirements": [
+    "Broadcast standards",
+    "Subtitling (FR/EN/AR/ES)"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Projects aligned with service-specific audiences"
+  ],
+  "submission_process": [
+    "Proposals relevant to language service audiences",
+    "Submit via France Médias Monde commissioning/editorial teams"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "Nicola_Lloyd_ITV",
+  "country_region": "UK",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Nicola_Lloyd_ITV 2734b6c9c507818cb08bd2b954a4c8ec.md",
+  "created_at": "2025-09-19T11:35:09.960140+00:00",
+  "updated_at": "2025-09-19T11:35:09.960140+00:00",
+  "organization": "ITV",
+  "role": "Commissioning Editor, Factual",
+  "commissioner_type": "factual_programming",
+  "email": "nicola.lloyd@itv.com",
+  "location": "United Kingdom",
+  "name": "Nicola Lloyd",
+  "background": "Nicola Lloyd serves as Commissioning Editor, Factual at ITV. Focus areas: Documentaries, current affairs.",
+  "thematic_priorities": [
+    "Authentic Britain docs",
+    "crime docs with unique access/perspective",
+    "high-impact accessible documentaries",
+    "character-driven factual series",
+    "access-led documentary series into British institutions or communities",
+    "Presenter-led documentary series with established talent",
+    "history docs with strong narrative storytelling",
+    "science and natural history accessible to mainstream audiences",
+    "medical documentaries with dramatic storytelling"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "history",
+    "natural_history",
+    "health_medical"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream UK audiences"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred format: Series (3–4 episodes) with return potential",
+    "Limited interest in singles unless tied to significant events"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "90-120_minutes",
+    "episodic_60_min"
+  ],
+  "budget_parameters": "Documentary: £100K–£250K per hour; Specialist Factual: £120K–£280K per hour",
+  "min_budget_usd": 128000,
+  "max_budget_usd": 350000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "broadcast/streaming standards",
+    "subtitles/captions; audio description per broadcaster requirements"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate target slot (usually 9pm)",
+    "One-page outline with headline, premise and format",
+    "Explain mainstream appeal elements",
+    "Access/contributors details",
+    "Talent attachments or suggestions",
+    "Comparable successful examples",
+    "Submit via ITV portal: www.itv.com/commissioning"
+  ],
+  "additional_info": "Diversity and inclusion is emphasized; encouragement of sustainable production practices; support for projects across the UK; open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

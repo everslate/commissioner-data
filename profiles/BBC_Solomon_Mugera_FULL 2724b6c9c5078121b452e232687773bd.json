@@ -1,0 +1,113 @@
+{
+  "id": "Solomon_Mugera_BBC_Africa",
+  "country_region": "Kenya",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\BBC World News 2724b6c9c507809fbd5fc254590b3def\\BBC_Solomon_Mugera_FULL 2724b6c9c5078121b452e232687773bd.md",
+  "created_at": "2025-09-19T11:23:54.630097+00:00",
+  "updated_at": "2025-09-19T11:23:54.630097+00:00",
+  "organization": "BBC Africa (English & African Languages)",
+  "role": "Regional Editor, Africa",
+  "commissioner_type": "editorial_director",
+  "email": "solomon.mugera@bbc.co.uk",
+  "location": "Nairobi, Kenya / London, UK",
+  "name": "Solomon Mugera",
+  "background": "Regional editor overseeing factual commissioning for BBC Africa. Focuses on stories of African youth, identity, development, climate and cross-border collaboration.",
+  "thematic_priorities": [
+    "Youth culture and innovation",
+    "Governance and education",
+    "Climate and African identity"
+  ],
+  "themes": [
+    "social_issues",
+    "education",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Stories without African voices or relevance",
+    "Non-character-driven content"
+  ],
+  "target_audience": [
+    "Sub-Saharan African audiences",
+    "Global viewers via BBC World Service and TV"
+  ],
+  "audience_segments": [
+    "international",
+    "regional_local"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Short docs (8–15 mins)",
+    "Half-hours",
+    "Feature docs"
+  ],
+  "formats": [
+    "short_form",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "5-15_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: £5K–£40K per piece",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 40000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "swedish",
+    "norwegian",
+    "dutch",
+    "italian",
+    "portuguese",
+    "polish",
+    "czech",
+    "russian",
+    "chinese",
+    "japanese",
+    "korean",
+    "arabic",
+    "hebrew",
+    "turkish",
+    "greek",
+    "romanian",
+    "bulgarian",
+    "croatian",
+    "hungarian",
+    "slovenian",
+    "slovak",
+    "catalan",
+    "ukrainian",
+    "vietnamese",
+    "thai",
+    "hindi",
+    "malay",
+    "indonesian",
+    "afrikaans",
+    "afrikaans"
+  ],
+  "technical_requirements": [
+    "English + African languages delivery",
+    "Mobile-first digital formats encouraged"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "mobile_optimized"
+  ],
+  "current_calls": [
+    "Youth-led innovation projects",
+    "Cross-border African collaborations"
+  ],
+  "submission_process": [
+    "Submit proposals to BBC Africa editorial hubs",
+    "Can be in English or African languages"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

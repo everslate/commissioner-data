@@ -1,0 +1,81 @@
+{
+  "id": "Esra Eren_Kanal D",
+  "country_region": "Turkey",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Turkey 2724b6c9c5078047a5fbd2fa0fb5dda8\\Esra Eren_Kanal D 2724b6c9c5078072bbe6f4d569450407.md",
+  "created_at": "2025-09-19T11:33:14.285826+00:00",
+  "updated_at": "2025-09-19T11:33:14.285826+00:00",
+  "organization": "Kanal D (Demirören Media Group)",
+  "role": "Head of Unscripted Content",
+  "commissioner_type": "factual_programming",
+  "email": "esra.eren@kanald.com.tr",
+  "location": "Istanbul, Turkey",
+  "name": "Esra Eren",
+  "background": "Oversees unscripted content for Kanal D, commissioning commercially engaging factual entertainment and docuseries focused on family, crime and Turkish social issues.",
+  "thematic_priorities": [
+    "True crime and justice series",
+    "Turkish family/social themes",
+    "Human-interest formats with returnable potential"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Projects without mass-market resonance",
+    "Formats lacking episodic or returnable potential"
+  ],
+  "target_audience": [
+    "Mainstream Turkish viewers",
+    "Kanal D’s commercial prime-time audience"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series and 1-hour docs"
+  ],
+  "formats": [
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: TRY 70,000–300,000 per hour",
+  "min_budget_usd": 2450,
+  "max_budget_usd": 11500,
+  "budget_range": "medium",
+  "languages": [
+    "turkish"
+  ],
+  "technical_requirements": [
+    "Commercial TV broadcast standards",
+    "Format bible for returnable projects"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Crime/justice formats",
+    "Social themes with strong family resonance"
+  ],
+  "submission_process": [
+    "One-pager or format deck",
+    "Audience fit and series potential outlined",
+    "Submit via Kanal D programming or established producers"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

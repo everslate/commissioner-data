@@ -1,0 +1,84 @@
+{
+  "id": "Aivars Gobiņš_Re TV",
+  "country_region": "Latvia",
+  "platform_type": "regional_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Latvia 2724b6c9c50780559dd1fb5ce8c30252\\Aivars Gobiņš_Re TV 2724b6c9c507802380ffce3722e3ae84.md",
+  "created_at": "2025-09-19T11:31:04.124920+00:00",
+  "updated_at": "2025-09-19T11:31:04.124920+00:00",
+  "organization": "Re:TV",
+  "role": "Editor-in-Chief, Factual Content",
+  "commissioner_type": "factual_programming",
+  "email": "aivars.gobins@retv.lv",
+  "location": "Latvia",
+  "name": "Aivars Gobiņš",
+  "background": "Leads Re:TV’s factual commissioning, prioritising regional identity and community-based stories that highlight grassroots change across Latvia.",
+  "thematic_priorities": [
+    "Local traditions and cultural heritage",
+    "Regional development and grassroots change",
+    "Human interest stories in Latvia’s provinces"
+  ],
+  "themes": [
+    "local_community",
+    "social_issues",
+    "history"
+  ],
+  "content_not_wanted": [
+    "High-budget projects unsuitable for regional TV",
+    "Content lacking strong community connection"
+  ],
+  "target_audience": [
+    "Regional Latvian audiences",
+    "Local community and grassroots groups"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "local",
+  "format_specifications": [
+    "Short factual films",
+    "Docs (26–52 mins)"
+  ],
+  "formats": [
+    "short_form",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: €3K–€20K per hour",
+  "min_budget_usd": 3000,
+  "max_budget_usd": 20000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "russian",
+    "french"
+  ],
+  "technical_requirements": [
+    "Broadcast quality with regional adaptability",
+    "Contributor consent and local authenticity"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Community heritage and identity projects",
+    "Stories from Latvia’s provinces"
+  ],
+  "submission_process": [
+    "Short proposal with relevance to local communities",
+    "Contributors from the region preferred",
+    "Submit via Re:TV or regional stations"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "selective",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

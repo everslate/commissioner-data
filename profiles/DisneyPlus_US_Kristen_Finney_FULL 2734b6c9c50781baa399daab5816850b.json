@@ -1,0 +1,72 @@
+{
+  "id": "Kristen Finney_Disney+ US",
+  "country_region": "USA",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Streamers 2734b6c9c5078071960ac349221c2060\\DisneyPlus_US_Kristen_Finney_FULL 2734b6c9c50781baa399daab5816850b.md",
+  "created_at": "2025-09-19T11:36:46.420700+00:00",
+  "updated_at": "2025-09-19T11:36:46.420700+00:00",
+  "organization": "Disney+ US",
+  "role": "EVP, Nonfiction Content",
+  "commissioner_type": "premium_factual",
+  "email": "disneyplus.docs@disney.com",
+  "location": "Los Angeles, USA",
+  "name": "Kristen Finney",
+  "background": "Disney+ commissions nonfiction series and event docs with broad family appeal, cultural resonance, and Disney brand alignment.",
+  "thematic_priorities": [
+    "Nature & wildlife",
+    "Pop culture & icons",
+    "Inspiring human stories"
+  ],
+  "themes": [
+    "natural_history",
+    "arts_culture",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Projects without family appeal",
+    "Non-Disney brand fit"
+  ],
+  "target_audience": [
+    "Disney+ subscribers worldwide"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Event series (3–6 eps)",
+    "Feature docs"
+  ],
+  "formats": [
+    "event_series",
+    "feature_doc"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "USD $400K–$1.5M per hour",
+  "min_budget_usd": 400000,
+  "max_budget_usd": 1500000,
+  "budget_range": "high",
+  "languages": [],
+  "technical_requirements": [
+    "4K HDR cinematic quality"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "cinema_quality"
+  ],
+  "current_calls": [
+    "Event docs on global icons",
+    "Nature and exploration series"
+  ],
+  "submission_process": [
+    "Submissions via Disney Originals commissioning pipeline"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,83 @@
+{
+  "id": "RTL_Croatia_Head_of_Non-Scripted_Programming",
+  "country_region": "Croatia",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Croatia 2724b6c9c50780438279f8638f65ea78\\RTL_Croatia_Commissioner_FULL 2724b6c9c50781dfbf8cc89f4e05e95f.md",
+  "created_at": "2025-09-19T11:24:22.649445+00:00",
+  "updated_at": "2025-09-19T11:24:22.649445+00:00",
+  "organization": "RTL Croatia (CME Group)",
+  "role": "Head of Non-Scripted Programming",
+  "commissioner_type": "factual_programming",
+  "email": "/not_provided/@rtl.com",
+  "location": "Zagreb, Croatia",
+  "name": "RTL Croatia Commissioner",
+  "background": "RTL Croatia commissions popular factual formats, lifestyle content and crime/justice documentaries. Focus on mass-market appeal and returnable franchises.",
+  "thematic_priorities": [
+    "Crime and justice series",
+    "Lifestyle and reality-doc formats",
+    "Popular factual with strong emotional storytelling"
+  ],
+  "themes": [
+    "true_crime",
+    "lifestyle",
+    "food_cooking"
+  ],
+  "content_not_wanted": [
+    "Highbrow or festival-only documentaries",
+    "Projects without broad commercial draw"
+  ],
+  "target_audience": [
+    "Mass Croatian commercial audiences",
+    "Primetime RTL Croatia slots"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docu-reality and returnable formats",
+    "60-min factual entertainment"
+  ],
+  "formats": [
+    "returnable_series",
+    "factual_entertainment"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €8K–€50K per hour",
+  "min_budget_usd": 8000,
+  "max_budget_usd": 50000,
+  "budget_range": "low",
+  "languages": [
+    "croatian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Commercial broadcast quality",
+    "Adaptable for linear and digital distribution"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Crime/law enforcement projects",
+    "Lifestyle/factual entertainment returnables"
+  ],
+  "submission_process": [
+    "Short treatment or one-pager",
+    "Audience fit must be clear",
+    "Submit via RTL Croatia editorial/production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,83 @@
+{
+  "id": "Katarzyna Kieli_TVN",
+  "country_region": "Poland",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Poland 2724b6c9c507806bb7bbce61c8d54aaf\\Katarzyna Kieli_Discovery Poland 2724b6c9c507805ba781c782bf25ac6a.md",
+  "created_at": "2025-09-19T11:31:51.016980+00:00",
+  "updated_at": "2025-09-19T11:31:51.016980+00:00",
+  "organization": "TVN (Warner Bros. Discovery Poland)",
+  "role": "President & MD, Discovery EMEA",
+  "commissioner_type": "factual_programming",
+  "email": "katarzyna.kieli@discovery.com",
+  "location": "Warsaw, Poland",
+  "name": "Katarzyna Kieli",
+  "background": "Leads Discovery’s EMEA operations, including TVN in Poland. Seeks high-quality, returnable factual formats with strong narrative hooks in crime, justice and social issue spaces.",
+  "thematic_priorities": [
+    "True crime series and investigations",
+    "Social issues and contemporary Polish life",
+    "Returnable factual formats with strong hooks"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Low production value projects",
+    "Stories without clear episodic arc or broad appeal"
+  ],
+  "target_audience": [
+    "Polish mainstream audience; Discovery EMEA global reach",
+    "Viewers interested in crime, justice and social docs"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series with strong episodic arcs",
+    "High-quality feature-length investigations"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: PLN 100K–400K per hour",
+  "min_budget_usd": 24000,
+  "max_budget_usd": 96000,
+  "budget_range": "medium",
+  "languages": [
+    "polish",
+    "english"
+  ],
+  "technical_requirements": [
+    "High production values with global distribution readiness",
+    "Multiplatform adaptability (linear + Player.pl + Discovery+)"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "cross_platform"
+  ],
+  "current_calls": [
+    "Premium true crime projects",
+    "Returnable social issue series with Polish/global relevance"
+  ],
+  "submission_process": [
+    "Detailed treatment with story arc and episode plan",
+    "Talent or access secured",
+    "Submit via TVN/Discovery commissioning channels"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

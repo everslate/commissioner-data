@@ -1,0 +1,84 @@
+{
+  "id": "CBC_Jennifer_Dettman",
+  "country_region": "Canada",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Canada 2724b6c9c50780bf8638e2db620d6a93\\CBC_Jennifer_Dettman_FULL 2724b6c9c5078145bcf2f5e10fb8b8e4.md",
+  "created_at": "2025-09-19T11:24:02.669615+00:00",
+  "updated_at": "2025-09-19T11:24:02.669615+00:00",
+  "organization": "CBC (Canadian Broadcasting Corporation)",
+  "role": "Executive Director, Unscripted Content",
+  "commissioner_type": "factual_programming",
+  "email": "jennifer.dettman@cbc.ca",
+  "location": "Toronto, Canada",
+  "name": "Jennifer Dettman",
+  "background": "As Executive Director of Unscripted Content at CBC, Jennifer Dettman oversees documentaries, factual series, arts and culture programming. She prioritises contemporary Canadian stories with strong characters, social resonance and creative ambition, ensuring alignment with CBC’s public service mandate.",
+  "thematic_priorities": [
+    "Contemporary Canadian society and diversity",
+    "Arts, culture and identity",
+    "Investigative and issue-driven documentaries"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "investigative"
+  ],
+  "content_not_wanted": [
+    "Projects without Canadian relevance",
+    "Lightweight formats lacking editorial depth"
+  ],
+  "target_audience": [
+    "National Canadian audiences",
+    "Festival and international co-production markets"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "One-off documentaries (44–90 mins)",
+    "Limited series (2–6 parts)"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "CAD $150K–$500K per hour",
+  "min_budget_usd": 112500,
+  "max_budget_usd": 375000,
+  "budget_range": "medium",
+  "languages": [
+    "english",
+    "french"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K delivery; bilingual options (English/French) encouraged"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Issue-led docs with global resonance",
+    "Canadian identity stories with wide appeal"
+  ],
+  "submission_process": [
+    "Pitch via CBC’s scripted/unscripted submission portal",
+    "Outline Canadian content value, characters and format",
+    "Submissions may involve co-production with NFB or CMPA members"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

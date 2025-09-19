@@ -1,0 +1,83 @@
+{
+  "id": "Deniz Şaşmaz Oflaz_BluTV (Doğan Media Group)",
+  "country_region": "Turkey",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Turkey 2724b6c9c5078047a5fbd2fa0fb5dda8\\Deniz Şaşmaz Oflaz_BluTV (Doğan Media Group) 2724b6c9c50780c9ab9ad2d5386775b1.md",
+  "created_at": "2025-09-19T11:33:16.394591+00:00",
+  "updated_at": "2025-09-19T11:33:16.394591+00:00",
+  "organization": "BluTV (Doğan Media Group)",
+  "role": "Head of Originals",
+  "commissioner_type": "documentary_originals",
+  "email": "deniz.sasmaz@blutv.com",
+  "location": "Istanbul, Turkey",
+  "name": "Deniz Şaşmaz Oflaz",
+  "background": "Directs BluTV’s Originals slate, focusing on edgy, progressive and socially bold documentaries appealing to younger, urban Turkish audiences and international partners.",
+  "thematic_priorities": [
+    "Contemporary Turkish issues (youth, gender, tech)",
+    "Investigative and visually bold storytelling",
+    "Returnable formats with binge potential"
+  ],
+  "themes": [
+    "social_issues",
+    "investigative",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Conventional factual formats without edge",
+    "Projects unsuitable for digital-first audiences"
+  ],
+  "target_audience": [
+    "Younger, urban Turkish viewers",
+    "BluTV streaming subscribers",
+    "International co-production audiences"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "premium_subscribers",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docuseries (bingeable)",
+    "1-hour investigative specials"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: TRY 150,000–700,000 per hour",
+  "min_budget_usd": 8000,
+  "max_budget_usd": 37000,
+  "budget_range": "medium",
+  "languages": [
+    "turkish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Streaming-ready HD/4K quality",
+    "Global distribution rights encouraged"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [],
+  "current_calls": [
+    "Youth/tech/gender investigative projects",
+    "Edgy returnable docuseries with binge potential"
+  ],
+  "submission_process": [
+    "Full pitch deck with visual tone and audience profile",
+    "Director/showrunner background and access notes",
+    "Submit via BluTV Originals team or market connections"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

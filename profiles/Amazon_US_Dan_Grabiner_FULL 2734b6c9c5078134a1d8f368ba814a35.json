@@ -1,0 +1,80 @@
+{
+  "id": "Dan Grabiner_Amazon Prime Video US",
+  "country_region": "USA",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Streamers 2734b6c9c5078071960ac349221c2060\\Amazon_US_Dan_Grabiner_FULL 2734b6c9c5078134a1d8f368ba814a35.md",
+  "created_at": "2025-09-19T11:36:37.009098+00:00",
+  "updated_at": "2025-09-19T11:36:37.009098+00:00",
+  "organization": "Amazon Prime Video US",
+  "role": "Head of Originals, US/UK Unscripted",
+  "commissioner_type": "premium_factual",
+  "email": "primevideo.docs@amazon.com",
+  "location": "Los Angeles, USA",
+  "name": "Dan Grabiner",
+  "background": "Oversees factual commissioning for Prime Video in US and UK. Focus on bold, exclusive access stories with broad appeal.",
+  "thematic_priorities": [
+    "True crime",
+    "Music and celebrity",
+    "Sports",
+    "Cultural phenomena"
+  ],
+  "themes": [
+    "true_crime",
+    "celebrity_music",
+    "sports"
+  ],
+  "content_not_wanted": [
+    "Projects without international appeal",
+    "Overly niche subjects"
+  ],
+  "target_audience": [
+    "Amazon Prime Video global subscribers"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Premium docu-series (3–6 eps)",
+    "One-offs"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "USD $400K–$1.5M+ per hour",
+  "min_budget_usd": 400000,
+  "max_budget_usd": 1500000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "4K HDR delivery"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "hd"
+  ],
+  "current_calls": [
+    "Music and sports event docs",
+    "Access-driven scandal docs"
+  ],
+  "submission_process": [
+    "Submissions via Amazon Studios commissioning portal",
+    "Agent/established prodco required"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

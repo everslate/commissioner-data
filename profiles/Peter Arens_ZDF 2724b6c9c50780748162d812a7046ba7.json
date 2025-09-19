@@ -1,0 +1,103 @@
+{
+  "id": "Peter Arens_ZDF",
+  "country_region": "Germany",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Peter Arens_ZDF 2724b6c9c50780748162d812a7046ba7.md",
+  "created_at": "2025-09-19T11:29:53.517270+00:00",
+  "updated_at": "2025-09-19T11:29:53.517270+00:00",
+  "organization": "ZDF",
+  "role": "Head of Main Editorial Department History, Society, Science",
+  "commissioner_type": "premium_factual",
+  "email": "arens.p@zdf.de",
+  "location": "Germany",
+  "name": "Peter Arens",
+  "background": "Peter Arens serves as Head of Main Editorial Department History, Society, Science at ZDF. Focus areas: Overall factual strategy for ZDF. They are looking for: Accessible factual with intellectual depth for mainstream audiences. Overall network strategy: ZDF seeks accessible documentary and specialist factual content that combines intellectual depth with engaging storytelling for mainstream audiences while addressing important contemporary issues.",
+  "thematic_priorities": [
+    "Accessible factual with intellectual depth for mainstream audiences",
+    "Character-driven documentaries exploring contemporary German society",
+    "Political documentaries with strong journalistic integrity",
+    "International documentaries with German relevance or co-production elements",
+    "Arts and culture documentaries with broad appeal",
+    "Environmental documentaries with solutions-focused approach",
+    "Engaging storytelling that connects with mainstream audiences",
+    "Premium specialist factual formats for the flagship Terra X strand",
+    "History documentaries with high production values and cinematic approach",
+    "Archaeological documentaries with mystery/revelation elements",
+    "Science programming with engaging presentation and visual storytelling",
+    "Natural history with innovative visual approaches"
+  ],
+  "themes": [
+    "social_issues",
+    "history",
+    "politics",
+    "international",
+    "arts_culture",
+    "climate_environment",
+    "science_tech",
+    "natural_history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad German audiences; international co-pro potential as appropriate"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Singles (45 minutes) or multi-part series (2–3 episodes)",
+    "Primetime where applicable; platform-specific premieres",
+    "Both, depending on story and slot",
+    "3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard",
+    "extended_feature"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "15-30_minutes"
+  ],
+  "budget_parameters": "Documentary: €120K–€250K per hour; Specialist Factual: €150K–€350K per hour (higher for Terra X flagship productions)",
+  "min_budget_usd": 130000,
+  "max_budget_usd": 380000,
+  "budget_range": "high",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "Multilingual where applicable"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Clear indication of ZDF slot (e.g., Terra X, ZDF History, etc.)",
+    "Two-page treatment with premise, approach and storytelling elements",
+    "Visual treatment or mood board",
+    "Key production team credentials",
+    "Comparable successful ZDF examples",
+    "Submit via commissioning portal: www.zdf-produzenten.de"
+  ],
+  "additional_info": "Overall factual strategy for ZDF | Increasing focus on distinctive voices and cross-platform reach | Emphasis on diverse voices on- and off-screen | Encouragement of sustainable production practices | Support for projects from across German regions (where applicable) | Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

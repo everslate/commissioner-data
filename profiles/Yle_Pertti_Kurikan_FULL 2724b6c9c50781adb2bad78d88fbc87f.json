@@ -1,0 +1,83 @@
+{
+  "id": "Pertti_Kurikan_Yle",
+  "country_region": "Finland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Finland 2724b6c9c507807ba00cc3734f34a93d\\Yle_Pertti_Kurikan_FULL 2724b6c9c50781adb2bad78d88fbc87f.md",
+  "created_at": "2025-09-19T11:25:50.037425+00:00",
+  "updated_at": "2025-09-19T11:25:50.037425+00:00",
+  "organization": "Yle (Yleisradio)",
+  "role": "Commissioning Editor, Specialist Factual",
+  "commissioner_type": "specialist_content",
+  "email": "pertti.kurikan@yle.fi",
+  "location": "Helsinki, Finland",
+  "name": "Pertti Kurikan",
+  "background": "Focuses on specialist factual programming across science, history and environment; seeks accessible storytelling with urgency and contemporary resonance.",
+  "thematic_priorities": [
+    "Engaging science storytelling",
+    "Historical narratives with modern relevance",
+    "Environmental themes with urgency"
+  ],
+  "themes": [
+    "science_tech",
+    "history",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Dry, overly academic content with limited public appeal",
+    "Topics lacking strong visual storytelling or relevance"
+  ],
+  "target_audience": [
+    "Finnish general public with curiosity for science/history",
+    "Global co-pro partners for specialist factual themes"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour documentaries and series (2–6 episodes)"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €30K–€150K per hour",
+  "min_budget_usd": 30000,
+  "max_budget_usd": 150000,
+  "budget_range": "medium",
+  "languages": [
+    "finnish",
+    "english"
+  ],
+  "technical_requirements": [
+    "Rigorous fact-checking; broadcast standards",
+    "Visualisation tools (CGI, archive) cleared for rights"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Environmental urgency docs",
+    "Science/tech explained with strong characters"
+  ],
+  "submission_process": [
+    "One-page outline + treatment with relevance and impact",
+    "Contributor access confirmed",
+    "Production team track record",
+    "Submission via Yle Producer Portal or established prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

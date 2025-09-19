@@ -1,0 +1,95 @@
+{
+  "id": "Renaud_Allilaire_Canal_Canal+",
+  "country_region": "France",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Renaud_Allilaire_Canal 2724b6c9c50781a99e6ee50fb6042cbe.md",
+  "created_at": "2025-09-19T11:27:37.610141+00:00",
+  "updated_at": "2025-09-19T11:27:37.610141+00:00",
+  "organization": "Canal+",
+  "role": "Deputy Head of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "renaud.allilaire@canal-plus.com",
+  "location": "France",
+  "name": "Renaud Allilaire",
+  "background": "Renaud Allilaire serves as Deputy Head of Documentaries at Canal+. Focus areas: Documentary series, current affairs, society. They are looking for premium, distinctive documentary content with strong entertainment value and commercial appeal, focusing on exclusive access, high-profile subjects, and cinematic execution that adds value to their subscription offering.",
+  "thematic_priorities": [
+    "High-end series with strong narrative drive",
+    "true crime with unique access",
+    "social docs with commercial appeal",
+    "premium documentary content with strong entertainment value and commercial appeal",
+    "high-end documentary series (typically 4–6 episodes)",
+    "true crime series with unique access or perspective",
+    "feature-length documentaries about cinema and filmmakers",
+    "sports documentaries featuring high-profile athletes or events",
+    "celebrity-focused documentaries with exclusive access",
+    "music documentaries focused on major French or international artists",
+    "limited specialist factual commissioning, primarily for Canal+ Docs",
+    "science and technology focused on innovation and future trends",
+    "history documentaries with strong narrative storytelling and commercial appeal",
+    "cultural documentaries featuring high-profile artists or institutions"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "arts_culture",
+    "science_tech",
+    "history",
+    "natural_history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 52–90'; series 3–6×52–60' (features 90' where noted)",
+    "Both series and one-off depending on story and slot",
+    "Primetime/flagship slots where applicable; platform premieres for streamers",
+    "Linear broadcast and/or streaming platform",
+    "Open to international co-productions where aligned",
+    "3–10 episode counts for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Documentary: €200K–€450K per hour; Specialist Factual: €180K–€400K per hour",
+  "min_budget_usd": 214000,
+  "max_budget_usd": 478000,
+  "budget_range": "high",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized",
+    "mobile_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come via an established production company",
+    "Detailed treatment with premise, format and narrative structure",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Comparable successful Canal+ examples",
+    "Exclusivity elements clearly defined",
+    "Submit via Canal+ portal: www.canalplusgroupe.com/producteurs"
+  ],
+  "additional_info": "Submissions accepted year-round unless strand-specific",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "laura_casarotto_mediaset",
+  "country_region": "Italy",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Italy 2724b6c9c50780f988fde49d9755f91e\\Laura Casarotto_Mediaset 2724b6c9c5078015bdacfdd34c973537.md",
+  "created_at": "2025-09-19T11:30:52.045085+00:00",
+  "updated_at": "2025-09-19T11:30:52.045085+00:00",
+  "organization": "Mediaset",
+  "role": "Head of Content Strategy",
+  "commissioner_type": "factual_programming",
+  "email": "laura.casarotto@mediaset.it",
+  "location": "Milan, Italy",
+  "name": "Laura Casarotto",
+  "background": "Drives Mediaset’s editorial direction for accessible, entertainment-driven factual content. Prioritises popular formats, crime, contemporary Italy and real-life drama.",
+  "thematic_priorities": [
+    "True crime and mystery series",
+    "Docs on family, society or high-profile scandals",
+    "Presenter-led current affairs specials"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Overly niche/academic subjects with limited mass appeal",
+    "Low-budget productions not suited for prime time"
+  ],
+  "target_audience": [
+    "Mass Italian audience across Mediaset channels",
+    "Viewers seeking crime, scandal and family drama"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series and specials for prime time slots"
+  ],
+  "formats": [
+    "series",
+    "event_series"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Range: €30K–€100K per hour",
+  "min_budget_usd": 32000,
+  "max_budget_usd": 107000,
+  "budget_range": "medium",
+  "languages": [
+    "italian"
+  ],
+  "technical_requirements": [
+    "Prime-time broadcast standards",
+    "Talent/access must be confirmed before greenlight"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Crime and scandal-led factual with national visibility",
+    "Presenter-led explorations of contemporary Italy"
+  ],
+  "submission_process": [
+    "Brief format outline with clear audience appeal",
+    "Access/talent confirmations",
+    "Submission via Mediaset editorial team or partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

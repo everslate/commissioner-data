@@ -1,0 +1,80 @@
+{
+  "id": "Hilary Rosen_UKTV (BBC Studios)",
+  "country_region": "United Kingdom",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Hilary_Rosen_UKTV_BBC_Studios 2734b6c9c50781f691b1c40054287c4b.md",
+  "created_at": "2025-09-19T11:34:33.917008+00:00",
+  "updated_at": "2025-09-19T11:34:33.917008+00:00",
+  "organization": "UKTV (BBC Studios)",
+  "role": "Head of Factual and Factual Entertainment",
+  "commissioner_type": "factual_programming",
+  "email": "hilary.rosen@uktv.co.uk",
+  "location": "United Kingdom",
+  "name": "Hilary Rosen",
+  "background": "Hilary Rosen serves as Head of Factual and Factual Entertainment at UKTV (BBC Studios). Focus areas: Documentaries, factual entertainment.",
+  "thematic_priorities": [
+    "history",
+    "natural_history",
+    "true_crime"
+  ],
+  "themes": [
+    "history",
+    "natural_history",
+    "true_crime"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Channel-specific audiences across UKTV portfolio"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (6–10 episodes) with potential to return",
+    "Primetime scheduling where applicable",
+    "3–10 typical episode counts for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "£80K–£180K per hour for Documentary and Specialist Factual",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 220000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate UKTV channel target",
+    "One-page outline with premise, format and target audience",
+    "Talent suggestions or attachments",
+    "Comparable successful UKTV examples",
+    "Commercial partnerships or brand integration potential",
+    "Submit via UKTV portal: www.uktv.co.uk/commissioning"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

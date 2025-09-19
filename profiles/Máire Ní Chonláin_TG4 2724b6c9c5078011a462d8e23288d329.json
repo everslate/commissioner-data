@@ -1,0 +1,85 @@
+{
+  "id": "Máire Ní Chonláin_TG4",
+  "country_region": "Ireland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Ireland 2724b6c9c507807faec5f3d43d21d5a3\\Máire Ní Chonláin_TG4 2724b6c9c5078011a462d8e23288d329.md",
+  "created_at": "2025-09-19T11:30:29.137219+00:00",
+  "updated_at": "2025-09-19T11:30:29.137219+00:00",
+  "organization": "TG4 (Teilifís na Gaeilge)",
+  "role": "Commissioning Editor, Factual & Documentaries",
+  "commissioner_type": "factual_programming",
+  "email": "maire.nichonlain@tg4.ie",
+  "location": "Galway, Ireland",
+  "name": "Máire Ní Chonláin",
+  "background": "Leads TG4’s factual slate, prioritising Irish-language documentaries that promote culture, heritage and identity. Seeks original, visually rich stories in Gaelic or Celtic contexts.",
+  "thematic_priorities": [
+    "Irish language and culture",
+    "Historical series or biographies of Irish figures",
+    "Arts, folklore and rural life",
+    "International co-productions with Gaelic or Celtic themes"
+  ],
+  "themes": [
+    "arts_culture",
+    "history",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Projects without Irish-language delivery",
+    "Content with limited cultural or heritage value"
+  ],
+  "target_audience": [
+    "Irish-speaking audiences nationwide",
+    "International audiences via Gaelic/Celtic co-productions"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Documentaries (25–60 mins)",
+    "Series (2–3 parts)"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "variable_length"
+  ],
+  "budget_parameters": "Range: €25K–€100K per hour",
+  "min_budget_usd": 27000,
+  "max_budget_usd": 110000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "german"
+  ],
+  "technical_requirements": [
+    "Broadcast standard production",
+    "Irish-language delivery; subtitles for broader reach"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Docs celebrating Irish heritage, folklore and Gaelic culture",
+    "International Gaelic/Celtic co-pros"
+  ],
+  "submission_process": [
+    "Irish-language proposal with synopsis, structure and talent details",
+    "Visual and cultural significance",
+    "Submit via TG4 commissioning or regional Irish prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

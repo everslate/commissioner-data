@@ -1,0 +1,75 @@
+{
+  "id": "Kasper Møller Jensen-TV 2 Denmark",
+  "country_region": "Denmark",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Denmark 2724b6c9c50780d29db3c39c2c1bfd58\\TV2_Kasper_Moeller_Jensen_FULL 2724b6c9c50781f08edfc799674ca616.md",
+  "created_at": "2025-09-19T11:24:58.752735+00:00",
+  "updated_at": "2025-09-19T11:24:58.752735+00:00",
+  "organization": "TV 2 Denmark",
+  "role": "Commissioning Editor, Factual Entertainment",
+  "commissioner_type": "factual_programming",
+  "email": "kmj@tv2.dk",
+  "location": "Denmark",
+  "name": "Kasper Møller Jensen",
+  "background": "Presenter‑led, hooky factual entertainment with clear beats and repeatable structure; mainstream, positive, and scalable.",
+  "thematic_priorities": [
+    "Presenter‑led explorations of Danish society",
+    "Lifestyle/food/health with clear competitive or transformational elements"
+  ],
+  "themes": [
+    "lifestyle",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Loose, unformatted concepts without a clear engine",
+    "Subjects without returnability or talent attachment"
+  ],
+  "target_audience": [
+    "Broad 30+ TV 2 audience; strong fit for TV 2 PLAY"
+  ],
+  "audience_segments": [
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Weekly or strip formats; strong act structure and talent"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Indicative: DKK 350K–1M per hour (guidance)",
+  "min_budget_usd": 52455,
+  "max_budget_usd": 150000,
+  "budget_range": "medium",
+  "languages": [
+    "danish"
+  ],
+  "technical_requirements": [
+    "Clear format bible; edit templates; deliverables for social/streaming"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Engaging, scalable factual entertainment with clear brandability"
+  ],
+  "submission_process": [
+    "Format bible or treatment; sizzle/paper edit helpful",
+    "Talent availability; episode rundown with beats",
+    "Submission via TV 2’s commissioning channels"
+  ],
+  "additional_info": "TV 2 factual entertainment strategy (general)",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

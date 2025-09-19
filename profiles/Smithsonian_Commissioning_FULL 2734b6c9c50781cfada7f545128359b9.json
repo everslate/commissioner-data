@@ -1,0 +1,73 @@
+{
+  "id": "David Royle_Smithsonian Channel (Paramount Global)",
+  "country_region": "USA",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Broadcasters 2734b6c9c507809eb608e85ec173de4b\\Smithsonian_Commissioning_FULL 2734b6c9c50781cfada7f545128359b9.md",
+  "created_at": "2025-09-19T11:36:32.056784+00:00",
+  "updated_at": "2025-09-19T11:36:32.056784+00:00",
+  "organization": "Smithsonian Channel (Paramount Global)",
+  "role": "EVP, Programming & Production",
+  "commissioner_type": "factual_programming",
+  "email": "smithsonian.docs@paramount.com",
+  "location": "Washington, DC, USA",
+  "name": "David Royle",
+  "background": "Smithsonian commissions factual programming focused on history, culture, science, and the arts. Content must have educational value and cinematic appeal.",
+  "thematic_priorities": [
+    "History and heritage",
+    "Science and culture",
+    "Arts and innovation"
+  ],
+  "themes": [
+    "history",
+    "science_tech",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects without cultural/educational value"
+  ],
+  "target_audience": [
+    "US factual audiences",
+    "Educational/institutional audiences"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "One-offs",
+    "Series"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "USD $150K–$600K per hour",
+  "min_budget_usd": 150000,
+  "max_budget_usd": 600000,
+  "budget_range": "medium",
+  "languages": [],
+  "technical_requirements": [
+    "Broadcast HD/4K"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Co-productions with museums",
+    "Science/culture docs"
+  ],
+  "submission_process": [
+    "Submit via Smithsonian Channel commissioning office"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

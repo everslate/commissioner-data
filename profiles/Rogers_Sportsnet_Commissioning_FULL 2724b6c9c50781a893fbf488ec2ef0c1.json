@@ -1,0 +1,79 @@
+{
+  "id": "Rogers Media (Sportsnet) Sports Documentaries & Specials",
+  "country_region": "Canada",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Canada 2724b6c9c50780bf8638e2db620d6a93\\Rogers_Sportsnet_Commissioning_FULL 2724b6c9c50781a893fbf488ec2ef0c1.md",
+  "created_at": "2025-09-19T11:24:10.331769+00:00",
+  "updated_at": "2025-09-19T11:24:10.331769+00:00",
+  "organization": "Rogers Media (Sportsnet)",
+  "role": "Sports Documentaries & Specials",
+  "commissioner_type": "premium_factual",
+  "email": "sportsnet.content@rci.rogers.com",
+  "location": "Toronto, Canada",
+  "name": "Sportsnet Commissioning Team",
+  "background": "Sportsnet commissions premium sports documentaries and factual specials focusing on Canadian athletes, teams and cultural moments. Content must combine high production value with strong emotional storytelling.",
+  "thematic_priorities": [
+    "Canadian athletes and teams",
+    "Sports history and cultural impact",
+    "Behind-the-scenes access stories"
+  ],
+  "themes": [
+    "sports",
+    "history"
+  ],
+  "content_not_wanted": [
+    "Generic sports coverage",
+    "Low-production amateur content"
+  ],
+  "target_audience": [
+    "Sports fans across Canada",
+    "General audiences for national sports stories"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Feature-length sports docs",
+    "Docu-series (3–4 parts)"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "CAD $150K–$400K per hour",
+  "min_budget_usd": 112500,
+  "max_budget_usd": 300000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K; archive clearance required"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "Event-driven sports docs",
+    "Profiles of Canadian icons"
+  ],
+  "submission_process": [
+    "Submit via Sportsnet content team",
+    "Include access agreements and visual treatment"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

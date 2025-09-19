@@ -1,0 +1,84 @@
+{
+  "id": "Mehmet Demirhan_TRT Belgesel",
+  "country_region": "Turkey",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Turkey 2724b6c9c5078047a5fbd2fa0fb5dda8\\Mehmet Demirhan_TRT Belgesel 2724b6c9c5078073a493fe9e9c4948d5.md",
+  "created_at": "2025-09-19T11:33:21.532611+00:00",
+  "updated_at": "2025-09-19T11:33:21.532611+00:00",
+  "organization": "TRT Belgesel",
+  "role": "Director of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "mehmet.demirhan@trtbelgesel.net",
+  "location": "Istanbul, Turkey",
+  "name": "Mehmet Demirhan",
+  "background": "Directs TRT Belgesel’s factual programming. Seeks access-led and culturally aligned stories reflecting society, religion and Turkey’s regional role, with bold storytelling.",
+  "thematic_priorities": [
+    "Turkish society and religion",
+    "Environmental issues, technology and innovation in Turkey",
+    "International co-productions with cultural alignment"
+  ],
+  "themes": [
+    "social_issues",
+    "climate_environment",
+    "science_tech",
+    "international"
+  ],
+  "content_not_wanted": [
+    "Content not aligned with national/cultural values",
+    "Superficial or entertainment-only projects"
+  ],
+  "target_audience": [
+    "Domestic TRT Belgesel viewers",
+    "International co-pro partners"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Single docs (30–60 mins)",
+    "Series (3–6 parts)"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: TRY 100,000–600,000 per hour",
+  "min_budget_usd": 3600,
+  "max_budget_usd": 21600,
+  "budget_range": "medium",
+  "languages": [
+    "turkish"
+  ],
+  "technical_requirements": [
+    "Broadcast HD quality",
+    "Compliance with RTÜK regulations"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Bold society/religion docs",
+    "Tech/innovation projects framed in Turkish context"
+  ],
+  "submission_process": [
+    "Synopsis with theme and relevance",
+    "Production partners required",
+    "Submit via TRT Belgesel or vetted Turkish prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

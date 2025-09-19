@@ -1,0 +1,84 @@
+{
+  "id": "Chiara Cipolletta_Sky Italia",
+  "country_region": "Italy",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Italy 2724b6c9c50780f988fde49d9755f91e\\Chiara Cipolletta_Sky Italia 2724b6c9c507809ab999dfdf758bf9f4.md",
+  "created_at": "2025-09-19T11:30:43.727824+00:00",
+  "updated_at": "2025-09-19T11:30:43.727824+00:00",
+  "organization": "Sky Italia",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "premium_factual",
+  "email": "chiara.cipolletta@sky.it",
+  "location": "Milan/Rome, Italy",
+  "name": "Chiara Cipolletta",
+  "background": "Commissioning premium, cinematic documentaries across true crime, sports, music and modern history; ensures high production values with potential for global distribution.",
+  "thematic_priorities": [
+    "True crime with exclusive access",
+    "Sports documentaries and profiles",
+    "Modern Italian history and political retrospectives",
+    "Music and arts docuseries with wide appeal"
+  ],
+  "themes": [
+    "true_crime",
+    "sports",
+    "history",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Low production value projects without cinematic ambition",
+    "Subjects lacking international resonance"
+  ],
+  "target_audience": [
+    "Sky Italia subscribers and global partners",
+    "Audiences seeking cinematic, premium storytelling"
+  ],
+  "audience_segments": [
+    "premium_subscribers",
+    "mainstream"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "High-end docuseries; feature-length docs"
+  ],
+  "formats": [
+    "feature_doc",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [],
+  "budget_parameters": "Range: €150K–€500K+ per hour",
+  "min_budget_usd": 160000,
+  "max_budget_usd": 500000,
+  "budget_range": "medium",
+  "languages": [
+    "italian",
+    "english"
+  ],
+  "technical_requirements": [
+    "4K cinematic visuals; international rights cleared",
+    "Music/archival rights secured for global rollout"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Premium sports, music and history docs",
+    "International true crime with Italian angle"
+  ],
+  "submission_process": [
+    "Detailed treatment with director’s vision",
+    "Episode outline or structure",
+    "Production credentials and access info",
+    "Submit via Sky Italia commissioning portal or co-pros"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

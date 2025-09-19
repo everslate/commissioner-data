@@ -1,0 +1,85 @@
+{
+  "id": "Dmytro Tkachenko_Suspilne",
+  "country_region": "Ukraine",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Ukraine 2724b6c9c507806dae59de758a0ffde2\\Dmytro Tkachenko_Suspilne (UA PBC – Public Broadca 2724b6c9c507807cb13ccc6a47a653be.md",
+  "created_at": "2025-09-19T11:35:50.918553+00:00",
+  "updated_at": "2025-09-19T11:35:50.918553+00:00",
+  "organization": "Suspilne (UA:PBC – Public Broadcasting Company of Ukraine)",
+  "role": "Head of Documentary Content",
+  "commissioner_type": "documentary_originals",
+  "email": "d.tkachenko@suspilne.media",
+  "location": "Kyiv, Ukraine",
+  "name": "Dmytro Tkachenko",
+  "background": "Dmytro Tkachenko commissions Suspilne’s documentary slate, with a strong focus on Ukrainian national identity, conflict, and democratic resilience. He supports co-productions with European partners (EBU, IDFA, Docudays UA) and prioritises ethical storytelling rooted in the lived experience of Ukrainians.",
+  "thematic_priorities": [
+    "Russia’s war against Ukraine and national resilience",
+    "20th-century and post-independence Ukrainian history",
+    "Democracy, civil society and reforms",
+    "Ukrainian culture, language and identity"
+  ],
+  "themes": [
+    "politics",
+    "social_issues",
+    "history",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects lacking Ukrainian perspective or public value",
+    "Sensationalist war content without ethical grounding"
+  ],
+  "target_audience": [
+    "Ukrainian public audiences",
+    "International co-production and festival viewers"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min one-offs",
+    "Short documentary series"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "UAH 100,000–500,000 per hour",
+  "min_budget_usd": 2700,
+  "max_budget_usd": 13500,
+  "budget_range": "medium",
+  "languages": [
+    "ukrainian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD; subtitled for international distribution",
+    "Ethical standards for conflict coverage"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Docs on Ukrainian resilience and war impact",
+    "Historical memory and democratic reforms"
+  ],
+  "submission_process": [
+    "Treatment in Ukrainian or English with public interest focus",
+    "Strong ethical standards and audience alignment required",
+    "Submit via Suspilne commissioning platform or national forums (Docudays UA, Ukrainian Cultural Foundation)"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

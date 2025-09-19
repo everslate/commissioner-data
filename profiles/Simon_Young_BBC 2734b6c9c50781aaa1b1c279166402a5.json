@@ -1,0 +1,99 @@
+{
+  "id": "Simon_Young_BBC",
+  "country_region": "UK",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Simon_Young_BBC 2734b6c9c50781aaa1b1c279166402a5.md",
+  "created_at": "2025-09-19T11:35:41.556158+00:00",
+  "updated_at": "2025-09-19T11:35:41.556158+00:00",
+  "organization": "BBC",
+  "role": "Commissioning Editor, History",
+  "commissioner_type": "documentary_originals",
+  "email": "simon.young@bbc.co.uk",
+  "location": "United Kingdom",
+  "name": "Simon Young",
+  "background": "Simon Young serves as Commissioning Editor, History at BBC. Focus areas: History documentaries. They are looking for: Contemporary history with new insights; series (3-part preferred) for weekday 9pm slots.",
+  "thematic_priorities": [
+    "Contemporary history with new insights",
+    "Landmark series (3–6 episodes) that can define BBC Two's factual offering",
+    "Single documentaries (60–90 minutes) with strong authorial voices",
+    "Access-led series with institutions or communities rarely seen on television",
+    "Character-driven documentary series featuring extraordinary individuals or professions",
+    "Contemporary social issues explored through personal stories",
+    "Strong emphasis on diversity both on-screen and in production teams",
+    "Natural history programming with innovative visual approaches and storytelling techniques",
+    "Science programming that makes complex topics accessible without oversimplification",
+    "History documentaries that connect past events to contemporary issues",
+    "Arts programming that celebrates British cultural excellence",
+    "Religion and ethics documentaries exploring faith in the modern world",
+    "Mixed-media approaches combining archive, animation and dramatic reconstruction",
+    "Preferred format: 3-part series for weekday 9pm slots"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "natural_history",
+    "arts_culture",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad UK audiences across BBC channels and iPlayer"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "3-part series preferred for weekday 9pm slots",
+    "1-off documentaries 60-90 minutes",
+    "series 3–6×60'",
+    "primetime scheduling for applicable platforms"
+  ],
+  "formats": [
+    "series",
+    "one_off_special",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £150K–£350K per hour; Specialist Factual: £180K–£350K per hour",
+  "min_budget_usd": 180000,
+  "max_budget_usd": 350000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate channel and slot",
+    "One-page outline with premise, format, and episode breakdown",
+    "Details of secured or potential access",
+    "Key talent and production team credentials",
+    "Comparable successful examples",
+    "Potential for digital/multiplatform extensions",
+    "Submit via BBC Pitch: www.bbc.co.uk/commissioning"
+  ],
+  "additional_info": "Ongoing commissioning cycles; increasing focus on distinctive voices and cross-platform reach; emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects across the UK; open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

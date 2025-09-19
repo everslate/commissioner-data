@@ -1,0 +1,74 @@
+{
+  "id": "tetiana_pushnova_1+1_media",
+  "country_region": "Ukraine",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Ukraine 2724b6c9c507806dae59de758a0ffde2\\Tetiana Pushnova_1+1 Media 2724b6c9c50780239d9df2621f2a3445.md",
+  "created_at": "2025-09-19T11:35:58.469520+00:00",
+  "updated_at": "2025-09-19T11:35:58.469520+00:00",
+  "organization": "1+1 Media Group",
+  "role": "Head of Non-Fiction",
+  "commissioner_type": "factual_programming",
+  "email": "tetiana.pushnova@1plus1.tv",
+  "location": "Kyiv, Ukraine",
+  "name": "Tetiana Pushnova",
+  "background": "Tetiana Pushnova leads 1+1 Media’s non-fiction programming, balancing entertainment with social relevance. She seeks emotional, family-focused factual formats that highlight Ukrainian heroes and resonate widely with national audiences.",
+  "thematic_priorities": [
+    "Inspirational figures in Ukrainian society",
+    "Family and youth issues, cultural values",
+    "Documentary formats with emotional storytelling"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects without emotional or cultural resonance",
+    "Hard political content unsuited for family audiences"
+  ],
+  "target_audience": [
+    "Broad Ukrainian audiences",
+    "Family and youth demographics"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "families",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Returnable docu-series",
+    "Biographical and human-interest films"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "UAH 100,000–450,000 per hour",
+  "min_budget_usd": 2700,
+  "max_budget_usd": 12100,
+  "budget_range": "medium",
+  "languages": [
+    "ukrainian"
+  ],
+  "technical_requirements": [],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Biographical series of Ukrainian heroes",
+    "Family-focused factual formats"
+  ],
+  "submission_process": [
+    "Short proposal or deck with characters, tone and audience",
+    "Must align with national values and broadcast standards",
+    "Submit via 1+1 commissioning department or production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "selective",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

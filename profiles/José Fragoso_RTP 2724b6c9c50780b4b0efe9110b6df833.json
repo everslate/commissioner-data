@@ -1,0 +1,79 @@
+{
+  "id": "José Fragoso_RTP",
+  "country_region": "Portugal",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Portugal 2724b6c9c50780788043d1865abf110c\\José Fragoso_RTP 2724b6c9c50780b4b0efe9110b6df833.md",
+  "created_at": "2025-09-19T11:32:02.246007+00:00",
+  "updated_at": "2025-09-19T11:32:02.246007+00:00",
+  "organization": "RTP (Rádio e Televisão de Portugal)",
+  "role": "Director of Programming, RTP1",
+  "commissioner_type": "documentary_originals",
+  "email": "jose.fragoso@rtp.pt",
+  "location": "Lisbon, Portugal",
+  "name": "José Fragoso",
+  "background": "Oversees RTP1 programming, commissioning documentaries reflecting Portuguese identity, history, and contemporary social issues, often in co-production with European or Lusophone partners.",
+  "thematic_priorities": [
+    "Portuguese history and heritage (including colonial legacies)",
+    "Contemporary social and political issues",
+    "National identity and Lusophone connections"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects without Portuguese cultural relevance",
+    "Light entertainment without public value"
+  ],
+  "target_audience": [
+    "Portuguese public service viewers",
+    "Audiences across Lusophone world via co-productions"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "50–60 min singles",
+    "Short series (2–3 parts)"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Range: €20K–€150K per hour",
+  "min_budget_usd": 22000,
+  "max_budget_usd": 160000,
+  "budget_range": "medium",
+  "languages": [
+    "portuguese"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Subtitles for international co-productions"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Docs reflecting Portuguese heritage and identity",
+    "Contemporary political/social issue projects"
+  ],
+  "submission_process": [
+    "One-page proposal with subject, format, tone and audience",
+    "Access or production plan",
+    "Submit via RTP commissioning portal or prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

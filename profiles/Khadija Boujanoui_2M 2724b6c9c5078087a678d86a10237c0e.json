@@ -1,0 +1,82 @@
+{
+  "id": "Khadija Boujanoui_2M",
+  "country_region": "Morocco",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Morocco 2724b6c9c507803780e0e0447bc78e2d\\Khadija Boujanoui_2M 2724b6c9c5078087a678d86a10237c0e.md",
+  "created_at": "2025-09-19T11:31:28.554617+00:00",
+  "updated_at": "2025-09-19T11:31:28.554617+00:00",
+  "organization": "2M TV (Soread)",
+  "role": "Head of Programming",
+  "commissioner_type": "factual_programming",
+  "email": "khadija.boujanoui@2m.ma",
+  "location": "Casablanca, Morocco",
+  "name": "Khadija Boujanoui",
+  "background": "Oversees programming for 2M TV, commissioning socially relevant, high-appeal documentaries that address Moroccan society and contemporary realities.",
+  "thematic_priorities": [
+    "Social themes including gender, youth and employment",
+    "Urban and rural Moroccan realities",
+    "Health, environment and modernisation"
+  ],
+  "themes": [
+    "social_issues",
+    "lifestyle",
+    "health_medical"
+  ],
+  "content_not_wanted": [
+    "Projects lacking broad Moroccan audience relevance",
+    "Low production value or superficial treatments"
+  ],
+  "target_audience": [
+    "2M TV’s wide Moroccan audience",
+    "Commercial and semi-public viewers"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Single documentaries (26–52 mins)",
+    "Series with strong social hooks"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: MAD 80,000–250,000 per hour",
+  "min_budget_usd": 8000,
+  "max_budget_usd": 25000,
+  "budget_range": "medium",
+  "languages": [
+    "arabic",
+    "french"
+  ],
+  "technical_requirements": [
+    "Broadcast quality standards",
+    "Arabic/French language delivery"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Gender/youth employment stories",
+    "Urban/rural life and development themes"
+  ],
+  "submission_process": [
+    "One-page pitch in Arabic or French",
+    "Relevance to Moroccan audiences and regulatory standards",
+    "Submit via 2M’s acquisition team or Moroccan prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "Ksenija Foretić-HRT",
+  "country_region": "Croatia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Croatia 2724b6c9c50780438279f8638f65ea78\\HRT_Ksenija_Foretic_FULL 2724b6c9c50781399264cfa73429ead6.md",
+  "created_at": "2025-09-19T11:24:08.067401+00:00",
+  "updated_at": "2025-09-19T11:24:08.067401+00:00",
+  "organization": "HRT (Hrvatska radiotelevizija)",
+  "role": "Commissioning Editor, Culture and Arts",
+  "commissioner_type": "arts_culture",
+  "email": "ksenija.foretic@hrt.hr",
+  "location": "Zagreb, Croatia",
+  "name": "Ksenija Foretić",
+  "background": "Commissioning editor for HRT’s cultural and arts documentaries. Seeks author-driven, artistic films with Croatian identity and international co-production potential.",
+  "thematic_priorities": [
+    "Arts, music, literature and local communities",
+    "Human stories rooted in Croatian identity",
+    "Cultural projects with international potential"
+  ],
+  "themes": [
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects lacking strong authorship",
+    "Generic arts coverage without storytelling ambition"
+  ],
+  "target_audience": [
+    "Cultural audiences in Croatia",
+    "International co-production and arts festival viewers"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "international"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min one-offs",
+    "2–3 part cultural series"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €10K–€70K per hour",
+  "min_budget_usd": 10000,
+  "max_budget_usd": 70000,
+  "budget_range": "medium",
+  "languages": [
+    "croatian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Festival-ready delivery with subtitles"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "festival_ready",
+    "hd"
+  ],
+  "current_calls": [
+    "Author-led cultural projects",
+    "Docs for international festival circuits"
+  ],
+  "submission_process": [
+    "Proposal in Croatian/English with clear cultural relevance",
+    "Submit via HRT commissioning or HAVC/ZagrebDox"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

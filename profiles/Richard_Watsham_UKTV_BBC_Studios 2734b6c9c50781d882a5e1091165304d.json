@@ -1,0 +1,85 @@
+{
+  "id": "Richard_Watsham_UKTV_BBC_Studios",
+  "country_region": "United Kingdom",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Richard_Watsham_UKTV_BBC_Studios 2734b6c9c50781d882a5e1091165304d.md",
+  "created_at": "2025-09-19T11:35:21.904077+00:00",
+  "updated_at": "2025-09-19T11:35:21.904077+00:00",
+  "organization": "UKTV (BBC Studios)",
+  "role": "Director of Commissioning",
+  "commissioner_type": "factual_programming",
+  "email": "richard.watsham@uktv.co.uk",
+  "location": "United Kingdom",
+  "name": "Richard Watsham",
+  "background": "Richard Watsham serves as Director of Commissioning at UKTV (BBC Studios). Focus areas include overall commissioning strategy across UKTV channels, tailored factual programming, and returnable formats.",
+  "thematic_priorities": [
+    "Channel-tailored factual; returnable formats with commercial potential",
+    "Channel-specific factual programming (Yesterday, Eden, Alibi)",
+    "Strong focus on presenter-led factual with established talent",
+    "History docs with broad appeal and narrative storytelling",
+    "Natural history and environmental documentaries",
+    "True crime documentaries with mystery/investigation elements"
+  ],
+  "themes": [
+    "food_cooking",
+    "natural_history",
+    "true_crime",
+    "history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Channel-specific audiences across UKTV portfolio"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (6–10 episodes) with potential to return",
+    "Primetime scheduling where applicable; platform premieres for streamers"
+  ],
+  "formats": [
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £80K–£180K per hour; Specialist Factual: £80K–£180K per hour",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 230000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities outlined in the commissioning brief"
+  ],
+  "submission_process": [
+    "Indicate UKTV channel target",
+    "One-page outline with premise, format and target audience",
+    "Talent suggestions or attachments",
+    "Comparable successful UKTV examples",
+    "Commercial partnerships or brand integration potential",
+    "Submit via UKTV portal: www.uktv.co.uk/commissioning"
+  ],
+  "additional_info": "Submissions accepted year-round; emphasis on distinctive voices and cross-platform reach.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

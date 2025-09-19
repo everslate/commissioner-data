@@ -1,0 +1,83 @@
+{
+  "id": "David_Harvey_RTÉ",
+  "country_region": "Ireland",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Ireland 2724b6c9c507807faec5f3d43d21d5a3\\David Harvey_RTÉ 2724b6c9c5078072a841d2de7a467be1.md",
+  "created_at": "2025-09-19T11:30:25.312926+00:00",
+  "updated_at": "2025-09-19T11:30:25.312926+00:00",
+  "organization": "RTÉ (Raidió Teilifís Éireann)",
+  "role": "Head of Factual",
+  "commissioner_type": "factual_programming",
+  "email": "david.harvey@rte.ie",
+  "location": "Dublin, Ireland",
+  "name": "David Harvey",
+  "background": "Oversees RTÉ’s factual output across history, society and contemporary Ireland. Seeks access-led documentaries with heritage and cultural relevance, delivering strong narrative and public value.",
+  "thematic_priorities": [
+    "Irish identity, culture and community stories",
+    "History documentaries, especially 20th century Ireland",
+    "Access-based character stories and real-life drama"
+  ],
+  "themes": [
+    "social_issues",
+    "history",
+    "investigative"
+  ],
+  "content_not_wanted": [
+    "Light entertainment with limited factual value",
+    "Projects lacking strong Irish identity or resonance"
+  ],
+  "target_audience": [
+    "RTÉ’s broad Irish public service audience",
+    "Viewers seeking history, heritage and society-focused docs"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "adults_25_60"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "50–60 min single documentaries",
+    "Series (2–4 parts)"
+  ],
+  "formats": [
+    "feature_doc",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €40K–€180K per hour",
+  "min_budget_usd": 43000,
+  "max_budget_usd": 195000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD standards",
+    "Rights clearances and accessibility compliance"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "hd"
+  ],
+  "current_calls": [
+    "Projects exploring Irish heritage and 20th-century history",
+    "Access-led docs with character-driven arcs"
+  ],
+  "submission_process": [
+    "One-page proposal with subject, tone, structure and relevance",
+    "Key team bios and access secured",
+    "Submit via RTÉ eCommissioning portal or public briefs"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

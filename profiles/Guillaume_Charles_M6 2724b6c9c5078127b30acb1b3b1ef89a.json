@@ -1,0 +1,88 @@
+{
+  "id": "Guillaume_Charles_M6",
+  "country_region": "France",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Guillaume_Charles_M6 2724b6c9c5078127b30acb1b3b1ef89a.md",
+  "created_at": "2025-09-19T11:26:49.738196+00:00",
+  "updated_at": "2025-09-19T11:26:49.738196+00:00",
+  "organization": "M6",
+  "role": "Director of Programs",
+  "commissioner_type": "factual_programming",
+  "email": "guillaume.charles@m6.fr",
+  "location": "France",
+  "name": "Guillaume Charles",
+  "background": "Guillaume Charles serves as Director of Programs at M6. Focus areas: Overall programming strategy. They are looking for: Commercially appealing factual with strong format potential for younger-skewing audience.",
+  "thematic_priorities": [
+    "Commercially appealing factual with strong format potential for younger-skewing audience",
+    "Documentary series with strong personalities and clear formats",
+    "Access-led documentaries with commercial appeal",
+    "Society-focused documentaries with entertaining approach",
+    "Current affairs with relatable impact on everyday life",
+    "Consumer and lifestyle programming with practical takeaways",
+    "Crime documentaries with emotional impact and mystery elements",
+    "Consumer-focused science with practical applications",
+    "History documentaries with strong narrative storytelling and mystery elements"
+  ],
+  "themes": [
+    "social_issues",
+    "lifestyle",
+    "true_crime",
+    "investigative",
+    "history",
+    "business_economics"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream French audiences",
+    "younger-skewing where applicable"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series",
+    "4–8 episodes"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €100K–€250K per hour; Specialist Factual: €120K–€200K per hour",
+  "min_budget_usd": 110000,
+  "max_budget_usd": 260000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Explain commercial appeal elements",
+    "Secured or potential access/contributors",
+    "Talent attachments or suggestions",
+    "Comparable successful M6 examples",
+    "Submit via M6 portal: www.m6.fr/pro"
+  ],
+  "additional_info": "Diversity & Inclusion: Emphasis on diverse voices on- and off-screen; Sustainability: Encouragement of sustainable production practices; Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

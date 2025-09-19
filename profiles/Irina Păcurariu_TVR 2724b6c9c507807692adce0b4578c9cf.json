@@ -1,0 +1,85 @@
+{
+  "id": "Irina Păcurariu_TVR",
+  "country_region": "Romania",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Romania 2724b6c9c5078077bf09e3e204d8d118\\Irina Păcurariu_TVR 2724b6c9c507807692adce0b4578c9cf.md",
+  "created_at": "2025-09-19T11:32:15.768968+00:00",
+  "updated_at": "2025-09-19T11:32:15.768968+00:00",
+  "organization": "TVR (Televiziunea Română)",
+  "role": "Head of Documentaries and Social Affairs",
+  "commissioner_type": "factual_programming",
+  "email": "irina.pacurariu@tvr.ro",
+  "location": "Bucharest, Romania",
+  "name": "Irina Păcurariu",
+  "background": "Veteran journalist and documentary filmmaker, Irina Păcurariu has a strong reputation for human-centred storytelling and investigative reporting. At TVR, she oversees socially conscious documentaries addressing identity, civic engagement and Romania’s democratic transformation. She often supports regional productions and partnerships with the Romanian Film Centre (CNC) and European broadcasters through the EBU.",
+  "thematic_priorities": [
+    "Contemporary Romanian society and identity",
+    "Human rights, civic life and democratic values",
+    "Youth and education in Romania",
+    "Social justice and investigative documentaries"
+  ],
+  "themes": [
+    "social_issues",
+    "politics",
+    "education"
+  ],
+  "content_not_wanted": [
+    "Projects without clear social or civic relevance",
+    "Entertainment-only formats with limited public value"
+  ],
+  "target_audience": [
+    "Romanian public service audiences across TVR channels",
+    "Diaspora communities and co-production audiences in Europe"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "niche_cultural"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "26–52 min films",
+    "2–3 part mini-series"
+  ],
+  "formats": [
+    "mini_series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: €8K–€60K per hour",
+  "min_budget_usd": 8000,
+  "max_budget_usd": 60000,
+  "budget_range": "medium",
+  "languages": [
+    "romanian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD delivery with subtitles",
+    "Regional co-productions through CNC encouraged"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Access-led documentaries on youth and civic engagement",
+    "Human-focused films exploring Romania’s social challenges"
+  ],
+  "submission_process": [
+    "Proposal in Romanian or English with synopsis, treatment and access details",
+    "Outline public value and editorial relevance for TVR audiences",
+    "Submit via TVR commissioning department or through Romanian prodcos affiliated with CNC"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "highly_encouraged",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

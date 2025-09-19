@@ -1,0 +1,97 @@
+{
+  "id": "Xavier_Gandon_TF1",
+  "country_region": "France",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Xavier_Gandon_TF1 2724b6c9c5078148b361e26d1e4bec01.md",
+  "created_at": "2025-09-19T11:28:17.985503+00:00",
+  "updated_at": "2025-09-19T11:28:17.985503+00:00",
+  "organization": "TF1",
+  "role": "Programming Director",
+  "commissioner_type": "factual_programming",
+  "email": "xgandon@tf1.fr",
+  "location": "France",
+  "name": "Xavier Gandon",
+  "background": "Xavier Gandon serves as Programming Director at TF1. Focus areas: Overall programming strategy.",
+  "thematic_priorities": [
+    "Prime-time factual specials with event potential",
+    "high-impact documentary series for key slots",
+    "broadly accessible factual content with high entertainment value",
+    "access-led documentary series with strong personalities",
+    "behind-the-scenes at familiar French institutions",
+    "character-driven factual series with relatable individuals",
+    "social experiments / reality-based formats with documentary elements",
+    "event documentaries tied to significant national occasions",
+    "crime documentaries with emotional impact and resolution",
+    "history docs with strong narrative storytelling and broad appeal",
+    "science programming accessible to mainstream audiences",
+    "event specials (90–120') or limited series (2–3 episodes)"
+  ],
+  "themes": [
+    "social_issues",
+    "science_tech",
+    "true_crime",
+    "history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream French audiences",
+    "younger-skewing"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series-led (4–8×52–60')",
+    "both series and one-off depending on story and slot",
+    "primetime/flagship slots where applicable",
+    "platform premieres for streamers"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Documentary: €120K–€300K per hour; Specialist Factual: €150K–€350K per hour",
+  "min_budget_usd": 120000,
+  "max_budget_usd": 300000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "broadcast/streaming standards",
+    "broadcaster/platform-specific deliverables",
+    "subtitles/captions; audio description per broadcaster requirements",
+    "adherence to broadcaster branding guidelines",
+    "French and/or English; multilingual where applicable"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Explanation of mainstream appeal elements",
+    "Secured or potential access/contributors",
+    "Talent attachments or suggestions",
+    "Comparable successful TF1 examples",
+    "Submit via TF1 portal: www.tf1pro.com"
+  ],
+  "additional_info": "Diversity & Inclusion: Emphasis on diverse voices on- and off-screen; Sustainability: Encouragement of sustainable production practices; Regional Production: Support for projects across French regions (where applicable); Independent Production: Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

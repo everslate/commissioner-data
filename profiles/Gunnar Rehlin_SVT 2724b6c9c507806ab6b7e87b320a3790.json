@@ -1,0 +1,75 @@
+{
+  "id": "Gunnar Rehlin_SVT",
+  "country_region": "Sweden",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Sweden 2724b6c9c50780a8953ae65d9ebe8508\\Gunnar Rehlin_SVT 2724b6c9c507806ab6b7e87b320a3790.md",
+  "created_at": "2025-09-19T11:32:48.650655+00:00",
+  "updated_at": "2025-09-19T11:32:48.650655+00:00",
+  "organization": "SVT (Sveriges Television)",
+  "role": "Commissioning Editor, Culture and Arts",
+  "commissioner_type": "arts_culture",
+  "email": "gunnar.rehlin@svt.se",
+  "location": "Stockholm, Sweden",
+  "name": "Gunnar Rehlin",
+  "background": "Focuses on innovative cultural programming that explores Swedish identity, creativity and heritage; advocates for arts-driven storytelling that enriches public service values.",
+  "thematic_priorities": [
+    "Culture and arts documentaries",
+    "Films exploring Swedish identity and creativity",
+    "Innovative cultural formats"
+  ],
+  "themes": [
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Overly niche cultural content without broader resonance",
+    "Superficial arts coverage without narrative depth"
+  ],
+  "target_audience": [
+    "Cultural enthusiasts and general public",
+    "Broad Swedish audience with interest in identity and arts"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "1-hour films; limited series (2–4 episodes)"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes"
+  ],
+  "budget_parameters": "Range: SEK 300K–1.5M per hour",
+  "min_budget_usd": 27000,
+  "max_budget_usd": 135000,
+  "budget_range": "medium",
+  "languages": [
+    "swedish"
+  ],
+  "technical_requirements": [
+    "High production values suitable for arts programming",
+    "Clearances for artwork, performances and archive"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [],
+  "current_calls": [
+    "Cultural documentaries with national resonance",
+    "Stories linking Swedish heritage with contemporary identity"
+  ],
+  "submission_process": [
+    "Synopsis and treatment outlining cultural significance",
+    "Details of access to artists, institutions or archives",
+    "Submit via SVT commissioning channels"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

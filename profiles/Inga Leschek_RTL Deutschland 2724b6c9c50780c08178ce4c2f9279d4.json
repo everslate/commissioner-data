@@ -1,0 +1,86 @@
+{
+  "id": "Inga Leschek_RTL",
+  "country_region": "Germany",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Inga Leschek_RTL Deutschland 2724b6c9c50780c08178ce4c2f9279d4.md",
+  "created_at": "2025-09-19T11:28:33.207156+00:00",
+  "updated_at": "2025-09-19T11:28:33.207156+00:00",
+  "organization": "RTL",
+  "role": "Chief Content Officer",
+  "commissioner_type": "factual_programming",
+  "email": "inga.leschek@rtl.de",
+  "location": "Germany",
+  "name": "Inga Leschek",
+  "background": "Inga Leschek serves as Chief Content Officer at RTL. Focus areas: Overall content strategy.",
+  "thematic_priorities": [
+    "High-impact factual entertainment with broad mainstream appeal and cross-platform potential",
+    "High-impact documentaries with broad mainstream appeal",
+    "Crime documentaries with emotional storytelling",
+    "Character-driven factual series featuring compelling, relatable individuals",
+    "Access-led documentary series into German institutions or communities",
+    "Science programming accessible to mainstream audiences"
+  ],
+  "themes": [
+    "food_cooking",
+    "lifestyle",
+    "history",
+    "social_issues",
+    "investigative",
+    "science_tech"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream audiences; younger-skewing 14–49 where applicable"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (4–6 episodes)",
+    "Limited interest in singles unless tied to significant events"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €100K–€200K per hour; Specialist Factual: €80K–€180K per hour",
+  "min_budget_usd": 100000,
+  "max_budget_usd": 200000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Clear indication of target slot (usually 20:15)",
+    "One-page outline with headline, premise and format",
+    "Explanation of mainstream appeal elements",
+    "Secured or potential access/contributors",
+    "Talent attachments or suggestions",
+    "Submit via RTL's portal: www.rtl.de/sendungsideen"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

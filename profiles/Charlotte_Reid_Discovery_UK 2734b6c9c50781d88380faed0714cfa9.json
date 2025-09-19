@@ -1,0 +1,91 @@
+{
+  "id": "Charlotte_Reid_Discovery_UK",
+  "country_region": "UK",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Charlotte_Reid_Discovery_UK 2734b6c9c50781d88380faed0714cfa9.md",
+  "created_at": "2025-09-19T11:34:02.398226+00:00",
+  "updated_at": "2025-09-19T11:34:02.398226+00:00",
+  "organization": "Discovery UK",
+  "role": "Head of Commissioning, Factual",
+  "commissioner_type": "factual_programming",
+  "email": "charlotte_reid@discovery.com",
+  "location": "United Kingdom",
+  "name": "Charlotte Reid",
+  "background": "Charlotte Reid serves as Head of Commissioning, Factual at Discovery UK. Focus areas: Documentaries, specialist factual. They are looking for: Engineering and mega-structures; formatted, returning factual series. Overall network strategy: Discovery seeks male-skewing factual programming with strong characters, clear formats, and international appeal that can work across their global network of channels.",
+  "thematic_priorities": [
+    "Engineering and mega-structures; formatted, returning factual series",
+    "Male-skewing factual programming with strong characters and storytelling",
+    "Adventure and survival documentaries with authentic jeopardy",
+    "Engineering and 'mega-structures' factual programming",
+    "Factual series with clear format and returning potential",
+    "Character-driven factual with authentic expertise",
+    "Natural history focusing on predators, extreme environments or survival",
+    "Science programming with practical applications or experimental elements",
+    "Engineering and technology with innovation/problem-solving",
+    "History focusing on exploration, engineering and warfare"
+  ],
+  "themes": [
+    "science_tech",
+    "natural_history",
+    "social_issues",
+    "arts_culture",
+    "history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Male-skewing audiences with international appeal"
+  ],
+  "audience_segments": [
+    "international",
+    "adults_25_60"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Series-led (6–10×45–60')",
+    "limited interest in singles",
+    "Both, depending on story and slot",
+    "Primetime where applicable; platform premieres for streamers"
+  ],
+  "formats": [
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [],
+  "budget_parameters": "Documentary: £100K–£250K per hour; Specialist Factual: £120K–£300K per hour",
+  "min_budget_usd": 125000,
+  "max_budget_usd": 375000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with premise, format and international appeal",
+    "Access/contributors details",
+    "Key talent and production team credentials",
+    "Comparable successful Discovery examples",
+    "Commercial partnerships or brand integration potential",
+    "Submit via commissioning@discovery.com"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach. Emphasis on diverse voices on- and off-screen. Encouragement of sustainable production practices. Support for projects across the UK (where applicable). Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

@@ -1,0 +1,86 @@
+{
+  "id": "Hannes_Hiller_ProSiebenSat.1",
+  "country_region": "Germany",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Hannes_Hiller_ProSiebenSat 1 2724b6c9c50781b4821bf8de8de527ec.md",
+  "created_at": "2025-09-19T11:28:33.979063+00:00",
+  "updated_at": "2025-09-19T11:28:33.979063+00:00",
+  "organization": "ProSiebenSat.1",
+  "role": "SVP Content Development",
+  "commissioner_type": "factual_programming",
+  "email": "hannes.hiller@prosiebensat1.com",
+  "location": "Germany",
+  "name": "Hannes Hiller",
+  "background": "Hannes Hiller serves as SVP Content Development at ProSiebenSat.1. Focus areas: Factual entertainment, documentaries.",
+  "thematic_priorities": [
+    "Formatted factual series with returning potential",
+    "Social experiment formats revealing insights about contemporary German society",
+    "Character-driven factual series with compelling personalities",
+    "Access documentaries into institutions or communities with young appeal",
+    "True crime series with unique storytelling approach",
+    "Science programming with experimental elements and young presenter"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "lifestyle",
+    "investigative",
+    "natural_history"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream audiences",
+    "younger-skewing 14–49 where applicable"
+  ],
+  "audience_segments": [
+    "young_adults_18_35",
+    "families"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series-led (3–8 episodes) with preferred lengths of 45–60 minutes",
+    "Limited interest in single documentaries"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €80K–€200K per hour; Specialist Factual: €100K–€200K per hour",
+  "min_budget_usd": 86234,
+  "max_budget_usd": 216857,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards",
+    "Subtitles/captions",
+    "audio description per broadcaster requirements"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [],
+  "submission_process": [
+    "One-page outline with headline, premise and format",
+    "Clear indication of target audience (14–49)",
+    "Access/contributors details",
+    "Talent attachments focused on younger presenters",
+    "Digital/social strategy",
+    "Submit via ProSiebenSat.1 portal: www.prosiebensat1.de/produzenten"
+  ],
+  "additional_info": "Ongoing commissioning cycles; increasing focus on distinctive voices and cross-platform reach; Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Open to pitches from independent producers/companies.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

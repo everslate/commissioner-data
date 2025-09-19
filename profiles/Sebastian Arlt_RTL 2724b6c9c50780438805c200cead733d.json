@@ -1,0 +1,93 @@
+{
+  "id": "Sebastian Arlt_RTL",
+  "country_region": "Germany",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Sebastian Arlt_RTL 2724b6c9c50780438805c200cead733d.md",
+  "created_at": "2025-09-19T11:30:09.681918+00:00",
+  "updated_at": "2025-09-19T11:30:09.681918+00:00",
+  "organization": "RTL",
+  "role": "Commissioning Editor, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "sebastian.arlt@rtl.de",
+  "location": "Germany",
+  "name": "Sebastian Arlt",
+  "background": "Sebastian Arlt serves as Commissioning Editor, Documentaries at RTL. Focus areas: Documentaries, factual entertainment. They are looking for: Crime documentaries with emotional impact; access-led series into German institutions; character-driven series. Overall network strategy: RTL seeks commercial factual content with broad mainstream appeal that delivers emotional impact and engaging storytelling through relatable characters and familiar institutions.",
+  "thematic_priorities": [
+    "Crime documentaries with emotional impact",
+    "High-impact documentaries with broad mainstream appeal",
+    "Character-driven factual series featuring compelling, relatable individuals",
+    "Access-led documentary series into German institutions or communities",
+    "History documentaries with dramatic storytelling and broad appeal",
+    "Science programming accessible to mainstream audiences",
+    "Focus on sensational or mystery-driven content"
+  ],
+  "themes": [
+    "true_crime",
+    "history",
+    "science_tech",
+    "local_community",
+    "social_issues"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad mainstream audiences",
+    "younger-skewing 14–49 where applicable"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Series-led (3–8×45–60'); limited interest in singles",
+    "Both, depending on story and slot",
+    "Primetime where applicable; platform-specific premieres",
+    "Open to co-productions where aligned",
+    "3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: €100K–€200K per hour; Specialist Factual: €80K–€180K per hour",
+  "min_budget_usd": 106000,
+  "max_budget_usd": 212000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Clear indication of target slot (usually 20:15)",
+    "One-page outline with headline, premise and format",
+    "Explanation of mainstream appeal elements",
+    "Secured or potential access/contributors",
+    "Talent attachments or suggestions",
+    "Submit via RTL's portal: www.rtl.de/sendungsideen"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

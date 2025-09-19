@@ -1,0 +1,79 @@
+{
+  "id": "DW_Latin_America_Deutsche_Welle",
+  "country_region": "Latin America",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Deutsche Welle 2724b6c9c50780038736c8dc0cf47173\\DW_LatinAmerica_FULL 2724b6c9c507810fbb6cfb2749b002c5.md",
+  "created_at": "2025-09-19T11:25:17.006104+00:00",
+  "updated_at": "2025-09-19T11:25:17.006104+00:00",
+  "organization": "Deutsche Welle (DW Language Services)",
+  "role": "Regional Commissioning (Latin America Service)",
+  "commissioner_type": "factual_programming",
+  "email": "/example@example.com",
+  "location": "Latin America (regional hubs)",
+  "name": "DW Latin America",
+  "background": "DW Latin America commissions short-form factual content in Spanish, focusing on indigenous rights, climate, migration, youth activism and anti-corruption themes.",
+  "thematic_priorities": [
+    "Indigenous rights and activism",
+    "Climate and environmental justice",
+    "Migration and corruption stories"
+  ],
+  "themes": [
+    "social_issues",
+    "climate_environment",
+    "politics"
+  ],
+  "content_not_wanted": [
+    "Projects lacking local cultural grounding",
+    "Non-Spanish content without translation"
+  ],
+  "target_audience": [
+    "Spanish-speaking audiences in Latin America",
+    "DW global Spanish-language audiences"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "Short-form (5–15 mins)",
+    "Character-led mobile-first docs"
+  ],
+  "formats": [
+    "short_form"
+  ],
+  "duration_categories": [
+    "short_form"
+  ],
+  "content_lengths": [
+    "5-15_minutes"
+  ],
+  "budget_parameters": "Range: €5K–€20K per short film",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 20000,
+  "budget_range": "low",
+  "languages": [
+    "spanish"
+  ],
+  "technical_requirements": [
+    "Spanish-language delivery",
+    "Mobile-first distribution"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "mobile_optimized"
+  ],
+  "current_calls": [
+    "Indigenous and youth activism stories",
+    "Anti-corruption projects"
+  ],
+  "submission_process": [
+    "Pitch in Spanish with regional relevance",
+    "Submit via DW Latin America commissioning team"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "selective",
+  "diversity_focus": true,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

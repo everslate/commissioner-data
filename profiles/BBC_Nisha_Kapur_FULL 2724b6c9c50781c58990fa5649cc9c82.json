@@ -1,0 +1,79 @@
+{
+  "id": "Nisha Kapur_BBC World News",
+  "country_region": "UK",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\BBC World News 2724b6c9c507809fbd5fc254590b3def\\BBC_Nisha_Kapur_FULL 2724b6c9c50781c58990fa5649cc9c82.md",
+  "created_at": "2025-09-19T11:23:42.721831+00:00",
+  "updated_at": "2025-09-19T11:23:42.721831+00:00",
+  "organization": "BBC World News",
+  "role": "Senior Commissioning Editor, Factual – Global Markets",
+  "commissioner_type": "factual_programming",
+  "email": "nisha.kapur@bbc.co.uk",
+  "location": "London, UK",
+  "name": "Nisha Kapur",
+  "background": "Senior commissioning editor focusing on factual content around business, economics, climate, and global systems. Looks for deep-dives with human focus and cross-border appeal.",
+  "thematic_priorities": [
+    "Global business and economics",
+    "Climate and sustainability",
+    "Technology and societal impact"
+  ],
+  "themes": [
+    "business_economics",
+    "climate_environment"
+  ],
+  "content_not_wanted": [
+    "Overly niche or localised stories",
+    "Projects without human resonance"
+  ],
+  "target_audience": [
+    "BBC World News global business and factual viewers",
+    "Audiences interested in economics and sustainability"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "23–26 min half-hours",
+    "47–52 min single hours"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: £15K–£120K per half-hour",
+  "min_budget_usd": 18545,
+  "max_budget_usd": 146000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD quality",
+    "International distribution standards"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Climate, business and technology docs with global scope"
+  ],
+  "submission_process": [
+    "Submit via BBC Studios commissioning",
+    "One-pager with global angle and structure",
+    "Must have clear international relevance"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

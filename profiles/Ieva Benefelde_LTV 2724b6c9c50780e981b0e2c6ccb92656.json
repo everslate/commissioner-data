@@ -1,0 +1,82 @@
+{
+  "id": "Ieva Benefelde_LTV",
+  "country_region": "Latvia",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Latvia 2724b6c9c50780559dd1fb5ce8c30252\\Ieva Benefelde_LTV 2724b6c9c50780e981b0e2c6ccb92656.md",
+  "created_at": "2025-09-19T11:31:11.645319+00:00",
+  "updated_at": "2025-09-19T11:31:11.645319+00:00",
+  "organization": "LTV (Latvijas Televīzija)",
+  "role": "Head of Documentaries and Cultural Content",
+  "commissioner_type": "arts_culture",
+  "email": "ieva.benefelde@ltv.lv",
+  "location": "Riga, Latvia",
+  "name": "Ieva Benefelde",
+  "background": "Directs LTV’s cultural and documentary commissioning, supporting author-driven films that explore Latvian heritage, arts, and contemporary social issues.",
+  "thematic_priorities": [
+    "Latvian history, identity and cultural legacy",
+    "Social challenges and minority voices",
+    "Contemporary arts, music and storytelling"
+  ],
+  "themes": [
+    "history",
+    "social_issues",
+    "arts_culture"
+  ],
+  "content_not_wanted": [
+    "Projects without Latvian cultural or social relevance",
+    "Superficial or low-quality productions"
+  ],
+  "target_audience": [
+    "Latvian public service audiences",
+    "Regional and European co-production viewers"
+  ],
+  "audience_segments": [
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Single docs (26–58 mins)",
+    "Series (2–3 episodes)"
+  ],
+  "formats": [
+    "one_off_special",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €10K–€70K per hour; Higher for co-productions",
+  "min_budget_usd": 10000,
+  "max_budget_usd": 70000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "russian"
+  ],
+  "technical_requirements": [
+    "Broadcast standards; subtitling for European distribution",
+    "Archival rights cleared"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Cultural heritage docs",
+    "Post-Soviet transitions and contemporary Latvian identity"
+  ],
+  "submission_process": [
+    "Proposal with topic, format and cultural/social relevance",
+    "Director’s vision and access details",
+    "Submit via LTV commissioning or Baltic pitching forums"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "project_based",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

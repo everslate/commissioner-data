@@ -1,0 +1,81 @@
+{
+  "id": "Nova TV-Head of Factual Programming",
+  "country_region": "Croatia",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Croatia 2724b6c9c50780438279f8638f65ea78\\NovaTV_Commissioner_FULL 2724b6c9c50781399bc0de03eae62f95.md",
+  "created_at": "2025-09-19T11:24:15.171239+00:00",
+  "updated_at": "2025-09-19T11:24:15.171239+00:00",
+  "organization": "Nova TV",
+  "role": "Head of Factual Programming",
+  "commissioner_type": "factual_programming",
+  "email": "/not_provided/novatv.com.hr/undefined@notprovideddomain.com",
+  "location": "Zagreb, Croatia",
+  "name": "Nova TV Commissioner",
+  "background": "Nova TV commissions broad-appeal factual entertainment and returnable documentary formats. Focus on family, lifestyle, crime and contemporary Croatian society.",
+  "thematic_priorities": [
+    "Human-interest and family stories",
+    "True crime and social issues",
+    "Lifestyle and reality-doc hybrids"
+  ],
+  "themes": [
+    "social_issues",
+    "true_crime",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Niche or purely artistic projects",
+    "Docs without commercial potential"
+  ],
+  "target_audience": [
+    "Mainstream Croatian TV audiences",
+    "Advertiser-driven primetime slots"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series and returnable formats",
+    "Commercial 45–60 min slots"
+  ],
+  "formats": [
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €8K–€40K per hour",
+  "min_budget_usd": 8000,
+  "max_budget_usd": 40000,
+  "budget_range": "medium",
+  "languages": [
+    "croatian",
+    "english"
+  ],
+  "technical_requirements": [
+    "Commercial broadcast standards",
+    "Format bible for returnable content"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "True crime returnable series",
+    "Family/lifestyle docs with broad appeal"
+  ],
+  "submission_process": [
+    "One-pager or format deck",
+    "Clear commercial audience rationale",
+    "Submit via Nova TV programming/production partners"
+  ],
+  "additional_info": "/not_provided/",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

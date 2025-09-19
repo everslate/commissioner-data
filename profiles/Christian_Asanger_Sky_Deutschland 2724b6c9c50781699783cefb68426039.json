@@ -1,0 +1,101 @@
+{
+  "id": "Christian_Asanger_Sky_Deutschland",
+  "country_region": "Germany",
+  "platform_type": "traditional_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Germany 2724b6c9c50780b584c2e5268f3d3b7b\\Christian_Asanger_Sky_Deutschland 2724b6c9c50781699783cefb68426039.md",
+  "created_at": "2025-09-19T11:28:16.711752+00:00",
+  "updated_at": "2025-09-19T11:28:16.711752+00:00",
+  "organization": "Sky Deutschland",
+  "role": "Vice President Entertainment",
+  "commissioner_type": "premium_factual",
+  "email": "christian.asanger@sky.de",
+  "location": "Germany",
+  "name": "Christian Asanger",
+  "background": "Christian Asanger serves as Vice President Entertainment at Sky Deutschland. Focus areas: Overall content strategy. They are looking for: Premium documentaries with distinctive German perspective and high production values. Overall network strategy: Sky Deutschland seeks premium, high-end documentary and specialist factual content with distinctive German perspective and production values that can compete with global streaming platforms.",
+  "thematic_priorities": [
+    "Premium documentaries with distinctive German perspective and high production values",
+    "Sports documentaries focusing on Bundesliga and German athletes",
+    "True crime series with unique access or perspective",
+    "Feature-length documentaries (90+ minutes) for Sky Documentaries",
+    "Multi-part documentary series (3–6 episodes) with strong narrative arc",
+    "Contemporary history with new revelations or perspectives",
+    "Natural history with cinematic visual approach and cutting-edge technology",
+    "Science programming that feels contemporary and visually spectacular",
+    "History documentaries focusing on untold German stories"
+  ],
+  "themes": [
+    "true_crime",
+    "natural_history",
+    "science_tech",
+    "history",
+    "sports",
+    "arts_culture"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "broad_german_audiences",
+    "international"
+  ],
+  "audience_segments": [
+    "mainstream",
+    "regional_local"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 60–90'; series 3–6×60' (features 90+' where noted)",
+    "Both, depending on story and slot",
+    "Primetime where applicable; platform-specific premieres",
+    "Linear broadcast and/or streaming platform",
+    "Open to co-productions where aligned",
+    "3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard",
+    "feature_length"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "Documentary: €200K–€500K+ per hour; Specialist Factual: €250K–€500K+ per hour",
+  "min_budget_usd": 215000,
+  "max_budget_usd": 540000,
+  "budget_range": "medium",
+  "languages": [
+    "german",
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery Specifications: Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "German and/or English; multilingual where applicable"
+  ],
+  "production_values": "high",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate Sky channel target",
+    "Detailed treatment with premise, format and USP",
+    "Secured or potential access/contributors",
+    "Key talent and production team credentials",
+    "Visual treatment or mood board",
+    "Submit via Sky Deutschland portal: www.sky.de/beauftragt"
+  ],
+  "additional_info": "Increasing focus on distinctive voices and cross-platform reach; Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects from across German regions (where applicable); Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

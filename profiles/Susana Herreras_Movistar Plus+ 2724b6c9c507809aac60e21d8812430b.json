@@ -1,0 +1,86 @@
+{
+  "id": "Susana Herreras_Movistar Plus+",
+  "country_region": "Spain",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Spain 2724b6c9c50780c188eadc3017783eb5\\Susana Herreras_Movistar Plus+ 2724b6c9c507809aac60e21d8812430b.md",
+  "created_at": "2025-09-19T11:32:41.879186+00:00",
+  "updated_at": "2025-09-19T11:32:41.879186+00:00",
+  "organization": "Movistar Plus+",
+  "role": "Head of Original Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "susana.herreras@telefonica.com",
+  "location": "Madrid, Spain",
+  "name": "Susana Herreras",
+  "background": "Leads Movistar Plus+’s premium documentary slate with cinematic storytelling and broad appeal, spanning sports, music, politics and true crime.",
+  "thematic_priorities": [
+    "Sports documentaries with compelling arcs",
+    "Music and pop culture history",
+    "Political and social narratives with exclusive access",
+    "True crime and high-stakes investigations"
+  ],
+  "themes": [
+    "sports",
+    "arts_culture",
+    "politics",
+    "true_crime"
+  ],
+  "content_not_wanted": [
+    "Low-budget productions without cinematic quality",
+    "Topics lacking national or international relevance"
+  ],
+  "target_audience": [
+    "Spanish and international premium subscribers",
+    "Audiences seeking high-quality cinematic documentaries"
+  ],
+  "audience_segments": [
+    "premium_subscribers",
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "High-end docuseries; feature-length films"
+  ],
+  "formats": [
+    "returnable_series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "Range: €100K–€400K per hour",
+  "min_budget_usd": 107000,
+  "max_budget_usd": 427000,
+  "budget_range": "medium",
+  "languages": [
+    "spanish",
+    "english"
+  ],
+  "technical_requirements": [
+    "4K production standards; cinematic visuals",
+    "Music/archival rights cleared; global distribution ready"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "4k"
+  ],
+  "current_calls": [
+    "Premium sports, music and political docs",
+    "True crime with exclusive access"
+  ],
+  "submission_process": [
+    "Detailed treatment with episode breakdowns",
+    "Visual and narrative tone reference",
+    "High-profile access or unique perspective required",
+    "Submission through accredited production companies"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

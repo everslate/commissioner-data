@@ -1,0 +1,87 @@
+{
+  "id": "Marc Saikali-France 24",
+  "country_region": "France",
+  "platform_type": "international_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 24 2724b6c9c507807bb244ed979e5f1919\\France24_Marc_Saikali_FULL 2724b6c9c50781b29530ea7f0ab25c17.md",
+  "created_at": "2025-09-19T11:26:04.946888+00:00",
+  "updated_at": "2025-09-19T11:26:04.946888+00:00",
+  "organization": "France 24 (France Médias Monde)",
+  "role": "Director",
+  "commissioner_type": "factual_programming",
+  "email": "marc.saikali@france24.com",
+  "location": "Paris, France",
+  "name": "Marc Saikali",
+  "background": "Leads France 24’s global editorial and commissioning strategy. Focuses on factual programming that reflects French and European perspectives on global issues, with integrity and cross-border relevance.",
+  "thematic_priorities": [
+    "International conflict, diplomacy and current affairs",
+    "Environmental crises, migration and global justice",
+    "Human rights and underreported regions",
+    "French foreign policy and cross-cultural perspectives"
+  ],
+  "themes": [
+    "international",
+    "politics",
+    "climate_environment",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Partisan or advocacy-only content",
+    "Projects without clear international impact"
+  ],
+  "target_audience": [
+    "Global France 24 audiences across French, English, Arabic and Spanish services",
+    "International viewers seeking European editorial perspective"
+  ],
+  "audience_segments": [
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "13–26 min short docs",
+    "45–52 min one-offs"
+  ],
+  "formats": [
+    "short_form",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "15-30_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €10K–€120K per film",
+  "min_budget_usd": 10000,
+  "max_budget_usd": 120000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english",
+    "arabic",
+    "spanish"
+  ],
+  "technical_requirements": [
+    "Broadcast + digital delivery",
+    "Multilingual subtitling (FR, EN, AR, ES)"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Docs on migration, climate and underreported regions",
+    "Projects linking French perspectives to global issues"
+  ],
+  "submission_process": [
+    "Editorially clear synopsis with narrative arc",
+    "Relevant to multilingual platforms (FR, EN, AR, ES)",
+    "Submit via France Médias Monde editorial team or accredited French prodcos"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

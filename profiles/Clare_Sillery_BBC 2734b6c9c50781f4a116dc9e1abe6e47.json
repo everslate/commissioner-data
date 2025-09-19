@@ -1,0 +1,102 @@
+{
+  "id": "Clare_Sillery_BBC",
+  "country_region": "UK",
+  "platform_type": "public_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UK 2734b6c9c50780c29f74cd188f4071ba\\Clare_Sillery_BBC 2734b6c9c50781f4a116dc9e1abe6e47.md",
+  "created_at": "2025-09-19T11:34:14.958851+00:00",
+  "updated_at": "2025-09-19T11:34:14.958851+00:00",
+  "organization": "BBC",
+  "role": "Head of Commissioning, Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "clare.sillery@bbc.co.uk",
+  "location": "United Kingdom",
+  "name": "Clare Sillery",
+  "background": "Clare Sillery serves as Head of Commissioning, Documentaries at BBC. Focus areas: Documentaries, current affairs.",
+  "thematic_priorities": [
+    "Character-driven documentary series",
+    "contemporary social issues",
+    "access-led documentaries with rarely seen institutions/communities",
+    "Landmark series (3–6 episodes) that can define BBC Two's factual offering",
+    "Single documentaries (60–90 minutes) with strong authorial voices",
+    "Access-led series with institutions or communities rarely seen on television",
+    "Character-driven documentary series featuring extraordinary individuals or professions",
+    "Contemporary social issues explored through personal stories",
+    "Strong emphasis on diversity both on-screen and in production teams",
+    "Natural history programming with innovative visual approaches and storytelling techniques",
+    "Science programming that makes complex topics accessible without oversimplification",
+    "History documentaries that connect past events to contemporary issues",
+    "Arts programming that celebrates British cultural excellence",
+    "Religion and ethics documentaries exploring faith in the modern world",
+    "Mixed-media approaches combining archive, animation and dramatic reconstruction"
+  ],
+  "themes": [
+    "social_issues",
+    "arts_culture",
+    "natural_history",
+    "science_tech",
+    "history",
+    "religion_philosophy"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad UK audiences across BBC channels and iPlayer"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Preferred Lengths: Singles 60–90'; series 3–6×60' (features 90' where noted)",
+    "Series vs. One-off: Both, depending on story and slot",
+    "Scheduling: Primetime where applicable; platform premieres for streamers",
+    "Platforms: Linear broadcast and/or streaming platform",
+    "Typical Episode Counts: 3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "one_off_special"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Documentary: £150K–£350K per hour; Specialist Factual: £180K–£350K per hour",
+  "min_budget_usd": 180000,
+  "max_budget_usd": 350000,
+  "budget_range": "medium",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Delivery Specifications: Broadcast/streaming standards; details provided upon commissioning",
+    "Platform Requirements: Broadcaster/platform-specific deliverables",
+    "Accessibility: Subtitles/captions; audio description per broadcaster requirements",
+    "Graphics & Branding: Adherence to broadcaster branding guidelines",
+    "Language & Subtitles: English; multilingual where applicable"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Indicate channel and slot",
+    "One-page outline with premise, format, and episode breakdown",
+    "Details of secured or potential access",
+    "Key talent and production team credentials",
+    "Comparable successful examples",
+    "Potential for digital/multiplatform extensions",
+    "Submit via BBC Pitch: www.bbc.co.uk/commissioning"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects across the UK.",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

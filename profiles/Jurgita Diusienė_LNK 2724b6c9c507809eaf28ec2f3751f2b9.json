@@ -1,0 +1,83 @@
+{
+  "id": "Jurgita Diusienė_LNK",
+  "country_region": "Lithuania",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Lithuania 2724b6c9c507807ca083e4e491ee46d8\\Jurgita Diusienė_LNK 2724b6c9c507809eaf28ec2f3751f2b9.md",
+  "created_at": "2025-09-19T11:31:33.709643+00:00",
+  "updated_at": "2025-09-19T11:31:33.709643+00:00",
+  "organization": "LNK (Laisvas ir nepriklausomas kanalas)",
+  "role": "Head of Content",
+  "commissioner_type": "factual_programming",
+  "email": "jurgita.diusiene@lnk.lt",
+  "location": "Vilnius, Lithuania",
+  "name": "Jurgita Diusienė",
+  "background": "Directs LNK’s content commissioning, focusing on broad audience appeal through accessible, emotionally engaging factual and docu-reality programming.",
+  "thematic_priorities": [
+    "Social documentaries about life in Lithuania",
+    "Personal journeys and local heroes",
+    "Docu-reality or social experiment formats"
+  ],
+  "themes": [
+    "social_issues",
+    "lifestyle",
+    "true_crime"
+  ],
+  "content_not_wanted": [
+    "Projects too niche or academic",
+    "One-offs without audience engagement"
+  ],
+  "target_audience": [
+    "Lithuanian mainstream viewers",
+    "LNK’s national commercial TV audience"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docu-reality formats",
+    "Social experiment series",
+    "Single factual films"
+  ],
+  "formats": [
+    "factual_entertainment",
+    "returnable_series"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes"
+  ],
+  "budget_parameters": "Range: €5K–€50K per hour",
+  "min_budget_usd": 5000,
+  "max_budget_usd": 50000,
+  "budget_range": "low",
+  "languages": [
+    "english",
+    "french"
+  ],
+  "technical_requirements": [
+    "Commercial broadcast standards",
+    "Audience-focused storytelling"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard"
+  ],
+  "current_calls": [
+    "Accessible factual formats with emotional pull",
+    "Local heroes and personal journeys"
+  ],
+  "submission_process": [
+    "Short pitch or treatment with narrative focus",
+    "Visuals or tone references encouraged",
+    "Submit via LNK programming or production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

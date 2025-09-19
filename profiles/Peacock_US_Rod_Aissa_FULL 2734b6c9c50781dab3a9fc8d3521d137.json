@@ -1,0 +1,71 @@
+{
+  "id": "Rod Aissa_Peacock",
+  "country_region": "USA",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Streamers 2734b6c9c5078071960ac349221c2060\\Peacock_US_Rod_Aissa_FULL 2734b6c9c50781dab3a9fc8d3521d137.md",
+  "created_at": "2025-09-19T11:36:49.400578+00:00",
+  "updated_at": "2025-09-19T11:36:49.400578+00:00",
+  "organization": "Peacock (NBCUniversal)",
+  "role": "EVP, Unscripted Content",
+  "commissioner_type": "factual_programming",
+  "email": "peacock.docs@nbcuni.com",
+  "location": "New York, USA",
+  "name": "Rod Aissa",
+  "background": "Leads commissioning of documentaries and unscripted formats for Peacock. Focuses on bold, socially relevant and bingeable nonfiction.",
+  "thematic_priorities": [
+    "True crime",
+    "Pop culture",
+    "Contemporary US society"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "local_community"
+  ],
+  "content_not_wanted": [
+    "Low production values",
+    "Projects without streaming appeal"
+  ],
+  "target_audience": [
+    "Peacock subscribers"
+  ],
+  "audience_segments": [
+    "premium_subscribers"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Docu-series (4–6 parts)",
+    "One-offs"
+  ],
+  "formats": [
+    "returnable_series",
+    "one_off_special"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "USD $300K–$1M per hour",
+  "min_budget_usd": 300000,
+  "max_budget_usd": 1000000,
+  "budget_range": "high",
+  "languages": [],
+  "technical_requirements": [],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "4k",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Bold US culture docs",
+    "True crime franchises"
+  ],
+  "submission_process": [
+    "Submit via NBCU commissioning channels",
+    "Agent/prodco required"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

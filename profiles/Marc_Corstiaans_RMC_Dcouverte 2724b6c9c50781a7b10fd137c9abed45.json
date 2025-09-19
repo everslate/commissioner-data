@@ -1,0 +1,79 @@
+{
+  "id": "Marc_Corstiaans_RMC_Decouverte",
+  "country_region": "France",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Marc_Corstiaans_RMC_Dcouverte 2724b6c9c50781a7b10fd137c9abed45.md",
+  "created_at": "2025-09-19T11:27:19.222543+00:00",
+  "updated_at": "2025-09-19T11:27:19.222543+00:00",
+  "organization": "RMC Découverte",
+  "role": "Acquisitions and Co-Productions Director",
+  "commissioner_type": "documentary_originals",
+  "email": "marc.corstiaans@rmcdecouverte.fr",
+  "location": "France",
+  "name": "Marc Corstiaans",
+  "background": "Marc Corstiaans serves as Acquisitions and Co-Productions Director at RMC Découverte. Focus areas: Acquisitions, co-productions. They are looking for: International co-productions with strong visuals; engineering/technology formats with return potential. Overall network strategy: RMC Découverte seeks male-skewing factual content focusing on engineering, technology, adventure and history with entertaining approaches and strong visual elements that appeal to their core audience.",
+  "thematic_priorities": [
+    "International co-productions with strong visuals",
+    "engineering/technology formats with return potential",
+    "male-skewing factual content with entertainment value",
+    "limited original commissioning; focus on acquisitions and co-productions",
+    "engineering and technology formats with return potential",
+    "history focusing on warfare, machines and engineering",
+    "adventure and survival with authentic jeopardy",
+    "preferred format: Series (6–10 episodes) with multi-season potential"
+  ],
+  "themes": [
+    "science_tech",
+    "history",
+    "social_issues",
+    "lifestyle"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "Broad French audiences across France Télévisions family of channels"
+  ],
+  "audience_segments": [
+    "mainstream"
+  ],
+  "geographic_scope": "national",
+  "format_specifications": [
+    "Series (6–10 episodes) with strong visual elements",
+    "Both series and one-off formats depending on story and slot"
+  ],
+  "formats": [
+    "series",
+    "returnable_series"
+  ],
+  "duration_categories": [],
+  "content_lengths": [],
+  "budget_parameters": "Documentary: €60K–€150K per hour (co-productions); Specialist Factual: €70K–€180K per hour (co-productions)",
+  "min_budget_usd": 65000,
+  "max_budget_usd": 180000,
+  "budget_range": "medium",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "4k"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "One-page outline with premise and entertainment value",
+    "Visual approach and treatment",
+    "Male audience appeal elements",
+    "Comparable successful RMC Découverte examples",
+    "Submit via email: programmation@rmcdecouverte.fr"
+  ],
+  "additional_info": "Emphasis on diverse voices on- and off-screen; encouragement of sustainable production practices; support for projects across French regions (where applicable)",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": false
+}

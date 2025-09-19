@@ -1,0 +1,86 @@
+{
+  "id": "Fadel Zahreddine_MBC",
+  "country_region": "UAE",
+  "platform_type": "commercial_broadcaster",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\UAE 2724b6c9c5078095b140c365b579e119\\Fadel Zahreddine_MBC 2724b6c9c5078027afb2e262f50cb43b.md",
+  "created_at": "2025-09-19T11:33:27.105278+00:00",
+  "updated_at": "2025-09-19T11:33:27.105278+00:00",
+  "organization": "MBC Group",
+  "role": "Group Director of Brand and Marketing",
+  "commissioner_type": "factual_programming",
+  "email": "fadel.zahreddine@mbc.net",
+  "location": "Dubai Media City, UAE",
+  "name": "Fadel Zahreddine",
+  "background": "As Group Director of Brand and Marketing at MBC, Fadel Zahreddine influences the group’s factual and entertainment commissioning with a focus on pan-Arab relevance. MBC, the largest commercial broadcaster in the Arab world, commissions youth-oriented, emotionally engaging factual formats across lifestyle, real-life and documentary series, designed for high viewership across MENA.",
+  "thematic_priorities": [
+    "Real-life stories with emotional or dramatic appeal",
+    "True crime and investigative docu-series",
+    "Cultural and social stories with pan-Arab relevance"
+  ],
+  "themes": [
+    "true_crime",
+    "social_issues",
+    "lifestyle"
+  ],
+  "content_not_wanted": [
+    "Projects without commercial or pan-Arab resonance",
+    "Niche academic or highly localized topics"
+  ],
+  "target_audience": [
+    "Pan-Arab audiences across MENA",
+    "Youth and family viewership in primetime"
+  ],
+  "audience_segments": [
+    "regional_local",
+    "families",
+    "young_adults_18_35"
+  ],
+  "geographic_scope": "regional",
+  "format_specifications": [
+    "High-volume docu-series",
+    "Lifestyle and returnable factual entertainment"
+  ],
+  "formats": [
+    "returnable_series",
+    "factual_entertainment"
+  ],
+  "duration_categories": [
+    "standard"
+  ],
+  "content_lengths": [
+    "30-60_minutes",
+    "60-90_minutes"
+  ],
+  "budget_parameters": "USD $50,000–$250,000 per hour",
+  "min_budget_usd": 50000,
+  "max_budget_usd": 250000,
+  "budget_range": "medium",
+  "languages": [
+    "arabic",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast HD/4K",
+    "Arabic or bilingual (Arabic/English) delivery"
+  ],
+  "production_values": "broadcast_standard",
+  "delivery_requirements": [
+    "hd",
+    "4k"
+  ],
+  "current_calls": [
+    "True crime returnable series",
+    "Youth-focused factual entertainment formats"
+  ],
+  "submission_process": [
+    "One-page concept pitch or visual deck with pan-Arab appeal",
+    "Characters, tone and language options must be defined",
+    "Submit via MBC content division or trusted production partners"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": false
+}

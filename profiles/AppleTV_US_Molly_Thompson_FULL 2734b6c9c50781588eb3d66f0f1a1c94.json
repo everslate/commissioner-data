@@ -1,0 +1,79 @@
+{
+  "id": "Molly_Thompson_Apple_TV+_US",
+  "country_region": "USA",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\USA Streamers 2734b6c9c5078071960ac349221c2060\\AppleTV_US_Molly_Thompson_FULL 2734b6c9c50781588eb3d66f0f1a1c94.md",
+  "created_at": "2025-09-19T11:36:39.896042+00:00",
+  "updated_at": "2025-09-19T11:36:39.896042+00:00",
+  "organization": "Apple TV+ US",
+  "role": "Head of Documentaries",
+  "commissioner_type": "documentary_originals",
+  "email": "apple.docs@apple.com",
+  "location": "New York, USA",
+  "name": "Molly Thompson",
+  "background": "Commissions prestige, auteur-driven documentaries for Apple TV+. Prioritises visionary directors and cinematic storytelling with global reach.",
+  "thematic_priorities": [
+    "Biographies of global icons",
+    "Science and creativity",
+    "Political & social urgency"
+  ],
+  "themes": [
+    "history",
+    "science_tech",
+    "social_issues"
+  ],
+  "content_not_wanted": [
+    "Light factual TV formats",
+    "Projects without creative ambition"
+  ],
+  "target_audience": [
+    "Apple TV+ subscribers worldwide"
+  ],
+  "audience_segments": [
+    "premium_subscribers",
+    "international"
+  ],
+  "geographic_scope": "global",
+  "format_specifications": [
+    "Feature docs (90 mins+)",
+    "Event series (3–6 parts)"
+  ],
+  "formats": [
+    "feature_doc",
+    "event_series"
+  ],
+  "duration_categories": [
+    "extended_feature"
+  ],
+  "content_lengths": [
+    "90-120_minutes"
+  ],
+  "budget_parameters": "USD $500K–$2M+ per hour",
+  "min_budget_usd": 500000,
+  "max_budget_usd": 2000000,
+  "budget_range": "high",
+  "languages": [
+    "english"
+  ],
+  "technical_requirements": [
+    "Cinematic 4K; festival-ready"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "festival_ready"
+  ],
+  "current_calls": [
+    "Headline-making event docs",
+    "Auteur-led visionary projects"
+  ],
+  "submission_process": [
+    "Via Apple Originals commissioning team",
+    "Submissions only from recognised prodcos/agents"
+  ],
+  "additional_info": "",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": false,
+  "sustainability_focus": false,
+  "festival_potential_required": true
+}

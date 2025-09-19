@@ -1,0 +1,99 @@
+{
+  "id": "Anne-Laure Pauty_Netflix France",
+  "country_region": "France",
+  "platform_type": "streaming_platform",
+  "source_file": "notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\France 2724b6c9c50780e69c7ef22205451312\\Anne-Laure_Pauty_Netflix_France 2724b6c9c507818b8aaad62139f066e5.md",
+  "created_at": "2025-09-19T11:26:11.564552+00:00",
+  "updated_at": "2025-09-19T11:26:11.564552+00:00",
+  "organization": "Netflix France",
+  "role": "Director of Originals, France",
+  "commissioner_type": "premium_factual",
+  "email": "anne-laure.pauty@netflix.com",
+  "location": "France",
+  "name": "Anne-Laure Pauty",
+  "background": "Anne-Laure Pauty serves as Director of Originals, France at Netflix France. Focus areas: Overall content strategy for French originals. They are looking for: Premium documentary content with global appeal offering distinctly French perspectives. Overall network strategy: Netflix France seeks premium documentary content with global appeal that also offers distinctly French stories and perspectives, combining universal themes with local relevance and cinematic execution.",
+  "thematic_priorities": [
+    "Premium documentary content with global appeal",
+    "Feature documentaries (90+ minutes) with festival potential",
+    "Documentary series (4–6 episodes) with strong narrative arc",
+    "True crime series with French elements that can travel internationally",
+    "Sports documentaries featuring high-profile French athletes or events",
+    "Cultural documentaries showcasing French excellence with universal appeal",
+    "Filmmaker-driven projects with distinctive vision"
+  ],
+  "themes": [
+    "true_crime",
+    "natural_history",
+    "arts_culture",
+    "investigative",
+    "sports",
+    "lifestyle"
+  ],
+  "content_not_wanted": [],
+  "target_audience": [
+    "French audiences with global reach potential"
+  ],
+  "audience_segments": [
+    "international",
+    "regional_local"
+  ],
+  "geographic_scope": "international",
+  "format_specifications": [
+    "Series 4–6×60'",
+    "feature documentaries 90+'",
+    "Both, depending on story and slot",
+    "Primetime/flagship slots where applicable; platform premieres for streamers",
+    "3–10 for series, depending on strand"
+  ],
+  "formats": [
+    "series",
+    "feature_doc"
+  ],
+  "duration_categories": [
+    "feature_length",
+    "standard"
+  ],
+  "content_lengths": [
+    "60-90_minutes",
+    "90-120_minutes"
+  ],
+  "budget_parameters": "Documentary: €300K–€1M+ per hour",
+  "min_budget_usd": 320000,
+  "max_budget_usd": 1000000,
+  "budget_range": "high",
+  "languages": [
+    "french",
+    "english"
+  ],
+  "technical_requirements": [
+    "Broadcast/streaming standards; details provided upon commissioning",
+    "Broadcaster/platform-specific deliverables",
+    "Subtitles/captions; audio description per broadcaster requirements",
+    "Adherence to broadcaster branding guidelines",
+    "French and/or English; multilingual where applicable"
+  ],
+  "production_values": "premium",
+  "delivery_requirements": [
+    "broadcast_standard",
+    "streaming_optimized"
+  ],
+  "current_calls": [
+    "Reflect latest broadcaster priorities as outlined above; commissioner-specific interests included."
+  ],
+  "submission_process": [
+    "Must come via established production company or agent",
+    "Detailed treatment with premise, format and episode breakdown",
+    "Secured or potential access/contributors",
+    "Director's vision and approach",
+    "Key production team credentials",
+    "Global appeal elements",
+    "Exclusivity and rights requirements",
+    "Submit via Netflix's established production partners"
+  ],
+  "additional_info": "Ongoing; submissions accepted year-round unless strand-specific; Increasing focus on distinctive voices and cross-platform reach; Emphasis on diverse voices on- and off-screen; Encouragement of sustainable production practices; Support for projects across French regions (where applicable); Open to pitches from independent producers/companies",
+  "commissioning_cycles": "ongoing",
+  "co_production_openness": "open",
+  "diversity_focus": true,
+  "sustainability_focus": true,
+  "festival_potential_required": true
+}

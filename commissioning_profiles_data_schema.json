@@ -19,7 +19,7 @@
           "country_region": {
             "type": "string",
             "title": "Country/Region",
-            "description": "Country or region where the commissioner operates"
+            "description": "The specific country or region name only (e.g., 'USA', 'UK', 'Germany', 'France'). Do not include platform types, broadcaster categories, or other descriptors - only the geographical location."
           },
           "platform_type": {
             "type": "string",
@@ -235,6 +235,26 @@
             "title": "Duration Categories",
             "description": "Content duration categories"
           },
+          "content_lengths": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "1-5_minutes",
+                "5-15_minutes",
+                "15-30_minutes",
+                "30-60_minutes",
+                "60-90_minutes",
+                "90-120_minutes",
+                "120_plus_minutes",
+                "episodic_30_min",
+                "episodic_60_min",
+                "variable_length"
+              ]
+            },
+            "title": "Content Lengths",
+            "description": "Specific duration ranges or episode lengths they are interested in commissioning"
+          },
           "budget_parameters": {
             "type": "string",
             "title": "Budget Parameters",
@@ -368,10 +388,9 @@
             "description": "How to submit pitches or applications"
           },
           "additional_info": {
-            "type": "object",
+            "type": "string",
             "title": "Additional Info",
-            "description": "Any additional structured information",
-            "additionalProperties": true
+            "description": "Any additional information or notes about the commissioner's preferences, focus areas, or submission guidelines"
           },
           "commissioning_cycles": {
             "type": "string",

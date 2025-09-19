@@ -16,22 +16,8 @@ def main():
     
     filename = sys.argv[1]
     
-    # Load API key
-    try:
-        with open("main.py", "r") as f:
-            content = f.read()
-            import re
-            match = re.search(r'api_key="([^"]+)"', content)
-            if match:
-                api_key = match.group(1)
-            else:
-                raise ValueError("API key not found in main.py")
-    except Exception as e:
-        print(f"Could not load API key from main.py: {e}")
-        api_key = os.getenv("OPENAI_API_KEY")
-        if not api_key:
-            print("No API key found. Please set OPENAI_API_KEY environment variable or update main.py")
-            return
+    # Hardcoded API key
+    api_key = "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"
     
     # Initialize converter and convert single file
     converter = CommissionerConverter(api_key)

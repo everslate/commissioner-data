@@ -34,3 +34,612 @@
 2025-09-19 11:38:19,020 - INFO - Already processed: 1 files
 2025-09-19 11:38:19,020 - INFO - Skipping Abdullah_Al_Arif_UAE - already processed
 2025-09-19 11:38:19,020 - INFO - Processing Abigail_Priddle_UK...
+2025-09-19 11:42:19,032 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:42:19,033 - INFO - Starting conversion process...
+2025-09-19 11:42:19,034 - INFO - Found 253 parsed files to process
+2025-09-19 11:42:19,034 - INFO - Already processed: 1 files
+2025-09-19 11:42:19,035 - INFO - Skipping Abdullah_Al_Arif_UAE - already processed
+2025-09-19 11:42:19,035 - INFO - Processing Abigail_Priddle_UK...
+2025-09-19 11:42:19,953 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:19,954 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:19,954 - ERROR - Failed to convert Abigail_Priddle_UK
+2025-09-19 11:42:19,954 - INFO - Processing Adrian_Padmore_UK...
+2025-09-19 11:42:20,120 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:20,121 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:20,121 - ERROR - Failed to convert Adrian_Padmore_UK
+2025-09-19 11:42:20,122 - INFO - Processing Agnieszka_Olejkowska_Poland...
+2025-09-19 11:42:20,542 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:20,543 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:20,543 - ERROR - Failed to convert Agnieszka_Olejkowska_Poland
+2025-09-19 11:42:20,865 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:20,865 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:20,867 - INFO - Processing Ahmad_Mahfouz_Al_Jazeera...
+2025-09-19 11:42:21,125 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:21,126 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:21,126 - ERROR - Failed to convert Ahmad_Mahfouz_Al_Jazeera
+2025-09-19 11:42:21,445 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:21,446 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:21,448 - INFO - Processing AJ_Al_Jazeera...
+2025-09-19 11:42:21,635 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:21,635 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:21,635 - ERROR - Failed to convert AJ_Al_Jazeera
+2025-09-19 11:42:21,635 - INFO - Processing AlfaTV_Local_Broadcasters_Finland...
+2025-09-19 11:42:21,809 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:21,809 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:21,809 - ERROR - Failed to convert AlfaTV_Local_Broadcasters_Finland
+2025-09-19 11:42:21,810 - INFO - Processing Alisa_Pomeroy_UK...
+2025-09-19 11:42:22,292 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:22,292 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:22,293 - ERROR - Failed to convert Alisa_Pomeroy_UK
+2025-09-19 11:42:22,293 - INFO - Processing Alison_Kirkham_Apple_TV_Europe...
+2025-09-19 11:42:22,492 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:22,492 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:22,492 - ERROR - Failed to convert Alison_Kirkham_Apple_TV_Europe
+2025-09-19 11:42:22,492 - INFO - Processing Al_Jazeera_Balkans_Bosnia...
+2025-09-19 11:42:22,751 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:22,752 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:22,752 - ERROR - Failed to convert Al_Jazeera_Balkans_Bosnia
+2025-09-19 11:42:22,752 - INFO - Processing Al_Ortiz_USA_Broadcasters...
+2025-09-19 11:42:23,170 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:23,171 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:23,171 - ERROR - Failed to convert Al_Ortiz_USA_Broadcasters
+2025-09-19 11:42:23,171 - INFO - Processing Amanda_Stavri_UK...
+2025-09-19 11:42:23,411 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:23,412 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:23,412 - ERROR - Failed to convert Amanda_Stavri_UK
+2025-09-19 11:42:23,680 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:23,681 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:23,683 - INFO - Processing Amy_Entelis_Courtney_Sexton_USA_Broadcasters...
+2025-09-19 11:42:24,078 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:24,078 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:24,078 - ERROR - Failed to convert Amy_Entelis_Courtney_Sexton_USA_Broadcasters
+2025-09-19 11:42:24,078 - INFO - Processing Amy_Flanagan_UK...
+2025-09-19 11:42:24,295 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:24,296 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:24,296 - ERROR - Failed to convert Amy_Flanagan_UK
+2025-09-19 11:42:24,296 - INFO - Processing Anders_Bruus_Denmark...
+2025-09-19 11:42:24,515 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:24,517 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:24,518 - ERROR - Failed to convert Anders_Bruus_Denmark
+2025-09-19 11:42:24,519 - INFO - Processing Anders_Riis-Hansen_Denmark...
+2025-09-19 11:42:24,739 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:24,740 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:24,740 - ERROR - Failed to convert Anders_Riis-Hansen_Denmark
+2025-09-19 11:42:24,741 - INFO - Processing Andreas_Bossard_Switzerland...
+2025-09-19 11:42:24,992 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:24,992 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:24,992 - ERROR - Failed to convert Andreas_Bossard_Switzerland
+2025-09-19 11:42:24,992 - INFO - Processing Andrea_Salerno_Italy...
+2025-09-19 11:42:25,565 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:25,570 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:25,571 - ERROR - Failed to convert Andrea_Salerno_Italy
+2025-09-19 11:42:25,571 - INFO - Processing Anja_Wobken_Germany...
+2025-09-19 11:42:25,803 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:25,804 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:25,804 - ERROR - Failed to convert Anja_Wobken_Germany
+2025-09-19 11:42:25,804 - INFO - Processing Anne-Laure_Pauty_France...
+2025-09-19 11:42:26,043 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:26,043 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:26,044 - ERROR - Failed to convert Anne-Laure_Pauty_France
+2025-09-19 11:42:26,044 - INFO - Processing Anu_V�lba_Estonia...
+2025-09-19 11:42:26,284 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:26,285 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:26,285 - ERROR - Failed to convert Anu_V�lba_Estonia
+2025-09-19 11:42:26,285 - INFO - Processing Ara_Aprikian_France...
+2025-09-19 11:42:26,500 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:26,501 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:26,501 - ERROR - Failed to convert Ara_Aprikian_France
+2025-09-19 11:42:26,501 - INFO - Processing Axel_Arn�_Sweden...
+2025-09-19 11:42:26,758 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:26,758 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:26,758 - ERROR - Failed to convert Axel_Arn�_Sweden
+2025-09-19 11:42:26,758 - INFO - Processing Beejal_Patel_UK...
+2025-09-19 11:42:27,336 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:27,347 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:27,347 - ERROR - Failed to convert Beejal_Patel_UK
+2025-09-19 11:42:27,347 - INFO - Processing Belisa_Balaban_USA_Streamers...
+2025-09-19 11:42:27,587 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:27,587 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:27,588 - ERROR - Failed to convert Belisa_Balaban_USA_Streamers
+2025-09-19 11:42:27,588 - INFO - Processing Ben_Frow_UK...
+2025-09-19 11:42:27,861 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:27,862 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:27,863 - ERROR - Failed to convert Ben_Frow_UK
+2025-09-19 11:42:27,864 - INFO - Processing Bernadette_McDaid_UK...
+2025-09-19 11:42:28,185 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:28,185 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:28,186 - ERROR - Failed to convert Bernadette_McDaid_UK
+2025-09-19 11:42:28,186 - INFO - Processing Bernd_M�tter_Germany...
+2025-09-19 11:42:28,505 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:28,508 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:28,508 - ERROR - Failed to convert Bernd_M�tter_Germany
+2025-09-19 11:42:28,742 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:28,742 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:28,744 - INFO - Processing Boris_Razon_France...
+2025-09-19 11:42:29,008 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:29,009 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:29,009 - ERROR - Failed to convert Boris_Razon_France
+2025-09-19 11:42:29,009 - INFO - Processing Brandon_Riegg_USA_Streamers...
+2025-09-19 11:42:29,238 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:29,239 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:29,239 - ERROR - Failed to convert Brandon_Riegg_USA_Streamers
+2025-09-19 11:42:29,240 - INFO - Processing Carmen_Ferreiro_Spain...
+2025-09-19 11:42:29,452 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:29,453 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:29,453 - ERROR - Failed to convert Carmen_Ferreiro_Spain
+2025-09-19 11:42:29,453 - INFO - Processing Caroline_Una_Henningsen_Denmark...
+2025-09-19 11:42:29,830 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:29,831 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:29,831 - ERROR - Failed to convert Caroline_Una_Henningsen_Denmark
+2025-09-19 11:42:29,831 - INFO - Processing Catherine_Alvaresse_France...
+2025-09-19 11:42:30,390 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:30,393 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:30,393 - ERROR - Failed to convert Catherine_Alvaresse_France
+2025-09-19 11:42:30,393 - INFO - Processing Catherine_Catton_UK...
+2025-09-19 11:42:30,668 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:30,669 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:30,669 - ERROR - Failed to convert Catherine_Catton_UK
+2025-09-19 11:42:30,669 - INFO - Processing CBC_Head_of_Programming_Egypt...
+2025-09-19 11:42:30,827 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:30,827 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:30,827 - ERROR - Failed to convert CBC_Head_of_Programming_Egypt
+2025-09-19 11:42:30,827 - INFO - Processing Charlotte_Reid_UK...
+2025-09-19 11:42:31,123 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:31,123 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:31,123 - ERROR - Failed to convert Charlotte_Reid_UK
+2025-09-19 11:42:31,124 - INFO - Processing Chiara_Cipolletta_Italy...
+2025-09-19 11:42:31,342 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:31,342 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:31,342 - ERROR - Failed to convert Chiara_Cipolletta_Italy
+2025-09-19 11:42:31,343 - INFO - Processing Christian_Asanger_Germany...
+2025-09-19 11:42:32,181 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:32,188 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:32,189 - ERROR - Failed to convert Christian_Asanger_Germany
+2025-09-19 11:42:32,189 - INFO - Processing Christian_Deick_Germany...
+2025-09-19 11:42:32,424 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:42:32,425 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:42:32,425 - ERROR - Failed to convert Christian_Deick_Germany
+2025-09-19 11:42:32,425 - INFO - Processing Christine_Cauquelin_France...
+2025-09-19 11:42:32,637 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:32,638 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:32,638 - ERROR - Failed to convert Christine_Cauquelin_France
+2025-09-19 11:42:32,638 - INFO - Processing Christopher_Mitchell_BBC_World_News...
+2025-09-19 11:42:32,907 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:32,908 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:32,908 - ERROR - Failed to convert Christopher_Mitchell_BBC_World_News
+2025-09-19 11:42:32,908 - INFO - Processing Christoph_Schneider_Germany...
+2025-09-19 11:42:33,194 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:42:33,194 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Your organization must be verified to use the model 'gpt-5-mini'. Please go to: https://platform.openai.com/settings/organization/general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.", 'type': 'invalid_request_error', 'param': 'model', 'code': 'unsupported_value'}}
+2025-09-19 11:42:33,194 - ERROR - Failed to convert Christoph_Schneider_Germany
+2025-09-19 11:42:33,195 - INFO - Processing Clare_Sillery_UK...
+2025-09-19 11:44:12,875 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:44:12,876 - INFO - Starting conversion process...
+2025-09-19 11:44:12,880 - INFO - Found 253 parsed files to process
+2025-09-19 11:44:12,881 - INFO - Already processed: 1 files
+2025-09-19 11:44:12,881 - INFO - Skipping Abdullah_Al_Arif_UAE - already processed
+2025-09-19 11:44:12,882 - INFO - Processing Abigail_Priddle_UK...
+2025-09-19 11:44:13,566 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:13,567 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:13,568 - ERROR - Failed to convert Abigail_Priddle_UK
+2025-09-19 11:44:13,568 - INFO - Processing Adrian_Padmore_UK...
+2025-09-19 11:44:13,823 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:13,824 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:13,825 - ERROR - Failed to convert Adrian_Padmore_UK
+2025-09-19 11:44:13,825 - INFO - Processing Agnieszka_Olejkowska_Poland...
+2025-09-19 11:44:14,296 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:14,297 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:14,297 - ERROR - Failed to convert Agnieszka_Olejkowska_Poland
+2025-09-19 11:44:14,297 - INFO - Processing Agnė_Grigaliūnienė_Lithuania...
+2025-09-19 11:44:14,534 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:14,535 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:14,535 - ERROR - Failed to convert Agnė_Grigaliūnienė_Lithuania
+2025-09-19 11:44:14,535 - INFO - Processing Ahmad_Mahfouz_Al_Jazeera...
+2025-09-19 11:44:14,992 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:14,993 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:14,994 - ERROR - Failed to convert Ahmad_Mahfouz_Al_Jazeera
+2025-09-19 11:44:14,994 - INFO - Processing Aivars_Gobiņš_Latvia...
+2025-09-19 11:44:16,178 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:16,179 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:16,179 - ERROR - Failed to convert Aivars_Gobiņš_Latvia
+2025-09-19 11:44:16,180 - INFO - Processing AJ_Al_Jazeera...
+2025-09-19 11:44:16,694 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:16,695 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:16,695 - ERROR - Failed to convert AJ_Al_Jazeera
+2025-09-19 11:44:16,696 - INFO - Processing AlfaTV_Local_Broadcasters_Finland...
+2025-09-19 11:44:17,129 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:17,130 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:17,130 - ERROR - Failed to convert AlfaTV_Local_Broadcasters_Finland
+2025-09-19 11:44:17,131 - INFO - Processing Alisa_Pomeroy_UK...
+2025-09-19 11:44:17,729 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:17,729 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:17,729 - ERROR - Failed to convert Alisa_Pomeroy_UK
+2025-09-19 11:44:17,730 - INFO - Processing Alison_Kirkham_Apple_TV_Europe...
+2025-09-19 11:44:18,224 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:18,226 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:18,227 - ERROR - Failed to convert Alison_Kirkham_Apple_TV_Europe
+2025-09-19 11:44:18,228 - INFO - Processing Al_Jazeera_Balkans_Bosnia...
+2025-09-19 11:44:18,791 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:18,792 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:18,792 - ERROR - Failed to convert Al_Jazeera_Balkans_Bosnia
+2025-09-19 11:44:18,792 - INFO - Processing Al_Ortiz_USA_Broadcasters...
+2025-09-19 11:44:19,469 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:19,470 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:19,470 - ERROR - Failed to convert Al_Ortiz_USA_Broadcasters
+2025-09-19 11:44:19,470 - INFO - Processing Amanda_Stavri_UK...
+2025-09-19 11:44:19,694 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:19,694 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:19,695 - ERROR - Failed to convert Amanda_Stavri_UK
+2025-09-19 11:44:19,695 - INFO - Processing Amra_Šabić-El-Rayess_Bosnia...
+2025-09-19 11:44:20,314 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:20,315 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:20,315 - ERROR - Failed to convert Amra_Šabić-El-Rayess_Bosnia
+2025-09-19 11:44:20,315 - INFO - Processing Amy_Entelis_Courtney_Sexton_USA_Broadcasters...
+2025-09-19 11:44:20,678 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:20,678 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:20,678 - ERROR - Failed to convert Amy_Entelis_Courtney_Sexton_USA_Broadcasters
+2025-09-19 11:44:20,679 - INFO - Processing Amy_Flanagan_UK...
+2025-09-19 11:44:21,323 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:21,323 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:21,323 - ERROR - Failed to convert Amy_Flanagan_UK
+2025-09-19 11:44:21,324 - INFO - Processing Anders_Bruus_Denmark...
+2025-09-19 11:44:21,735 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:21,736 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:21,736 - ERROR - Failed to convert Anders_Bruus_Denmark
+2025-09-19 11:44:21,736 - INFO - Processing Anders_Riis-Hansen_Denmark...
+2025-09-19 11:44:21,973 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:21,974 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:21,974 - ERROR - Failed to convert Anders_Riis-Hansen_Denmark
+2025-09-19 11:44:21,974 - INFO - Processing Andreas_Bossard_Switzerland...
+2025-09-19 11:44:22,217 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:22,218 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:22,218 - ERROR - Failed to convert Andreas_Bossard_Switzerland
+2025-09-19 11:44:22,218 - INFO - Processing Andrea_Salerno_Italy...
+2025-09-19 11:44:22,659 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:22,660 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:22,660 - ERROR - Failed to convert Andrea_Salerno_Italy
+2025-09-19 11:44:22,660 - INFO - Processing Anja_Wobken_Germany...
+2025-09-19 11:44:23,233 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:23,233 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:23,234 - ERROR - Failed to convert Anja_Wobken_Germany
+2025-09-19 11:44:23,234 - INFO - Processing Anne-Laure_Pauty_France...
+2025-09-19 11:44:23,628 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:23,628 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:23,628 - ERROR - Failed to convert Anne-Laure_Pauty_France
+2025-09-19 11:44:23,629 - INFO - Processing Anu_Välba_Estonia...
+2025-09-19 11:44:24,072 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:24,073 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:24,073 - ERROR - Failed to convert Anu_Välba_Estonia
+2025-09-19 11:44:24,073 - INFO - Processing Ara_Aprikian_France...
+2025-09-19 11:44:24,885 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:24,886 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:24,886 - ERROR - Failed to convert Ara_Aprikian_France
+2025-09-19 11:44:24,886 - INFO - Processing Axel_Arnö_Sweden...
+2025-09-19 11:44:25,087 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:25,088 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:25,088 - ERROR - Failed to convert Axel_Arnö_Sweden
+2025-09-19 11:44:25,088 - INFO - Processing Beejal_Patel_UK...
+2025-09-19 11:44:25,277 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:25,278 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:25,278 - ERROR - Failed to convert Beejal_Patel_UK
+2025-09-19 11:44:25,278 - INFO - Processing Belisa_Balaban_USA_Streamers...
+2025-09-19 11:44:25,910 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:25,910 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:25,910 - ERROR - Failed to convert Belisa_Balaban_USA_Streamers
+2025-09-19 11:44:25,911 - INFO - Processing Ben_Frow_UK...
+2025-09-19 11:44:27,157 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:27,158 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:27,158 - ERROR - Failed to convert Ben_Frow_UK
+2025-09-19 11:44:27,158 - INFO - Processing Bernadette_McDaid_UK...
+2025-09-19 11:44:27,603 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:27,604 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:27,604 - ERROR - Failed to convert Bernadette_McDaid_UK
+2025-09-19 11:44:27,604 - INFO - Processing Bernd_Mütter_Germany...
+2025-09-19 11:44:28,043 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:28,044 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:28,044 - ERROR - Failed to convert Bernd_Mütter_Germany
+2025-09-19 11:44:28,044 - INFO - Processing Boris_Lalić_Bosnia...
+2025-09-19 11:44:28,455 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:28,456 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:28,456 - ERROR - Failed to convert Boris_Lalić_Bosnia
+2025-09-19 11:44:28,456 - INFO - Processing Boris_Razon_France...
+2025-09-19 11:44:29,256 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:29,257 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:29,257 - ERROR - Failed to convert Boris_Razon_France
+2025-09-19 11:44:29,257 - INFO - Processing Brandon_Riegg_USA_Streamers...
+2025-09-19 11:44:29,547 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:29,548 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:29,548 - ERROR - Failed to convert Brandon_Riegg_USA_Streamers
+2025-09-19 11:44:29,548 - INFO - Processing Carmen_Ferreiro_Spain...
+2025-09-19 11:44:30,394 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:30,394 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:30,395 - ERROR - Failed to convert Carmen_Ferreiro_Spain
+2025-09-19 11:44:30,395 - INFO - Processing Caroline_Una_Henningsen_Denmark...
+2025-09-19 11:44:30,910 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:30,911 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:30,911 - ERROR - Failed to convert Caroline_Una_Henningsen_Denmark
+2025-09-19 11:44:30,911 - INFO - Processing Catherine_Alvaresse_France...
+2025-09-19 11:44:31,254 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:31,255 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:31,255 - ERROR - Failed to convert Catherine_Alvaresse_France
+2025-09-19 11:44:31,255 - INFO - Processing Catherine_Catton_UK...
+2025-09-19 11:44:32,136 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:32,137 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:32,137 - ERROR - Failed to convert Catherine_Catton_UK
+2025-09-19 11:44:32,137 - INFO - Processing CBC_Head_of_Programming_Egypt...
+2025-09-19 11:44:32,597 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:32,598 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:32,599 - ERROR - Failed to convert CBC_Head_of_Programming_Egypt
+2025-09-19 11:44:32,599 - INFO - Processing Charlotte_Reid_UK...
+2025-09-19 11:44:33,101 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:33,102 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:33,102 - ERROR - Failed to convert Charlotte_Reid_UK
+2025-09-19 11:44:33,102 - INFO - Processing Chiara_Cipolletta_Italy...
+2025-09-19 11:44:34,457 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:34,458 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:34,458 - ERROR - Failed to convert Chiara_Cipolletta_Italy
+2025-09-19 11:44:34,458 - INFO - Processing Christian_Asanger_Germany...
+2025-09-19 11:44:34,628 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:34,629 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:34,629 - ERROR - Failed to convert Christian_Asanger_Germany
+2025-09-19 11:44:34,629 - INFO - Processing Christian_Deick_Germany...
+2025-09-19 11:44:34,795 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:34,796 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:34,796 - ERROR - Failed to convert Christian_Deick_Germany
+2025-09-19 11:44:34,796 - INFO - Processing Christine_Cauquelin_France...
+2025-09-19 11:44:35,239 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:35,239 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:35,239 - ERROR - Failed to convert Christine_Cauquelin_France
+2025-09-19 11:44:35,240 - INFO - Processing Christopher_Mitchell_BBC_World_News...
+2025-09-19 11:44:35,887 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:35,887 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:35,888 - ERROR - Failed to convert Christopher_Mitchell_BBC_World_News
+2025-09-19 11:44:35,888 - INFO - Processing Christoph_Schneider_Germany...
+2025-09-19 11:44:36,420 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:36,420 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:36,421 - ERROR - Failed to convert Christoph_Schneider_Germany
+2025-09-19 11:44:36,421 - INFO - Processing Clare_Sillery_UK...
+2025-09-19 11:44:37,103 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 401 Unauthorized"
+2025-09-19 11:44:37,104 - ERROR - Error converting commissioner data: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************Cl8A. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-09-19 11:44:37,104 - ERROR - Failed to convert Clare_Sillery_UK
+2025-09-19 11:44:37,104 - INFO - Processing Colm_OCallaghan_Ireland...
+2025-09-19 11:49:24,690 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:49:24,691 - INFO - Starting conversion process...
+2025-09-19 11:49:24,693 - INFO - Found 253 parsed files to process
+2025-09-19 11:49:24,693 - INFO - Already processed: 1 files
+2025-09-19 11:49:24,693 - INFO - Skipping Abdullah_Al_Arif_UAE - already processed
+2025-09-19 11:49:24,693 - INFO - Processing Abigail_Priddle_UK...
+2025-09-19 11:49:42,573 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:49:42,733 - INFO - Successfully converted and saved Abigail_Priddle_UK
+2025-09-19 11:49:42,733 - INFO - Processing Adrian_Padmore_UK...
+2025-09-19 11:50:01,464 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:50:01,611 - INFO - Successfully converted and saved Adrian_Padmore_UK
+2025-09-19 11:50:01,611 - INFO - Processing Agnieszka_Olejkowska_Poland...
+2025-09-19 11:50:21,556 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:50:21,556 - INFO - Starting conversion process...
+2025-09-19 11:50:21,557 - INFO - Found 253 parsed files to process
+2025-09-19 11:50:21,558 - INFO - Already processed: 3 files
+2025-09-19 11:50:21,558 - INFO - Skipping Abdullah_Al_Arif_UAE - already processed
+2025-09-19 11:50:21,558 - INFO - Skipping Abigail_Priddle_UK - already processed
+2025-09-19 11:50:21,558 - INFO - Skipping Adrian_Padmore_UK - already processed
+2025-09-19 11:50:21,558 - INFO - Processing Agnieszka_Olejkowska_Poland...
+2025-09-19 11:50:36,990 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:50:37,136 - ERROR - Error converting commissioner data: type object 'datetime.datetime' has no attribute 'UTC'
+2025-09-19 11:50:37,136 - ERROR - Failed to convert Agnieszka_Olejkowska_Poland
+2025-09-19 11:50:37,136 - INFO - Processing Agnė_Grigaliūnienė_Lithuania...
+2025-09-19 11:50:51,780 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:50:51,907 - ERROR - Error converting commissioner data: type object 'datetime.datetime' has no attribute 'UTC'
+2025-09-19 11:50:51,907 - ERROR - Failed to convert Agnė_Grigaliūnienė_Lithuania
+2025-09-19 11:50:51,907 - INFO - Processing Ahmad_Mahfouz_Al_Jazeera...
+2025-09-19 11:51:04,178 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:51:04,303 - ERROR - Error converting commissioner data: type object 'datetime.datetime' has no attribute 'UTC'
+2025-09-19 11:51:04,303 - ERROR - Failed to convert Ahmad_Mahfouz_Al_Jazeera
+2025-09-19 11:51:04,304 - INFO - Processing Aivars_Gobiņš_Latvia...
+2025-09-19 11:51:08,923 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:51:08,924 - INFO - Starting conversion process...
+2025-09-19 11:51:08,925 - INFO - Found 253 parsed files to process
+2025-09-19 11:51:08,925 - INFO - Already processed: 0 files
+2025-09-19 11:51:08,925 - INFO - Processing Abdullah_Al_Arif_UAE...
+2025-09-19 11:51:19,024 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:51:19,144 - ERROR - Error converting commissioner data: type object 'datetime.datetime' has no attribute 'UTC'
+2025-09-19 11:51:19,144 - ERROR - Failed to convert Aivars_Gobiņš_Latvia
+2025-09-19 11:51:19,144 - INFO - Processing AJ_Al_Jazeera...
+2025-09-19 11:51:31,360 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:51:31,518 - INFO - Successfully converted and saved Abdullah_Al_Arif_UAE
+2025-09-19 11:51:31,519 - INFO - Processing Abigail_Priddle_UK...
+2025-09-19 11:51:52,063 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:51:52,210 - INFO - Successfully converted and saved Abigail_Priddle_UK
+2025-09-19 11:51:52,210 - INFO - Processing Adrian_Padmore_UK...
+2025-09-19 11:52:09,166 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:52:09,303 - INFO - Successfully converted and saved Adrian_Padmore_UK
+2025-09-19 11:52:09,304 - INFO - Processing Agnieszka_Olejkowska_Poland...
+2025-09-19 11:52:24,249 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:52:24,372 - ERROR - Error converting commissioner data: type object 'datetime.datetime' has no attribute 'UTC'
+2025-09-19 11:52:24,373 - ERROR - Failed to convert AJ_Al_Jazeera
+2025-09-19 11:52:24,373 - INFO - Processing AlfaTV_Local_Broadcasters_Finland...
+2025-09-19 11:52:33,146 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:52:33,280 - INFO - Successfully converted and saved Agnieszka_Olejkowska_Poland
+2025-09-19 11:52:33,280 - INFO - Processing Agnė_Grigaliūnienė_Lithuania...
+2025-09-19 11:52:43,655 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:52:43,780 - ERROR - Error converting commissioner data: type object 'datetime.datetime' has no attribute 'UTC'
+2025-09-19 11:52:43,780 - ERROR - Failed to convert AlfaTV_Local_Broadcasters_Finland
+2025-09-19 11:52:43,781 - INFO - Processing Alisa_Pomeroy_UK...
+2025-09-19 11:52:47,210 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:52:47,339 - INFO - Successfully converted and saved Agnė_Grigaliūnienė_Lithuania
+2025-09-19 11:52:47,339 - INFO - Processing Ahmad_Mahfouz_Al_Jazeera...
+2025-09-19 11:53:03,300 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:53:03,416 - ERROR - Error converting commissioner data: type object 'datetime.datetime' has no attribute 'UTC'
+2025-09-19 11:53:03,416 - ERROR - Failed to convert Alisa_Pomeroy_UK
+2025-09-19 11:53:03,417 - INFO - Processing Alison_Kirkham_Apple_TV_Europe...
+2025-09-19 11:53:04,751 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:53:04,893 - INFO - Successfully converted and saved Ahmad_Mahfouz_Al_Jazeera
+2025-09-19 11:53:04,893 - INFO - Processing Aivars_Gobiņš_Latvia...
+2025-09-19 11:55:06,898 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:55:06,899 - INFO - Starting conversion process...
+2025-09-19 11:55:06,900 - INFO - Found 253 parsed files to process
+2025-09-19 11:55:06,900 - INFO - Already processed: 6 files
+2025-09-19 11:55:06,901 - INFO - Skipping Abdullah_Al_Arif_UAE - already processed
+2025-09-19 11:55:06,901 - INFO - Skipping Abigail_Priddle_UK - already processed
+2025-09-19 11:55:06,901 - INFO - Skipping Adrian_Padmore_UK - already processed
+2025-09-19 11:55:06,901 - INFO - Skipping Agnieszka_Olejkowska_Poland - already processed
+2025-09-19 11:55:06,901 - INFO - Skipping Agnė_Grigaliūnienė_Lithuania - already processed
+2025-09-19 11:55:06,902 - INFO - Skipping Ahmad_Mahfouz_Al_Jazeera - already processed
+2025-09-19 11:55:06,902 - INFO - Processing Aivars_Gobiņš_Latvia...
+2025-09-19 11:55:20,057 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:55:20,215 - INFO - Successfully converted and saved Aivars_Gobiņš_Latvia
+2025-09-19 11:55:20,215 - INFO - Processing AJ_Al_Jazeera...
+2025-09-19 11:55:34,465 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:55:34,590 - INFO - Successfully converted and saved AJ_Al_Jazeera
+2025-09-19 11:55:34,591 - INFO - Processing AlfaTV_Local_Broadcasters_Finland...
+2025-09-19 11:55:47,320 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:55:47,454 - INFO - Successfully converted and saved AlfaTV_Local_Broadcasters_Finland
+2025-09-19 11:55:47,454 - INFO - Processing Alisa_Pomeroy_UK...
+2025-09-19 11:56:22,752 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:56:22,886 - INFO - Successfully converted and saved Alisa_Pomeroy_UK
+2025-09-19 11:56:22,887 - INFO - Processing Alison_Kirkham_Apple_TV_Europe...
+2025-09-19 11:56:39,293 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:56:39,436 - INFO - Successfully converted and saved Alison_Kirkham_Apple_TV_Europe
+2025-09-19 11:56:39,436 - INFO - Processing Al_Jazeera_Balkans_Bosnia...
+2025-09-19 11:56:56,376 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:56:56,392 - INFO - Successfully converted and saved Al_Jazeera_Balkans_Bosnia
+2025-09-19 11:56:56,392 - INFO - Processing Al_Ortiz_USA_Broadcasters...
+2025-09-19 11:57:04,070 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:57:04,195 - INFO - Successfully converted and saved Al_Ortiz_USA_Broadcasters
+2025-09-19 11:57:04,195 - INFO - Processing Amanda_Stavri_UK...
+2025-09-19 11:57:24,528 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:57:24,541 - INFO - Successfully converted and saved Amanda_Stavri_UK
+2025-09-19 11:57:24,542 - INFO - Processing Amra_Šabić-El-Rayess_Bosnia...
+2025-09-19 11:57:39,999 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:57:40,132 - INFO - Successfully converted and saved Amra_Šabić-El-Rayess_Bosnia
+2025-09-19 11:57:40,133 - INFO - Processing Amy_Entelis_Courtney_Sexton_USA_Broadcasters...
+2025-09-19 11:57:54,482 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:57:54,638 - INFO - Successfully converted and saved Amy_Entelis_Courtney_Sexton_USA_Broadcasters
+2025-09-19 11:57:54,639 - INFO - Processing Amy_Flanagan_UK...
+2025-09-19 11:58:43,849 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:58:43,967 - INFO - Successfully converted and saved Amy_Flanagan_UK
+2025-09-19 11:58:43,968 - INFO - Processing Anders_Bruus_Denmark...
+2025-09-19 11:59:01,436 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:59:01,570 - INFO - Successfully converted and saved Anders_Bruus_Denmark
+2025-09-19 11:59:01,570 - INFO - Processing Anders_Riis-Hansen_Denmark...
+2025-09-19 11:59:16,312 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:59:16,470 - INFO - Successfully converted and saved Anders_Riis-Hansen_Denmark
+2025-09-19 11:59:16,471 - INFO - Processing Andreas_Bossard_Switzerland...
+2025-09-19 11:59:35,630 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:59:35,788 - INFO - Successfully converted and saved Andreas_Bossard_Switzerland
+2025-09-19 11:59:35,788 - INFO - Processing Andrea_Salerno_Italy...
+2025-09-19 11:59:43,829 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:59:43,976 - INFO - Successfully converted and saved Andrea_Salerno_Italy
+2025-09-19 11:59:43,976 - INFO - Processing Anja_Wobken_Germany...
+2025-09-19 11:59:59,534 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:59:59,659 - INFO - Successfully converted and saved Anja_Wobken_Germany
+2025-09-19 11:59:59,659 - INFO - Processing Anne-Laure_Pauty_France...
+2025-09-19 12:00:12,018 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:00:12,149 - INFO - Successfully converted and saved Anne-Laure_Pauty_France
+2025-09-19 12:00:12,149 - INFO - Processing Anu_Välba_Estonia...
+2025-09-19 12:00:30,367 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:00:30,498 - INFO - Successfully converted and saved Anu_Välba_Estonia
+2025-09-19 12:00:30,499 - INFO - Processing Ara_Aprikian_France...
+2025-09-19 12:00:44,933 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:00:45,092 - INFO - Successfully converted and saved Ara_Aprikian_France
+2025-09-19 12:00:45,092 - INFO - Processing Axel_Arnö_Sweden...
+2025-09-19 12:00:58,201 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:00:58,330 - INFO - Successfully converted and saved Axel_Arnö_Sweden
+2025-09-19 12:00:58,330 - INFO - Processing Beejal_Patel_UK...
+2025-09-19 12:01:10,669 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:01:10,804 - INFO - Successfully converted and saved Beejal_Patel_UK
+2025-09-19 12:01:10,804 - INFO - Processing Belisa_Balaban_USA_Streamers...
+2025-09-19 12:01:23,505 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:01:23,628 - INFO - Successfully converted and saved Belisa_Balaban_USA_Streamers
+2025-09-19 12:01:23,628 - INFO - Processing Ben_Frow_UK...
+2025-09-19 12:01:40,254 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:01:40,393 - INFO - Successfully converted and saved Ben_Frow_UK
+2025-09-19 12:01:40,393 - INFO - Processing Bernadette_McDaid_UK...
+2025-09-19 12:01:57,879 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:01:58,031 - INFO - Successfully converted and saved Bernadette_McDaid_UK
+2025-09-19 12:01:58,031 - INFO - Processing Bernd_Mütter_Germany...
+2025-09-19 12:02:14,782 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:02:14,937 - INFO - Successfully converted and saved Bernd_Mütter_Germany
+2025-09-19 12:02:14,937 - INFO - Processing Boris_Lalić_Bosnia...
+2025-09-19 12:02:28,172 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:02:28,216 - INFO - Successfully converted and saved Boris_Lalić_Bosnia
+2025-09-19 12:02:28,217 - INFO - Processing Boris_Razon_France...
+2025-09-19 12:02:51,347 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:02:51,486 - INFO - Successfully converted and saved Boris_Razon_France
+2025-09-19 12:02:51,486 - INFO - Processing Brandon_Riegg_USA_Streamers...
+2025-09-19 12:03:07,291 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:03:07,426 - INFO - Successfully converted and saved Brandon_Riegg_USA_Streamers
+2025-09-19 12:03:07,426 - INFO - Processing Carmen_Ferreiro_Spain...
+2025-09-19 12:03:25,716 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:03:25,867 - INFO - Successfully converted and saved Carmen_Ferreiro_Spain
+2025-09-19 12:03:25,867 - INFO - Processing Caroline_Una_Henningsen_Denmark...
+2025-09-19 12:03:37,592 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:03:37,783 - INFO - Successfully converted and saved Caroline_Una_Henningsen_Denmark
+2025-09-19 12:03:37,783 - INFO - Processing Catherine_Alvaresse_France...
+2025-09-19 12:03:54,139 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:03:54,275 - INFO - Successfully converted and saved Catherine_Alvaresse_France
+2025-09-19 12:03:54,275 - INFO - Processing Catherine_Catton_UK...
+2025-09-19 12:04:10,533 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:04:10,659 - INFO - Successfully converted and saved Catherine_Catton_UK
+2025-09-19 12:04:10,659 - INFO - Processing CBC_Head_of_Programming_Egypt...
+2025-09-19 12:04:25,367 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:04:25,483 - INFO - Successfully converted and saved CBC_Head_of_Programming_Egypt
+2025-09-19 12:04:25,483 - INFO - Processing Charlotte_Reid_UK...
+2025-09-19 12:04:36,197 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:04:36,323 - INFO - Successfully converted and saved Charlotte_Reid_UK
+2025-09-19 12:04:36,323 - INFO - Processing Chiara_Cipolletta_Italy...
+2025-09-19 12:04:51,237 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:04:51,374 - INFO - Successfully converted and saved Chiara_Cipolletta_Italy
+2025-09-19 12:04:51,375 - INFO - Processing Christian_Asanger_Germany...
+2025-09-19 12:05:05,026 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:05:05,149 - INFO - Successfully converted and saved Christian_Asanger_Germany
+2025-09-19 12:05:05,149 - INFO - Processing Christian_Deick_Germany...
+2025-09-19 12:05:12,201 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:05:12,335 - INFO - Successfully converted and saved Christian_Deick_Germany
+2025-09-19 12:05:12,335 - INFO - Processing Christine_Cauquelin_France...
+2025-09-19 12:05:31,424 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:05:31,563 - INFO - Successfully converted and saved Christine_Cauquelin_France
+2025-09-19 12:05:31,564 - INFO - Processing Christopher_Mitchell_BBC_World_News...
+2025-09-19 12:05:41,271 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:05:41,413 - INFO - Successfully converted and saved Christopher_Mitchell_BBC_World_News
+2025-09-19 12:05:41,413 - INFO - Processing Christoph_Schneider_Germany...
+2025-09-19 12:05:57,253 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:05:57,396 - INFO - Successfully converted and saved Christoph_Schneider_Germany
+2025-09-19 12:05:57,397 - INFO - Processing Clare_Sillery_UK...
+2025-09-19 12:06:15,396 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:06:15,519 - INFO - Successfully converted and saved Clare_Sillery_UK
+2025-09-19 12:06:15,519 - INFO - Processing Colm_OCallaghan_Ireland...
+2025-09-19 12:14:02,413 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 12:14:02,414 - INFO - Converting single file: AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727.md
+2025-09-19 12:14:02,414 - ERROR - File not found: AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727.md
+2025-09-19 12:14:02,414 - INFO - Conversion process completed
+2025-09-19 12:14:13,867 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 12:14:13,868 - INFO - Converting single file: Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf/AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727.md
+2025-09-19 12:14:13,869 - INFO - Converting single file: AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727
+2025-09-19 12:14:13,869 - ERROR - Error processing AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727: 'notion\\Commissioning Assistant Profiles 2724b6c9c50780d6aa98f69ccc91f0b3\\Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf\\AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727.md' is not in the subpath of 'C:\\Users\\iamjo\\Desktop\\commissioner-data'
+2025-09-19 12:14:13,870 - INFO - Conversion process completed
+2025-09-19 12:14:31,715 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 12:14:31,716 - INFO - Converting single file: Al Jazeera 2724b6c9c5078026b2b5e871da72fbbf/AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727.md
+2025-09-19 12:14:31,717 - INFO - Converting single file: AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727
+2025-09-19 12:14:46,919 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:14:47,058 - INFO - Successfully converted and saved AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727
+2025-09-19 12:14:47,058 - INFO - Conversion process completed
+2025-09-19 12:14:59,496 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 12:14:59,497 - INFO - Converting single file: abdullah_al_arif_uae_full_2724b6c9c50781b4a2b8e5d9b3aee3f6.json
+2025-09-19 12:14:59,497 - ERROR - File not found: abdullah_al_arif_uae_full_2724b6c9c50781b4a2b8e5d9b3aee3f6.json
+2025-09-19 12:14:59,497 - INFO - Conversion process completed
+2025-09-19 12:15:22,037 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 12:15:22,038 - INFO - Starting conversion process...
+2025-09-19 12:15:22,044 - INFO - Found 267 markdown files to process
+2025-09-19 12:15:22,044 - INFO - Already processed: 0 files
+2025-09-19 12:15:22,044 - INFO - Processing AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727...
+2025-09-19 12:15:32,625 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:15:32,764 - INFO - Successfully converted and saved AJD_Ahmad_Mahfouz_FULL 2724b6c9c5078198ab63fc5606caf727
+2025-09-19 12:15:32,765 - INFO - Processing AJE_Diarmuid_Jeffreys_FULL 2724b6c9c50781589077fd82745a8ee6...
+2025-09-19 12:15:44,019 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:15:44,117 - INFO - Successfully converted and saved AJE_Diarmuid_Jeffreys_FULL 2724b6c9c50781589077fd82745a8ee6
+2025-09-19 12:15:44,117 - INFO - Processing AJE_Felicity_Arbuthnot_FULL 2724b6c9c507817fa447f89420f9946a...
+2025-09-19 12:15:58,232 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:15:58,359 - INFO - Successfully converted and saved AJE_Felicity_Arbuthnot_FULL 2724b6c9c507817fa447f89420f9946a
+2025-09-19 12:15:58,359 - INFO - Processing AJplus_Commissioner_FULL 2724b6c9c50781b28246d21e27aa315c...
+2025-09-19 12:16:17,683 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 12:16:17,783 - INFO - Successfully converted and saved AJplus_Commissioner_FULL 2724b6c9c50781b28246d21e27aa315c
+2025-09-19 12:16:17,783 - INFO - Processing Amazon_Fozia_Khan_FULL 2724b6c9c507818b8a1dcf8bfa4a88b0...

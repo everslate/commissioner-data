@@ -15,3 +15,12 @@
 2025-09-19 11:33:53,762 - ERROR - Failed to convert Abdullah_Al_Arif_UAE
 2025-09-19 11:34:10,335 - INFO - Successfully loaded commissioning profiles data schema
 2025-09-19 11:34:10,336 - INFO - Converting single file: Abdullah_Al_Arif_UAE
+2025-09-19 11:34:57,649 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:34:57,745 - ERROR - Error converting commissioner data: 'ResponseReasoningItem' object has no attribute 'content'
+2025-09-19 11:34:57,745 - ERROR - Failed to convert Abdullah_Al_Arif_UAE
+2025-09-19 11:35:13,953 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:35:13,954 - INFO - Converting single file: Abdullah_Al_Arif_UAE
+2025-09-19 11:35:57,935 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-09-19 11:35:58,035 - ERROR - Schema validation failed: 'Original data preserved from source; sanitized fields included for platform, commissioner_type, themes, and audience segments.' is not of type 'object'
+2025-09-19 11:35:58,036 - ERROR - Failed at path: additional_info
+2025-09-19 11:35:58,036 - ERROR - Validation failed for Abdullah_Al_Arif_UAE

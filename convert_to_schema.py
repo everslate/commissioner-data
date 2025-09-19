@@ -148,12 +148,15 @@ Ensure all required fields are populated and all enum values match exactly."""
             
             # Check if the response was refused
             if response.output and len(response.output) > 0:
-                content = response.output[0].content[0]
-                if hasattr(content, 'type') and content.type == "refusal":
-                    logger.error(f"API refused to process: {content.refusal}")
-                    return None
+                # Handle different response structures
+                output_item = response.output[0]
+                if hasattr(output_item, 'content') and output_item.content:
+                    content = output_item.content[0]
+                    if hasattr(content, 'type') and content.type == "refusal":
+                        logger.error(f"API refused to process: {content.refusal}")
+                        return None
             
-            # Parse the response
+            # Parse the response - use output_text directly
             converted_data = json.loads(response.output_text)
             
             # Add timestamps

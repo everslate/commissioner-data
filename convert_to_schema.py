@@ -5,20 +5,25 @@ import argparse
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, Any, Optional
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
 from openai import OpenAI
 import jsonschema
 from jsonschema import validate
 
-# Configure logging
+# Configure logging with thread-safe formatting
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
+    format='%(asctime)s - %(threadName)s - %(levelname)s - %(message)s',
     handlers=[
         logging.FileHandler('conversion.log', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
 logger = logging.getLogger(__name__)
+
+# Thread-local storage for thread-safe logging
+thread_local = threading.local()
 
 class CommissionerConverter:
     def __init__(self, api_key: str, input_mode: str = "markdown"):
@@ -260,9 +265,69 @@ Ensure all required fields are populated and all enum values match exactly."""
             logger.error(f"Error converting commissioner data: {e}")
             return None
     
-    def convert_all_commissioners(self, force_reprocess: bool = False) -> Dict[str, str]:
-        """Convert all commissioners based on the selected input mode."""
+    def _process_single_file_worker(self, file_path: Path, processed_files: set) -> Dict[str, Any]:
+        """Worker function to process a single file - designed for concurrent execution."""
+        # Generate commissioner ID from file path
+        commissioner_id = file_path.stem
+        
+        # Skip if already processed
+        if commissioner_id in processed_files:
+            logger.info(f"Skipping {commissioner_id} - already processed")
+            return {"status": "skipped", "id": commissioner_id}
+        
+        logger.info(f"Processing {commissioner_id}...")
+        
+        try:
+            if self.input_mode == "markdown":
+                # Load markdown content
+                input_data = self._load_markdown_file(file_path)
+                if input_data is None:
+                    logger.error(f"Failed to load markdown file {commissioner_id}")
+                    return {"status": "failed", "id": commissioner_id, "error": "Failed to load markdown file"}
+                
+                # Convert using OpenAI with source file path
+                source_file = str(file_path).replace(str(Path.cwd()) + os.sep, "")
+                converted_data = self._convert_single_commissioner(input_data, source_file)
+            else:
+                # Load parsed JSON data (original functionality)
+                with open(file_path, "r", encoding="utf-8") as f:
+                    input_data = json.load(f)
+                
+                # Convert using OpenAI
+                converted_data = self._convert_single_commissioner(input_data)
+            
+            if converted_data is None:
+                logger.error(f"Failed to convert {commissioner_id}")
+                return {"status": "failed", "id": commissioner_id, "error": "Conversion failed"}
+            
+            # Validate converted data using the structured schema
+            if not self._validate_converted_data_structured(converted_data):
+                logger.error(f"Validation failed for {commissioner_id}")
+                return {"status": "failed", "id": commissioner_id, "error": "Validation failed"}
+            
+            # Save converted data
+            output_path = self.profiles_dir / f"{commissioner_id}.json"
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(converted_data, f, indent=2, ensure_ascii=False)
+            
+            logger.info(f"Successfully converted and saved {commissioner_id}")
+            return {"status": "success", "id": commissioner_id}
+            
+        except Exception as e:
+            logger.error(f"Error processing {commissioner_id}: {e}")
+            return {"status": "failed", "id": commissioner_id, "error": str(e)}
+
+    def convert_all_commissioners(self, force_reprocess: bool = False, concurrency: int = 1) -> Dict[str, str]:
+        """Convert all commissioners based on the selected input mode with optional concurrent processing.
+        
+        Args:
+            force_reprocess: Whether to reprocess already converted files
+            concurrency: Number of files to process concurrently (1-5)
+        """
         results = {"success": [], "failed": [], "skipped": []}
+        
+        # Validate concurrency parameter
+        concurrency = max(1, min(5, concurrency))
         
         # Get already processed files
         processed_files = set() if force_reprocess else self._get_processed_files()
@@ -283,66 +348,32 @@ Ensure all required fields are populated and all enum values match exactly."""
             logger.info(f"Found {len(input_files)} parsed files to process")
         
         logger.info(f"Already processed: {len(processed_files)} files")
+        logger.info(f"Using concurrency level: {concurrency}")
         
-        for file_path in input_files:
-            # Generate commissioner ID from file path
-            if self.input_mode == "markdown":
-                # For markdown files, use the filename without extension as ID
-                commissioner_id = file_path.stem
-            else:
-                # For JSON files, use existing logic
-                commissioner_id = file_path.stem
-            
-            # Skip if already processed
-            if commissioner_id in processed_files:
-                logger.info(f"Skipping {commissioner_id} - already processed")
-                results["skipped"].append(commissioner_id)
-                continue
-            
-            logger.info(f"Processing {commissioner_id}...")
-            
-            try:
-                if self.input_mode == "markdown":
-                    # Load markdown content
-                    input_data = self._load_markdown_file(file_path)
-                    if input_data is None:
-                        logger.error(f"Failed to load markdown file {commissioner_id}")
+        if concurrency == 1:
+            # Sequential processing (original behavior)
+            for file_path in input_files:
+                result = self._process_single_file_worker(file_path, processed_files)
+                results[result["status"]].append(result["id"])
+        else:
+            # Concurrent processing
+            with ThreadPoolExecutor(max_workers=concurrency) as executor:
+                # Submit all tasks
+                future_to_file = {
+                    executor.submit(self._process_single_file_worker, file_path, processed_files): file_path
+                    for file_path in input_files
+                }
+                
+                # Process completed tasks
+                for future in as_completed(future_to_file):
+                    file_path = future_to_file[future]
+                    try:
+                        result = future.result()
+                        results[result["status"]].append(result["id"])
+                    except Exception as e:
+                        commissioner_id = file_path.stem
+                        logger.error(f"Unexpected error processing {commissioner_id}: {e}")
                         results["failed"].append(commissioner_id)
-                        continue
-                    
-                    # Convert using OpenAI with source file path
-                    source_file = str(file_path).replace(str(Path.cwd()) + os.sep, "")
-                    converted_data = self._convert_single_commissioner(input_data, source_file)
-                else:
-                    # Load parsed JSON data (original functionality)
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        input_data = json.load(f)
-                    
-                    # Convert using OpenAI
-                    converted_data = self._convert_single_commissioner(input_data)
-                
-                if converted_data is None:
-                    logger.error(f"Failed to convert {commissioner_id}")
-                    results["failed"].append(commissioner_id)
-                    continue
-                
-                # Validate converted data using the structured schema
-                if not self._validate_converted_data_structured(converted_data):
-                    logger.error(f"Validation failed for {commissioner_id}")
-                    results["failed"].append(commissioner_id)
-                    continue
-                
-                # Save converted data
-                output_path = self.profiles_dir / f"{commissioner_id}.json"
-                with open(output_path, "w", encoding="utf-8") as f:
-                    json.dump(converted_data, f, indent=2, ensure_ascii=False)
-                
-                logger.info(f"Successfully converted and saved {commissioner_id}")
-                results["success"].append(commissioner_id)
-                
-            except Exception as e:
-                logger.error(f"Error processing {commissioner_id}: {e}")
-                results["failed"].append(commissioner_id)
         
         return results
     
@@ -415,11 +446,22 @@ def main():
         type=str,
         help="Convert only a single file (specify filename)"
     )
+    parser.add_argument(
+        "--concurrency",
+        type=int,
+        default=1,
+        help="Number of files to process concurrently (1-5, default: 1)"
+    )
     
     args = parser.parse_args()
     
     # Hardcoded API key
     api_key = "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"
+    
+    # Validate concurrency parameter
+    if args.concurrency < 1 or args.concurrency > 5:
+        print("❌ Error: concurrency must be between 1 and 5")
+        return
     
     # Initialize converter with selected input mode
     converter = CommissionerConverter(api_key, input_mode=args.input_mode)
@@ -429,6 +471,9 @@ def main():
         print("Processing original .md files from notion folder structure")
     else:
         print("Processing pre-parsed JSON files from parsed folder")
+    
+    if args.concurrency > 1:
+        print(f"Using concurrent processing with {args.concurrency} workers")
     
     if args.single_file:
         # Convert single file
@@ -441,7 +486,10 @@ def main():
     else:
         # Convert all commissioners
         logger.info("Starting conversion process...")
-        results = converter.convert_all_commissioners(force_reprocess=args.force_reprocess)
+        results = converter.convert_all_commissioners(
+            force_reprocess=args.force_reprocess, 
+            concurrency=args.concurrency
+        )
         
         # Print summary
         print("\n" + "="*50)

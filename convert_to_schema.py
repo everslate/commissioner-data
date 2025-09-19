@@ -33,6 +33,9 @@ class CommissionerConverter:
         # Extract just the schema part for validation
         self.validation_schema = self.schema["components"]["schemas"]["CommissioningProfile"]
         
+        # Prepare schema for structured outputs (ensure additionalProperties: false)
+        self.structured_schema = self._prepare_structured_schema(self.validation_schema)
+        
     def _load_schema(self) -> Dict[str, Any]:
         """Load the commissioning profiles data schema."""
         try:
@@ -43,6 +46,36 @@ class CommissionerConverter:
         except Exception as e:
             logger.error(f"Failed to load schema: {e}")
             raise
+    
+    def _prepare_structured_schema(self, schema: Dict[str, Any]) -> Dict[str, Any]:
+        """Prepare schema for OpenAI structured outputs by ensuring additionalProperties: false and all properties are required."""
+        import copy
+        structured_schema = copy.deepcopy(schema)
+        
+        def prepare_for_structured_output(obj, path=""):
+            if isinstance(obj, dict):
+                if obj.get("type") == "object":
+                    # Handle the special case of additional_info which allows arbitrary properties
+                    if "additional_info" in path:
+                        # Convert to a simple string field for structured outputs
+                        obj["type"] = "string"
+                        obj.pop("additionalProperties", None)
+                        obj.pop("properties", None)
+                    else:
+                        obj["additionalProperties"] = False
+                        # For structured outputs, all properties must be required
+                        if "properties" in obj:
+                            obj["required"] = list(obj["properties"].keys())
+                
+                for key, value in obj.items():
+                    new_path = f"{path}.{key}" if path else key
+                    prepare_for_structured_output(value, new_path)
+            elif isinstance(obj, list):
+                for item in obj:
+                    prepare_for_structured_output(item, path)
+        
+        prepare_for_structured_output(structured_schema)
+        return structured_schema
     
     def _get_processed_files(self) -> set:
         """Get list of already processed commissioner files."""
@@ -91,7 +124,7 @@ Ensure all required fields are populated and all enum values match exactly."""
             
             # Make the API call with structured output
             response = self.client.responses.create(
-                model="gpt-4o-2024-08-06",  # Use a model that supports structured outputs
+                model="gpt-5-nano",  # Use gpt-5-nano as specified
                 input=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}
@@ -100,7 +133,7 @@ Ensure all required fields are populated and all enum values match exactly."""
                     "format": {
                         "type": "json_schema",
                         "name": "commissioning_profile",
-                        "schema": self.validation_schema,
+                        "schema": self.structured_schema,
                         "strict": True
                     }
                 }

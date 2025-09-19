@@ -1,0 +1,15 @@
+2025-09-19 11:32:57,614 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:32:57,614 - INFO - Converting single file: Abdullah_Al_Arif_UAE
+2025-09-19 11:32:59,118 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:32:59,120 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Invalid schema for response_format 'commissioning_profile': In context=(), 'additionalProperties' is required to be supplied and to be false.", 'type': 'invalid_request_error', 'param': 'text.format.schema', 'code': 'invalid_json_schema'}}
+2025-09-19 11:32:59,121 - ERROR - Failed to convert Abdullah_Al_Arif_UAE
+2025-09-19 11:33:30,217 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:33:30,218 - INFO - Converting single file: Abdullah_Al_Arif_UAE
+2025-09-19 11:33:31,302 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:33:31,304 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Invalid schema for response_format 'commissioning_profile': In context=(), 'required' is required to be supplied and to be an array including every key in properties. Missing 'platform_type'.", 'type': 'invalid_request_error', 'param': 'text.format.schema', 'code': 'invalid_json_schema'}}
+2025-09-19 11:33:31,304 - ERROR - Failed to convert Abdullah_Al_Arif_UAE
+2025-09-19 11:33:52,776 - INFO - Successfully loaded commissioning profiles data schema
+2025-09-19 11:33:52,777 - INFO - Converting single file: Abdullah_Al_Arif_UAE
+2025-09-19 11:33:53,759 - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 400 Bad Request"
+2025-09-19 11:33:53,762 - ERROR - Error converting commissioner data: Error code: 400 - {'error': {'message': "Invalid schema for response_format 'commissioning_profile': In context=(), 'required' is required to be supplied and to be an array including every key in properties. Extra required key 'additional_info' supplied.", 'type': 'invalid_request_error', 'param': 'text.format.schema', 'code': 'invalid_json_schema'}}
+2025-09-19 11:33:53,762 - ERROR - Failed to convert Abdullah_Al_Arif_UAE
